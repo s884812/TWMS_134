@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="Pet.img">
+<imgdir name="5000000">
+<string name="name" value="褐色小貓"/>
+<string name="desc" value="個性文靜，食量不多。但是比較不聽主人的話；會幫忙主人撿起掉在周圍的楓幣。"/>
+<string name="descD" value="原本是可愛的小貓，一旦生命力枯竭就會變成娃娃。需要用特殊的魔法才能賦予它新的生命。"/>
+</imgdir>
+<imgdir name="5000001">
+<string name="name" value="褐色小狗"/>
+<string name="desc" value="個性開朗，好動，容易餓。但很聽從主人的命令；會幫忙主人撿起掉在周圍的楓幣。"/>
+<string name="descD" value="原本是可愛的小狗，一旦生命力枯竭就會變成娃娃。需要用特殊的魔法才能賦予它新的生命。"/>
+</imgdir>
+<imgdir name="5000002">
+<string name="name" value="粉紅兔子"/>
+<string name="desc" value="個性溫柔，食量小。頭腦聰明，比較聽話，但卻很固執；會幫忙主人撿起掉在周圍的楓幣。"/>
+<string name="descD" value="原本是可愛的小兔子，一旦生命力枯竭就會變成娃娃。需要用特殊的魔法才能賦予它新的生命。"/>
+</imgdir>
+<imgdir name="5000003">
+<string name="name" value="小魔龍"/>
+<string name="desc" value="個性活潑、好動，容易餓。但是很機靈；會幫忙主人撿起掉在周圍的楓幣。"/>
+<string name="descD" value="原本是可愛的小怪貓，一旦生命力枯竭就會變成娃娃。需要用特殊的魔法才能賦予它新的生命。"/>
+</imgdir>
+<imgdir name="5000004">
+<string name="name" value="黑色小貓"/>
+<string name="desc" value="個性文靜，食量不多。但是比較不聽主人的話；會幫忙主人撿起掉在周圍的楓幣。"/>
+<string name="descD" value="原本是可愛的小貓，一旦生命力枯竭就會變成娃娃。需要用特殊的魔法才能賦予它新的生命。"/>
+</imgdir>
+<imgdir name="5000005">
+<string name="name" value="白色兔子"/>
+<string name="desc" value="個性溫柔，食量小。頭腦聰明，比較聽話，但卻很固執；會幫忙主人撿起掉在周圍的楓幣。"/>
+<string name="descD" value="原本是可愛的小兔子，一旦生命力枯竭就會變成娃娃。需要用特殊的魔法才能賦予它新的生命。"/>
+</imgdir>
+<imgdir name="5000006">
+<string name="name" value="哈士奇"/>
+<string name="desc" value="天性活潑但個性也相當成熟，飼料只要適當提供即可。哈士奇不但聰明，而且相當聽從主人的命令；會幫忙主人撿起掉在周圍的楓幣。"/>
+<string name="descD" value="乖巧可愛的哈士奇，因生命水乾枯而變成了玩偶的狀態。請使用特殊的魔法重新為它注入生命！"/>
+</imgdir>
+<imgdir name="5000007">
+<string name="name" value="黑色小豬"/>
+<string name="desc" value="黑色小豬生性活潑，而且非常貪吃，因此必須按時餵食飼料不然很快就會餓了！因感情豐富，因此很容易和主人打成一片。會幫忙撿起掉落在周圍的#c楓幣#。"/>
+<string name="descD" value="乖巧可愛的黑色小豬，因生命水乾枯而變成了玩偶的狀態。請使用特殊的魔法重新為它注入生命！"/>
+</imgdir>
+<imgdir name="5000008">
+<string name="name" value="熊貓"/>
+<string name="desc" value="個性溫馴的熊貓，可說是很罕見的動物。熊貓帶有泡泡訊息視窗與名牌；會幫忙主人撿起掉在周圍的楓幣。"/>
+<string name="descD" value="乖巧可愛的熊貓，因生命水乾枯而變成了玩偶的狀態。請使用特殊的魔法重新為它注入生命！"/>
+</imgdir>
+<imgdir name="5000009">
+<string name="name" value="迪諾龍"/>
+<string name="desc" value="活動力強並且感覺神秘的雄性小恐龍，帶有黃色恐龍泡泡訊息視窗與名牌，會幫忙撿起掉落在周圍的#c楓幣#。"/>
+<string name="descD" value="乖巧可愛的迪諾龍，因生命水乾枯而變成了玩偶的狀態。請使用特殊的魔法重新為它注入生命！"/>
+</imgdir>
+<imgdir name="5000010">
+<string name="name" value="妮諾龍"/>
+<string name="desc" value="活動力強並且感覺神秘的雌性小恐龍，帶有粉紅恐龍泡泡訊息視窗與名牌，會幫忙撿起掉落在周圍的#c楓幣#。"/>
+<string name="descD" value="乖巧可愛的妮諾龍，因生命水乾枯而變成了玩偶的狀態。請使用特殊的魔法重新為它注入生命！"/>
+</imgdir>
+<imgdir name="5000011">
+<string name="name" value="猴子"/>
+<string name="desc" value="猴子生性開朗，好奇心很重，總是無法安靜下來，當然也很討厭枯燥無聊。很快就會和主人混熟，升級也會變得很快喔！猴子會幫忙主人撿起掉在周圍的#c楓幣#。"/>
+<string name="descD" value="原本是可愛的小猴子，生命力枯竭後就變成了娃娃。需要用特殊的魔法才能重新賦予它新的生命。"/>
+</imgdir>
+<imgdir name="5000012">
+<string name="name" value="小白虎"/>
+<string name="desc" value="個性溫馴的小白虎，就算對第一次見面的人也很乖巧喔!而且會幫忙主人撿起掉在周圍的#c楓幣#，並且具備自動補#cHP藥水#的功能。"/>
+<string name="descD" value="原本是可愛的小白虎，生命力枯竭後就變成了娃娃。需要用特殊的魔法才能重新賦予它新的生命。"/>
+</imgdir>
+<imgdir name="5000013">
+<string name="name" value="大象"/>
+<string name="desc" value="體型巨大笨重，食量也不小，但卻有像小孩子一樣的好奇心，對於任何事物都很好奇！\n#c技能：撿取楓幣、撿取道具、撿取無所有權的道具和楓幣、範圍自動撿起、擴大移動範圍、自動補HP和MP藥水#"/>
+<string name="descD" value="原本是可愛的大象，生命力枯竭後就變成了娃娃。需要用特殊的魔法才能重新賦予它新的生命。"/>
+</imgdir>
+<imgdir name="5000014">
+<string name="name" value="聖誕麋鹿"/>
+<string name="desc" value="性格文靜，但善良可愛的麋鹿。經聖誕老人的關愛使他的性格也變得很開朗；會幫忙主人撿起掉在周圍的楓幣。"/>
+<string name="descD" value="原本是可愛的麋鹿，生命力枯竭後就變成了娃娃。需要用特殊的魔法才能重新賦予它新的生命。"/>
+</imgdir>
+<imgdir name="5000015">
+<string name="name" value="麋鹿"/>
+<string name="desc" value="每當聖誕時與聖誕老人一同拉雪橇的麋鹿。\n#c功能:撿楓幣、撿道具、撿起無所有權的道具&amp;楓幣#"/>
+<string name="descD" value="紅鼻子麋鹿因生命之水乾枯而變成了玩偶的狀態。需使用特殊的魔法，重新賦予麋鹿生命力。"/>
+</imgdir>
+<imgdir name="5000016">
+<string name="name" value="雲豹"/>
+<string name="desc" value="雲豹長時間生活在樹上，他的名字是因身上有類似雲朵的圖案而來。兼具力量與美麗於一身的雲豹，相信是您最得意的夥伴！雲豹會幫忙主人撿起掉在周圍的#c楓幣#。"/>
+<string name="descD" value="原本是身手矯健的雲豹，生命力枯竭後就變成了娃娃。需要用特殊的魔法才能重新賦予它新的生命。"/>
+</imgdir>
+<imgdir name="5000017">
+<string name="name" value="機器人"/>
+<string name="desc" value="可愛又逗趣的寵物機器人，聽話乖巧是它最大的特色，絕對不會違背主人的話喔。\n#c技能:自動撿取楓幣、自動服用HP藥水#。"/>
+<string name="descD" value="原本是身手矯健的機器人，生命力枯竭後就變成了娃娃。需要用特殊的魔法才能重新賦予它新的生命。"/>
+</imgdir>
+<imgdir name="5000018">
+<string name="name" value="哈士奇"/>
+<string name="desc" value="性格很活潑，但有時候看起來很孤單。具備了聰明又聽話的優點。\n#c技能：撿錢幣，撿物品#"/>
+<string name="descD" value="曾經是個可愛的哈士奇，但因生命水全部不見，兒回到娃娃狀態了。使用特定魔法可重新注入生命。"/>
+</imgdir>
+<imgdir name="5000020">
+<string name="name" value="雪吉拉"/>
+<string name="desc" value="雪吉拉會默默地陪在主人身邊，是個值得信賴的好伙伴！靜靜的他卻會為主人完成很多事情喔！#c技能：自動補HP藥水、撿起楓幣#"/>
+<string name="descD" value="原本是可愛又乖巧的雪吉拉，一旦生命力枯竭就會變成娃娃。需要用特殊的魔法才能賦予它新的生命。"/>
+</imgdir>
+<imgdir name="5000021">
+<string name="name" value="猴子"/>
+<string name="desc" value="好奇心重、又愛撒嬌的猴子，但有時太過好動讓主人有些頭痛呢！\n#c內建功能：撿楓幣、撿道具、撿起無所有權的道具和楓幣、擴大移動範圍、自動撿取#"/>
+<string name="descD" value="可愛又活潑的猴子，因生命之水乾枯而變成了玩偶的狀態。需使用特殊的魔法，重新賦予猴子生命力。"/>
+</imgdir>
+<imgdir name="5000022">
+<string name="name" value="火雞"/>
+<string name="desc" value="古靈精怪又充滿活力的火雞，只要跟它在一起，總會覺得活力十足並且天天開心。\n#c技能：撿楓幣#"/>
+<string name="descD" value="古靈精怪又活潑的火雞，因生命之水乾枯而變成了玩偶的狀態。需使用特殊的魔法，重新賦予火雞生命力。"/>
+</imgdir>
+<imgdir name="5000023">
+<string name="name" value="小企鵝"/>
+<string name="desc" value="小企鵝總是充滿活力，到處蹦蹦跳跳的，對主人也是忠心耿耿喔。會幫忙主人撿起楓幣及道具喔。"/>
+<string name="descD" value="原本是可愛的小企鵝，生命力枯竭後就變成了娃娃。需要用特殊的魔法才能重新賦予它新的生命。"/>
+</imgdir>
+<imgdir name="5000024">
+<string name="name" value="小巴洛古"/>
+<string name="desc" value="深得信賴並充滿才藝的小巴洛古，但可別看它一副凶狠模樣，它可是很害羞呢！\n#c功能：撿起道具和楓幣、撿起無所有權的楓幣與道具、範圍自動撿起、擴大移動範圍、自動服用HP藥水#。"/>
+<string name="descD" value="生性害羞的小巴洛古，因生命之水乾枯而變成了玩偶的狀態。需使用特殊的魔法，重新賦予小巴洛古生命力。"/>
+</imgdir>
+<imgdir name="5000025">
+<string name="name" value="黃金肥肥"/>
+<string name="desc" value="這隻特別設計的黃金肥肥將帶給您好運！\n而且會幫忙主人撿起掉在周圍的#c楓幣#，並且具備自動補#cMP藥水#的功能。"/>
+<string name="descD" value="這是一隻可愛的黃金肥肥，但期限到了的時後，它將會回復玩偶狀態。可以使用生命水將它復活…"/>
+</imgdir>
+<imgdir name="5000026">
+<string name="name" value="齊天大聖"/>
+<string name="desc" value="飛天遁地、無所不能的齊天大聖！它絕對是您最得力的助手。若與孫悟空套裝組一起搭配，將會出現特效。\n#c技能：撿楓幣與道具、撿起無所有權的道具與楓幣、範圍自動撿取、擴大移動範圍、自動服用hp藥水。#"/>
+<string name="descD" value="飛天遁地、無所不能的齊天大聖，因生命之水乾枯而變成了玩偶的狀態。需使用特殊的魔法，重新賦予齊天大聖生命力。"/>
+</imgdir>
+<imgdir name="5000027">
+<string name="name" value="豬八戒"/>
+<string name="desc" value="悠然自得、擁有強烈個人風格的天蓬元帥豬八戒！它絕對是您最得力的助手。若與豬八戒套裝組一起搭配，將會出現特效。\n#c技能：撿楓幣、自動服用hp藥水。#"/>
+<string name="descD" value="悠然自得、擁有強烈個人風格的豬八戒，因生命之水乾枯而變成了玩偶的狀態。需使用特殊的魔法，重新賦予豬八戒生命力。"/>
+</imgdir>
+<imgdir name="5000028">
+<string name="name" value="神奇寶貝"/>
+<string name="desc" value="龍族所賦予的龍蛋，即將會孵化出寶貝龍。\n#c技能：撿取楓幣、撿取道具、撿取無所有權的道具和楓幣、範圍自動撿起、擴大移動範圍、自動補HP藥水。#"/>
+<string name="descD" value="活潑好動的紅龍，因生命之水乾枯而變成了玩偶的狀態。需使用特殊的魔法，重新賦予紅龍生命力。"/>
+</imgdir>
+<imgdir name="5000029">
+<string name="name" value="寶貝龍"/>
+<string name="desc" value="從恐龍蛋中孵化出來的寶貝龍。當等級達15級，便可利用進化之石，透過NPC迦爾努斯加以進化。\n#c技能：撿取楓幣、撿取道具、撿取無所有權的道具和楓幣、範圍自動撿起、擴大移動範圍、自動補HP藥水#"/>
+<string name="descD" value="嬌小而可愛的寶貝龍，因生命之水乾枯而變成了玩偶的狀態。需使用特殊的魔法，重新賦予寶貝龍生命力。"/>
+</imgdir>
+<imgdir name="5000030">
+<string name="name" value="綠龍"/>
+<string name="desc" value="透過魔法之力，進化而成為綠龍！\n#c技能：撿取楓幣、撿取道具、撿取無所有權的道具和楓幣、範圍自動撿起、擴大移動範圍、自動補HP和MP藥水#"/>
+<string name="descD" value="帥氣威風的綠龍，因生命之水乾枯而變成了玩偶的狀態。需使用特殊的魔法，重新賦予綠龍生命力。"/>
+</imgdir>
+<imgdir name="5000031">
+<string name="name" value="紅龍"/>
+<string name="desc" value="透過魔法之力，進化而成為紅龍！\n#c技能：撿取楓幣、撿取道具、撿取無所有權的道具和楓幣、範圍自動撿起、擴大移動範圍、自動補HP和MP藥水#"/>
+<string name="descD" value="活潑好動的紅龍，因生命之水乾枯而變成了玩偶的狀態。需使用特殊的魔法，重新賦予紅龍生命力。"/>
+</imgdir>
+<imgdir name="5000032">
+<string name="name" value="藍龍"/>
+<string name="desc" value="透過魔法之力，進化而成為藍龍！\n#c技能：撿取楓幣、撿取道具、撿取無所有權的道具和楓幣、範圍自動撿起、擴大移動範圍、自動補HP和MP藥水#"/>
+<string name="descD" value="冷靜聰明的藍龍，因生命之水乾枯而變成了玩偶的狀態。需使用特殊的魔法，重新賦予藍龍生命力。"/>
+</imgdir>
+<imgdir name="5000033">
+<string name="name" value="黑龍"/>
+<string name="desc" value="透過魔法之力，進化而成為黑龍！\n#c技能：撿取楓幣、撿取道具、撿取無所有權的道具和楓幣、範圍自動撿起、擴大移動範圍、自動補HP和MP藥水#"/>
+<string name="descD" value="行蹤神秘的黑龍，因生命之水乾枯而變成了玩偶的狀態。需使用特殊的魔法，重新賦予黑龍生命力。"/>
+</imgdir>
+<imgdir name="5000036">
+<string name="name" value="鬼靈精怪"/>
+<string name="desc" value="鬼靈精怪的個性活潑，有時又很安靜，飼料只要適當提供即可，非常聰明聽話。\n#c技能：撿取楓幣#"/>
+<string name="descD" value="鬼靈精怪，因生命之水乾枯而變成了玩偶的狀態。需使用特殊的魔法，重新賦予黑龍生命力。"/>
+</imgdir>
+<imgdir name="5000041">
+<string name="name" value="雪寶"/>
+<string name="desc" value="可愛又淘氣的雪寶！雖然偶而會耍脾氣，但只要細心愛護他，雪寶最愛向主人撒嬌喔！\n#c技能：撿楓幣、自動補HP藥水#"/>
+<string name="descD" value="可愛又活潑的雪寶，因生命之水乾枯而變成了玩偶的狀態。需使用特殊的魔法，重新賦予雪寶生命力。"/>
+</imgdir>
+<imgdir name="5000047">
+<string name="name" value="機器小子"/>
+<string name="desc" value="透過魔法之力，進化成強大的成年機器人！\n#c技能：撿取楓幣、撿取道具、撿取無所有權的道具和楓幣、範圍自動撿起、擴大移動範圍、自動補HP和MP藥水#"/>
+<string name="descD" value="帥氣威風的機器小子，因生命之水乾枯而變成了玩偶的狀態。需使用特殊的魔法，重新賦予綠龍生命力。"/>
+</imgdir>
+<imgdir name="5000048">
+<string name="name" value="機器小子"/>
+<string name="desc" value="透過魔法之力，進化成強大的成年機器人！\n#c技能：撿取楓幣、撿取道具、撿取無所有權的道具和楓幣、範圍自動撿起、擴大移動範圍、自動補HP和MP藥水#"/>
+<string name="descD" value="帥氣威風的機器小子，因生命之水乾枯而變成了玩偶的狀態。需使用特殊的魔法，重新賦予綠龍生命力。"/>
+</imgdir>
+<imgdir name="5000049">
+<string name="name" value="藍鯊機械獸"/>
+<string name="desc" value="透過魔法之力，進化成強大的藍鯊機械獸！\n#c技能：撿取楓幣、撿取道具、撿取無所有權的道具和楓幣、範圍自動撿起、擴大移動範圍、自動補HP和MP藥水#"/>
+<string name="descD" value="帥氣威風的藍鯊機械獸，因生命之水乾枯而變成了玩偶的狀態。需使用特殊的魔法，重新賦予綠龍生命力。"/>
+</imgdir>
+<imgdir name="5000050">
+<string name="name" value="紅鷹機械獸"/>
+<string name="desc" value="透過魔法之力，進化成強大的紅鷹機械獸！\n#c技能：撿取楓幣、撿取道具、撿取無所有權的道具和楓幣、範圍自動撿起、擴大移動範圍、自動補HP和MP藥水#"/>
+<string name="descD" value="帥氣威風的紅鷹機械獸，因生命之水乾枯而變成了玩偶的狀態。需使用特殊的魔法，重新賦予綠龍生命力。"/>
+</imgdir>
+<imgdir name="5000051">
+<string name="name" value="綠虎機械獸"/>
+<string name="desc" value="透過魔法之力，進化成強大的綠虎機械獸！\n#c技能：撿取楓幣、撿取道具、撿取無所有權的道具和楓幣、範圍自動撿起、擴大移動範圍、自動補HP和MP藥水#"/>
+<string name="descD" value="帥氣威風的綠虎機械獸，因生命之水乾枯而變成了玩偶的狀態。需使用特殊的魔法，重新賦予綠龍生命力。"/>
+</imgdir>
+<imgdir name="5000052">
+<string name="name" value="黃金機械獸"/>
+<string name="desc" value="透過魔法之力，進化成強大的黃金機械獸！\n#c技能：撿取楓幣、撿取道具、撿取無所有權的道具和楓幣、範圍自動撿起、擴大移動範圍、自動補HP和MP藥水#"/>
+<string name="descD" value="帥氣威風的黃金機械獸，因生命之水乾枯而變成了玩偶的狀態。需使用特殊的魔法，重新賦予綠龍生命力。"/>
+</imgdir>
+<imgdir name="5000053">
+<string name="name" value="機械金剛"/>
+<string name="desc" value="透過魔法之力，進化成強大的機械金剛！\n#c技能：撿取楓幣、撿取道具、撿取無所有權的道具和楓幣、範圍自動撿起、擴大移動範圍、自動補HP和MP藥水#"/>
+<string name="descD" value="帥氣威風的機械金剛，因生命之水乾枯而變成了玩偶的狀態。需使用特殊的魔法，重新賦予綠龍生命力。"/>
+</imgdir>
+<imgdir name="5000055">
+<string name="name" value="水晶麋鹿"/>
+<string name="desc" value="聖誕節的超級巨星─水晶麋鹿！高貴溫馴的他，只會在聖誕節期間出現喔！\n#c技能：撿起楓幣及道具、自動撿取無所有權道具及楓幣、範圍自動撿取、擴大移動範圍、自動服用HP藥水"/>
+<string name="descD" value="水晶麋鹿，因生命之水乾枯而變成了玩偶的狀態。需使用特殊的魔法，重新賦予綠龍生命力。"/>
+</imgdir>
+<imgdir name="5000058">
+<string name="name" value="唐小鴨"/>
+<string name="desc" value="勤奮、傻又天真、脾氣隨和且喜歡游泳。\n#c技能：撿楓幣與道具、撿起無所有權的道具與楓幣、範圍自動撿取、擴大移動範圍、自動服用hp藥水。#"/>
+<string name="descD" value="唐小鴨，因生命之水乾枯而變成了玩偶的狀態。需使用特殊的魔法，重新賦予綠龍生命力。"/>
+</imgdir>
+<imgdir name="5000040">
+<string name="name" value="小里波"/>
+<string name="desc" value="萬聖節誕生的可愛小死神。雖然是收取靈魂的可怕傢伙,但是和他交朋友就再也沒有比他更神秘的傢伙了。\n#c功能:撿楓幣、撿道具，撿起無所有權的道具&amp;楓幣，自動撿取，擴大移動範圍，自動服用MP藥水#"/>
+<string name="descD" value="可愛的小里波因生命之水乾枯而變成了玩偶的狀態。需使用特殊的魔法，重新賦予小里波生命力。"/>
+</imgdir>
+<imgdir name="5000042">
+<string name="name" value="奇諾"/>
+<string name="desc" value="超愛閃耀石頭的活潑可愛的菇菇寶貝。\n#c功能:撿楓幣、撿道具#"/>
+<string name="descD" value="可愛的菇菇寶貝因生命之水乾枯而變成了玩偶的狀態。需使用特殊的魔法，重新賦予菇菇寶貝生命力。"/>
+</imgdir>
+<imgdir name="5000043">
+<string name="name" value="小刺蝟"/>
+<string name="desc" value="相當毛燥，喜惡分明的小刺蝟。但是若好好聽他說，發現它有一顆非常關愛主人的心。\n#c功能:撿楓幣、撿道具#"/>
+<string name="descD" value="可愛的豪豬因生命之水乾枯而變成了玩偶的狀態。需使用特殊的魔法，重新賦予豪豬生命力。"/>
+</imgdir>
+<imgdir name="5000046">
+<string name="name" value="菇菇寶貝"/>
+<string name="desc" value="超愛閃耀石頭的活潑可愛的菇菇寶貝。\n#c技能：撿取楓幣、撿取道具、撿取無所有權的道具和楓幣、範圍自動撿起、擴大移動範圍、自動補HP藥水#"/>
+<string name="descD" value="可愛的菇菇寶貝因生命之水乾枯而變成了玩偶的狀態。需使用特殊的魔法，重新賦予菇菇寶貝生命力。"/>
+</imgdir>
+<imgdir name="5000054">
+<string name="name" value="蝸牛"/>
+<string name="desc" value="真不知道想什麼的蝸牛。\n#技能：撿楓幣，撿道具，自動服用HP藥水，自動服用MP藥水，範圍自動撿起。#"/>
+<string name="descD" value="可愛的蝸牛因魔法時間結束而變成了玩偶。任何方法都無法使它復原。雙擊時顯示取得新寵物的方法。"/>
+</imgdir>
+<imgdir name="5000060">
+<string name="name" value="粉紅兔子"/>
+<string name="desc" value="個性溫柔，食量小。頭腦聰明，比較聽話，但卻很固執；會幫忙主人撿起掉在周圍的楓幣。"/>
+<string name="descD" value="原本是可愛的小兔子，一旦生命力枯竭就會變成娃娃。需要用特殊的魔法才能賦予它新的生命。"/>
+</imgdir>
+<imgdir name="5000061">
+<string name="name" value="皮卡啾"/>
+<string name="desc" value="一隻經由女神鏡子召喚而來的寵物，矮矮胖胖卻喜怒無常。\n#c技能：撿取楓幣、撿取道具、撿取無所有權的道具和楓幣、範圍自動撿起、擴大移動範圍、自動補HP藥水。#"/>
+<string name="descD" value="那是一隻可愛的皮卡啾，但是當生命乾枯時，它就會變回一個玩偶。使用魔法道具&quot;生命水&quot;可以使它恢復生機。"/>
+</imgdir>
+<imgdir name="5000066">
+<string name="name" value="小帥虎"/>
+<string name="desc" value="2010年代表，老虎。\n#c自動撿取楓幣&amp;道具、自動撿取無所有權的道具和楓幣、範圍自動撿起、擴大移動範圍、自動服用ＨP藥水技能。#"/>
+<string name="descD" value="原本是可愛的老虎，一旦生命力枯竭就會變成娃娃。需要用特殊的魔法才能賦予它新的生命。"/>
+</imgdir>
+<imgdir name="5000067">
+<string name="name" value="水星寶寶"/>
+<string name="desc" value="旅行地球的時候不小心一個人留在地球的外星寵物，因為聽不懂人話所以很悶，喜歡外星事物的人可以收養他。無法裝備寵物通用裝備(紅絲帶、寵物帽子、蕾絲帽、紳士帽)。\n#c自動撿取楓幣&amp;道具、自動撿取無所有權的道具和楓幣、範圍自動撿起、擴大移動範圍、自動服用ＨP藥水技能。#"/>
+<string name="descD" value="原本是可愛的水星寶寶，一旦生命力枯竭就會變成娃娃。需要用特殊的魔法才能賦予它新的生命。"/>
+</imgdir>
+<imgdir name="5000064">
+<string name="name" value="황금돼지"/>
+<string name="desc" value="????????????????????????.\n#c??:????,?????,????????&amp;????,????,??????,MP????#"/>
+<string name="descD" value="????????????????????????????????.??????????????????????."/>
+</imgdir>
+<imgdir name="5000068">
+<string name="name" value="?????"/>
+<string name="desc" value="???????????????????.\n#c??:????,?????,????????&amp;????,????,??????,MP????#"/>
+<string name="descD" value="???????????????????????????????????.??????????????????????."/>
+</imgdir>
+<imgdir name="5000070">
+<string name="name" value="寶貝龍先生"/>
+<string name="desc" value="龍蛋裡有可愛的寶貝龍先生。\n#c技能：撿取楓幣、撿取道具、撿取無所有權的道具和楓幣、範圍自動撿起、擴大移動範圍、自動補HP藥水#"/>
+<string name="descD" value="\n#c技能：撿取楓幣、撿取道具、撿取無所有權的道具和楓幣、範圍自動撿起、擴大移動範圍、自動補HP藥水#"/>
+</imgdir>
+<imgdir name="5000071">
+<string name="name" value="寶貝龍小姐"/>
+<string name="desc" value="龍蛋裡有可愛的寶貝龍小姐。\n#c技能：撿取楓幣、撿取道具、撿取無所有權的道具和楓幣、範圍自動撿起、擴大移動範圍、自動補HP藥水#"/>
+<string name="descD" value="\n#c技能：撿取楓幣、撿取道具、撿取無所有權的道具和楓幣、範圍自動撿起、擴大移動範圍、自動補HP藥水#"/>
+</imgdir>
+<imgdir name="5000065">
+<string name="name" value="?????"/>
+<string name="desc" value="????????????????????.\n#c??????????(??3??)\n??:????????,????,?????"/>
+<string name="descD" value="?????????????????????????????????.??????????????????????."/>
+</imgdir>
+<imgdir name="5000072">
+<string name="name" value="臭鼬 "/>
+<string name="desc" value="可愛到另人無法討厭的放屁大將軍臭鼬 。\n#c技能：撿楓幣，撿道具#"/>
+<string name="descD" value="那是一隻可愛的臭鼬 ，但是當生命乾枯時，它就會變回一個玩偶。使用魔法道具&quot;生命水&quot;可以使它恢復生機。"/>
+</imgdir>
+</imgdir>

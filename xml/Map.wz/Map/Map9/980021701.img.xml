@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="980021701.img">
+<imgdir name="info">
+<int name="version" value="10"/>
+<int name="cloud" value="0"/>
+<int name="town" value="0"/>
+<int name="swim" value="0"/>
+<int name="returnMap" value="980020001"/>
+<int name="forcedReturn" value="980020001"/>
+<float name="mobRate" value="1.0"/>
+<string name="bgm" value="Bgm00/FloralLife"/>
+<string name="mapMark" value="Goldrich"/>
+<int name="fly" value="0"/>
+<int name="hideMinimap" value="1"/>
+<int name="fieldLimit" value="271096"/>
+<int name="VRTop" value="-740"/>
+<int name="VRLeft" value="-900"/>
+<int name="VRBottom" value="420"/>
+<int name="VRRight" value="810"/>
+<string name="onFirstUserEnter" value=""/>
+<string name="onUserEnter" value="miro_entryChact"/>
+<string name="link" value="980021700"/>
+</imgdir>
+</imgdir>

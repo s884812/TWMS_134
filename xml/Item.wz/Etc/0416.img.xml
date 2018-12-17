@@ -1,0 +1,6763 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="0416.img">
+<imgdir name="04160000">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="關於寵物的說明文"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n90天裡，我將在您的身邊成為您最忠誠又可靠的夥伴喔！"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="\n過完90天當生命水乾枯時，您可利用#b生命水#k透過#b妖精 瑪麗#k將寵物重新復活喔！\n您可從訓練師或寵物飼料商人購買寵物飼料，並使用指令來提升與寵物間的親密度。"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="寵物指令說明書 : 小狗篇\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="寵物等級: 1 ~ 30\n坐 / 不要、住手、不行、不可以\n笨蛋、傻瓜、討厭、笨笨\n愛你 / 噓噓"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="寵物等級 : 10 ~ 30\n說、說吧、說話、叫\n趴下"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="寵物等級 : 20 ~ 30\n站、站起來、起來"/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="Tip. 當寵物等級達15級，可讓牠說出特定的內容 \n #b例) /寵物 [內容]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160001">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="關於寵物的說明文"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n90天裡，我將在您的身邊成為您最忠誠又可靠的夥伴喔！"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="\n過完90天當生命水乾枯時，您可利用#b生命水#k透過#b妖精 瑪麗#k將寵物重新復活喔！\n您可從訓練師或寵物飼料商人購買寵物飼料，並使用指令來提升與寵物間的親密度。"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="조련사나 펫 먹이 상인을 찾아가 펫의 먹이를 먹이고 명령어를 사용하여 펫과의 친밀도를 높여보세요."/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="寵物指令說明書 : 小貓篇\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="寵物等級: 1 ~ 30\n坐 / 不要、住手、不行、不可以\n笨蛋、傻瓜、討厭\n愛你 / 便便"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="寵物等級 : 10 ~ 30\n說、說吧、說話\n撒嬌"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="寵物等級 : 20 ~ 30\n站、站起來、起來"/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="Tip. 當寵物等級達15級，可讓牠說出特定的內容 \n #b例) /寵物 [內容]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160002">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="關於寵物的說明文"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n90天裡，我將在您的身邊成為您最忠誠又可靠的夥伴喔！"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="\n過完90天當生命水乾枯時，您可利用#b生命水#k透過#b妖精 瑪麗#k將寵物重新復活喔！\n您可從訓練師或寵物飼料商人購買寵物飼料，並使用指令來提升與寵物間的親密度。"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="조련사나 펫 먹이 상인을 찾아가 펫의 먹이를 먹이고 명령어를 사용하여 펫과의 친밀도를 높여보세요."/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="寵物指令說明書 : 兔子篇\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="寵物等級: 1 ~ 30\n坐 / 不要、住手、不行、不可以\n站、站起來、起來 / 愛你 / 便便"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="寵物等級 : 10 ~ 30\n說、說吧、說話\n抱我"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="寵物等級 : 20 ~ 30\n睡覺、打瞌睡、睏睏"/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="Tip. 當寵物等級達15級，可讓牠說出特定的內容 \n #b例) /寵物 [內容]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160003">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="關於寵物的說明文"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n90天裡，我將在您的身邊成為您最忠誠又可靠的夥伴喔！"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="\n過完90天當生命水乾枯時，您可利用#b生命水#k透過#b妖精 瑪麗#k將寵物重新復活喔！\n您可從訓練師或寵物飼料商人購買寵物飼料，並使用指令來提升與寵物間的親密度。"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="조련사나 펫 먹이 상인을 찾아가 펫의 먹이를 먹이고 명령어를 사용하여 펫과의 친밀도를 높여보세요."/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="寵物指令說明書 : 魔龍篇\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="寵物等級: 1 ~ 30\n坐 / 不要、住手、不行、不可以\n站、站起來、起來 / 愛你 / 噓噓"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="寵物等級 : 10 ~ 30\n說、說吧、說話\n眨眼、眼光 / 趴下"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="寵物等級 : 20 ~ 30\n好乖、可愛"/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="Tip. 當寵物等級達15級，可讓牠說出特定的內容 \n #b例) /寵物 [內容]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160004">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="關於寵物的說明文"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n90天裡，我將在您的身邊成為您最忠誠又可靠的夥伴喔！"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="\n過完90天當生命水乾枯時，您可利用#b生命水#k透過#b妖精 瑪麗#k將寵物重新復活喔！\n您可從訓練師或寵物飼料商人購買寵物飼料，並使用指令來提升與寵物間的親密度。"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="您可從訓練師或寵物飼料商人購買寵物飼料，並使用指令來提升與寵物間的親密度。"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="寵物指令說明書 : 哈士奇篇\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="寵物等級: 1 ~ 30\n坐 / 不要、住手、不行、不可以\n笨蛋、傻瓜、討厭、笨笨\n愛你 / 便便 / 手 "/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="寵物等級 : 10 ~ 30\n說、說吧、說話、叫\n趴下"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="寵物等級 : 20 ~ 30\n站、站起來、起來"/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="Tip. 當寵物等級達15級，可讓牠說出特定的內容 \n #b例) /寵物 [內容]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160005">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="關於寵物的說明文"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n90天裡，我將在您的身邊成為您最忠誠又可靠的夥伴喔！"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="\n過完90天當生命水乾枯時，您可利用#b生命水#k透過#b妖精 瑪麗#k將寵物重新復活喔！\n您可從訓練師或寵物飼料商人購買寵物飼料，並使用指令來提升與寵物間的親密度。"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="您可從訓練師或寵物飼料商人購買寵物飼料，並使用指令來提升與寵物間的親密度。"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="寵物指令說明書 : 小豬篇\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="寵物等級: 1 ~ 30\n坐 / 不要、住手、不行、不可以\n笨蛋、傻瓜、討厭\n愛你 / 便便 / 手"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="寵物等級 : 10 ~ 30\n說、說吧、說話\n笑、微笑"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="寵物等級 : 20 ~ 30\n耍帥"/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="Tip. 當寵物等級達15級，可讓牠說出特定的內容 \n #b例) /寵物 [內容]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160006">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="關於寵物的說明文"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n90天裡，我將在您的身邊成為您最忠誠又可靠的夥伴喔！"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="\n過完90天當生命水乾枯時，您可利用#b生命水#k透過#b妖精 瑪麗#k將寵物重新復活喔！\n您可從訓練師或寵物飼料商人購買寵物飼料，並使用指令來提升與寵物間的親密度。"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="您可從訓練師或寵物飼料商人購買寵物飼料，並使用指令來提升與寵物間的親密度。"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="寵物指令說明書 : 熊貓篇\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="寵物等級: 1 ~ 30\n坐 \n 休息 / 不要、住手、不行、不可以\n愛你 / 便便 \n 站、站起來、起來"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="寵物等級 : 10 ~ 30\n說、說吧、說話、玩\n吐舌頭"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="寵物等級 : 20 ~ 30\n睡覺、打瞌睡、睏睏"/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="Tip. 當寵物等級達15級，可讓牠說出特定的內容 \n #b例) /寵物 [內容]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160007">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="關於寵物的說明文"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n90天裡，我將在您的身邊成為您最忠誠又可靠的夥伴喔！"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="\n過完90天當生命水乾枯時，您可利用#b生命水#k透過#b妖精 瑪麗#k將寵物重新復活喔！\n您可從訓練師或寵物飼料商人購買寵物飼料，並使用指令來提升與寵物間的親密度。"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="您可從訓練師或寵物飼料商人購買寵物飼料，並使用指令來提升與寵物間的親密度。"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="寵物指令說明書 : 迪諾龍篇\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="寵物等級: 1 ~ 30\n坐 \n不要、住手、不行、不可以\n愛你 / 便便 \n 站、站起來、起來"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="寵物等級 : 10 ~ 30\n說、說吧、說話、抱我"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="寵物等級 : 20 ~ 30\n睡覺、打瞌睡、睏睏"/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="Tip. 當寵物等級達15級，可讓牠說出特定的內容 \n #b例) /寵物 [內容]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160008">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="關於寵物的說明文"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n90天裡，我將在您的身邊成為您最忠誠又可靠的夥伴喔！"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="\n過完90天當生命水乾枯時，您可利用#b生命水#k透過#b妖精 瑪麗#k將寵物重新復活喔！\n您可從訓練師或寵物飼料商人購買寵物飼料，並使用指令來提升與寵物間的親密度。"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="您可從訓練師或寵物飼料商人購買寵物飼料，並使用指令來提升與寵物間的親密度。"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="寵物指令說明書 : 白虎篇\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="寵物等級: 1 ~ 30\n坐下 / 聽話、不可以、打你哦、想被打嗎\n傻瓜、蠢、討厭 / 休息 \n喜歡 / 便便"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="寵物等級 : 10 ~ 30\n說話、說、聊天、傷心的樣子、傷心"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="寵物等級 : 20 ~ 30\n等等"/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="Tip. 當寵物等級達15級，可讓牠說出特定的內容 \n #b例) /寵物 [內容]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160009">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="關於寵物的說明文"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n90天裡，我將在您的身邊成為您最忠誠又可靠的夥伴喔！"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="\n過完90天當生命水乾枯時，您可利用#b生命水#k透過#b妖精 瑪麗#k將寵物重新復活喔！\n您可從訓練師或寵物飼料商人購買寵物飼料，並使用指令來提升與寵物間的親密度。"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="您可從訓練師或寵物飼料商人購買寵物飼料，並使用指令來提升與寵物間的親密度。"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="寵物指令說明書 : 麋鹿篇\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="寵物等級: 1 ~ 30\n坐 \n 走 / 不要、住手、不行、不可以\n愛你 / 便便 \n 站、站起來、起來 / 孤單"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="寵物等級 : 10 ~ 30\n說、說吧、你說"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="寵物等級 : 20 ~ 30\n聖誕快樂"/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="Tip. 當寵物等級達15級，可讓牠說出特定的內容 \n #b例) /寵物 [內容]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160010">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="關於寵物的說明文"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n90天裡，我將在您的身邊成為您最忠誠又可靠的夥伴喔！"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="\n過完90天當生命水乾枯時，您可利用#b生命水#k透過#b妖精 瑪麗#k將寵物重新復活喔！\n您可從訓練師或寵物飼料商人購買寵物飼料，並使用指令來提升與寵物間的親密度。"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="\n您可從訓練師或寵物飼料商人購買寵物飼料，並使用指令來提升與寵物間的親密度。"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="寵物指令說明書 : 猴子篇\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="寵物等級: 1 ~ 30\n坐 / 休息\n便便 / 喜歡\n不可以,打你哦,想被打嗎 "/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="寵物等級 : 10 ~ 30\n起來,站起來,起立\n說話,說,聊 玩 "/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="寵物等級 : 20 ~ 30\n吐舌\n睡覺,睏了,該睡了"/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="Tip. 當寵物等級達15級，可讓牠說出特定的內容 \n #b例) /寵物 [內容]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160011">
+<imgdir name="info">
+<canvas name="icon" width="27" height="30">
+<vector name="origin" x="-4" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="27" height="29">
+<vector name="origin" x="-4" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="5000"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="轉移寵物親密度捲軸"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n這本卷軸擁有可將寵物的親密度與等級，移轉到其他寵物的能力！"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="但只有卷軸是無法發揮寵物親密度與等級移轉的效力，"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="為此需要要進行神聖高貴的儀式，而能夠進行這項儀式的，只有魔法森林的#r妖精 瑪麗#k！"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160012">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="關於寵物的說明文"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n在90天內，將會在您的身邊成為您最忠誠又可靠的夥伴喔！"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="當過了90天以後生命水乾枯時，您可利用#b生命水#k透過#b妖精 瑪麗#k或位在&quot;愛奧斯塔入口&quot;的小精靈，將寵物重新復活喔！"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="您可從訓練師或寵物飼料商人購買寵物飼料，並使用指令來提升與寵物間的親密度。"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="寵物指令說明書：小雪吉拉篇\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="寵物等級：1 ~ 30\n坐下 / 別亂來、住手、不行、不可以\n跳舞、熱舞、舞、dance / 便便\n可愛、漂亮、真棒、\n喜歡、愛你、我的愛、最愛"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="寵物等級：10 ~ 30\n說、說吧、你說\n睡覺、睏、zzz、晚安"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Tip. 當寵物等級達15級，可讓牠說出特定的內容 \n #b例) /pet [說話]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160013">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="關於寵物的說明文"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n在90天內，將會在您的身邊成為您最忠誠又可靠的夥伴喔！"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="當過了90天以後生命水乾枯時，您可利用#b生命水#k透過#b妖精 瑪麗#k或位在&quot;愛奧斯塔入口&quot;的小精靈，將寵物重新復活喔！"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="您可從訓練師或寵物飼料商人購買寵物飼料，並使用指令來提升與寵物間的親密度。"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="寵物指令說明書：機器人篇\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="寵物等級：1 ~ 30\n坐下/ 快起來、起立/傻瓜、討厭、笨蛋/不行、小心我打你、給我小心點\n開始攻擊/我愛你/好帥"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="寵物等級：10 ~ 30\n說話/變身"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Tip. 當寵物等級達15級，可讓牠說出特定的內容 \n #b例) /寵物 [內容]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160014">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="關於寵物的說明文"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n90天裡，我將在您的身邊成為您最忠誠又可靠的夥伴喔！"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="\n過完90天當生命水乾枯時，您可利用#b生命水#k透過#b妖精 瑪麗#k將寵物重新復活喔！\n您可從訓練師或寵物飼料商人購買寵物飼料，並使用指令來提升與寵物間的親密度。"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="\n您可從訓練師或寵物飼料商人購買寵物飼料，並使用指令來提升與寵物間的親密度。"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="寵物指令說明書：小企鵝篇\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="寵物等級: 1 ~ 10\n坐 / 笨蛋、傻瓜、討厭"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="寵物等級 : 11 ~ 30\n站、站起來、起來 / 便便 / 說、說話、講話 / 抱抱 / 睡、睡覺、睏 / 愛你"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="寵物等級 : 21~ 30\n伸手 / 親親 / 飛"/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="寵物等級 : 30\n太可愛 / 真棒"/>
+</imgdir>
+<imgdir name="5">
+<string name="text" value="Tip. 當寵物等級達15級，可讓牠說出特定的內容 \n #b例) /寵物 [內容]#k"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="Tip. 當寵物等級達15級，可讓牠說出特定的內容 \n #b例) /pet [內容]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160015">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="關於寵物的說明文"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n90天裡，我將在您的身邊成為您最忠誠又可靠的夥伴喔！"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="過完90天當生命水乾枯時，您可利用#b生命水#k透過#b妖精瑪麗#k或位在#b愛奧斯塔入口#k的小精靈，將寵物重新復活喔！"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="\n您可從訓練師或寵物飼料商人購買寵物飼料，並使用指令來提升與寵物間的親密度。"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="寵物指令說明書：巴洛古篇\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="寵物等級：1 ~ 30\n躺下/別亂來、住手、不行、不可以\n微笑、笑、笑一個、笑容\n可愛、漂亮、美麗、真可愛、真漂亮、漂漂、美喔、美美\n愛你、喜歡、我的愛/便便"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="寵物等級：10 ~ 30\n伸舌頭 /說、說吧、你說\n睡覺、睏、zzz、晚安\n眼神、眼神表演"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="寵物等級：20 ~ 30\n放屁、噗噗"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="Tip. 當寵物等級達15級，可讓牠說出特定的內容 \n #b例) /pet [內容]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160016">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="關於寵物的說明文"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n90天裡，我將在您的身邊成為您最忠誠又可靠的夥伴喔！"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="\n過完90天當生命水乾枯時，您可利用#b生命水#k透過#b妖精 瑪麗#k將寵物重新復活喔！\n您可從訓練師或寵物飼料商人購買寵物飼料，並使用指令來提升與寵物間的親密度。"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="寵物說明書：大象"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="寵物等級：1～30\n坐下\n休息吧\n行、不行、小心我打你、給我小心點\n撒尿\n我愛你\n起來、站起來、快起來"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="寵物等級：10～30\n說說看、快說、說話\n玩吧"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="寵物等級：20～30\n睡吧、睏吧、該睡覺了"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="技巧。 當寵物等級達15級，可讓它說出特定的內容\n#b例如:/寵物[內容]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160017">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="關於寵物的說明文"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n90天裡，我將在您的身邊成為您最忠誠又可靠的夥伴喔！"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="\n過完90天當生命水乾枯時，您可利用#b生命水#k透過#b妖精 瑪麗#k將寵物重新復活喔！\n您可從訓練師或寵物飼料商人購買寵物飼料，並使用指令來提升與寵物間的親密度。"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="寵物說明書：黃金肥肥"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="寵物等級：1~30\n坐/壞、不、壞女孩、壞男孩\n噗/我愛你"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="寵物等級：11~30\n交談、說、聊天/愛我、抱我/忽略"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="寵物等級：21~30\n睡、想睡、去睡覺\n感動/走開\n翻滾、給我錢"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160018">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="關於寵物的說明文"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n在90天內，將會在您的身邊成為您最忠誠又可靠的夥伴喔！"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="當過了90天以後生命水乾枯時，您可利用#b生命水#k透過#b妖精 瑪麗#k或位在&quot;愛奧斯塔入口&quot;的小精靈，將寵物重新復活喔！"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="您可從訓練師或寵物飼料商人購買寵物飼料，並使用指令來提升與寵物間的親密度。"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="寵物指令說明書：雲豹篇\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="寵物等級：1 ~ 30\n坐\n休息\n站、站起來、起來"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="寵物等級：10 ~ 30\n吃東西、吃吧"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="寵物等級 : 20 ~ 30\n說、說吧、你說\n你很瞎、ORZ\n沒聽到"/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="Tip. 當寵物等級達15級，可讓牠說出特定的內容 \n #b例) /寵物 [內容]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160019">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="關於寵物的說明文"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n在90天內，將會在您的身邊成為您最忠誠又可靠的夥伴喔！"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="當過了90天以後生命水乾枯時，您可利用#b生命水#k透過#b妖精 瑪麗#k或位在&quot;愛奧斯塔入口&quot;的小精靈，將寵物重新復活喔！"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="您可從訓練師或寵物飼料商人購買寵物飼料，並使用指令來提升與寵物間的親密度。"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="寵物指令說明書：齊天大聖篇\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="寵物等級：1 ~ 30\n別亂來、住手、不行、不可以/愛你、喜歡、我的愛/飛、飛起來、咻~\n便便/跳起來、跳跳、jump"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="寵物等級：10 ~ 30\n變身/乖乖、好乖/說、說吧、你說/睡覺、睏、zzz、晚安"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="Tip. 當寵物等級達15級，可讓牠說出特定的內容 \n #b例) /寵物 [內容]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160020">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="펫에 대한 알림문"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n90여일간 당신의 곁에서 사랑스러운 펫으로 지낼 것입니다."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="90일이 지나 생명수가 다 마르면 당신은 #b생명수#k를 구해 #b마르의 숲#k에 있는 요정을 만나거나 루디브리엄의 #b에오스탑 입구#k에 있는 위습을 만나 펫을 부활시킬 수도 있습니다."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="조련사나 펫 먹이 상인을 찾아가 펫의 먹이를 먹이고 명령어를 사용하여 펫과의 친밀도를 높여보세요."/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="펫 명령어 안내서 : 칠면조 편\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="펫 레벨 : 1 ~ 30\n앉아 / 선물줘\n잘했어, 굿, 착하네, 착하다\n때찌, 안돼, 혼난다, 혼날래\n예쁜짓, 귀여워, 예뻐, 예쁘다\n사랑해, 좋아해, 내사랑"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="펫 레벨 : 10 ~ 30\n말해봐, 말해, 말해줘\n자자, 졸립지, 쿨쿨, 잘자"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Tip. 펫의 레벨이 15가 되면 특정 말을 하도록 시킬 수 있습니다. \n #b예) /펫 [할 말]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160021">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="關於寵物的說明文"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n在90天內，將會在您的身邊成為您最忠誠又可靠的夥伴喔！"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="當過了90天以後生命水乾枯時，您可利用#b生命水#k透過#b妖精 瑪麗#k或位在&quot;愛奧斯塔入口&quot;的小精靈，將寵物重新復活喔！"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="您可從訓練師或寵物飼料商人購買寵物飼料，並使用指令來提升與寵物間的親密度。"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="寵物指令說明書：豬八戒篇\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="寵物等級：1 ~ 30\n坐下/別亂來、住手、不行、不可以\n便便/可愛、漂亮、美麗、美美、漂漂、最棒"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="寵物等級：10 ~ 30\n變身/愛你、喜歡、我的愛、最愛/說、說吧、你說/睡覺、睏、zzz、晚安"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Tip. 當寵物等級達15級，可讓牠說出特定的內容 \n #b例) /寵物 [內容]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160022">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="關於寵物的說明文"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n在90天內，將會在您的身邊成為您最忠誠又可靠的夥伴喔！"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="當過了90天以後生命水乾枯時，您可利用#b生命水#k透過#b妖精 瑪麗#k或位在&quot;愛奧斯塔入口&quot;的小精靈，將寵物重新復活喔！"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="您可從訓練師或寵物飼料商人購買寵物飼料，並使用指令來提升與寵物間的親密度。"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="寵物指令說明書：寶貝龍篇\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="寵物等級：1～30\n坐下\n別亂來|住手|不行|不可以\n愛你\n笨蛋|傻瓜|討厭\n便便"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="寵物等級：10～30\n說|說話|講話\n可愛|漂亮\n睡|睡覺|睏"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Tip. 當寵物等級達15級，可讓牠說出特定的內容 \n #b例) /寵物 [內容]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160023">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="關於寵物的說明文"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n在90天內，將會在您的身邊成為您最忠誠又可靠的夥伴喔！"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="當過了90天以後生命水乾枯時，您可利用#b生命水#k透過#b妖精 瑪麗#k或位在&quot;愛奧斯塔入口&quot;的小精靈，將寵物重新復活喔！"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="您可從訓練師或寵物飼料商人購買寵物飼料，並使用指令來提升與寵物間的親密度。"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="寵物指令說明書：綠龍,紅龍,藍龍篇\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="寵物等級：15～30\n坐下\n住手|不行|不可以\n笨蛋|傻瓜|討厭\n便便\n愛你\n說|說話|講話\n睡|睡覺|睏"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="寵物等級：20～30\n變身"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Tip. 當寵物等級達15級，可讓牠說出特定的內容 \n #b例) /寵物 [內容]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160024">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="關於寵物的說明文"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n在90天內，將會在您的身邊成為您最忠誠又可靠的夥伴喔！"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="當過了90天以後生命水乾枯時，您可利用#b生命水#k透過#b妖精 瑪麗#k或位在&quot;愛奧斯塔入口&quot;的小精靈，將寵物重新復活喔！"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="您可從訓練師或寵物飼料商人購買寵物飼料，並使用指令來提升與寵物間的親密度。"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="寵物指令說明書：黑龍篇\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="寵物等級：15～30\n坐下\n住手|不行|不可以\n笨蛋|傻瓜|討厭\n便便\n愛你\n說|說話|講話 \n睡|睡覺|睏"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="寵物等級：20～30\n可愛\n變身"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Tip. 當寵物等級達15級，可讓牠說出特定的內容 \n #b例) /寵物 [內容]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160026">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="關於寵物的說明文"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="90天裡，我將在您身邊成為您最忠實又可靠的夥伴喔！"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="過完90天當生命乾枯時，您可以利用生命水，透過妖精瑪莉將寵物重新復活喔！"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="您可從訓練師或寵物飼料商人購買寵物飼料，並使用指令來提升寵物間的親密度。"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="寵物指令說明書：鬼靈精怪"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="寵物等級：10~30\n坐\n壞的|否|壞女孩|壞男孩\n裝死|便便\n我愛你|擁抱|滾出去|發出噓聲"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="寵物等級：20~30\n交談|聊天|說話\n嗅我的腳\n不給糖就搗蛋|怪物撒嬌"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Tip. 當寵物等級達15級，可讓牠說出特定的內容 \n #b例) /寵物 [內容]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160028">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="펫에 대한 알림문"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n90여일간 당신의 곁에서 사랑스러운 펫으로 지낼 것입니다."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="90일이 지나 생명수가 다 마르면 당신은 #b생명수#k를 구해 #b마르의 숲#k에 있는 요정을 만나거나 루디브리엄의 #b에오스탑 입구#k에 있는 위습을 만나 펫을 부활시킬 수도 있습니다."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="조련사나 펫 먹이 상인을 찾아가 펫의 먹이를 먹이고 명령어를 사용하여 펫과의 친밀도를 높여보세요."/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="펫 명령어 안내서 : 주니어 리퍼 편\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="펫 레벨 : 1 ~ 30\n앉아\n때찌,안돼,혼난다,혼날래\n응가\n사랑해,좋아해,내사랑"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="펫 레벨 : 10 ~ 30\n말해봐,말해,말해줘\n자자,졸립지,쿨쿨,잘자"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="펫 레벨 : 20 ~ 30\n변신"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="Tip. 펫의 레벨이 15가 되면 특정 말을 하도록 시킬 수 있습니다. \n #b예) /펫 [할 말]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160029">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="關於寵物的說明文"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="90天裡，我將在您身邊成為您最忠實又可靠的夥伴喔！"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="過完90天當生命乾枯時，您可以利用生命水，透過妖精瑪莉將寵物重新復活喔！"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="您可從訓練師或寵物飼料商人購買寵物飼料，並使用指令來提升寵物間的親密度。"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="寵物指令說明書：雪寶篇\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="寵物等級：1 ~ 30\n笨蛋、傻瓜、討厭/愛你、喜歡、我的愛\n聖誕快樂/可愛、漂亮、美麗、口愛\n住手、不行、不可以、別亂來"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="寵物等級：10 ~ 30\n說、說話、講話 / 睡、睡覺、睏、晚安"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="寵物等級：20 ~ 30\n變身"/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="Tip. 當寵物等級達15級，可讓牠說出特定的內容 \n #b例) /pet [說話]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160031">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="關於寵物的說明文"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n在90天內，將會在您的身邊成為您最忠誠又可靠的夥伴喔！"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="當過了90天以後生命水乾枯時，您可利用#b生命水#k透過#b妖精 瑪麗#k或位在&quot;愛奧斯塔入口&quot;的小精靈，將寵物重新復活喔！"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="您可從訓練師或寵物飼料商人購買寵物飼料，並使用指令來提升與寵物間的親密度。"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="寵物指令說明書：小刺蝟篇\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="寵物等級：1～30\n坐下/笨蛋, 傻瓜, 討厭/嗯嘎/我愛你,喜歡你,我的愛"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="寵物等級：10～30\n吐舌頭/你說啊, 快說, 快說啦/來來, 想睡吧, 呼嚕呼嚕, 睡吧"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="Tip. 當寵物等級達15級，可讓牠說出特定的內容 \n #b例) /寵物 [內容]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160033">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="關於寵物的說明文"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n在90天內，將會在您的身邊成為您最忠誠又可靠的夥伴喔！"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="當過了90天以後生命水乾枯時，您可利用#b生命水#k透過#b妖精 瑪麗#k或位在&quot;愛奧斯塔入口&quot;的小精靈，將寵物重新復活喔！"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="您可從訓練師或寵物飼料商人購買寵物飼料，並使用指令來提升與寵物間的親密度。"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="寵物指令說明書：菇菇寶貝篇\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" 寵物等級：1～30\n坐下/打打,不行,不可以,打你唷/嗯嘎/來來,想睡吧,呼嚕呼嚕,睡吧"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="寵物等級：10～30\n我愛你,喜歡你,我的愛/吐舌頭"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="寵物等級：20～30\n變身"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="Tip. 當寵物等級達15級，可讓牠說出特定的內容 \n #b例) /寵物 [內容]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160034">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="關於寵物的說明文"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n90天裡，我將在您的身邊成為您最忠誠又可靠的夥伴喔！"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="\n過完90天當生命水乾枯時，您可利用#b生命水#k透過#b妖精 瑪麗#k將寵物重新復活喔！\n您可從訓練師或寵物飼料商人購買寵物飼料，並使用指令來提升與寵物間的親密度。"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="寵物指令說明書 : 機器小子篇\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="寵物等級: 1 ~ 30\n坐下 / 睡、睏、睡覺、晚安 / 不乖、不行、住手、不可以 / 愛你、喜歡你、我的愛 / 笨蛋、討厭、傻瓜"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="寵物等級 : 10 ~ 30\n攻擊、開始攻擊、說、說話、說說看"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="寵物等級 : 15 ~ 30\n變身、出動"/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="Tip. 當寵物等級達15級，可讓牠說出特定的內容 \n #b例) /寵物 [內容]#k"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="寵物指令說明書 : 成年機器人篇\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="寵物等級: 15 ~ 30\n坐下 / 起來、起立 /  笨蛋、討厭、傻瓜 /  不行、住手、不可以"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="寵物等級 : 15 ~ 30\n手、伸手 / 愛你 / 說話 /  開始攻擊、攻擊 /  睡、睏、睡覺、晚安"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Tip. 當寵物等級達15級，可讓牠說出特定的內容 \n #b例) /寵物 [內容]#k"/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="0">
+<string name="text" value="寵物指令說明書 : 金剛機器人篇\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="寵物等級: 15 ~ 30\n坐下 / 笨蛋、討厭、傻瓜 /  不行、住手、不可以"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="寵物等級 : 15 ~ 30\n愛你 / 說話 / 開始攻擊、攻擊 /  睡、睏、睡覺、晚安 /  變身"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Tip. 當寵物等級達15級，可讓牠說出特定的內容 \n #b例) /寵物 [內容]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161000">
+<imgdir name="info">
+<canvas name="icon" width="29" height="27">
+<vector name="origin" x="-2" y="27"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="26">
+<vector name="origin" x="-2" y="27"/>
+</canvas>
+<int name="timeLimited" value="1"/>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="slotMax" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="葛溫的日記"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#L1##b日記第一頁..#k#l"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="#L3##b中略...#k#l"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="#L7##b日記最後一頁#k#l"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="2003年 4月 29日\n天氣：晴朗"/>
+<string name="align" value="2"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="終於來到了楓之谷的世界…偶爾碰到人聊聊天，也得到了不少幫助，而現在則抵達了一個叫做楓葉村的村莊。\r\n以出現在村莊外圍的怪物強弱來判斷，情況應該不像傳聞般那麼危險...."/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="2003年 5月 02日.\n天氣：晴朗"/>
+<string name="align" value="2"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="來到這裡以來，一直持續著晴朗的天氣。\r\n這幾天觀察村莊內部的情況，這裡確實是個相當和平又寧靜的地方。"/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="0">
+<string name="text" value="."/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="."/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="."/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="(中略)"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="."/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="5">
+<string name="text" value="."/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="6">
+<string name="text" value="."/>
+<int name="align" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="4">
+<imgdir name="0">
+<string name="text" value="2003年 6月 02日.\n天氣：下雨"/>
+<string name="align" value="2"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="遇見了一個叫麥吉的人，但這傢伙劈頭就說不要跟他說話…不曉得是否真如約翰所說，是個了不起的武者...？ 首先決定要到勇士之村四周圍看看。\n途中遇到了一個叫義安的小女生，雖然看她皮膚淨白，但卻穿著一身印地安服裝，我想等她長大，應該會是個小美女吧？呵呵~"/>
+</imgdir>
+</imgdir>
+<imgdir name="5">
+<imgdir name="0">
+<string name="text" value="."/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="."/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="."/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="(中略)"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="."/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="5">
+<string name="text" value="."/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="6">
+<string name="text" value="."/>
+<int name="align" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="6">
+<imgdir name="0">
+<string name="text" value="2004年 8月 02日\n天氣：就算是酷暑，冰原雪域仍然下著雪！"/>
+<string name="align" value="2"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="到目前還沒有習慣這裡的環境，在天空之城明明吹著溫暖的風，但進入冰原雪域就開始飄雪不斷、滿地結冰..."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="不巧碰到了一個性格怪異的老婆婆，說是要幫我算命，就想拉我進她的屋內，所以在還沒準備禦寒用品，就匆匆忙忙逃到冰原雪域來了。就因為這樣，現在的我生了一場重感冒，只好借住在杰德的家裡。"/>
+</imgdir>
+</imgdir>
+<imgdir name="7">
+<imgdir name="0">
+<string name="text" value="2004年 8月 10日\n天氣：晴空萬里"/>
+<string name="align" value="2"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="聽到了傳聞是有關一個叫巴洛古的怪物，看來當務之急應該就是要打倒那傢伙。想要打倒那傢伙，好像是要經過螞蟻洞，是一個有著很大很大的門的地方…哎呀！我也不是很清楚…總之先到螞蟻洞深處，應該就可以見到了吧？\n首先要先去見麥吉，治療我受傷的身體…"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161001">
+<imgdir name="info">
+<canvas name="icon" width="30" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<canvas name="iconRaw" width="30" height="31">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="only" value="1"/>
+<int name="tradeBlock" value="1"/>
+<int name="notSale" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="#e新手指南#n"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="目錄\n#L1##b1. 何謂初心者？#k#l\n#L3##b2. 操作方法簡介#k#l\n#L9##b3. 何謂道具？#k#l\n#L11##b4. AP和 SP#k#l\n#L14##b5. 何謂轉職？#k#l\n#L15##b6. 一轉條件與方法#k#l"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="1. 何謂新手? "/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="初心者是擁有無限潛力的角色，為以後可以茁壯強大，須在楓之島持續鍛鍊自己的能力。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="待完成在楓之島的修煉，就可前往維多利亞島接受更大的挑戰，不斷累積實力，並且可透過轉職獲得更強大力量。"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="初心者是成為威猛無敵的勇者，所必經的階段。希望您不斷鍛鍊自己，往自己的冒險之路前進。"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n\n\n\n\n\n\n\n\n\n#L1##b回到目錄#k#l"/>
+<int name="align" value="2"/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="0">
+<string name="text" value="2-1. 操作方法"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#e左右方向鍵#n：左右移動\n#e上下方向鍵#n：爬繩或使用傳點\n#eAlt鍵 #n：跳躍\n#eCtrl鍵 #n：攻擊\n#eZ鍵或數字鍵0鍵 #n：撿道具\n#eE鍵#n：開啟裝備視窗\n#eI鍵 #n：開啟道具視窗\n#eS鍵 #n：開啟角色能力視窗\n#eK鍵 #n：開啟技能視窗"/>
+</imgdir>
+</imgdir>
+<imgdir name="4">
+<imgdir name="0">
+<string name="text" value="#bTip.#k可將消耗性道具或技能，設定到畫面右下方的快捷鍵中，如此便可快速又方便地使用道具或技能喔！ "/>
+</imgdir>
+</imgdir>
+<imgdir name="5">
+<imgdir name="0">
+<string name="text" value="2-2. 指令"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="在聊天視窗輸入下列指令，便可使用各項功能。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="(1) #e對話#n\n"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="#e/所有人#n：轉換為一般聊天模式\n#e/好友#n：轉換為好友聊天模式\n#e/組隊#n：轉換為組隊聊天模式\n#e/公會#n：轉換為公會聊天模式\n#e/悄悄話 角色名稱#n：向對方傳送密語"/>
+</imgdir>
+</imgdir>
+<imgdir name="6">
+<imgdir name="0">
+<string name="text" value="(2) #e行動#n\n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#e/找人 角色名稱#n：可查詢該玩家上線與否及目前所在位置\n#e/交易 角色名稱#n：向該角色提出交換申請"/>
+</imgdir>
+</imgdir>
+<imgdir name="7">
+<imgdir name="0">
+<string name="text" value="(3) #e組隊#n\n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#e/組隊狀況#n：顯示目前加入該隊伍的隊員相關資訊\n#e/組隊開啟#n：組成新的隊伍\n#e/組隊離開#n：自加入的隊伍退出"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="#e/組隊邀請#n：邀請新的隊員#b(限隊長使用)#k\n#e/組隊退出#n：將已加入的隊員強行踢出隊伍#b(限隊長使用)#k"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="#L1##b回到目錄#k#l"/>
+<string name="align" value="2"/>
+</imgdir>
+</imgdir>
+<imgdir name="8">
+<imgdir name="0">
+<string name="text" value="3. 何謂道具？"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="(1) #e裝備道具#n\n  可直接裝備在角色身上的道具，可分為提升角色能力的一般裝備道具，以及可改變角色外表的加值道具。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="玩家須開啟裝備視窗，將裝備道具拖曳到該裝備欄內，或者連擊該裝備道具。"/>
+</imgdir>
+</imgdir>
+<imgdir name="9">
+<imgdir name="0">
+<string name="text" value="(2) #e消耗性道具#n\n  此指可恢復HP或MP的藥水，以及可提升裝備道具能力的卷軸等單次使用性道具。玩家只需連擊消耗性道具即可使用，使用後該道具便會消失。"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="(3)#e 其他道具#n\n  怪物所掉出的戰利品、任務所需的道具、礦石、寶石等，此類道具通稱為其他類道具。其他類道具是無法直接使用，"/>
+</imgdir>
+</imgdir>
+<imgdir name="10">
+<imgdir name="0">
+<string name="text" value="透過任務或NPC，而對遊戲進行產生影響。"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="(4)#e 加值道具#n\n  指購物商場所販售的道具，具有裝飾角色外表或發揮特殊效果等功能。 #r玩家須先儲值點數，才能購買這些加值道具。 #k"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="\n\n\n#L1##b回到目錄#k#l"/>
+<int name="align" value="2"/>
+</imgdir>
+</imgdir>
+<imgdir name="11">
+<imgdir name="0">
+<string name="text" value="4. AP與SP"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="(1) #eAP(Ability Point)#n\n此指能力點數，可分配到力量(STR)、敏捷(DEX)、智力(INT)、幸運(LUK)、MaxHP、 MaxMP等項目。每當角色升級，便可獲得5點的能力點數。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="#b力量(STR)#k - 裝備重的武器或盔甲所需的能力值，是決定劍士攻擊力最重要的指標。"/>
+</imgdir>
+</imgdir>
+<imgdir name="12">
+<imgdir name="0">
+<string name="text" value="#b敏捷(DEX)#k - 敏捷值愈高，命中率與迴避率會愈高，是決定弓箭手攻擊力最重要的指標。"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#b智力(INT)#k - 智力值愈高，魔法攻擊的成功率愈高，且升級與將能力點數分配到Max MP後所上升的MP量會增加。這也是決定法師的魔力最為重要的指標。"/>
+</imgdir>
+</imgdir>
+<imgdir name="13">
+<imgdir name="0">
+<string name="text" value="#b幸運(LUK)#k - 幸運值愈高，迴避率會增加，而角色死亡時耗損的經驗值量會減少。這也是決定盜賊攻擊力最為重要的指標。"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="(2) #eSP(Skill Point)#n\n此為技能點數，角色上在初心者時，是無法獲得技能點數，但當角色完成轉職的瞬間，即可獲得1點，之後每升一級，便可獲得3點的技能點數。而玩家可將此技能點數分配到各技能上。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="#L1##b回到目錄#k#l"/>
+<string name="align" value="2"/>
+</imgdir>
+</imgdir>
+<imgdir name="14">
+<imgdir name="0">
+<string name="text" value="5. 何謂轉職？"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="當角色等級達到一定水準後，即可進行轉職。#r第一次轉職的等級限制為8~10級，二轉為30級，而三轉則是70級#k，當角色達到上述的等級，即可進行各階段的轉職。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="完成轉職後，可獲得各職業相應的技能，並且使用符合該職業的道具。此外，HP和MP的量也會增加，攻擊力與防禦力也會上升，而道具視窗的欄位也會增加。"/>
+</imgdir>
+</imgdir>
+<imgdir name="15">
+<imgdir name="0">
+<string name="text" value="6. 一轉條件與方法"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="為了進行第一階段轉職，玩家須從楓之島移動到維多利亞島。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="玩家可在楓之港支付150楓幣搭乘船隻，前往位在維多利亞島的維多利亞港。"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="之後，玩家可搭乘計程車或親自移動地圖，前往可進行轉職的村莊。"/>
+</imgdir>
+</imgdir>
+<imgdir name="16">
+<imgdir name="0">
+<string name="text" value="(1)#e弓箭手#n\n當#r等級達10級#k以上，便可前往弓箭手村去見#b赫麗娜#k，接受有關弓箭手的指引。"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="(2)#e盜賊#n\n當#r等級達10級#k以上，便可前往墮落城市去見#b達克魯#k，接受有關盜賊的指引。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="(3)#e法師#n\n#r等級8級#k以上，便可前往魔法森林去見#b漢斯#k，接受有關法師的指引。"/>
+</imgdir>
+</imgdir>
+<imgdir name="17">
+<imgdir name="0">
+<string name="text" value="(4)#e劍士#n\n當#r等級達10級#k以上，便可前往勇士之村去見#b武術教練#k，接受有關劍士的指引。"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="(5)#e海盜#n\n當#r等級達10級#k以上，便可前往鯨魚號去見#b卡伊琳#k，接受有關盜賊的指引。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="#bTip.#k第一次轉職時，#b可根據職業特性重新調整能力點數(AP)#k，而在初心者階段建議集中分配到力量(STR)和敏捷(DEX)，便可有助於升級。"/>
+</imgdir>
+</imgdir>
+<imgdir name="18">
+<imgdir name="0">
+<string name="text" value="#bTip.#k超過30級以後再行轉職，將無法對先前等級的技能點數(SP)獲得補償；建議你達到一轉所需等級時，便直接進行轉職。"/>
+</imgdir>
+</imgdir>
+<imgdir name="19">
+<imgdir name="0">
+<string name="text" value="\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n#L1##b回到目錄#k#l"/>
+<int name="align" value="2"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161002">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="1"/>
+<int name="only" value="1"/>
+<int name="quest" value="1"/>
+<int name="notSale" value="1"/>
+<int name="timeLimited" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="#b메이플스토리 3주년#k"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n메이플스토리 3주년을 기념하여 엘리니아의 대마법사 하인즈님께서 성실한 여행자를 위해 선물을 준비하셨다고 합니다. "/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="여행자님의 성실함을 증명할 수 있는 도장을 출석확인 책에 찍어 드릴테니 하인즈님을 찾아가 보시기 바랍니다. "/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="#i4031300#"/>
+<int name="align" value="2"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="#b하인즈의 전언#k"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#n메이플 월드가 생겨난지도 벌써 3년이 지났군.."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="지난 3년동안 꾸준히 메이플스토리에 대한 사랑과 관심을 보여준 것에 대해 깊히 감사하고 있네.."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="그런 의미에서 성실한 메이플 여행자에게 선물을 준비하였으니 어서 나를 찾아오게나."/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="2006년 4월 29일"/>
+<int name="align" value="2"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161003">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="1"/>
+<int name="only" value="1"/>
+<int name="quest" value="1"/>
+<int name="notSale" value="1"/>
+<int name="timeLimited" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="#b메이플스토리 3주년#k"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n메이플스토리 3주년을 기념하여 엘리니아의 대마법사 하인즈님께서 성실한 여행자를 위해 선물을 준비하셨다고 합니다. "/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="여행자님의 성실함을 증명할 수 있는 도장을 출석확인 책에 찍어 드릴테니 하인즈님을 찾아가 보시기 바랍니다. "/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="#i4031300#"/>
+<int name="align" value="2"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="#b하인즈의 전언#k"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#n메이플 월드가 생겨난지도 벌써 3년이 지났군.."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="지난 3년동안 꾸준히 메이플스토리에 대한 사랑과 관심을 보여준 것에 대해 깊히 감사하고 있네.."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="그런 의미에서 성실한 메이플 여행자에게 선물을 준비하였으니 어서 나를 찾아오게나."/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="2006년 4월 30일"/>
+<int name="align" value="2"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161004">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="1"/>
+<int name="only" value="1"/>
+<int name="quest" value="1"/>
+<int name="notSale" value="1"/>
+<int name="timeLimited" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="#b메이플스토리 3주년#k"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n메이플스토리 3주년을 기념하여 엘리니아의 대마법사 하인즈님께서 성실한 여행자를 위해 선물을 준비하셨다고 합니다. "/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="여행자님의 성실함을 증명할 수 있는 도장을 출석확인 책에 찍어 드릴테니 하인즈님을 찾아가 보시기 바랍니다. "/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="#i4031300#"/>
+<int name="align" value="2"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="#b하인즈의 전언#k"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#n메이플 월드가 생겨난지도 벌써 3년이 지났군.."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="지난 3년동안 꾸준히 메이플스토리에 대한 사랑과 관심을 보여준 것에 대해 깊히 감사하고 있네.."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="그런 의미에서 성실한 메이플 여행자에게 선물을 준비하였으니 어서 나를 찾아오게나."/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="2006년 5월 1일"/>
+<int name="align" value="2"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161005">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="1"/>
+<int name="only" value="1"/>
+<int name="quest" value="1"/>
+<int name="notSale" value="1"/>
+<int name="timeLimited" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="#b메이플스토리 3주년#k"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n메이플스토리 3주년을 기념하여 엘리니아의 대마법사 하인즈님께서 성실한 여행자를 위해 선물을 준비하셨다고 합니다. "/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="여행자님의 성실함을 증명할 수 있는 도장을 출석확인 책에 찍어 드릴테니 하인즈님을 찾아가 보시기 바랍니다. "/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="#i4031300#"/>
+<int name="align" value="2"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="#b하인즈의 전언#k"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#n메이플 월드가 생겨난지도 벌써 3년이 지났군.."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="지난 3년동안 꾸준히 메이플스토리에 대한 사랑과 관심을 보여준 것에 대해 깊히 감사하고 있네.."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="그런 의미에서 성실한 메이플 여행자에게 선물을 준비하였으니 어서 나를 찾아오게나."/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="2006년 5월 2일"/>
+<int name="align" value="2"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161006">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="1"/>
+<int name="only" value="1"/>
+<int name="quest" value="1"/>
+<int name="notSale" value="1"/>
+<int name="timeLimited" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="#b메이플스토리 3주년#k"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n메이플스토리 3주년을 기념하여 엘리니아의 대마법사 하인즈님께서 성실한 여행자를 위해 선물을 준비하셨다고 합니다. "/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="여행자님의 성실함을 증명할 수 있는 도장을 출석확인 책에 찍어 드릴테니 하인즈님을 찾아가 보시기 바랍니다. "/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="#i4031300#"/>
+<int name="align" value="2"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="#b하인즈의 전언#k"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#n메이플 월드가 생겨난지도 벌써 3년이 지났군.."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="지난 3년동안 꾸준히 메이플스토리에 대한 사랑과 관심을 보여준 것에 대해 깊히 감사하고 있네.."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="그런 의미에서 성실한 메이플 여행자에게 선물을 준비하였으니 어서 나를 찾아오게나."/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="2006년 5월 3일"/>
+<int name="align" value="2"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161007">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="1"/>
+<int name="only" value="1"/>
+<int name="quest" value="1"/>
+<int name="notSale" value="1"/>
+<int name="timeLimited" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="#b메이플스토리 3주년#k"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n메이플스토리 3주년을 기념하여 엘리니아의 대마법사 하인즈님께서 성실한 여행자를 위해 선물을 준비하셨다고 합니다. "/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="여행자님의 성실함을 증명할 수 있는 도장을 출석확인 책에 찍어 드릴테니 하인즈님을 찾아가 보시기 바랍니다. "/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="#i4031300#"/>
+<int name="align" value="2"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="#b하인즈의 전언#k"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#n메이플 월드가 생겨난지도 벌써 3년이 지났군.."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="지난 3년동안 꾸준히 메이플스토리에 대한 사랑과 관심을 보여준 것에 대해 깊히 감사하고 있네.."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="그런 의미에서 성실한 메이플 여행자에게 선물을 준비하였으니 어서 나를 찾아오게나."/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="2006년 5월 4일"/>
+<int name="align" value="2"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161008">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="1"/>
+<int name="only" value="1"/>
+<int name="quest" value="1"/>
+<int name="notSale" value="1"/>
+<int name="timeLimited" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="#b메이플스토리 3주년#k"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n메이플스토리 3주년을 기념하여 엘리니아의 대마법사 하인즈님께서 성실한 여행자를 위해 선물을 준비하셨다고 합니다. "/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="여행자님의 성실함을 증명할 수 있는 도장을 출석확인 책에 찍어 드릴테니 하인즈님을 찾아가 보시기 바랍니다. "/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="#i4031300#"/>
+<int name="align" value="2"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="#b하인즈의 전언#k"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#n메이플 월드가 생겨난지도 벌써 3년이 지났군.."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="지난 3년동안 꾸준히 메이플스토리에 대한 사랑과 관심을 보여준 것에 대해 깊히 감사하고 있네.."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="그런 의미에서 성실한 메이플 여행자에게 선물을 준비하였으니 어서 나를 찾아오게나."/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="2006년 5월 5일"/>
+<int name="align" value="2"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161009">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="1"/>
+<int name="only" value="1"/>
+<int name="quest" value="1"/>
+<int name="notSale" value="1"/>
+<int name="timeLimited" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="#b메이플스토리 3주년#k"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n메이플스토리 3주년을 기념하여 엘리니아의 대마법사 하인즈님께서 성실한 여행자를 위해 선물을 준비하셨다고 합니다. "/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="여행자님의 성실함을 증명할 수 있는 도장을 출석확인 책에 찍어 드릴테니 하인즈님을 찾아가 보시기 바랍니다. "/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="#i4031300#"/>
+<int name="align" value="2"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="#b하인즈의 전언#k"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#n메이플 월드가 생겨난지도 벌써 3년이 지났군.."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="지난 3년동안 꾸준히 메이플스토리에 대한 사랑과 관심을 보여준 것에 대해 깊히 감사하고 있네.."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="그런 의미에서 성실한 메이플 여행자에게 선물을 준비하였으니 어서 나를 찾아오게나."/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="2006년 5월 6일"/>
+<int name="align" value="2"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161010">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="1"/>
+<int name="only" value="1"/>
+<int name="quest" value="1"/>
+<int name="notSale" value="1"/>
+<int name="timeLimited" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="#b메이플스토리 3주년#k"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n메이플스토리 3주년을 기념하여 엘리니아의 대마법사 하인즈님께서 성실한 여행자를 위해 선물을 준비하셨다고 합니다. "/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="여행자님의 성실함을 증명할 수 있는 도장을 출석확인 책에 찍어 드릴테니 하인즈님을 찾아가 보시기 바랍니다. "/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="#i4031300#"/>
+<int name="align" value="2"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="#b하인즈의 전언#k"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#n메이플 월드가 생겨난지도 벌써 3년이 지났군.."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="지난 3년동안 꾸준히 메이플스토리에 대한 사랑과 관심을 보여준 것에 대해 깊히 감사하고 있네.."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="그런 의미에서 성실한 메이플 여행자에게 선물을 준비하였으니 어서 나를 찾아오게나."/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="2006년 5월 7일"/>
+<int name="align" value="2"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161011">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="1"/>
+<int name="only" value="1"/>
+<int name="quest" value="1"/>
+<int name="notSale" value="1"/>
+<int name="timeLimited" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="#b메이플스토리 3주년#k"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n메이플스토리 3주년을 기념하여 엘리니아의 대마법사 하인즈님께서 성실한 여행자를 위해 선물을 준비하셨다고 합니다. "/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="여행자님의 성실함을 증명할 수 있는 도장을 출석확인 책에 찍어 드릴테니 하인즈님을 찾아가 보시기 바랍니다. "/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="#i4031300#"/>
+<int name="align" value="2"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="#b하인즈의 전언#k"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#n메이플 월드가 생겨난지도 벌써 3년이 지났군.."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="지난 3년동안 꾸준히 메이플스토리에 대한 사랑과 관심을 보여준 것에 대해 깊히 감사하고 있네.."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="그런 의미에서 성실한 메이플 여행자에게 선물을 준비하였으니 어서 나를 찾아오게나."/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="2006년 5월 8일"/>
+<int name="align" value="2"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161012">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="5000"/>
+<int name="only" value="1"/>
+<int name="tradeBlock" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="#b하인즈의 전언#k"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n메이플월드가 생겨난지도 벌써 3년이 지났다네."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="지난 3년동안 꾸준히 메이플스토리에 대한 사랑과 관심을 보여준 것에 \n깊히 감사하며 성실한 여행자에게 특별한 선물을 준다고 했었지."/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="\n\n\n\n자네야 말로 진정 성실한 여행자 임이 확인되어 특별한 선물을 주었으니 기쁘게 받아주게나. "/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="그동안 수고 많았네."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="#i4031299#"/>
+<string name="align" value="2"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="2006년 5월 8일"/>
+<int name="align" value="2"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161013">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="1"/>
+<int name="only" value="1"/>
+<int name="tradeBlock" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="#e#b神木村簡介#k#n"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n位置：艾納斯大陸西側"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="人口構成：矮人族"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="\n神木村是位在艾納斯大陸最古老森林─米納爾森林中央的村莊。"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="#b前往神木村的方法1 #k"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n1. 在魔法森林碼頭搭乘前往天空之城的飛行船"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="2. 在天空之城碼頭下船"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="3. 在天空之城碼頭搭乘前往神木村的飛行船"/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="4. 抵達神木村，並下船"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="#b前往神木村的方法2 #k"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n1. 在玩具城碼頭搭乘前往天空之城的飛行船"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="2. 在天空之城碼頭下船"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="3. 在天空之城碼頭搭乘前往神木村的飛行船"/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="4. 抵達神木村，並下船"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161014">
+<imgdir name="info">
+<canvas name="icon" width="29" height="27">
+<vector name="origin" x="-2" y="27"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="26">
+<vector name="origin" x="-2" y="27"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="1"/>
+<int name="only" value="1"/>
+<int name="tradeBlock" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="4月16日"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#e\n主題：開始寫日記…"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="\n今天...智慧貓頭鷹傳來了新的消息，聽說人間開始流行每天寫日記。"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="身為女神，要成為人類的表率，因此我也決定要開始寫日記來記錄我的生活。至於能不能每天寫日記…倒是沒什麼把握。"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="4月19日"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#e\n主題：我的石像"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="\n人們為了紀念我，搭起了高聳的高塔，並且根據我的模樣製作了神像。"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="竟然用堅硬無比的岩石雕刻出這麼美麗的作品…人類的能力還是不能小看！為了感謝人們的一片苦心，決定要把這座石像放在我的塔裡。"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="4月23日"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#e\n主題：悠閒的下午時光..."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="\n最近有了新的習慣，那就是每天早上一邊看著女神像，一邊享用美味的茶。愈來愈覺得這座神像雕刻得唯妙唯肖，讓我更加喜歡它。沒想到...竟然可以用石頭做出這麼美麗的東西..."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="人類的手藝還真是不錯…"/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="0">
+<string name="text" value="4月24日"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#e\n主題：不速之客"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="\n今天…戴著圓滾滾又形狀怪異帽子的遠古精靈來到我的住處，說是為了餵養其它精靈們，需要生命草，要我把生命草送給它…"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="但珍貴的生命草，豈能這樣送給它？對於它的死纏爛打，我斷然地拒絕的它的要求。"/>
+</imgdir>
+</imgdir>
+<imgdir name="4">
+<imgdir name="0">
+<string name="text" value="4月27日"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#e\n主題：破碎的女神像"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="\n今天真是令人沮喪！"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="半夜聽到吵雜的聲音，起床查看的結果…發現我最心愛的女神像竟然遭到了破壞！破碎的女神像旁邊，留有來歷不明的腳印…"/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="竟然有人膽敢入侵女神之塔，並解破壞女神的神像！絕對無法饒恕！我一定要找到犯人…"/>
+</imgdir>
+</imgdir>
+<imgdir name="5">
+<imgdir name="0">
+<string name="text" value="4月28日"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#e\n主題：遠古精靈再次來訪"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="\n日前才來找過我的遠古精靈，今天又來到了我的住處。再次明確的告訴它，無法將生命草送給它…"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="但…令人意外的是，遠古精靈竟然說要幫我修補神像？！雖然很開心有人願意幫忙修補我心愛的神像…但它怎麼會知道女神像遭到破壞呢？"/>
+</imgdir>
+</imgdir>
+<imgdir name="6">
+<imgdir name="0">
+<string name="text" value="4月30日"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#e\n主題：人類的來訪"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="\n今天是人們前來拜訪女神之塔的日子！真怕他們看到遭到破壞的神像會很難過…因此我用布把神像遮住了。"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="看來人們對於為何用布把神像蓋起來，而感到疑惑。趁人們起疑前，得趕快把神像修補好！"/>
+</imgdir>
+</imgdir>
+<imgdir name="7">
+<imgdir name="0">
+<string name="text" value="5月3日"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#e\n主題：懶惰的遠古精靈"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="\n難得來到花園，為花澆水了。但原本應該要修補神像的遠古精靈，竟然在花園內遊走。"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="還沒把神像修完，竟然在花園偷懶！因此我大發雷霆把它趕出花園，一旦神像修補完，我就要馬上把它從女神之塔趕走。"/>
+</imgdir>
+</imgdir>
+<imgdir name="8">
+<imgdir name="0">
+<string name="text" value="5月5日"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#e\n主題：囉唆的易克"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="\n今天...易克一整天都跟著我，說遠古精靈很可疑，要我趕緊把它趕走。它說，它一直把來歷不明的精靈們帶入塔內。"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="雖然我也不喜歡遠古精靈，但囉理囉唆的易克也實在令我心煩，因此把易克的雲塊弄亂了，看來它應該可以安靜一會兒。"/>
+</imgdir>
+</imgdir>
+<imgdir name="9">
+<imgdir name="0">
+<string name="text" value="5月7日"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#e\n主題：石像修補作業"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="\n遠古精靈說為了重新製作破損的石像，要我幫忙當它的模特兒。"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="它說只要我暫時待在石像裡面，就可以用魔法來印製模子。聽起來也不是很困難，那只要明天…神像的修補工作終於可以結束了！"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161015">
+<imgdir name="info">
+<canvas name="icon" width="33" height="33">
+<vector name="origin" x="0" y="33"/>
+</canvas>
+<canvas name="iconRaw" width="33" height="31">
+<vector name="origin" x="0" y="33"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="1"/>
+<int name="only" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="4">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="5">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="6">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="7">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="8">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="9">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161016">
+<imgdir name="info">
+<canvas name="icon" width="34" height="35">
+<vector name="origin" x="1" y="35"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="35">
+<vector name="origin" x="1" y="35"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="1"/>
+<int name="only" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="4">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="5">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="6">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="7">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="8">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="9">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161017">
+<imgdir name="info">
+<canvas name="icon" width="29" height="27">
+<vector name="origin" x="-2" y="27"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="26">
+<vector name="origin" x="-2" y="27"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="1"/>
+<int name="only" value="1"/>
+<int name="tradeBlock" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="\n\n\n\n\n\n\n\n...(前略)..."/>
+<int name="align" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="#e第145個月亮消失的夜晚...#k"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="有146位客人來找我了...\n共划了146次槳...\n共投了146個金幣到河水裡..."/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="#e第146個月亮消失的夜晚...#k"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="來了37位客人...\n共划了37次槳，\n並且把37個金幣投入河水裡...\n而最後一位客人是最有熱血的人..."/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="0">
+<string name="text" value="#e第147個月亮消失的夜晚...#k"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="來了40位客人...\n共划了40次槳，\n並將40個金幣投入河水中。"/>
+</imgdir>
+</imgdir>
+<imgdir name="4">
+<imgdir name="0">
+<string name="text" value="#e第148個月亮消失的夜晚...#k"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="有84位客人來找我了...\n共划了84次槳...\n將84個金幣投入河水裡。"/>
+</imgdir>
+</imgdir>
+<imgdir name="5">
+<imgdir name="0">
+<string name="text" value="#e第149個月亮消失的夜晚...#k"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="原本要有18位客人來，\n但卻只有17位客人真正有來...\n共划了17次槳...\n將17個金幣投入河水中。\n\n最後一位客人仍沒有出現..."/>
+</imgdir>
+</imgdir>
+<imgdir name="6">
+<imgdir name="0">
+<string name="text" value="#e第150個月亮消失的夜晚...#k"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="有97位客人來找我...\n共划了97次槳...\n將97個金幣投入了河水。"/>
+</imgdir>
+</imgdir>
+<imgdir name="7">
+<imgdir name="0">
+<string name="text" value="#e第151個月亮消失的夜晚...#k"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="來了66位客人...\n共划了66次槳...\n將66個金幣投入了河水裡。"/>
+</imgdir>
+</imgdir>
+<imgdir name="8">
+<imgdir name="0">
+<string name="text" value="#e第152個月亮消失的夜晚...#k"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="今晚來了一位客人，\n划了1次槳，\n並將1個金幣投入河水中。\n我把在第二個晚上見到的…那位擁有熱血的客人，引導到現世。\n從河水中撈取了1個金幣，\n\n他的名字叫...#b&quot;記憶者&quot;#k..."/>
+</imgdir>
+</imgdir>
+<imgdir name="9">
+<imgdir name="0">
+<string name="text" value="#e第153個月亮消失的夜晚...#k"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="共來了102位客人...\n划了102次槳...\n將102個金幣投入了河水~"/>
+</imgdir>
+</imgdir>
+<imgdir name="10">
+<imgdir name="0">
+<string name="text" value="#e第154個月亮消失的夜晚...#k"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="來了 25位客人...\n划了25次槳...\n將25個金幣投入了河水~"/>
+</imgdir>
+</imgdir>
+<imgdir name="11">
+<imgdir name="0">
+<string name="text" value="\n\n\n\n\n\n\n\n...(後略)..."/>
+<int name="align" value="1"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161018">
+<imgdir name="info">
+<canvas name="icon" width="29" height="29">
+<vector name="origin" x="-2" y="29"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="26">
+<vector name="origin" x="-2" y="29"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="1"/>
+<int name="only" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<int name="align" value="1"/>
+<string name="text" value="\n\n\n\n\n\n\n&quot;唯有領悟心靈之眼的弓箭手… &quot;"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="0">
+<int name="align" value="1"/>
+<string name="text" value="\n\n\n\n\n\n&quot;才能夠讀取這本書中 \n隱藏的真實\n... &quot;"/>
+</imgdir>
+</imgdir>
+<imgdir name="4">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="5">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="6">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="7">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="8">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="9">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161019">
+<imgdir name="info">
+<canvas name="icon" width="29" height="29">
+<vector name="origin" x="-2" y="29"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="26">
+<vector name="origin" x="-2" y="29"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="1"/>
+<int name="only" value="1"/>
+<int name="tradeBlock" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="\n\n\n\n\n\n&quot; 這書是關於傳說中戰士 \n賽伊蘭的故事...&quot;"/>
+<int name="align" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="#e導言#"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="戰士賽伊蘭是楓之谷歷史上最優秀的劍士，他集英雄、聖騎士、黑騎士等劍士三大系列之大成的人物，創下了前無古人、後無來者的功績。\n但他之所以受到人們的景仰，並單單是因為如此而已。賽伊蘭所留下的英勇事蹟與冒險故事，讓許許多多在楓之古世界探險的勇者再一次回想勇氣與正義的真諦。"/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="0">
+<string name="text" value="\n\n就因如此，戰士賽伊蘭的故事才會讓人津津樂道，並廣為流傳。\n出生在維多利亞島內森林深處小村莊的他，經過無數的冒險與磨鍊而成為真正的英雄…，希望透過塞伊蘭的故事，可以感動許許多多在楓之谷世界各進行探險與自我修煉的勇者。"/>
+</imgdir>
+<imgdir name="1">
+<int name="align" value="2"/>
+<string name="text" value="\n- 作者 -"/>
+</imgdir>
+</imgdir>
+<imgdir name="4">
+<imgdir name="0">
+<string name="text" value="\n\n\n\n\n\n\n...(中略)..."/>
+<int name="align" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="5">
+<imgdir name="0">
+<string name="text" value="#e天空的格瑞芬多#n"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="某天，賽伊蘭來到天空之城。在黑色光芒的庭園裡，他與從未碰過的動物相遇！那動物的頭頂長出又長又白的角，並擁有老鷹的頭、馬的四肢、獅子的尾巴，而身體上長有巨大的翅膀。\n賽伊蘭就被神秘的動物深深吸引，而慢慢開始靠近牠，但看到賽伊蘭的牠受到驚嚇，發出怪異的叫聲並開始攻擊賽伊蘭。"/>
+</imgdir>
+</imgdir>
+<imgdir name="6">
+<imgdir name="0">
+<string name="text" value="\n\n這動物擁有閃電般的速度，並揮動巨大的翅膀發出強風。"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n\n\n\n\n...(中略)..."/>
+<int name="align" value="1"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161020">
+<imgdir name="info">
+<canvas name="icon" width="29" height="29">
+<vector name="origin" x="-2" y="29"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="26">
+<vector name="origin" x="-2" y="29"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="1"/>
+<int name="only" value="1"/>
+<int name="tradeBlock" value="1"/>
+<int name="quest" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="聽說…他是透過某個魔法師旅行家，才第一次看到什麼是魔法。會來到那麼偏僻又小的村莊，看來應該不是什麼偉大的魔法師，而他所看到的魔法，相信也是最基本的魔法吧！但在空無一物的天空所發出的魔法光輝，深深的感動了他，令他下定決心要擁有這神奇的力量。"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="為了學習魔法，他來到了魔法森林，但沒有任何一個魔法師想要收留他。雖然現在的魔法森林還算開放，但以前是更加封閉的一個環境，而當時的他，也不過是個對魔法沒什麼概念的鄉下小孩。"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="但他並沒有放棄，想要學習魔法的熱情，讓他不斷努力。因此他便定居在魔法森林，並四處學習魔法的基礎。人們嘲笑著認真又埋頭苦幹的他，但不久後，大家也不得不認可他，因為…不過多久，他就完成了第一次的轉職，這也是人們開始注意到他所擁有的潛力的時刻！"/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="0">
+<string name="text" value="當時為魔法森林長老的魔法師修諾爾，認為他可以成為一位優秀的魔法師，並且託付他很多事情。他特別熱衷於可復活森林的魔法，並對魔法森林也提供的很多的助益。除了魔法森林外，他為了在其他荒涼的區域創造出森林， 而開始了相關的研究。"/>
+</imgdir>
+</imgdir>
+<imgdir name="4">
+<imgdir name="0">
+<string name="text" value="在荒蕪之地開出花朵…想必是極為困難的事情吧！他為了取得更多的魔法知識，而開始了有關古代魔法的研究，努力於古代魔法書籍的解讀，並且獲得了相當的成效。當時…他又被稱做為魔法森林的天才。"/>
+</imgdir>
+</imgdir>
+<imgdir name="5">
+<imgdir name="0">
+<string name="text" value="魔法森林的天才！他藉由那天才的才能，很快就完成了第二次、第三次，以及第四次的轉職，這可說是毫無先例的快速轉職，但他並沒有因此驕傲自滿，反而更熱衷於魔法的研究，他…永遠渴望於更高的層次…	"/>
+</imgdir>
+</imgdir>
+<imgdir name="6">
+<imgdir name="0">
+<string name="text" value="但是…這難道是他對魔法的渴望…所產生的副作用嗎？為了得到更大的力量，接觸了禁忌的古書！若是其他人，就算得到那本古書，也許無法參透其中的內容，但…就因為是他，終於學會了古代的禁忌魔法…得到了…那股力量…但卻不知道那其實是黑暗的力量…"/>
+</imgdir>
+</imgdir>
+<imgdir name="7">
+<imgdir name="0">
+<string name="text" value="黑暗魔法的力量開始慢慢侵蝕著他，使他的性格漸漸產生變化。原本開朗又善良，並且認真於研究的他，逐漸變得陰沉而偏激。原本人們也以為只是研究魔法而過度疲勞所致，但也不得不開始覺得怪異…"/>
+</imgdir>
+</imgdir>
+<imgdir name="8">
+<imgdir name="0">
+<string name="text" value="最後…黑暗魔法完全支配了他，而他也變得無法使用原有的魔法。但他已無法回頭，只能更加沉浸於黑暗魔法的力量之中，而他…犯下了無法挽回的錯誤。"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="犧牲了很多生命而創造出新魔法的他…難道他不曉得這股力量將會危害到世界嗎？結果…那罪孽的證明出現在他的身上！"/>
+</imgdir>
+</imgdir>
+<imgdir name="9">
+<imgdir name="0">
+<string name="text" value="對於變得已沒有人類該有樣貌的他，決定由長老們進行相應的懲罰。雖然葛雷托建議要將他完全消滅，但對於心愛的弟子，魔法森林的長老─修諾爾石在無法下手，因此決定將他的魔法全部予以封印，並收為長老的監視之下。身為天才魔法師，他的末路實在是過於慘淡。"/>
+</imgdir>
+</imgdir>
+<imgdir name="10">
+<imgdir name="0">
+<string name="text" value="最後…我仍無法寫下他的名字，無法將這位聰明絕頂，可以說是百世難得一見的天才魔法師的名字記錄在歷史的記載…這絕對是一件令人難過的事情…"/>
+</imgdir>
+</imgdir>
+<imgdir name="11">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161021">
+<imgdir name="info">
+<canvas name="icon" width="32" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<canvas name="iconRaw" width="32" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="1"/>
+<int name="only" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="日期：是幾月幾日呢？忘了…"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="作者：大陸最強的天才科學家季諾姆。世上沒有科學家可以超越我！哈哈哈~"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="製作目的：黑色雲霧是物理合成的革命！機械文明的革新！所有科學的創新！藉由製作黑色雲霧，開啟了全新的科學世紀…吧！我想…"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="材料：換氣風扇1個\n墨汁100個\n螺絲釘50個\n長效乾電池1個\n齒輪50個\n多立百烈推進器10個\n鋼鐵20個\n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="以防萬一，建議要準備充足！"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="製作方法：參考另附的設計圖"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="製作注意事項"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="1. 連結多立百烈推進器的所有材料，皆需為鋼鐵！可別因為鋼鐵價格高，而犯下以鉛或銅來取代的錯誤。一不小心會因力量不均，可能會導致黑色雲霧製作器破損。"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="2. 長效乾電池因製作困難，因此建議提早先行製作完成！若沒辦法製作，就算是用買的，也要想辦法拿到它！"/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="0">
+<string name="text" value="3. 就算不是長效乾電池，用一般乾電池也可，但常常替換乾電池並不是很好！因為…每次替換乾電池，需要將機器全部分解後重組！	"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="4. 要使用沒有雜物參雜其中的純墨汁！可別說想要製作泡泡而加入肥皂粉之類的東西…一不小心，不是製作出黑色雲霧，而會製作出白色雲朵！#r極重要！#k"/>
+</imgdir>
+</imgdir>
+<imgdir name="4">
+<imgdir name="0">
+<string name="text" value="使用方法：需同時按下黑色雲霧製作器後面的按鈕，以及下側的按鈕和位在不顯眼地方的按鈕。接下來再用力拉手把三次，經過10秒後再按後側的按鈕5次，上面的按鈕2次，下側的按鈕16次。其他內容請參考設計圖上的操作方法。若覺得這些方法都太麻煩的話，快速連擊製作器兩次！"/>
+</imgdir>
+</imgdir>
+<imgdir name="5">
+<imgdir name="0">
+<string name="text" value="使用後：可製作黑色雲霧，因人也有可能獲得使用該黑色雲霧的技能。若沒有獲得的話，那我也沒辦法~"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="作者的一句話：請懷著感恩的心，尊崇本人才華的心，好好使用~"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161022">
+<imgdir name="info">
+<canvas name="icon" width="33" height="33">
+<vector name="origin" x="0" y="33"/>
+</canvas>
+<canvas name="iconRaw" width="33" height="31">
+<vector name="origin" x="0" y="33"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="何謂熔岩的精髓？"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="那是世上最炙熱的液體！\n不管用何種力量也無法操控的熱力！\n可融化一切的強大力量！\n大地的太陽！"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="永遠熾熱燃燒的那股力量...\n沒有人知道它到底如何產生...\n何時產生...\n其根源是什麼...\n\n為了得到那強大的力量，有許多魔法師來挑戰，但都沒能擁有它！"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="它…熾熱得讓人難耐...\n位在地底最深處...\n以人類的力量甚至無法加以操控。\n連到手的方法也沒有~"/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="0">
+<string name="text" value="在地底深處，以極致的熱力融化岩石的它…取得它的方法…只有集冰原雪域所有的冰雪來將它冷卻。\n但是…因長時間存在於地底深處，它終究產生了龜裂…\n在地底的中心，有熔岩的精髓流出…"/>
+</imgdir>
+</imgdir>
+<imgdir name="4">
+<imgdir name="0">
+<string name="text" value="那雖然只是一小塊碎片，但潛藏在其中的力量…足以融化一座高山...\n\n擁有火焰魔法的魔法師啊~\n若你想要擁有可支配天下所有火焰的力量的話，服下熔岩精髓吧！"/>
+</imgdir>
+</imgdir>
+<imgdir name="5">
+<imgdir name="0">
+<string name="text" value="唯有將熔岩囚禁在你的身體裡...\n唯有與熔岩合為一體…\n才是支配火焰的途徑！\n\n若沒有喝下它的勇氣，\n你便沒有支配它的資格！"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161023">
+<imgdir name="info">
+<canvas name="icon" width="34" height="35">
+<vector name="origin" x="1" y="35"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="35">
+<vector name="origin" x="1" y="35"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="你知道古代冰山嗎？\n那是世上最冰冷的結晶...\n不管用什麼力量都無法破碎的寒氣...\n可將一切結冰的力量...\n那就是大地的月亮…"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="永恆冰凍的那股力量…\n沒人知道它是如何產生...\n何時產生...\n其根源是什麼...\n\n為了得到那強大的力量，有許多魔法師來挑戰，但都沒能擁有它！"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="它存在於寒冷難耐...\n並且極為險峻的寒冰峽谷中，\n以人類的力量…甚至無法靠近那裡。\n\n矗立在峽谷的它…想要打碎堅固無比的它，唯有巨人以特殊製作的鎚子來加以敲擊…"/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="0">
+<string name="text" value="但其中…因長時間受到太陽的照耀而變弱的部份！\n古代冰山…那看似永恆堅硬的身軀也產生了裂痕，\n\n習得寒冰魔法的人啊~\n你若想要擁有支配所有寒冰的力量...\n那就服下古代冰石的粉末吧！"/>
+</imgdir>
+</imgdir>
+<imgdir name="4">
+<imgdir name="0">
+<string name="text" value="唯有將寒氣囚禁在你的身體裡...\n唯有與寒氣合為一體…\n才是支配寒冰的方法！\n若沒有喝下它的勇氣，\n你便沒有支配它的資格！"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161024">
+<imgdir name="info">
+<canvas name="icon" width="29" height="29">
+<vector name="origin" x="-2" y="29"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="26">
+<vector name="origin" x="-2" y="29"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<int name="align" value="1"/>
+<string name="text" value="\n\n\n\n\n\n\n&quot;唯有領悟心靈之眼的弓箭手…&quot;"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="0">
+<int name="align" value="1"/>
+<string name="text" value="\n\n\n\n\n\n才能夠讀取這本書中 \n隱藏的真實\n... &quot;"/>
+</imgdir>
+</imgdir>
+<imgdir name="4">
+<imgdir name="0">
+<string name="text" value="這些內容是為了踏上弓箭手之路的後進…並且已經成為真正的弓箭手所寫下~"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="打開這本書的你，就是那個擁有心靈之眼的人，但願是一個真正的弓箭手。若你未擁有內心之眼，那這本書也不過是一些破紙的集合體。	"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="但心靈之眼並不是弓箭手之路的終點…在更高層次的地方，將會展開更高境界的旅程…只不過現在你眼中的高傲，讓你無法看出這條道路~"/>
+</imgdir>
+</imgdir>
+<imgdir name="5">
+<imgdir name="0">
+<string name="text" value="正在寫著這書的我，也曾以為看到了弓箭之術的終極，但現在悟出自己的愚昧，而將開拓全新境界的方法紀錄於這本書中。只是…感嘆自己還是未能達到這種境界..."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="正在讀著這本書的後進們…前去尋找#b修煉場#k吧！為了達到更高層次的力量，前往那個地方，一切的奧秘都會在那裡被解開！	"/>
+</imgdir>
+</imgdir>
+<imgdir name="6">
+<imgdir name="0">
+<string name="text" value="修煉場是準備在渴望全新力量的勇士們紛紛前往的某個森林裡。透過魔法師朋友的協助，將時空次元加以扭曲，而在其中放入了可幫助修煉的怪物們！當你完成那裡的所有修煉過程，那表示你已做好體驗全新境界的準備。"/>
+</imgdir>
+</imgdir>
+<imgdir name="7">
+<imgdir name="0">
+<string name="text" value="至於修煉的最後…當你做好準備後所要發動技能的方法…我早已交給了我最信賴的朋友！雖然不曉得你會在何時前去尋找我這位朋友，不過如果他…我相信會透過任何方法，傳授你啟動技能的方法，我也毋須擔心…	"/>
+</imgdir>
+</imgdir>
+<imgdir name="8">
+<imgdir name="0">
+<string name="text" value="不同於以往的弓箭之術…透過這修煉，你將看到弓箭之術的極致！在這片大陸…相信不會有超越你的弓箭手出現~"/>
+</imgdir>
+</imgdir>
+<imgdir name="9">
+<imgdir name="0">
+<string name="text" value="祝你好運…與我…走著同一條道路的勇士…"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161025">
+<imgdir name="info">
+<canvas name="icon" width="29" height="29">
+<vector name="origin" x="-2" y="29"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="26">
+<vector name="origin" x="-2" y="29"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<int name="align" value="1"/>
+<string name="text" value="\n\n\n\n\n\n\n&quot;唯有領悟心靈之眼的弓箭手…&quot;"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="0">
+<int name="align" value="1"/>
+<string name="text" value="\n\n\n\n\n\n才能夠讀取這本書中 \n隱藏的真實\n... &quot;"/>
+</imgdir>
+</imgdir>
+<imgdir name="4">
+<imgdir name="0">
+<string name="text" value="這些內容是為了踏上弓箭手之路的後進…並且已經成為真正的弓箭手所寫下~"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="打開這本書的你，就是那個擁有心靈之眼的人，但願是一個真正的弓箭手。若你未擁有內心之眼，那這本書也不過是一些破紙的集合體。	"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="但心靈之眼並不是弓箭手之路的終點…在更高層次的地方，將會展開更高境界的旅程…只不過現在你眼中的高傲，讓你無法看出這條道路~"/>
+</imgdir>
+</imgdir>
+<imgdir name="5">
+<imgdir name="0">
+<string name="text" value="正在寫著這書的我，也曾以為看到了弓箭之術的終極，但現在悟出自己的愚昧，而將開拓全新境界的方法紀錄於這本書中。只是…感嘆自己還是未能達到這種境界..."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="正在讀著這本書的後進們…前去尋找#b修煉場#k吧！為了達到更高層次的力量，前往那個地方，一切的奧秘都會在那裡被解開！	"/>
+</imgdir>
+</imgdir>
+<imgdir name="6">
+<imgdir name="0">
+<string name="text" value="修煉場是準備在渴望全新力量的勇士們紛紛前往的某個森林裡。透過魔法師朋友的協助，將時空次元加以扭曲，而在其中放入了可幫助修煉的怪物們！當你完成那裡的所有修煉過程，那表示你已做好體驗全新境界的準備。"/>
+</imgdir>
+</imgdir>
+<imgdir name="7">
+<imgdir name="0">
+<string name="text" value="至於修煉的最後…當你做好準備後所要發動技能的方法…我早已交給了我最信賴的朋友！雖然不曉得你會在何時前去尋找我這位朋友，不過如果他…我相信會透過任何方法，傳授你啟動技能的方法，我也毋須擔心…	"/>
+</imgdir>
+</imgdir>
+<imgdir name="8">
+<imgdir name="0">
+<string name="text" value="不同於以往的弓箭之術…透過這修煉，你將看到弓箭之術的極致！在這片大陸…相信不會有超越你的弓箭手出現~"/>
+</imgdir>
+</imgdir>
+<imgdir name="9">
+<imgdir name="0">
+<string name="text" value="祝你好運…與我…走著同一條道路的勇士…"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161026">
+<imgdir name="info">
+<canvas name="icon" width="29" height="29">
+<vector name="origin" x="-2" y="29"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="26">
+<vector name="origin" x="-2" y="29"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<int name="align" value="1"/>
+<string name="text" value="\n\n\n\n\n\n\n&quot;唯有領悟心靈之眼的弓箭手…&quot;"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="0">
+<int name="align" value="1"/>
+<string name="text" value="\n\n\n\n\n\n才能夠讀取這本書中 \n隱藏的真實\n... &quot;"/>
+</imgdir>
+</imgdir>
+<imgdir name="4">
+<imgdir name="0">
+<string name="text" value="這些內容是為了踏上弓箭手之路的後進…並且已經成為真正的弓箭手所寫下~"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="打開這本書的你，就是那個擁有心靈之眼的人，但願是一個真正的弓箭手。若你未擁有內心之眼，那這本書也不過是一些破紙的集合體。	"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="但心靈之眼並不是弓箭手之路的終點…在更高層次的地方，將會展開更高境界的旅程…只不過現在你眼中的高傲，讓你無法看出這條道路~"/>
+</imgdir>
+</imgdir>
+<imgdir name="5">
+<imgdir name="0">
+<string name="text" value="正在寫著這書的我，也曾以為看到了弓箭之術的終極，但現在悟出自己的愚昧，而將開拓全新境界的方法紀錄於這本書中。只是…感嘆自己還是未能達到這種境界..."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="正在讀著這本書的後進們…前去尋找#b修煉場#k吧！為了達到更高層次的力量，前往那個地方，一切的奧秘都會在那裡被解開！	"/>
+</imgdir>
+</imgdir>
+<imgdir name="6">
+<imgdir name="0">
+<string name="text" value="修煉場是準備在渴望全新力量的勇士們紛紛前往的某個森林裡。透過魔法師朋友的協助，將時空次元加以扭曲，而在其中放入了可幫助修煉的怪物們！當你完成那裡的所有修煉過程，那表示你已做好體驗全新境界的準備。"/>
+</imgdir>
+</imgdir>
+<imgdir name="7">
+<imgdir name="0">
+<string name="text" value="至於修煉的最後…當你做好準備後所要發動技能的方法…我早已交給了我最信賴的朋友！雖然不曉得你會在何時前去尋找我這位朋友，不過如果他…我相信會透過任何方法，傳授你啟動技能的方法，我也毋須擔心…	"/>
+</imgdir>
+</imgdir>
+<imgdir name="8">
+<imgdir name="0">
+<string name="text" value="不同於以往的弓箭之術…透過這修煉，你將看到弓箭之術的極致！在這片大陸…相信不會有超越你的弓箭手出現~"/>
+</imgdir>
+</imgdir>
+<imgdir name="9">
+<imgdir name="0">
+<string name="text" value="祝你好運…與我…走著同一條道路的勇士…"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161027">
+<imgdir name="info">
+<canvas name="icon" width="29" height="29">
+<vector name="origin" x="-2" y="29"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="26">
+<vector name="origin" x="-2" y="29"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<int name="align" value="1"/>
+<string name="text" value="\n\n\n\n\n\n\n&quot;唯有領悟心靈之眼的弓箭手…&quot;"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="0">
+<int name="align" value="1"/>
+<string name="text" value="\n\n\n\n\n\n才能夠讀取這本書中 \n隱藏的真實\n... &quot;"/>
+</imgdir>
+</imgdir>
+<imgdir name="4">
+<imgdir name="0">
+<string name="text" value="這些內容是為了踏上弓箭手之路的後進…並且已經成為真正的弓箭手所寫下~"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="打開這本書的你，就是那個擁有心靈之眼的人，但願是一個真正的弓箭手。若你未擁有內心之眼，那這本書也不過是一些破紙的集合體。	"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="但心靈之眼並不是弓箭手之路的終點…在更高層次的地方，將會展開更高境界的旅程…只不過現在你眼中的高傲，讓你無法看出這條道路~"/>
+</imgdir>
+</imgdir>
+<imgdir name="5">
+<imgdir name="0">
+<string name="text" value="正在寫著這書的我，也曾以為看到了弓箭之術的終極，但現在悟出自己的愚昧，而將開拓全新境界的方法紀錄於這本書中。只是…感嘆自己還是未能達到這種境界..."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="正在讀著這本書的後進們…前去尋找#b修煉場#k吧！為了達到更高層次的力量，前往那個地方，一切的奧秘都會在那裡被解開！	"/>
+</imgdir>
+</imgdir>
+<imgdir name="6">
+<imgdir name="0">
+<string name="text" value="修煉場是準備在渴望全新力量的勇士們紛紛前往的某個森林裡。透過魔法師朋友的協助，將時空次元加以扭曲，而在其中放入了可幫助修煉的怪物們！當你完成那裡的所有修煉過程，那表示你已做好體驗全新境界的準備。"/>
+</imgdir>
+</imgdir>
+<imgdir name="7">
+<imgdir name="0">
+<string name="text" value="至於修煉的最後…當你做好準備後所要發動技能的方法…我早已交給了我最信賴的朋友！雖然不曉得你會在何時前去尋找我這位朋友，不過如果他…我相信會透過任何方法，傳授你啟動技能的方法，我也毋須擔心…	"/>
+</imgdir>
+</imgdir>
+<imgdir name="8">
+<imgdir name="0">
+<string name="text" value="不同於以往的弓箭之術…透過這修煉，你將看到弓箭之術的極致！在這片大陸…相信不會有超越你的弓箭手出現~"/>
+</imgdir>
+</imgdir>
+<imgdir name="9">
+<imgdir name="0">
+<string name="text" value="祝你好運…與我…走著同一條道路的勇士…"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161028">
+<imgdir name="info">
+<canvas name="icon" width="29" height="29">
+<vector name="origin" x="-2" y="29"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="26">
+<vector name="origin" x="-2" y="29"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<int name="align" value="1"/>
+<string name="text" value="\n\n\n\n\n\n\n&quot;唯有領悟心靈之眼的弓箭手…&quot;"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="0">
+<int name="align" value="1"/>
+<string name="text" value="\n\n\n\n\n\n才能夠讀取這本書中 \n隱藏的真實\n... &quot;"/>
+</imgdir>
+</imgdir>
+<imgdir name="4">
+<imgdir name="0">
+<string name="text" value="這些內容是為了踏上弓箭手之路的後進…並且已經成為真正的弓箭手所寫下~"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="打開這本書的你，就是那個擁有心靈之眼的人，但願是一個真正的弓箭手。若你未擁有內心之眼，那這本書也不過是一些破紙的集合體。	"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="但心靈之眼並不是弓箭手之路的終點…在更高層次的地方，將會展開更高境界的旅程…只不過現在你眼中的高傲，讓你無法看出這條道路~"/>
+</imgdir>
+</imgdir>
+<imgdir name="5">
+<imgdir name="0">
+<string name="text" value="正在寫著這書的我，也曾以為看到了弓箭之術的終極，但現在悟出自己的愚昧，而將開拓全新境界的方法紀錄於這本書中。只是…感嘆自己還是未能達到這種境界..."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="正在讀著這本書的後進們…前去尋找#b修煉場#k吧！為了達到更高層次的力量，前往那個地方，一切的奧秘都會在那裡被解開！	"/>
+</imgdir>
+</imgdir>
+<imgdir name="6">
+<imgdir name="0">
+<string name="text" value="修煉場是準備在渴望全新力量的勇士們紛紛前往的某個森林裡。透過魔法師朋友的協助，將時空次元加以扭曲，而在其中放入了可幫助修煉的怪物們！當你完成那裡的所有修煉過程，那表示你已做好體驗全新境界的準備。"/>
+</imgdir>
+</imgdir>
+<imgdir name="7">
+<imgdir name="0">
+<string name="text" value="至於修煉的最後…當你做好準備後所要發動技能的方法…我早已交給了我最信賴的朋友！雖然不曉得你會在何時前去尋找我這位朋友，不過如果他…我相信會透過任何方法，傳授你啟動技能的方法，我也毋須擔心…	"/>
+</imgdir>
+</imgdir>
+<imgdir name="8">
+<imgdir name="0">
+<string name="text" value="不同於以往的弓箭之術…透過這修煉，你將看到弓箭之術的極致！在這片大陸…相信不會有超越你的弓箭手出現~"/>
+</imgdir>
+</imgdir>
+<imgdir name="9">
+<imgdir name="0">
+<string name="text" value="祝你好運…與我…走著同一條道路的勇士…"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161029">
+<imgdir name="info">
+<canvas name="icon" width="29" height="29">
+<vector name="origin" x="-2" y="29"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="26">
+<vector name="origin" x="-2" y="29"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<int name="align" value="1"/>
+<string name="text" value="\n\n\n\n\n\n\n&quot;唯有領悟心靈之眼的弓箭手…&quot;"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="0">
+<int name="align" value="1"/>
+<string name="text" value="\n\n\n\n\n\n才能夠讀取這本書中 \n隱藏的真實\n... &quot;"/>
+</imgdir>
+</imgdir>
+<imgdir name="4">
+<imgdir name="0">
+<string name="text" value="這些內容是為了踏上弓箭手之路的後進…並且已經成為真正的弓箭手所寫下~"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="打開這本書的你，就是那個擁有心靈之眼的人，但願是一個真正的弓箭手。若你未擁有內心之眼，那這本書也不過是一些破紙的集合體。	"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="但心靈之眼並不是弓箭手之路的終點…在更高層次的地方，將會展開更高境界的旅程…只不過現在你眼中的高傲，讓你無法看出這條道路~"/>
+</imgdir>
+</imgdir>
+<imgdir name="5">
+<imgdir name="0">
+<string name="text" value="正在寫著這書的我，也曾以為看到了弓箭之術的終極，但現在悟出自己的愚昧，而將開拓全新境界的方法紀錄於這本書中。只是…感嘆自己還是未能達到這種境界..."/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="正在讀著這本書的後進們…前去尋找#b修煉場#k吧！為了達到更高層次的力量，前往那個地方，一切的奧秘都會在那裡被解開！	"/>
+</imgdir>
+</imgdir>
+<imgdir name="6">
+<imgdir name="0">
+<string name="text" value="修煉場是準備在渴望全新力量的勇士們紛紛前往的某個森林裡。透過魔法師朋友的協助，將時空次元加以扭曲，而在其中放入了可幫助修煉的怪物們！當你完成那裡的所有修煉過程，那表示你已做好體驗全新境界的準備。"/>
+</imgdir>
+</imgdir>
+<imgdir name="7">
+<imgdir name="0">
+<string name="text" value="至於修煉的最後…當你做好準備後所要發動技能的方法…我早已交給了我最信賴的朋友！雖然不曉得你會在何時前去尋找我這位朋友，不過如果他…我相信會透過任何方法，傳授你啟動技能的方法，我也毋須擔心…	"/>
+</imgdir>
+</imgdir>
+<imgdir name="8">
+<imgdir name="0">
+<string name="text" value="不同於以往的弓箭之術…透過這修煉，你將看到弓箭之術的極致！在這片大陸…相信不會有超越你的弓箭手出現~"/>
+</imgdir>
+</imgdir>
+<imgdir name="9">
+<imgdir name="0">
+<string name="text" value="祝你好運…與我…走著同一條道路的勇士…"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161030">
+<imgdir name="info">
+<canvas name="icon" width="32" height="29">
+<vector name="origin" x="-1" y="29"/>
+</canvas>
+<canvas name="iconRaw" width="32" height="28">
+<vector name="origin" x="-1" y="29"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="1"/>
+<int name="tradeBlock" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<int name="align" value="1"/>
+<string name="text" value="\n\n\n\n桃醫仙的制造法\n\n\n\n\n\n-著者-\n桃醫仙"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="\n#e#t2022145##n\n\n#i2022145:#"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n材料&gt;&gt;\n\n#i2022116#  #t2022116# 3個"/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="0">
+<string name="text" value="\n#e#t2022146##n\n\n#i2022146:#"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n材料&gt;&gt;\n\n#i2022116#  #t2022116# 3個"/>
+</imgdir>
+</imgdir>
+<imgdir name="4">
+<imgdir name="0">
+<string name="text" value="\n#e#t2022147##n\n\n#i2022147:#"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n材料&gt;&gt;\n\n#i4000281#  #t4000281# 10個\n#i4000293#  #t4000293# 10個"/>
+</imgdir>
+</imgdir>
+<imgdir name="5">
+<imgdir name="0">
+<string name="text" value="\n#e#t2022148##n\n\n#i2022148:#"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n材料&gt;&gt;\n\n#i4000276#  #t4000276# 20個\n#i2002005#  #t2002005# 1個"/>
+</imgdir>
+</imgdir>
+<imgdir name="6">
+<imgdir name="0">
+<string name="text" value="\n#e#t2022149##n\n\n#i2022149:#"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n材料&gt;&gt;\n\n#i4000288#  #t4000288# 20個\n#i4000292#  #t4000292# 20個"/>
+</imgdir>
+</imgdir>
+<imgdir name="7">
+<imgdir name="0">
+<string name="text" value="\n#e#t2022150##n\n\n#i2022150:#"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n材料&gt;&gt;\n\n#i4000295#  #t4000295# 10個"/>
+</imgdir>
+</imgdir>
+<imgdir name="8">
+<imgdir name="0">
+<string name="text" value="\n#e#t2050004##n\n\n#i2050004:#"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n材料&gt;&gt;\n\n#i2022131#  #t2022131# 1個\n#i2022132#  #t2022132# 1個"/>
+</imgdir>
+</imgdir>
+<imgdir name="9">
+<imgdir name="0">
+<string name="text" value="\n#e#t4031554##n\n\n#i4031554:#"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n材料&gt;&gt;\n\n#i4000286#  #t4000286# 20個\n#i4000287#  #t4000287# 20個\n#i4000293#  #t4000293# 20個"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161031">
+<imgdir name="info">
+<canvas name="icon" width="31" height="30">
+<vector name="origin" x="-1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="31" height="29">
+<vector name="origin" x="-1" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="X月X日 \n愛上妖精可能是一場錯誤…最近常會有這樣的念頭。我絕不是不愛菲莉亞！不！我甚至比之前還更加愛她！但這就是問題所在，我愈是愛菲莉亞，我就愈怕終有一天要與她的道別。雖然這不是眼前的狀況…但我是人類，總有一天必須與擁有永生的她生離死別…我竟然為數十年後的事情而感到焦慮，這也許有點好笑…但…我不得不恐懼，恐懼終有一天必須要和菲莉亞分開…"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="0">
+<string name="text" value="X月X日\n菲莉亞懷孕了，我已經開始好奇寶寶會像誰。如果像菲莉亞，應該是個漂亮的寶寶吧！雖然菲莉亞說從妖精和人類之間所出生的寶寶是非常稀有，說這一定是女神的祝福...可是我為什麼總覺得不安呢？如果有混到妖精血的孩子一定會活得很久啊！但我只要想到必須把菲莉亞和孩子留下而離開，我就會不寒而慄…心軟又單純的菲莉亞...，她自己一個人可以照顧孩子嗎？我該怎麼辦呢？"/>
+</imgdir>
+</imgdir>
+<imgdir name="4">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="5">
+<imgdir name="0">
+<string name="text" value="X月X日\n我開始進行一項新的研究了！正是延長生命的研究... 雖然傳說有魔法師曾成功研究出成傷不老的方法，但目前未曾聽說有煉金術師成功過...(雖然亞凱斯特大人有成功過，但他身兼魔法師與煉金術師...)煉金術與魔法不同，等價交換原則！若沒有付出同等值的東西，是無法獲的任何東西…我到底要付出什麼，才會得到延長生命的方法呢？我只好相信卡帕萊特的力量了…"/>
+</imgdir>
+</imgdir>
+<imgdir name="6">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="7">
+<imgdir name="0">
+<string name="text" value="X月X日\n終究無法得知延長生命的方法…眼前只好用各種不同方法來進行嚐試！雖然與勒塞倫透過藥物進行研究確實還滿有興趣，但最可靠的，還是我最信任的好友的意見吧！也許…也是因為他是個四海為家，流浪全世界的流浪煉金術師所致吧！好友的意見給了我全新的刺激，把整個肉體換成機器啊…這真是一個前所未有的觀點啊！他果真是一個值得信賴的朋友。"/>
+</imgdir>
+</imgdir>
+<imgdir name="8">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="9">
+<imgdir name="0">
+<string name="text" value="X月X日\n…研究沒什麼進展，所有的研究最後終告失敗。原本以為只要把整個肉體轉換成機器，應該就可以成功，但就算理論上有多麼無懈可擊，但研究結果還是失敗了。當生命體的所有一切都轉變為機器，那他便會喪失自我，若是變成這樣，那就算有得到長生不老的身體還有什麼用呢？看著菲莉亞的臉、聽著菲莉亞的聲音、可以和菲莉亞對話，我需要製造出這樣的全新肉體…但這～真有可能實現嗎？"/>
+</imgdir>
+</imgdir>
+<imgdir name="10">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="11">
+<imgdir name="0">
+<string name="text" value="\n\n\n\n\n在這樣下去…我快要瘋掉了！這個研究好像怎麼試也無辦法成功。 菲莉亞的肚子越來越大，我的心越來越焦急。真的快要瘋掉了…"/>
+</imgdir>
+</imgdir>
+<imgdir name="12">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="13">
+<imgdir name="0">
+<string name="text" value="X月X日\n孩子出生了！亮亮的金髮和白白的臉…真的很像菲莉亞！背後小小的翅膀還是溼潤。我到現在才曉得，原來孩子是這麼可愛又神奇的生物。和菲莉亞討論後，孩子的名字決定叫&quot;琪妮&quot;，菲莉亞高興地說道，幫孩子找到了一個相匹配的名字，就算為了這孩子，我也必需要得到更長的壽命，然而實驗仍舊毫無進展…"/>
+</imgdir>
+</imgdir>
+<imgdir name="14">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="15">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="16">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="17">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="18">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="19">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="20">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="21">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="22">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="23">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="24">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="25">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="26">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="27">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="28">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="29">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="30">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="31">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="32">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="33">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="34">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="35">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161032">
+<imgdir name="info">
+<canvas name="icon" width="31" height="30">
+<vector name="origin" x="-1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="31" height="29">
+<vector name="origin" x="-1" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="X月X日 \n愛上妖精可能是一場錯誤…最近常會有這樣的念頭。我絕不是不愛菲莉亞！不！我甚至比之前還更加愛她！但這就是問題所在，我愈是愛菲莉亞，我就愈怕終有一天要與她的道別。雖然這不是眼前的狀況…但我是人類，總有一天必須與擁有永生的她生離死別…我竟然為數十年後的事情而感到焦慮，這也許有點好笑…但…我不得不恐懼，恐懼終有一天必須要和菲莉亞分開…"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="0">
+<string name="text" value="X月X日\n菲莉亞懷孕了，我已經開始好奇寶寶會像誰。如果像菲莉亞，應該是個漂亮的寶寶吧！雖然菲莉亞說從妖精和人類之間所出生的寶寶是非常稀有，說這一定是女神的祝福...可是我為什麼總覺得不安呢？如果有混到妖精血的孩子一定會活得很久啊！但我只要想到必須把菲莉亞和孩子留下而離開，我就會不寒而慄…心軟又單純的菲莉亞...，她自己一個人可以照顧孩子嗎？我該怎麼辦呢？"/>
+</imgdir>
+</imgdir>
+<imgdir name="4">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="5">
+<imgdir name="0">
+<string name="text" value="X月X日\n我開始進行一項新的研究了！正是延長生命的研究…雖然傳說有魔法師曾成功研究出成傷不老的方法，但目前未曾聽說有煉金術師成功過...(雖然亞凱斯特大人有成功過，但他身兼魔法師與煉金術師…)煉金術與魔法不同，等價交換原則！若沒有付出同等值的東西，是無法獲的任何東西…我到底要付出什麼，才會得到延長生命的方法呢？我只好相信卡帕萊特的力量了…"/>
+</imgdir>
+</imgdir>
+<imgdir name="6">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="7">
+<imgdir name="0">
+<string name="text" value="X月X日\n終究無法得知延長生命的方法….眼前只好用各種不同方法來進行嚐試！雖然與勒塞倫透過藥物進行研究確實還滿有興趣，但最可靠的，還是我最信任的好友的意見吧！也許…也是因為他是個四海為家，流浪全世界的流浪煉金術師所致吧！好友的意見給了我全新的刺激，把整個肉體換成機器啊…這真是一個前所未有的觀點啊！他果真是一個值得信賴的朋友。"/>
+</imgdir>
+</imgdir>
+<imgdir name="8">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="9">
+<imgdir name="0">
+<string name="text" value="X月X日\n…研究沒什麼進展，所有的研究最後終告失敗。原本以為只要把整個肉體轉換成機器，應該就可以成功，但就算理論上有多麼無懈可擊，但研究結果還是失敗了。當生命體的所有一切都轉變為機器，那他便會喪失自我，若是變成這樣，那就算有得到長生不老的身體還有什麼用呢？看著菲莉亞的臉、聽著菲莉亞的聲音、可以和菲莉亞對話，我需要製造出這樣的全新肉體…但這～真有可能實現嗎？"/>
+</imgdir>
+</imgdir>
+<imgdir name="10">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="11">
+<imgdir name="0">
+<string name="text" value=" \n\n\n\n\n在這樣下去…我快要瘋掉了！這個研究好像怎麼試也無辦法成功。 菲莉亞的肚子越來越大，我的心越來越焦急。真的快要瘋掉了…"/>
+</imgdir>
+</imgdir>
+<imgdir name="12">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="13">
+<imgdir name="0">
+<string name="text" value="X月X日\n孩子出生了！亮亮的金髮和白白的臉…真的很像菲莉亞！背後小小的翅膀還是溼潤。我到現在才曉得，原來孩子是這麼可愛又神奇的生物。和菲莉亞討論後，孩子的名字決定叫&quot;琪妮&quot;，菲莉亞高興地說道，幫孩子找到了一個相匹配的名字，就算為了這孩子，我也必需要得到更長的壽命，然而實驗仍舊毫無進展…"/>
+</imgdir>
+</imgdir>
+<imgdir name="14">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="15">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="16">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="17">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="18">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="19">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="20">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="21">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="22">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="23">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="24">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="25">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="26">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="27">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="28">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="29">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="30">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="31">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="32">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="33">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="34">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="35">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161033">
+<imgdir name="info">
+<canvas name="icon" width="31" height="30">
+<vector name="origin" x="-1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="31" height="29">
+<vector name="origin" x="-1" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value=" X月X日\nX月X日 \n愛上妖精可能是一場錯誤…最近常會有這樣的念頭。我絕不是不愛菲莉亞！不！我甚至比之前還更加愛她！但這就是問題所在，我愈是愛菲莉亞，我就愈怕終有一天要與她的道別。雖然這不是眼前的狀況…但我是人類，總有一天必須與擁有永生的她生離死別…我竟然為數十年後的事情而感到焦慮，這也許有點好笑…但…我不得不恐懼，恐懼終有一天必須要和菲莉亞分開…"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="0">
+<string name="text" value="X月X日\n菲莉亞懷孕了，我已經開始好奇寶寶會像誰。如果像菲莉亞，應該是個漂亮的寶寶吧！雖然菲莉亞說從妖精和人類之間所出生的寶寶是非常稀有，說這一定是女神的祝福...可是我為什麼總覺得不安呢？如果有混到妖精血的孩子一定會活得很久啊！但我只要想到必須把菲莉亞和孩子留下而離開，我就會不寒而慄…心軟又單純的菲莉亞…。，她自己一個人可以照顧孩子嗎？我該怎麼辦呢？"/>
+</imgdir>
+</imgdir>
+<imgdir name="4">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="5">
+<imgdir name="0">
+<string name="text" value="X月X日\n我開始進行一項新的研究了！正是延長生命的研究…雖然傳說有魔法師曾成功研究出成傷不老的方法，但目前未曾聽說有煉金術師成功過...(雖然亞凱斯特大人有成功過，但他身兼魔法師與煉金術師…)煉金術與魔法不同，等價交換原則！若沒有付出同等值的東西，是無法獲的任何東西…我到底要付出什麼，才會得到延長生命的方法呢？我只好相信卡帕萊特的力量了…"/>
+</imgdir>
+</imgdir>
+<imgdir name="6">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="7">
+<imgdir name="0">
+<string name="text" value="X月X日\n終究無法得知延長生命的方法….眼前只好用各種不同方法來進行嚐試！雖然與勒塞倫透過藥物進行研究確實還滿有興趣，但最可靠的，還是我最信任的好友的意見吧！也許…也是因為他是個四海為家，流浪全世界的流浪煉金術師所致吧！好友的意見給了我全新的刺激，把整個肉體換成機器啊…這真是一個前所未有的觀點啊！他果真是一個值得信賴的朋友。"/>
+</imgdir>
+</imgdir>
+<imgdir name="8">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="9">
+<imgdir name="0">
+<string name="text" value="X月X日\n研究沒什麼進展，所有的研究最後終告失敗。原本以為只要把整個肉體轉換成機器，應該就可以成功，但就算理論上有多麼無懈可擊，但研究結果還是失敗了。當生命體的所有一切都轉變為機器，那他便會喪失自我，若是變成這樣，那就算有得到長生不老的身體還有什麼用呢？看著菲莉亞的臉、聽著菲莉亞的聲音、可以和菲莉亞對話，我需要製造出這樣的全新肉體…但這一真有可能實現嗎？"/>
+</imgdir>
+</imgdir>
+<imgdir name="10">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="11">
+<imgdir name="0">
+<string name="text" value="\n\n\n\n\n在這樣下去…我快要瘋掉了！這個研究好像怎麼試也無辦法成功。 菲莉亞的肚子越來越大，我的心越來越焦急。真的快要瘋掉了…"/>
+</imgdir>
+</imgdir>
+<imgdir name="12">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="13">
+<imgdir name="0">
+<string name="text" value="X月X日\n孩子出生了！亮亮的金髮和白白的臉…真的很像菲莉亞！背後小小的翅膀還是溼潤。我到現在才曉得，原來孩子是這麼可愛又神奇的生物。和菲莉亞討論後，孩子的名字決定叫&quot;琪妮&quot;，菲莉亞高興地說道，幫孩子找到了一個相匹配的名字，就算為了這孩子，我也避需要得到更長的授命，然而實驗仍舊毫無進展…"/>
+</imgdir>
+</imgdir>
+<imgdir name="14">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="15">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="16">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="17">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="18">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="19">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="20">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="21">
+<imgdir name="0">
+<string name="text" value="X月 X日 \n在地下研究室四處走走發現了 一個通路。好像很久以前所使用的通路呢…沒想到會有連接傑紐米斯特到卡帕萊特的通路呢。還有更關注的是通路裡面還有另一個道路。好像是連接到更深的地下通路…沒想到瑪迦提亞城還有這種地方呢？ 總覺得這個地方有神秘感不能輕易進入。若不是研究而忙碌就會立刻探索內部呢…"/>
+</imgdir>
+</imgdir>
+<imgdir name="22">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="23">
+<imgdir name="0">
+<string name="text" value="X月 X日 \n有去探索無人所知的地下通路了。真的像無底洞的地下通路。往下走了 一段時間所發現的是一 個奇怪的洞穴…好像曾經有人在這裡實驗過的場所。沒想到瑪迦提亞城的地下會有這種地方。應該誰都沒有想像過的地方。協會長會不會知道…？在整理雜亂的洞穴，有發現很多很久的資料。 忽然想到在這裡面也許會找到好的資料。"/>
+</imgdir>
+</imgdir>
+<imgdir name="24">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="25">
+<imgdir name="0">
+<string name="text" value="X月 X日 \n...驚人的事實... 不，是知道了一個恐布的事實。到達了無人所知的地下通路的實驗室，原來曾經是黑魔法師所研究的地方…糟糕。邪惡人的研究室怎麼留存在到現在呢.…但驚嚇也只是短暫的，掌握了澳希莉亞大陸幾百年的他 應該知道如何延長生命的方法…"/>
+</imgdir>
+</imgdir>
+<imgdir name="26">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="27">
+<imgdir name="0">
+<string name="text" value="\n\n\n\n…開始研究黑魔法師的資料了…知道是不能這麼做…但為了延長生命…"/>
+</imgdir>
+</imgdir>
+<imgdir name="28">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="29">
+<imgdir name="0">
+<string name="text" value="X月 X日 \n…黑魔法師所留下的紀錄…知道是很久以前所研究的資料…但總覺得眼熟。是因為心情的原因嘛？ 在於研究上是有點輕鬆了但是…心裡總覺得不舒服。 "/>
+</imgdir>
+</imgdir>
+<imgdir name="30">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="31">
+<imgdir name="0">
+<string name="text" value="X月 X日 \n…瑪迦提亞城的煉金術和黑魔法師的煉金術…真的有很多相同的地方。雖然瑪迦提亞城的煉金術更加詳細更加專業…但基礎是跟黑魔法師的煉金術是一樣的。黑魔法師的煉金術所練的基本研究就好像感覺到是瑪迦提亞城的煉金術一樣的程度….真想這是錯覺就好了。  不想跟那種邪惡的人和瑪迦提亞城的煉金術連在一起。"/>
+</imgdir>
+</imgdir>
+<imgdir name="32">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="33">
+<imgdir name="0">
+<string name="text" value="…再也不能否認了。 瑪迦提亞城的煉金術是以黑魔法師的煉金術做基礎的。傑紐米斯特和卡帕萊特，兩邊都是一樣的。不，在瑪迦提亞城所建立的基盤已經是黑魔法師力量了。在這沒有一個綠洲又貧困的沙漠建立了一座村莊…這都是黑魔法師的功勞。哈…哈哈。邪惡的黑魔法師…被當做他的實驗品而活下去的瑪迦提亞城…這就是瑪迦提亞城的真實嘛？"/>
+</imgdir>
+</imgdir>
+<imgdir name="34">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="35">
+<imgdir name="0">
+<string name="text" value="…透過黑魔法師的研究若被大陸知道要延長生命的事實會如何呢。 有去想像過。一定會跟所有的大陸人受到批評的。蒙特鳩的煉金術師們和卡帕萊特的協會長麥德，學弟勒塞倫…連朋友流浪煉金術師也一定會罵我的。雖然是這樣，若是研究成功的話…成功的話…"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161034">
+<imgdir name="info">
+<canvas name="icon" width="31" height="30">
+<vector name="origin" x="-1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="31" height="29">
+<vector name="origin" x="-1" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="1"/>
+<int name="tradeBlock" value="1"/>
+<int name="only" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="X 月X日 \n愛上妖精可能是一場錯誤…最近常會這麼想。不是不愛菲莉亞了。不，比之前還更愛她呢。 那是個問題 。我越是愛菲莉亞我就越懼怕跟她的離別。雖然不是即時…當我是人類之下總有一天將與永恆生命的她會分開的。雖然跟她離開還要幾百多年之後的事情，現在就開始擔憂是有點好笑…恐懼。跟菲莉亞分開。"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="0">
+<string name="text" value="X月 X日 \n菲莉亞懷孕了。現在就想知道寶寶像誰。如果像菲莉亞，應該是個漂亮的寶寶吧…雖然菲莉亞說，妖精和人類之間所出生的寶寶是非常稀有的，這一定是女神在祝福我們 …可是為什麼總覺得不安呢。如果有混到妖精血的孩子一定會活得很久啊…一旦想起要把菲莉亞和孩子留下而離開的事情就會非常擔心。 心地軟弱的菲莉亞，她自己一個人可以照顧孩子嗎？快要瘋掉了。"/>
+</imgdir>
+</imgdir>
+<imgdir name="4">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="5">
+<imgdir name="0">
+<string name="text" value="X月 X日 \n開始研究新的研究了。研究延長生命…雖然魔法師當中有人有成功過，可是在煉金術師當中還沒有一位成功著。(雖然阿爾卡斯特有成功過，但他也是一位魔法師) 煉金術與魔法不同,若沒有付出同等值得代價是無法獲的任何東西的一門學問…到底要付出什麼才會取得延長生命的藥呢。只能相信卡帕萊特的力量了。"/>
+</imgdir>
+</imgdir>
+<imgdir name="6">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="7">
+<imgdir name="0">
+<string name="text" value="X月 X日 \n不知道該如何延長生命，因此往各方面去做嚐試。"/>
+</imgdir>
+</imgdir>
+<imgdir name="8">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="9">
+<imgdir name="0">
+<string name="text" value="X月 X日 \n…研究沒有進展。所研究的全部都失敗。想說把整個肉體換成機器應該是沒問題的…理論很完美。可是研究結果都是失敗的。 所有的生物轉換成機器之後會忘記自己就不會動。若是變成這樣就算有拿到延長生命的藥也是沒有用的。看著菲莉亞的臉、聽著菲莉亞的聲音、可以跟菲莉亞對話，製造出這種新的肉體…會有可能的嘛。"/>
+</imgdir>
+</imgdir>
+<imgdir name="10">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="11">
+<imgdir name="0">
+<string name="text" value="\n\n\n\n\n...快要瘋掉了。這個研究好像怎麼試也無辦法成功。 菲莉亞的肚子越來越大。我的心越來越焦急。真的快要瘋掉了…"/>
+</imgdir>
+</imgdir>
+<imgdir name="12">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="13">
+<imgdir name="0">
+<string name="text" value="X月 X日 \n孩子出生了。亮亮的金髮和白白的臉…真的很像 菲莉亞。濕濕的小翅膀還沒乾。到目前我還不知道，原來孩子是這麼可愛的生物。 跟菲莉亞商量之後給孩子取了一個叫做琪妮的名字。菲莉亞很高興的說找到一個跟孩子很相配的名字…為了這個孩子也要去取回延長生命的藥材行…研究還是沒有進展中。"/>
+</imgdir>
+</imgdir>
+<imgdir name="14">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="15">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="16">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="17">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="18">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="19">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="20">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="21">
+<imgdir name="0">
+<string name="text" value="X月X日 \n在地下研究室四處走走時，發現了一個奇怪的通路。看似是很久以前所使用的通路…沒想到竟然會有連接蒙特鳩和卡帕萊特的通路…而且值得關注的是，通路內側還有另一個道路，而這通道好像是連接到地底深處…沒想到瑪迦提亞城還有這種地方呢！總覺得這個地方神秘不可測，應該不能向他人透漏。若不是研究讓我焦頭爛額，我還真想馬上探索看看…"/>
+</imgdir>
+</imgdir>
+<imgdir name="22">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="23">
+<imgdir name="0">
+<string name="text" value="X月X日 \n今天我有去試著探查那個不為人知的地下通道，它真的像無底洞般看不到盡頭的通路，持續往下前進的結果，來到了一個神秘的洞穴…好像曾經有人在這裡進行過某項實驗，沒想到瑪迦提亞城的地下會有這種地方…應該任誰都沒有想到吧！不知道協會長會不會知道這件事情？在整理雜亂無章的洞穴的過程中，發現了很多舊有的資料，我想…也許在這裡可以找到不錯的資訊也說不定…"/>
+</imgdir>
+</imgdir>
+<imgdir name="24">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="25">
+<imgdir name="0">
+<string name="text" value="X月X日\n…真是驚人！沒想到我竟然會得知這麼恐怖的真相…經過不為人知的通道後，所抵達的實驗室…沒想到正是黑魔法進行實驗的場所！天啊！那惡人的研究室怎麼還留存在到現在呢？但驚嚇也過過瞬間！曾支配艾納斯大陸長達百年的他，也許知道延長壽命的方法也說不定…"/>
+</imgdir>
+</imgdir>
+<imgdir name="26">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="27">
+<imgdir name="0">
+<string name="text" value="\n\n\n\n…開始研究起黑魔法師的資料了，雖然知道不應該這樣…但只要能夠延長壽命，那我…"/>
+</imgdir>
+</imgdir>
+<imgdir name="28">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="29">
+<imgdir name="0">
+<string name="text" value="X月X日 \n…黑魔法師所留下的紀錄…雖然都是些很久以前的研究資料，但卻總有一種似曾相識的感覺，難道是我的錯覺嗎？雖然研究起來還滿順手，但心裡總有些不舒服…"/>
+</imgdir>
+</imgdir>
+<imgdir name="30">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="31">
+<imgdir name="0">
+<string name="text" value="X月X日 \n…瑪迦提亞城的煉金術和黑魔法師的煉金術…實在有太多地方相像了！雖然瑪迦提亞城的煉金術更為詳細且專業…但其基礎和黑魔法師的煉金術是一樣的！甚至讓我覺得…其實一切都是以黑魔法師的煉金術作為基礎，而發展出瑪迦提亞城的煉金術…天啊！真希望這一切都只是我的錯覺…真不希望那惡人和瑪迦提亞城的煉金術牽扯在一起…"/>
+</imgdir>
+</imgdir>
+<imgdir name="32">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="33">
+<imgdir name="0">
+<string name="text" value="已經…無法再否認了…瑪迦提亞城的煉金術是以黑魔法師的煉金術做為基礎。不論是蒙特鳩或卡帕萊特，兩者都是一樣的。甚至可以說…黑魔法師的力量根本就是建立瑪迦提亞城的基礎！在連個綠洲都沒有的貧瘠土壤上，之所以能夠建造這樣的一個城鎮…這一切竟然都是黑魔法師的功勞！？哈…哈哈…邪惡的黑魔法師…而生活在其研究精華上的瑪迦提亞城…難道這就是瑪迦提亞城的真相！？"/>
+</imgdir>
+</imgdir>
+<imgdir name="34">
+<imgdir name="0">
+<string name="text" value=""/>
+</imgdir>
+</imgdir>
+<imgdir name="35">
+<imgdir name="0">
+<string name="text" value="萬一…其他人知道我想要透過黑魔法師的研究，試圖延長壽命的事實的話…我想，我一定會承受所有人批判與指責，包括蒙特鳩的煉金術師們、卡帕萊特的協會長麥德、學弟勒塞倫…甚至連流浪煉金術師也會唾棄我的。雖然即使如此，只要研究成功的話…"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161035">
+<imgdir name="info">
+<canvas name="icon" width="28" height="30">
+<vector name="origin" x="-2" y="30"/>
+<int name="z" value="0"/>
+</canvas>
+<canvas name="iconRaw" width="28" height="28">
+<vector name="origin" x="-2" y="30"/>
+<int name="z" value="0"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="蝸牛的傳說"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="楓之谷世界有許多不為人知的奇妙生物。在我小時候，在村莊附近曾目睹其中一個奇特的生物，它雖然是蝸牛，但體型遠比一般蝸牛來的大，外表看似相當年老的這隻蝸牛，就是傳說中在楓之谷世界上擁有最長壽命的蝸牛。"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="與從未見過的生物相遇的我，便試圖接近這隻巨大的蝸牛，偶然間目睹了一個神奇的東西！在巨大蝸牛消失的地點，除了紅色、綠色、藍色蝸牛殼以外，一個吸引目光的特殊蝸牛殼…"/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="0">
+<string name="text" value="如彩虹般由七彩所構成的蝸牛殼…當我見到它，就自然地感覺得到這絕對是珍貴的物品！就算擁有世間財物也無法換取的珍貴物品…從小就對寶物著迷的我，毫不猶豫地撿起它並加以保管。"/>
+</imgdir>
+</imgdir>
+<imgdir name="4">
+<imgdir name="0">
+<string name="text" value="使用那蝸牛殼的我....終於達成了我長久以來的夢想！彩虹蝸牛殼為我實現了我心中的夢想！那夢想就是…"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161036">
+<imgdir name="info">
+<canvas name="icon" width="28" height="30">
+<vector name="origin" x="-2" y="30"/>
+<int name="z" value="0"/>
+</canvas>
+<canvas name="iconRaw" width="28" height="28">
+<vector name="origin" x="-2" y="30"/>
+<int name="z" value="0"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="演奏曲：小星星"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="一閃一閃亮晶晶，滿天都是小星星\n#bDo Do Sol Sol La La Sol，Fa Fa Mi Mi Re Re Do#k\n\n掛在天上放光明\n#bSol Sol Fa Fa Mi Mi Re#k\n\n好像許多小眼睛\n#bSol Sol Fa Fa Mi Mi Re#k\n\n一閃一閃亮晶晶，滿天都是小星星\n#bDo Do Sol Sol La La Sol，Fa Fa Mi Mi Re Re Do#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160037">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="關於寵物的說明文"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="90天裡，我將在您身邊成為您最忠實又可靠的夥伴喔！"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="過完90天當生命乾枯時，您可以利用生命水，透過妖精瑪莉將寵物重新復活喔！"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="您可從訓練師或寵物飼料商人購買寵物飼料，並使用指令來提升寵物間的親密度。"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="寵物指令說明書：水晶麋鹿篇\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="寵物等級：1 ~ 30\n坐下/別亂來、住手、不行、不可以\n不要鬧、吐舌頭/變身、特技/心情好、好心情、開心、喜歡、愛你、親愛的"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="寵物等級：10 ~ 30\n說、說話、講話\n睡、睡覺、睏、想睡"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Tip. 當寵物等級達15級，可讓牠說出特定的內容 \n #b例) /pet [說話]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160039">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="關於寵物的說明文"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="90天裡，我將在您身邊成為您最忠實又可靠的夥伴喔！"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="過完90天當生命乾枯時，您可以利用生命水，透過妖精瑪莉將寵物重新復活喔！"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="您可從訓練師或寵物飼料商人購買寵物飼料，並使用指令來提升寵物間的親密度。"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="寵物指令說明書：壞脾氣鴨子"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="Pet Level : 1 ~ 30\n坐下,壞 | 不行 | 壞女孩 | 壞男孩\n 站起來, 便便, 說話 | 聊天 | 說, 抱抱, 愛你, 可愛, 睡覺"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="Pet Level : 10 ~ 30\n聰明"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="Pet Level : 20 ~ 30\n天鵝, 跳舞"/>
+</imgdir>
+<imgdir name="4">
+<string name="text" value="Tip. 當寵物等級達15級，可讓牠說出特定的內容 \n #b例) /pet [說話]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161043">
+<imgdir name="info">
+<canvas name="icon" width="30" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<canvas name="iconRaw" width="30" height="30">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="only" value="1"/>
+<int name="tradeBlock" value="1"/>
+<int name="notSale" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="#e메이커 안내서 해외용. 국내에서는 사용되지 않는다. 해외에서 데이터를 가져갈 때 사용해 주세요.#n"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n\n\n\n\n\n-지은이-\n반리,스탠,루이"/>
+<int name="align" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="#e1. 메이커란?#n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="연금술의 원리를 사용하여 아이템을 제작하는 스킬입니다. 재료가 될 아이템과 수수료만 있으면 원하는 아이템을 제작할 수 있습니다."/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="#e2. 몬스터 결정 만들기#n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="(1) 메이커 스킬에서 [몬스터결정]-[몬스터결정]을 선택합니다.\n(2) 인벤토리에서 31레벨 이상 몬스터에게 획득한 전리품 100개 이상을 메이커 스킬창으로 옮깁니다.\n(3) 만들기 버튼을 클릭하면 몬스터 결정이 완성됩니다."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="#bTip.#k 일정 확률로 한 단계 높은 몬스터 결정이 나올 수 있습니다.\n#bTip.#k퀘스트 아이템 등 일부 몬스터 전리품은 사용할 수 없습니다."/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="0">
+<string name="text" value="#e3. 장비 만들기#n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="(1) 메이커 스킬에서 제작하려는 장비 종류와 원하는 장비 이름을 클릭합니다.\n(2) 제작에 필요한 재료를 확인합니다. 재료가 부족하면 아이콘이 회색으로 표시가 됩니다.\n(3) 만들기 버튼을 클릭하면 장비가 완성됩니다."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="#bTip.#k 촉진제나 강화 보석을 추가로 등록하면 옵션이 더 좋은 아이템을 만들수 있습니다."/>
+</imgdir>
+</imgdir>
+<imgdir name="4">
+<imgdir name="0">
+<string name="text" value="#e4. 강화 보석 만들기#n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="(1) 메이커 스킬에서 [강화보석]에 자신이 만들고 싶은 강화 보석 이름을 클릭합니다.\n(2) 제작에 필요한 보석을 확인합니다. 보석이 부족하면 아이콘이 회색으로 표시가 됩니다.\n(3) 만들기 버튼을 클릭하면 강화 보석이 완성됩니다. "/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="#bTip.#k 일정 확률로 중급 또는 상급 강화 보석이 나올 수 있습니다."/>
+</imgdir>
+</imgdir>
+<imgdir name="5">
+<imgdir name="0">
+<string name="text" value="#e5. 촉진제란?#n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="(1) 촉진제나 강화 보석이 없어도 필수 재료만 있으면 아이템을 제작할 수 있습니다. "/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="(2) 촉진제를 사용하지 않으면 제작된 아이템의 옵션이 기본 옵션보다 더 좋거나 나쁘게 변할 수 있습니다."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="(3) 촉진제를 사용하면 기본 옵션보다 더 좋은 아이템이 제작되지만 제작에 실패하면 재료가 사라집니다."/>
+</imgdir>
+</imgdir>
+<imgdir name="6">
+<imgdir name="0">
+<string name="text" value="#e6. ???#n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="재료와 그에 따라 제작되는 아이템이 알려지지 않은 제작식입니다. 재료의 종류와 수량을 정확히 등록하면 그에 맞는 숨겨진 아이템이 제작되게 됩니다. 제작이 실패해도 재료는 사라지지 않습니다."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="#bTip.#k 촉진제와 강화 보석을 사용할 수 있지만 촉진제 사용시 아이템이 파괴될 확률이 존재합니다."/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161044">
+<imgdir name="info">
+<canvas name="icon" width="32" height="29">
+<vector name="origin" x="1" y="29"/>
+<int name="z" value="0"/>
+</canvas>
+<canvas name="iconRaw" width="32" height="26">
+<vector name="origin" x="1" y="29"/>
+<int name="z" value="0"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="only" value="1"/>
+<int name="tradeBlock" value="1"/>
+<int name="notSale" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="#e皇家騎士團之書 卷一#n"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="這是記載著皇家騎士團的精神以及對話內容的書。"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="\n\n\n#e#b皇家騎士團是誰？#k#n"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="我的名字是皇家騎士團，這是記載我精神的書之第一卷。我是楓之谷世界的皇帝，大家也會稱呼我為年少的皇家騎士團女皇。"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="#e#b黑魔法師是什麼樣的人？#k#n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="在很久以前曾試圖想要毀滅全世界的人…但現有關黑魔法師的事情並沒有留下多少，黑魔法師因他的殘暴凶狠，成為人們再也不想提及的事情。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="但若黑魔法師真的復活，那將會是楓之谷世界最大的災難與危機！目前為止是靠少數皇家騎士團來相抗衡，但已經漸漸無法抵擋黑魔法師逐漸龐大的力量。"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="#e#b皇家騎士團？#k#n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="是為了打倒黑魔法師而創立的騎士團，人稱&quot;皇家騎士團&quot;，由各種不同職業的皇家所組成，致力於打倒黑魔法師的手下，但最近這皇家騎士團也開始感到吃力。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="黑魔法師的手下是想要讓黑魔法師復活的邪惡分子，為了與他們相抗衡，我正在準備為騎士團召募新血。"/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="0">
+<string name="text" value="#e#b我要去哪裡才能見到妳？#k#n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="耶雷弗…這是藉助精靈的力量而能漂浮在空中的島嶼，因精靈的祝福和神獸的力量，怪物或黑魔法師是無法蔓延到這個地方。當完成騎士團召募所需的準備，打算要在定點定居下來開始進行騎士團的召募。"/>
+</imgdir>
+</imgdir>
+<imgdir name="4">
+<imgdir name="0">
+<string name="text" value="#e#b神獸是什麼？#k#n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="神獸是極為巨大…差不多是你數百倍的大小吧！是受到神祇祝福的生物。根據長久以來傳統，會由神獸來決定誰會是楓之谷世界的皇帝。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="當神獸選定一個人，那他就會成為楓之谷世界的皇帝，而神獸絕對不會背叛他，並且常伴其左右保護著皇帝。而現在神獸就在這耶雷弗上方保護著我。"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161045">
+<imgdir name="info">
+<canvas name="icon" width="32" height="29">
+<vector name="origin" x="1" y="29"/>
+<int name="z" value="0"/>
+</canvas>
+<canvas name="iconRaw" width="32" height="26">
+<vector name="origin" x="1" y="29"/>
+<int name="z" value="0"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="only" value="1"/>
+<int name="tradeBlock" value="1"/>
+<int name="notSale" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="#e皇家騎士團之書 券二#n"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="這是記載著皇家騎士團的精神以及對話內容的書。"/>
+<int name="align" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="#e#b什麼是皇家騎士團？#k#n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="過去曾威脅楓之谷世界的黑魔法師，正準備再次復甦。根據我的策士─那因哈特的報告，眼前的和平將不會持續太久，在那曾將這世界頻臨滅亡的黑魔法師再次降臨前，我們必須要累積我們的力量！"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="為了要準備與黑魔法師相抗衡的力量，近期將開始募集皇家騎士團。"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="#e#b人誰都可以成為騎士團的一員嗎？#k#n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="只要是楓之谷的勇士，大家都資格成為騎士團的成員，但還是有其他先決條件！只有等級達20級以上的人才可以新創皇家騎士團角色。"/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="0">
+<string name="text" value="#e#b那這代表已經轉職的角色會變成騎士團嗎？#k#n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="不是的！騎士團角色需要重新建立一個新的角色，但志願成為騎士團的角色，以及新創的騎士團角色將藉由我的力量而相聯接。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="就由精靈的力量而相連結的兩個角色，會具有某種神祕的牽絆。當一個角色的等級上升，將會對另一方提供助益。"/>
+</imgdir>
+</imgdir>
+<imgdir name="4">
+<imgdir name="0">
+<string name="text" value="#e#b精靈的力量？#k#n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="既有的角色身上將會產生一種叫&quot;精靈的祝福&quot;的技能。只要騎士團角色的等級上升，該技能的等級也會隨之提高。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="#e#b那我現在可以志願參加騎士團嗎？#k#n"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="不行！目前還在準備階段，各騎士團長正在努力準備招募的工作。"/>
+</imgdir>
+</imgdir>
+<imgdir name="5">
+<imgdir name="0">
+<string name="text" value="#e#b騎士團長米哈逸#k#n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="我忠誠的騎士─米哈逸，他身上留著劍士的血液，為了與邪惡勢力抗衡，我給了他光之精靈的祝福。首次與他見面的人通常會覺得他冷傲而嚴肅，但他總是以滿腔熱血保護著我的安全。"/>
+</imgdir>
+</imgdir>
+<imgdir name="6">
+<imgdir name="0">
+<string name="text" value="#e#b騎士團長奧茲#k#n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="曾是天上魔法師的奧茲…我給了他火之精靈的祝福。他是個心地善良又溫和的魔法師，但有時會忘了要做的事情，而被伊麗娜叮嚀。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="#e#b騎士團長伊麗娜#k#n"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="伊麗娜是得到風之精靈祝福的弓箭手。心思細膩有冷靜的他，擁有一顆善良的心，常會在奧茲身邊協助並且叮嚀他。"/>
+</imgdir>
+</imgdir>
+<imgdir name="7">
+<imgdir name="0">
+<string name="text" value="#e#b騎士團伊卡勒特#k#n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="受到黑暗精靈之祝福的伊卡勒特是身手敏捷的盜賊。總是用一具盜賊面具藏著自己真實面孔，且因他冷傲的個性，偶爾會和米哈逸發生爭執，但他是充滿正義感的騎士！"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="#e#b騎士團長鷹眼#k#n"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="得到雷電精靈之祝福的鷹眼是為人豪爽的海盜。熱情又大方的他，是引領騎士團整體合諧氣氛的人物。"/>
+</imgdir>
+</imgdir>
+<imgdir name="8">
+<imgdir name="0">
+<string name="text" value="但一旦我所下達的命令絕對誓死完成的他，是個使命必達的騎士。"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161046">
+<imgdir name="info">
+<canvas name="icon" width="32" height="29">
+<vector name="origin" x="1" y="29"/>
+<int name="z" value="0"/>
+</canvas>
+<canvas name="iconRaw" width="32" height="26">
+<vector name="origin" x="1" y="29"/>
+<int name="z" value="0"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="only" value="1"/>
+<int name="tradeBlock" value="1"/>
+<int name="notSale" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="#e皇家騎士團之書 卷三#n"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="這是記載著皇家騎士團的精神以及對話內容的書。"/>
+<int name="align" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="#e#b什麼是聖魂劍士？#k#n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="聖魂劍士是由得到可與邪惡勢力抗衡的光之精靈祝福的米哈逸所領導，是與光之精靈同在的劍士！他們會將光之力量融入劍中，化成聖靈來使用。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="#e#b什麼是烈焰巫師？#k#n"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="烈焰巫師是由獲得可將一切燃燒殆盡的火之精靈祝福的奧茲所領導，是與火之精靈同在魔法師，利用魔法將精靈之力無限擴大來自由操控使用。"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="#e#b什麼是破風使者？#k#n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="這是由得到風之精靈祝福的伊麗娜所領導的騎士團，破風使者是與風之精靈同在的弓箭手，將風之精靈的力量融入箭矢之中來發射。"/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="0">
+<string name="text" value="#e#b什麼是暗夜行者？#k#n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="以光明之力所無法解決的敵人，只好利用黑暗力量與之抗衡…暗夜行者是由得到黑暗精靈祝福的伊卡勒特所領導的騎士團，是與黑暗精靈同在的盜賊。暗夜行者不但可以使用精靈之力，也懂得使用強烈的劇毒。"/>
+</imgdir>
+</imgdir>
+<imgdir name="4">
+<imgdir name="0">
+<string name="text" value="#e#b什麼是閃雷悍將？#k#n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="擁有電擊之力而對敵人造成巨大傷害…閃雷悍將是由得到雷電精靈祝福的鷹眼所領導的騎士團，是與雷電精靈同在的海盜。藉由精靈之力，可使用將體能發揮及至的體術。"/>
+</imgdir>
+</imgdir>
+<imgdir name="5">
+<imgdir name="0">
+<string name="text" value="#e#b好！我都了解了#k#n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="你已讀完所有皇家騎士團之書，你可利用該書來解開之後所掉落的&quot;皇家騎士團問答&quot;並獲得獎勵。祝你一切順利，但願精靈祝福伴你左右，直到騎士團召募的那一天…"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161047">
+<imgdir name="info">
+<canvas name="icon" width="30" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<canvas name="iconRaw" width="30" height="31">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="only" value="1"/>
+<int name="tradeBlock" value="1"/>
+<int name="notSale" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="#e貴族介紹書#n"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="目錄\n#L1##b1．貴族是什麼？#k#l\n#L3##b2．簡單的操作方法#k#l\n#L9##b3．道具是什麼？#k#l\n#L11##b4．AP跟SP#k#l\n#L14##b5．轉職是什麼？#k#l\n#L15##b6．第一次轉職條件及方法#k#l"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="1．貴族是什麼？"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="貴族是較脆弱但是?在力很多的。雖然脆弱但是為了成為榮耀的騎士團在開始的森林開始長期修練。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="將在開始的森林完成修練可以移動到耶雷弗冒險更廣大的世界以及透過轉職可以獲得更強烈的能力。"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="每一個強焊騎士團成員都是從貴族來的。祝你努力修練並成長為強焊的騎士團。"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n\n\n\n\n\n\n\n\n\n#L1##b回到目錄#k#l"/>
+<int name="align" value="2"/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="0">
+<string name="text" value="2-1．操作方法"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#e左右方向按鈕#n：左右移動\n#e上下方向按鈕#n：移動或爬樓梯、傳送點移動\n#eAlt#n：跳躍\n#eCtrl#n：攻擊\n#eZ或數字按鈕0#n：撿道具\n#eE#n：打開裝備欄\n#eI#n：打開道具欄\n#eS#n：打開能力值視窗\n#eK#n：打開技能視窗"/>
+</imgdir>
+</imgdir>
+<imgdir name="4">
+<imgdir name="0">
+<string name="text" value="#bTip．#k在畫面右下快速鍵視窗設定消耗道具或技能可以容易使用道具或技能。"/>
+</imgdir>
+</imgdir>
+<imgdir name="5">
+<imgdir name="0">
+<string name="text" value="2-2．命令"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="在下旁輸入命令就可以使用該技能。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="(1) #e對話#n\n"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="#e/全部#n：轉換為普通對話。\n#e/朋友#n：轉換為朋友對話。\n#e/隊伍#n：轉換為隊伍。\n#e/工會#n：轉換為工會。\n#e/悄悄話[角色名稱]#n：傳送悄悄話。"/>
+</imgdir>
+</imgdir>
+<imgdir name="6">
+<imgdir name="0">
+<string name="text" value="(2) #e行動#n\n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#e/尋找[角色名稱]#n：告知使用者上線情況/現在位子。\n#e/交易[角色名稱]#n：申請交易。"/>
+</imgdir>
+</imgdir>
+<imgdir name="7">
+<imgdir name="0">
+<string name="text" value="(3) #e隊伍#n\n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#e/隊伍資料#n：可以確認現在隊友的資料。\n#e/創立隊伍#n：創立新隊伍。\n#e/離開隊伍#n：離開已加入的隊伍。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="#e/邀請隊伍#n：邀請新隊員。#b(隊長)#k\n#e/強制離開隊伍#n：將隊友強制離開隊伍。#b(隊長)#k"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="#L1##b回到目錄#k#l"/>
+<string name="align" value="2"/>
+</imgdir>
+</imgdir>
+<imgdir name="8">
+<imgdir name="0">
+<string name="text" value="3．道具是什麼？"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="(1) #e裝備道具#n\n可以直接裝備的道具有兩種。一種是可以提高能力值的普通裝備、另外一種是可以裝飾外貌的現金道具。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="要裝備道具要打開裝備視窗移動到欄位(裝備或脫下)或點擊兩下裝備道具。"/>
+</imgdir>
+</imgdir>
+<imgdir name="9">
+<imgdir name="0">
+<string name="text" value="(2) #e消耗道具#n\n是指可以補充HP或MP的藥水以及可以提高道具能力值的卷軸等等一次性道具。點擊兩下消耗道具可以使用並使用一次就會消失。"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="(3)#e其他道具#n\n是指怪物掉落的戰禮品、任務道具、原石、寶石等等的道具。"/>
+</imgdir>
+</imgdir>
+<imgdir name="10">
+<imgdir name="0">
+<string name="text" value="無法直接使用、透過任務或NPC可以影響到遊戲。"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="(4)#e現金道具#n\n在現金商城可以購買的道具、可以裝飾外貌或使用後會有視覺效果的道具。#r現金道具是付費道具、儲值Gash可以購買。#k"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="\n\n\n\n#L1##b回到目錄#k#l"/>
+<int name="align" value="2"/>
+</imgdir>
+</imgdir>
+<imgdir name="11">
+<imgdir name="0">
+<string name="text" value="4．AP(升級點數)跟SP(技能點數)"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="(1) #eAP(升級點數)#n\n可以影響到力量(STR)、敏捷(DEX)、知力(INT)、幸運(LUK)、 MaxHP、 MaxMP的點數。每升級時獲得６點。#e#b自動分配#k#n點擊按鈕會分配AP。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="#b力量(STR)#k－裝備重武器或盔甲時所需要的數值。決定聖魂劍士跟閃雷悍將的攻擊力的最重要的能力。"/>
+</imgdir>
+</imgdir>
+<imgdir name="12">
+<imgdir name="0">
+<string name="text" value="#b敏捷(DEX)#k－該能力值越高命中跟迴避率越增加。決定破風使者攻擊力的最重要的能力值。"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#b智力(INT)#k－該能力值越高魔法攻擊成功率越高並將分配AP給升級跟Max MP時提升的MP量會增加。決定烈焰巫師魔力的最重要的能力。"/>
+</imgdir>
+</imgdir>
+<imgdir name="13">
+<imgdir name="0">
+<string name="text" value="#b幸運(LUK)#k－該能力值越高迴避率增加並角色死亡時減少被扣掉的經驗值量。決定暗夜行者攻擊力的最重要的能力值。"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="(2) #eSP(技能點數)#n\n可以加到轉職可以獲得的技能的點數。一轉轉職完成可以獲得1點獎勵。轉職後每次升級可以獲得3點。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="#L1##b回到目錄#k#l"/>
+<string name="align" value="2"/>
+</imgdir>
+</imgdir>
+<imgdir name="14">
+<imgdir name="0">
+<string name="text" value="5．轉職是什麼？"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="達到一定等級可以轉職。#r1轉是10等級、2轉是30等級、3轉是70等級#k的時候可以轉職。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="轉職後可以學習技能並可以裝備適合的武器。會增加一定的HP跟MP並攻擊力跟防禦力增加、物品欄空間也會一點增加。"/>
+</imgdir>
+</imgdir>
+<imgdir name="15">
+<imgdir name="0">
+<string name="text" value="6．第一次轉職條件跟方法"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="為了進行1轉在開始的森林要移動到耶雷弗。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="為了移動到耶雷弗必須要離開開始的森林。"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="之後要移動到轉職NPC。"/>
+</imgdir>
+</imgdir>
+<imgdir name="16">
+<imgdir name="0">
+<string name="text" value="(1)#e聖魂劍士#n\n#r等級10以上#k可以跟耶雷弗的#b米哈逸#k學習聖魂劍士的事情。"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="(2)#e烈焰巫師#n\n#r等級10以上#k可以跟耶雷弗的#b奧茲#k學習烈焰巫師的事情。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="(3)#e破風使者#n\n#r等級10以上#k可以跟耶雷弗的#b伊麗娜#k學習破風使者的事情。"/>
+</imgdir>
+</imgdir>
+<imgdir name="17">
+<imgdir name="0">
+<string name="text" value="(4)#e夜行者#n\n#r等級10以上#k可以跟耶雷弗的#b伊卡勒特#k學習夜行者的事情。"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="(5)#e閃雷悍將#n\n#r等級10以上#k可以跟耶雷弗的#b鷹眼#k學習閃雷悍將的事情。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="#bTip.#k1轉時#b對職業適合再調整AP#k之後對自己職業適合的能力值再分配AP會比較好。"/>
+</imgdir>
+</imgdir>
+<imgdir name="18">
+<imgdir name="0">
+<string name="text" value="#bTip.#k超過等級30後轉職無法獲得以前階段等級的SP、所以建議到達可以1轉的等級就進行轉職。"/>
+</imgdir>
+</imgdir>
+<imgdir name="19">
+<imgdir name="0">
+<string name="text" value="\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n#L1##b回到目錄#k#l"/>
+<int name="align" value="2"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161048">
+<imgdir name="info">
+<canvas name="icon" width="30" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<canvas name="iconRaw" width="30" height="31">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="only" value="1"/>
+<int name="tradeBlock" value="1"/>
+<int name="notSale" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="#e傳說介紹書#n"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="目錄\n#L1##b1．傳說是什麼？#k#l\n#L3##b2．簡單的操作方法#k#l\n#L9##b3．道具是什麼？#k#l\n#L11##b4．AP跟SP#k#l\n#L14##b5．轉職是什麼？#k#l\n#L15##b6．第一次轉職條件及方法#k#l"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="1．傳說是什麼？"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="傳說是封印黑魔法師的傳說中的英雄。但是被黑魔法師的詛咒所有能力跟記憶都遺失並長時間睡並被解封印。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="在醒過來之後經歷不同的世界並在跟修練場的修練完成可以透過轉職等任務找回能力跟記憶。"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="沒有恢復過去所有力量無法阻擋黑魔法師的再登場。努力修練找回真正的英雄的力量。"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n\n\n\n\n\n\n\n\n\n#L1##b回到目錄#k#l"/>
+<int name="align" value="2"/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="0">
+<string name="text" value="2-1．操作方法"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#e左右方向按鈕#n：左右移動\n#e上下方向按鈕#n：移動或爬樓梯、傳送點移動\n#eAlt#n：跳躍\n#eCtrl#n：攻擊\n#eZ或數字按鈕0#n：撿道具\n#eE#n：打開裝備欄\n#eI#n：打開道具欄\n#eS#n：打開能力值視窗\n#eK#n：打開技能視窗"/>
+</imgdir>
+</imgdir>
+<imgdir name="4">
+<imgdir name="0">
+<string name="text" value="#bTip．#k在畫面右下快速鍵視窗設定消耗道具或技能可以容易使用道具或技能。"/>
+</imgdir>
+</imgdir>
+<imgdir name="5">
+<imgdir name="0">
+<string name="text" value="2-2．命令"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="在下旁輸入命令就可以使用該技能。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="(1) #e對話#n\n"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="#e/全部#n：轉換為普通對話。\n#e/朋友#n：轉換為朋友對話。\n#e/隊伍#n：轉換為隊伍。\n#e/工會#n：轉換為工會。\n#e/悄悄話[角色名稱]#n：傳送悄悄話。"/>
+</imgdir>
+</imgdir>
+<imgdir name="6">
+<imgdir name="0">
+<string name="text" value="(2) #e行動#n\n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#e/尋找[角色名稱]#n：告知使用者上線情況/現在位子。\n#e/交易[角色名稱]#n：申請交易。"/>
+</imgdir>
+</imgdir>
+<imgdir name="7">
+<imgdir name="0">
+<string name="text" value="(3) #e隊伍#n\n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#e/隊伍資料#n：可以確認現在隊友的資料。\n#e/創立隊伍#n：創立新隊伍。\n#e/離開隊伍#n：離開已加入的隊伍。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="#e/邀請隊伍#n：邀請新隊員。#b(隊長)#k\n#e/強制離開隊伍#n：將隊友強制離開隊伍。#b(隊長)#k"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="#L1##b回到目錄#k#l"/>
+<string name="align" value="2"/>
+</imgdir>
+</imgdir>
+<imgdir name="8">
+<imgdir name="0">
+<string name="text" value="3．道具是什麼？"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="(1) #e裝備道具#n\n可以直接裝備的道具有兩種。一種是可以提高能力值的普通裝備、另外一種是可以裝飾外貌的現金道具。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="要裝備道具要打開裝備視窗移動到欄位(裝備或脫下)或點擊兩下裝備道具。"/>
+</imgdir>
+</imgdir>
+<imgdir name="9">
+<imgdir name="0">
+<string name="text" value="(2) #e消耗道具#n\n是指可以補充HP或MP的藥水以及可以提高道具能力值的卷軸等等一次性道具。點擊兩下消耗道具可以使用並使用一次就會消失。"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="(3)#e其他道具#n\n是指怪物掉落的戰禮品、任務道具、原石、寶石等等的道具。"/>
+</imgdir>
+</imgdir>
+<imgdir name="10">
+<imgdir name="0">
+<string name="text" value="無法直接使用、透過任務或NPC可以影響到遊戲。"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="(4)#e現金道具#n\n在現金商城可以購買的道具、可以裝飾外貌或使用後會有視覺效果的道具。#r現金道具是付費道具、儲值Gash可以購買。#k"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="\n\n\n\n#L1##b回到目錄#k#l"/>
+<int name="align" value="2"/>
+</imgdir>
+</imgdir>
+<imgdir name="11">
+<imgdir name="0">
+<string name="text" value="4．AP(升級點數)跟SP(技能點數)"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="(1) #eAP(升級點數)#n\n可以影響到力量(STR)、敏捷(DEX)、知力(INT)、幸運(LUK)、 MaxHP、 MaxMP的點數。每升級時獲得5點。#e#b自動分配#k#n點擊按鈕會分配AP。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="#b力量(STR)#k－裝備重武器或盔甲時所需要的數值。"/>
+</imgdir>
+</imgdir>
+<imgdir name="12">
+<imgdir name="0">
+<string name="text" value="#b敏捷(DEX)#k－該能力值越高命中跟迴避率越增加。"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="(2) #eSP(Skill Point)#n\n可以加到轉職可以獲得的技能的點數。新手的時候無法獲得但一轉職可以獲得1點。轉職後每次升級可以獲得3點。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="#L1##b回到目錄#k#l"/>
+<string name="align" value="2"/>
+</imgdir>
+</imgdir>
+<imgdir name="13">
+<imgdir name="0">
+<string name="text" value="5．轉職是什麼？"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="達到一定等級可以轉職。#r1轉是10等級、2轉是30等級、3轉是70等級、4轉是120等級#k的時候可以轉職。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="轉職後可以學習技能並可以裝備適合的武器。會增加一定的HP跟MP並攻擊力跟防禦力增加、物品欄空間也會一點增加。"/>
+</imgdir>
+</imgdir>
+<imgdir name="14">
+<imgdir name="0">
+<string name="text" value="6．第一次轉職條件跟方法"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="為了進行1轉在開始的森林要移動到瑞恩。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="為了移動到瑞恩要離開寒冷的森林並在瑞恩西邊場地移動到右邊即可。"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="之後移動到莉琳並進1１轉所需要的任務。"/>
+</imgdir>
+</imgdir>
+<imgdir name="15">
+<imgdir name="0">
+<string name="text" value="#bTip.#k1轉時#b對職業適合再調整AP#k之後對自己職業適合的能力值再分配AP會比較好。"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#bTip.#k超過等級30後轉職無法獲得以前階段等級的SP、所以建議到達可以1轉的等級就進行轉職。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n#L1##b回到目錄#k#l"/>
+<int name="align" value="2"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161037">
+<imgdir name="info">
+<canvas name="icon" width="30" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<canvas name="iconRaw" width="30" height="30">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="only" value="1"/>
+<int name="tradeBlock" value="1"/>
+<int name="notSale" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="#e強化合成說明書#n"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n\n\n\n\n\n-作者-\n班利、史丹、路易"/>
+<int name="align" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="#e1. 何謂強化合成？#n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="就是使用煉金術原理而強化合成物品的技能。只要有相應的材料物品和手續費，就可以強化合成出想要的物品。"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="#e2. 強化合成怪物結晶#n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="(1) 在強化合成技能中選擇[怪物結晶]-[怪物結晶]。\n(2) 把從31級以上怪物那裡獲得的戰利品100個從物品欄中移動到強化合成技能視窗。\n(3) 點選按鈕，就可以完成怪物結晶的強化合成了。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="#bTip.#k 有一定的機率可以獲得高一級的怪物結晶。\n#bTip.#k任務物品等一部分怪物戰利品不適用。"/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="0">
+<string name="text" value="#e3. 強化合成裝備#n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="(1) 在強化合成技能中，點選想要強化合成的裝備種類和名稱。\n(2) 確定要有必要的材料。材料不足的話按鈕會變灰色。\n(3) 點選按鈕，就可以完成強化合成了。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="#bTip.#k 如果再附加上催化劑或者強化寶石，就可以強化合成出屬性更好的物品。"/>
+</imgdir>
+</imgdir>
+<imgdir name="4">
+<imgdir name="0">
+<string name="text" value="#e4. 強化合成強化寶石#n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="(1) 在強化合成技能的[強化寶石]中，點選自己想要強化合成的強化寶石的名字。\n(2) 確認自己要用必需的寶石。寶石如果不夠的話，按鈕會變灰色。\n(3)點選強化合成按鈕，就可以完成強化寶石的強化合成了。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="#bTip.#k有一定的機率可以強化合成出中級或者上級的強化寶石。\n#bTip.#k蒐集強化寶石10個，可提煉出更高的等級。"/>
+</imgdir>
+</imgdir>
+<imgdir name="5">
+<imgdir name="0">
+<string name="text" value="#e5.裝備分解#n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="(1) 在強化合成視窗點選[裝備分解] - [怪物結晶]\n(2) 將所要分解的裝備放入欄位裡\n(3) 點取製作按鈕，就會將裝備加以分解，即可擷取出怪物結晶。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="#bTip.#k 愈是高級道具，所能分解出的怪物結晶數量會愈多。"/>
+</imgdir>
+</imgdir>
+<imgdir name="6">
+<imgdir name="0">
+<string name="text" value="#e5. 催化劑是什麼？#n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="(1) 沒有催化劑和強化寶石也可以，只要有所需的材料就可以強化合成物品。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="(2) 如果不使用催化劑的話，強化合成出的物品屬性與普通的屬性相比可能會比較好也可能會比較差。"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="(3) 雖然使用催化劑可以強化合成出屬性更好的物品，但是如果強化合成失敗的話材料就會消失。"/>
+</imgdir>
+</imgdir>
+<imgdir name="7">
+<imgdir name="0">
+<string name="text" value="#e7. ???#n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="強化合成的物品取決於材料。 如果材料的種類和數量都正確的話就可以強化合成出相應的物品。強化合成失敗材料也不會消失。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="#bTip.#k 雖然可以使用催化劑和強化寶石，但是使用催化劑時有一定的機率會破壞物品。"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160040">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="關於寵物的說明文"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n90天裡，我將在您的身邊成為您最忠誠又可靠的夥伴喔！"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="過完90天當生命水乾枯時，您可利用#b生命水#k透過#b妖精瑪麗#k或位在#b愛奧斯塔入口#k的小精靈，將寵物重新復活喔！"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="\n您可從訓練師或寵物飼料商人購買寵物飼料，並使用指令來提升與寵物間的親密度。"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="寵物指令說明書： 皮卡啾篇"/>
+<string name="align" value="1.000000"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="寵物等級：1 ~ 30 \n坐\n不是|糟糕|糟糕的女孩|糟糕的男孩\n撥弄|惡臭|傀儡|我討厭你\n噗"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="寵物等級：10 ~ 30 \n懶惰|傀儡|我討厭你\n說話|聊天|講|喃喃自語\n我愛你|抱我|愛你"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="寵物等級：20 ~ 30 \n搖晃|音樂|魅力\n鬼臉|笑話|噓聲\n睡吧|睡覺|愛睏"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="技巧。 當寵物等級達15級，可讓它說出特定的內容\n#b例如:/寵物[內容]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160044">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="關於寵物的說明文"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n90天裡，我將在您的身邊成為您最忠誠又可靠的夥伴喔！"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="過完90天當生命水乾枯時，您可利用#b生命水#k透過#b妖精瑪麗#k或位在#b愛奧斯塔入口#k的小精靈，將寵物重新復活喔！"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="\n您可從訓練師或寵物飼料商人購買寵物飼料，並使用指令來提升與寵物間的親密度。"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="寵物指令說明書：老虎篇"/>
+<string name="align" value="1.000000"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="寵物等級：1～30\n餓?，飯?\n打你哦，不行，生氣哦，別哭\n便便，大便，用力\n睡著，睏，想睡，累\n走開，笨蛋，咳，生氣\n是什麼？，想知道嗎？/說啊，說，告訴我"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="寵物等級：15～30\n很好，厲害，真好\n愛你，喜歡，貝比"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="技巧。 當寵物等級達15級，可讓它說出特定的內容\n#b例如:/寵物[內容]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161049">
+<imgdir name="info">
+<canvas name="icon" width="33" height="27">
+<vector name="origin" x="0" y="27"/>
+</canvas>
+<canvas name="iconRaw" width="33" height="26">
+<vector name="origin" x="0" y="27"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="#e龍的種類和特徵(上)#n"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n\n- 聯合保護神龍"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="\n\n\n目 錄\n\n#b1. 序章\n#b2. 龍的正義\n#b3. 龍的種類和特徵\n#b4. 結論"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="#e1. 序章#n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" 向在楓之谷旅行的您提出詢問。 想到龍會想起怎樣的名稱呢？"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value=" 是否會想到有三個頭的龍， 惡的化身， 恐怖的怪物， 闇黑龍王呢？同時是否會由於龍是經驗值較高的怪物而有股馬上想要去打獵的衝動呢？ "/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value=" 但是其實龍不是為怪物。 而是為擁有知識和智慧組織社會的另外一個種族。"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" 當然其中有接近怪物的龍無法否認。但是人類也是同時會存在善者和惡者一樣。可以親密交流的龍也是有的。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value=" 就算是如此，也有許多人把龍只當作是必須要打倒的怪物。"/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="0">
+<string name="text" value=" 所以在此書籍整理有關龍的種類和特徵整體有用的資訊， 書籍想要傳達的資訊為如何把龍跟人類可以有著友好的關係且要迴避哪類的龍。"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" 如此來降低人類和龍，雙方受到的傷害及尋找出可以讓人類和龍共存的契機。"/>
+</imgdir>
+</imgdir>
+<imgdir name="4">
+<imgdir name="0">
+<string name="text" value="#e2. 龍的正義#n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" 想要了解龍的種類首先要決定龍的正義。蜥蜴有著短的手腳和大的身材， 雖然尾巴跟龍非常相似，但蜥蜴不是龍。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value=" 龍是擁有理性和感性的種族， 且可以跟人類溝通。由於蜥蜴不無法如此所以不能稱為龍。"/>
+</imgdir>
+</imgdir>
+<imgdir name="5">
+<imgdir name="0">
+<string name="text" value="在這樣的意義雖然龍族或是翼龍， 雙角龍， 蜥蜴跟龍非常相似是事實。但是單純擁有鱗片跟角， 尾巴， 可以噴火焰的能力而誤認為龍的情況較多， 不過因為沒有擁有所謂的智能的關係無法稱為龍只能稱為半龍或偽龍。這樣的他們屬於怪物也會服從強者習性且多為真龍的手下。"/>
+</imgdir>
+</imgdir>
+<imgdir name="6">
+<imgdir name="0">
+<string name="text" value="#e3. 龍的種類和特徵#n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" 可以分辨龍的方式很多。每個研究龍的學者會以鱗片的顏色， 角的形狀， 身體的型態和 棲息地， 個性等多樣的方式去分辨龍。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value=" 但是此書籍不是要給專業學者而是給一般人對象寫作的關係簡單描述著比較多數的一般龍和少數的， 特殊龍的分類。"/>
+</imgdir>
+</imgdir>
+<imgdir name="7">
+<imgdir name="0">
+<string name="text" value="一般龍"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" 龍的種類用鱗片顏色分辨法為分辨龍較為方便的方法。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value=" 在神木村有照顧龍時， 使用這方法分辨來養育。"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value=" 知道龍的個性時跟龍親近也不是困難事宜。"/>
+</imgdir>
+</imgdir>
+<imgdir name="8">
+<imgdir name="0">
+<string name="text" value="  a. 紅龍"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" 是指擁有紅色鱗片的龍。他們整體擁有火焰屬性且個性剛直又衝的關係，容易生氣因此對於他的時候要小心注意，"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value=" 萬一讓他生氣時有時會噴出火焰的關係要充分做準備。"/>
+</imgdir>
+</imgdir>
+<imgdir name="9">
+<imgdir name="0">
+<string name="text" value="  b. 藍龍"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" 是指擁有藍色鱗片的龍。他們整體擁有冰屬性且個性冷淡敏銳，因此不要認為他並不會小氣的而因此讓他記恨會較好喔。"/>
+</imgdir>
+</imgdir>
+<imgdir name="10">
+<imgdir name="0">
+<string name="text" value="  c. 綠龍"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" 是指擁有綠色鱗片的龍。他們整體擁有風屬性且個性多為活潑又調皮。由於熱愛著森林的關係只要有人破壞森林就無法原諒。"/>
+</imgdir>
+</imgdir>
+<imgdir name="11">
+<imgdir name="0">
+<string name="text" value="  d. 金龍"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" 是指擁有金色鱗片的龍。他們整體擁有金屬性且個性雖然圓滑冷靜但也過於散漫的個性。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value=" 向龍委託事宜一定會協助，但不知何時會完成無人知曉就是了。"/>
+</imgdir>
+</imgdir>
+<imgdir name="12">
+<imgdir name="0">
+<string name="text" value="  e. 黑龍"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" 是指擁有黑色鱗片黑色角的龍。眾多的龍為角跟鱗片顏色不同， 但他們 #b黑龍連角都完全為黑色是無法分辨的最大特徵#k。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value=" 他們整體為闇黑屬性且個性安靜又有禮貌但是也有暗沉的一面。"/>
+</imgdir>
+</imgdir>
+<imgdir name="13">
+<imgdir name="0">
+<string name="text" value=" 但是， 不是所有龍都使用這樣的方法就分辨。以下也有擁有以上5種鱗片顏色外的鱗片顏色的龍， 或是雖然擁有一樣的顏色鱗片特徵的龍種類也不少。"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" 如果想要了解跟一般龍的特徵不同的龍就請尋找龍的種類和特徵(下)集。"/>
+</imgdir>
+</imgdir>
+<imgdir name="14">
+<imgdir name="0">
+<string name="text" value="\n\n\n\n\n\n\n\n\n\n\n\n\n\n在龍的種類和特徵(下)\n繼續"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161050">
+<imgdir name="info">
+<canvas name="icon" width="33" height="27">
+<vector name="origin" x="0" y="27"/>
+</canvas>
+<canvas name="iconRaw" width="33" height="26">
+<vector name="origin" x="0" y="27"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="#e龍的種類和特徵(下)#n"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n\n- 聯合保護神龍"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="\n\n\n目 錄\n\n#b1. 序章\n#b2. 龍的正義\n#b3. 龍的種類和特徵\n#b4. 結論"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="特殊龍"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" 查看鱗片他就是彩色龍，但看屬性或是個性就是擁有別的特徵龍。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value=" 他們跟一般龍完全不同種的龍雖然數量很少但因為擁有強烈的個性而稱為特殊龍。"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="  a. 毒蛇龍"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" 一般龍跟蜥蜴相似擁有圓滾滾的身材和長的尾巴，同時毒蛇龍擁有接近蛇的伸長身材和較深邃的輪廓表情的臉。棲息在海周圍吃著小魚過活。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value=" 中立個性的毒蛇龍只要不要侵入他的領域不會先進行攻擊。且可以透過很公正且付出相當的價格，來踏入他的領域。"/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="0">
+<string name="text" value="毒蛇龍沒有擁有明確的屬性。可以使用冰風暴和火焰噴射， 且同時擁有兩種屬性。雖然對魔法很能熟但據說不太使用。"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" 雖然在維多利亞島或是艾納斯大陸周圍數量較少無法常常看到， 但最近米納爾森林附近聽說有稱為寒霜冰龍的毒蛇龍。"/>
+</imgdir>
+</imgdir>
+<imgdir name="4">
+<imgdir name="0">
+<string name="text" value="  b. 歐尼斯龍"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" 乍看之下像黑龍一樣擁有黑色鱗片， 但是比黑龍更透明更亮麗且擁有金色角的龍稱之為歐尼斯龍。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value=" 他們在所有龍中有特殊的成長而出名。"/>
+</imgdir>
+</imgdir>
+<imgdir name="5">
+<imgdir name="0">
+<string name="text" value=" 歐尼斯龍會依照精神成長肉體也會同時成長。出生的歐尼斯龍擁有不穩定的精神和未成熟的肉體， 時間流走也只會留在那狀態而不會成長。他們的成長方式只有一個， 就是透過跟其他種族結為契約進行成長。"/>
+</imgdir>
+</imgdir>
+<imgdir name="6">
+<imgdir name="0">
+<string name="text" value=" 跟其它種族有了契約的歐尼斯龍會跟契約者的靈魂連結。靈魂連結的歐尼斯龍才會開始擁有自我和意志做精神上的成長。契約者的靈魂成長的同時有連結在一起的歐尼斯龍也會收到相當的力量。"/>
+</imgdir>
+</imgdir>
+<imgdir name="7">
+<imgdir name="0">
+<string name="text" value=" 靈魂的成長為無限的關係歐尼斯龍的成長也是無限，只要可以遇到好契約者就可以成長為擁有強大力量的龍就是歐尼斯龍。但只可惜從這世界上已經散播著滅絕的訊息而無法親眼目睹。"/>
+</imgdir>
+</imgdir>
+<imgdir name="8">
+<imgdir name="0">
+<string name="text" value="  c. 變種龍"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" 在楓之谷世界眾多人皆知的龍會是誰呢？可能向100名詢問 100名都會回答為闇黑龍王。但是實際看過闇黑龍王樣子的人相當少。 所以知道闇黑龍王為變種龍的人也不多。"/>
+</imgdir>
+</imgdir>
+<imgdir name="9">
+<imgdir name="0">
+<string name="text" value=" 想要以顏色分辨就屬於黑龍的闇黑龍王不是， 驚訝的擁有3顆頭的一般龍而是屬於特殊龍。闇黑龍王擁有的三個都各自擁有不同的能力尤其有一個頭可以使用稱為誘惑的強烈技能。"/>
+</imgdir>
+</imgdir>
+<imgdir name="10">
+<imgdir name="0">
+<string name="text" value=" 雖然闇黑龍王擁有理性和感性， 強烈自我的聰敏龍但在楓之谷世界淪落為怪物的原因。是因為他的個性非常邪惡；為了要打倒背叛九靈龍把米納爾森林掉進危險的闇黑龍王，在神木村招集常態的遠征隊。"/>
+</imgdir>
+</imgdir>
+<imgdir name="11">
+<imgdir name="0">
+<string name="text" value=" 但是挑戰闇黑龍王不是為簡單的事。因為闇黑龍王在楓之谷世界為最強的龍的關係。最強最偉大的龍之中三個龍王中的阿普立恩失蹤了，九靈龍則因為闇黑龍王的背叛療養中， 只剩下闇黑龍王在楓之谷留下惡名中。"/>
+</imgdir>
+</imgdir>
+<imgdir name="12">
+<imgdir name="0">
+<string name="text" value="#e4. 結論#n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" 在楓之谷存在的眾多龍擁有各自的想法和感情， 以及意志。當然其中也有擁有邪惡的想法和感情，但是不能因為這樣的龍一個把所有的龍都以敵人看待的需要嗎？"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value=" 龍是可以跟人類結為朋友的另外一個種族，只要多了解龍您也可以跟龍做朋友。"/>
+</imgdir>
+</imgdir>
+<imgdir name="13">
+<imgdir name="0">
+<string name="text" value="\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n&lt;結束&gt;"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161051">
+<imgdir name="info">
+<canvas name="icon" width="28" height="31">
+<vector name="origin" x="-2" y="31"/>
+</canvas>
+<canvas name="iconRaw" width="28" height="30">
+<vector name="origin" x="-2" y="31"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="#e某個船員的航海日誌#n"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n\n- 引退的船人員約翰 著"/>
+<int name="align" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="#e序章#n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="  此書為把很久以前還在航海的船員時期寫作的日誌串在一起製作的書。想要經驗普通人無法經驗的刺激和浪漫就可以閱讀。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value=" 但是請記得，真正的冒險者遠比閱讀書籍的人更加親身體驗這些事情。"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="6月 29日 天氣晴"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" 好久以來出航了。此次搭乘的船的名字為電閃雷鳴… 船長是領隊阿帕。他的實力無庸置疑， 期待這次的航海吧。"/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="0">
+<string name="text" value="6月 30日 天氣晴"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" 天氣很晴朗， 心情也隨之變好，航海很順利的開始了。"/>
+</imgdir>
+</imgdir>
+<imgdir name="4">
+<imgdir name="0">
+<string name="text" value="7月 1日 天氣晴"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="今天風向很好， 所以航海非常快速。因此領隊阿帕說， 依這情況來看可以往捷徑過去。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value=" 嗯…確實比現在的路線快速， 但是那個海峽的天氣很不穩定， 據說也有很多暗礁…總之還是覺得有些擔心。"/>
+</imgdir>
+</imgdir>
+<imgdir name="5">
+<imgdir name="0">
+<string name="text" value="7月 2日 天氣晴"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" 結果聽從了領隊阿帕的話進入了加利海峽。雖然有些緊張， 但是船員都很有實力並沒有太大問題，反而一切很順利。"/>
+</imgdir>
+</imgdir>
+<imgdir name="6">
+<imgdir name="0">
+<string name="text" value="7月 3日 天氣晴"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" 好悠閒～令人擔心的只有天氣。"/>
+</imgdir>
+</imgdir>
+<imgdir name="7">
+<imgdir name="0">
+<string name="text" value="7月 4日 天氣晴"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" 海洋的天氣本來就很難像現在這麼好…這次的航海就像是受到祝福般。天氣實在太好了， 甚至有些人還會在甲板上午睡。船長也是其中之一。"/>
+</imgdir>
+</imgdir>
+<imgdir name="8">
+<imgdir name="0">
+<string name="text" value="7月 5日 天氣晴"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" 餵食給海鷗以後， 他們很愛跟隨我。 呼呼…我的長相的關係， 很多人都不敢靠近我。但是卻能夠跟這樣的小鳥成為好朋友。海洋真是和平啊。像我們這麼大的船， 應該也不會有海盜敢過來吧…"/>
+</imgdir>
+</imgdir>
+<imgdir name="9">
+<imgdir name="0">
+<string name="text" value="7月 6日 天氣晴"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" 我們幾乎跨越了加利海峽。原本預計20天的航海縮短為 10天， 幸好聽了領隊阿帕的意見。"/>
+</imgdir>
+</imgdir>
+<imgdir name="10">
+<imgdir name="0">
+<string name="text" value="7月 7日 天氣晴"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" 心情覺得很放鬆。正在釣魚，但是有點奇怪…每次來找我的海鷗不再過來了。因為離他們的家已經太遠了嗎？真是遺憾…"/>
+</imgdir>
+</imgdir>
+<imgdir name="11">
+<imgdir name="0">
+<string name="text" value="7月 8日 天氣晴"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" 海洋異常的安靜。總覺得不太妙。我說給其他夥伴們聽， 他們嘲笑我很膽小。嘲笑我也無所謂，希望我的預感錯了才好。"/>
+</imgdir>
+</imgdir>
+<imgdir name="12">
+<imgdir name="0">
+<string name="text" value="7月 9日 天氣晴"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" 我也問了領隊阿帕海洋的狀態是否異常， 他只是笑說叫我不要太擔心。他是有經驗的人，就相信他吧…"/>
+</imgdir>
+</imgdir>
+<imgdir name="13">
+<imgdir name="0">
+<string name="text" value="7月 10日 天氣突然發生暴風！"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" 突然發生了暴風！一直認為天氣很好是個誤會。電閃雷鳴只是在暴風眼裡所以很平靜 ！難怪海鷗都不再來了。 到了深夜後暴風應該更轉強， 我們能夠存活嗎？"/>
+</imgdir>
+</imgdir>
+<imgdir name="14">
+<imgdir name="0">
+<string name="text" value="7月 11日 天氣 陰"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" 睜開眼睛發現躺在奇異的島上的海岸邊，電閃雷鳴應該已經被沉淪了。 其他夥伴怎樣呢？ 領隊阿帕在哪？！ … 不管怎樣， 我要先顧好自己。 這個島被雪覆蓋著所以非常寒冷，我將一起漂流過來的船帆布環繞住身體， 感覺稍微變暖了。身上還好總是攜帶的魚叉應該還可以捕魚，而且我的日記本也一起漂流過來真是太好了…"/>
+</imgdir>
+</imgdir>
+<imgdir name="15">
+<imgdir name="0">
+<string name="text" value="7月 12日 天氣 陰後雨"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" 島上被雪覆蓋著，有看到動物或植物， 但是還沒看到人的痕跡。該不會是座無人島吧？ 希望不是。沒有人可以在無人島存活。好像快要下雨了， 先走進島的中央尋找看看有沒有洞穴吧。"/>
+</imgdir>
+</imgdir>
+<imgdir name="16">
+<imgdir name="0">
+<string name="text" value="7月 13日 雨"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" 我差點昏倒了。為了躲雨進來的洞穴裡竟有怪物。竟然在這座島上親眼看到龍。 嚇的我差點屁滾尿流， 但仔細一看龍被困在冰裡。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value=" #b黑色的鱗片與四個金色的角#k這個樣子充滿了威嚴感。我嚇的蹲坐在洞口寫日記。如果那傢伙突然睜眼的話， 我就可以馬上逃跑了。"/>
+</imgdir>
+</imgdir>
+<imgdir name="17">
+<imgdir name="0">
+<string name="text" value="7月 14日 雨後轉晴"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="幸好龍並沒有睜開眼睛。而且還來了歡迎的客人。 在航海中餵食過的海鷗來這裡找我了。 而且好像還認得我。我很歡喜的將捕到的魚餵給他們吃， 突然想到便撕下衣角， 寫下救命的話以後綁在海鷗的腳上。希望某人能夠發現…"/>
+</imgdir>
+</imgdir>
+<imgdir name="18">
+<imgdir name="0">
+<string name="text" value="7月 15日 天氣 陰後雨"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value=" 開始下雨了，我一整天待在海岸邊， 但是並沒有經過的船隻。也對， 卡利海峽很危險， 所以船隻本來就很少經過。我唯一的希望只有海鷗。"/>
+</imgdir>
+</imgdir>
+<imgdir name="19">
+<imgdir name="0">
+<string name="text" value="7月 16日 天氣晴"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="遠處看到一艘大船， 並往這邊開過來。在船邊飛行的就是那些熟悉的海鷗！ 有船來救我了！！我獲救了！海鷗真的救了我。"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161052">
+<imgdir name="info">
+<canvas name="icon" width="30" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<canvas name="iconRaw" width="30" height="31">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="only" value="1"/>
+<int name="tradeBlock" value="1"/>
+<int name="notSale" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="#e龍魔導士指南#n"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="  目  錄\n#L1##b1. 簡易操作方法#k#l\n#L7##b2. 所謂道具？#k#l"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="1-1. 操作方法"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#e左右方向箭#n : 左右移動\n#e上下方向箭#n : 爬線 or 天梯， 傳送點移動\n#eAlt 鍵 #n: 跳躍\n#eCtrl 鍵 #n: 攻擊\n#eZ鍵 or 數字 0鍵 #n: 揀取道具\n#eE 鍵 #n:  開啟裝備視窗\n#eI 鍵 #n: 開啟道具視窗\n#eS 鍵 #n: 開啟能力值視窗\n#eK 鍵 #n: 開啟技能視窗"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="#bTip.#k 在畫面右下方快捷鍵視窗登錄消耗性道具或技能的話， 就可以更輕鬆使用道具與技能。"/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="0">
+<string name="text" value="1-2. 指令"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="在聊天視窗輸入下列指令就可使用相關功能。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="(1) #e聊天#n\n"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="#e/全部#n : 轉換為一般對話\n#e/朋友#n : 轉換為好友對話\n#e/隊伍#n : 轉換為隊伍對話\n#e/公會#n : 轉換為公會對話\n#e/密語 [角色名稱]#n : 傳送密語"/>
+</imgdir>
+</imgdir>
+<imgdir name="4">
+<imgdir name="0">
+<string name="text" value="(2) #e行動#n\n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#e/尋找 [角色名稱]#n : 告知使用者連線與否/目前位置\n#e/交換 [角色名稱]#n : 申請交換"/>
+</imgdir>
+</imgdir>
+<imgdir name="5">
+<imgdir name="0">
+<string name="text" value="(3) #e隊伍#n\n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#e/隊伍資訊#n : 確認目前加入的隊員資訊\n#e/組隊#n : 創立新的隊伍\n#e/退出隊伍#n : 退出加入的隊伍"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="#e/隊伍邀請#n : 邀請新的隊員#b(隊長)#k\n#e/隊伍強制驅逐#n : 強制驅逐加入的隊員#b(隊長)#k"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="#L1##b回到目錄#k#l"/>
+<string name="align" value="2"/>
+</imgdir>
+</imgdir>
+<imgdir name="6">
+<imgdir name="0">
+<string name="text" value="2. 所謂道具？"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="(1) #e裝備#n\n  可以直接穿戴使用的道具， 分別有提升能力值的一般裝備 與 裝飾外型的現金裝備。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="想要使用裝備道具， 先開啟裝備視窗然後將道具拖曳到欄位， 或雙擊裝備即可。"/>
+</imgdir>
+</imgdir>
+<imgdir name="7">
+<imgdir name="0">
+<string name="text" value="(2) #e消耗性道具#n\n  是指 可補充 HP 或 MP的藥水， 與 提升裝備道具的能力的咒文書等一次性道具。點擊消耗性道具就可使用， 使用後就會消失。"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="(3)#e 其他道具#n\n  怪物掉落的戰利品， 任務所需的道具， 原石， 寶石等道具稱為其他道具。其他道具無法直接使用。"/>
+</imgdir>
+</imgdir>
+<imgdir name="8">
+<imgdir name="0">
+<string name="text" value="需透過任務或NPC給遊戲內帶來影響。"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="(4)#e 商城道具#n\n  可在商城購買的道具， 可裝飾外型或增加效果的道具 #r商城道具是收費道具， 儲值後可以購買 #k"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="\n\n\n\n#L1##b回到目錄#k#l"/>
+<int name="align" value="2"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160048">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="펫에 대한 알림문"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n90여일간 당신의 곁에서 사랑스러운 펫으로 지낼 것입니다."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="90일이 지나 생명수가 다 마르면 당신은 #b생명수#k를 구해 #b마르의 숲#k에 있는 요정을 만나거나 루디브리엄의 #b에오스탑 입구#k에 있는 위습을 만나 펫을 부활시킬 수도 있습니다."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="조련사나 펫 먹이 상인을 찾아가 펫의 먹이를 먹이고 명령어를 사용하여 펫과의 친밀도를 높여보세요."/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="펫 명령어 안내서 : 스쿠버 더키 편\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="펫 레벨 : 1 ~ 30\n앉아\n때찌,안돼,혼난다,혼날래\n자자, 졸립지, 쿨쿨, 잘자\n사랑해,좋아해,내사랑"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="펫 레벨 : 10 ~ 30\n말해봐,말해,말해줘"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="펫 레벨 : 20 ~ 30\n춤출래, 춤춰\n변신"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="Tip. 펫의 레벨이 15가 되면 특정 말을 하도록 시킬 수 있습니다. \n #b예) /펫 [할 말]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160049">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="關於寵物的說明文"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n在90天內，將會在您的身邊成為您最忠誠又可靠的夥伴喔！"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="當過了90天寵物生命枯萎時，您可利用#b生命水#k透過#b妖精 瑪麗#k或位在&quot;愛奧斯塔入口&quot;的小精靈，將寵物重新復活喔！"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="您可從訓練師或寵物飼料商人購買寵物飼料，並使用指令來提升與寵物間的親密度。"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="寵物指令說明書：臭鼬篇\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="寵物等級：1 ~ 30\n坐下\n打你，不行，不可以，處罰你\n愛你，喜歡你，我的愛"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="寵物等級：10 ~ 30\n便便\n睡著，很睏，|睡睡，晚安\n話，講話，告訴我"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="寵物等級：20 ~ 30\n表演"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="Tip. 寵物等級到15可以指令說特定對話。\n #b例) /寵物[說話]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161053">
+<imgdir name="info">
+<canvas name="icon" width="33" height="28">
+<vector name="origin" x="0" y="28"/>
+</canvas>
+<canvas name="iconRaw" width="33" height="26">
+<vector name="origin" x="0" y="28"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="#e당신도 퍼즐왕!#n"/>
+<int name="align" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="#i4001440:#"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#e#b퍼즐조각A 얻는 방법.#n#k"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="#r이벤트 몬스터를 사냥하라!#k"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="7주년 이벤트 기간 동안 메이플월드의 모든 필드와 마을에서는 이벤트 몬스터인 #b7주년 케이크#k가 나타난다. 케이크 몬스터를 퇴치하면 100%의 확률로 #b퍼즐조각A#k를 얻을 수 있다."/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="#i4001441:#"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#e#b퍼즐조각B 얻는 방법.#n#k"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="#rNPC별이가 판매하고 있다!#k"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="7주년 이벤트 기간 동안 마을에 나타나는 NPC별이에게서 100메소를 내고 퍼즐조각B를 구입할 수 있다. 별이와 그녀의 오빠 벼루는 퍼즐조각 외에도 희귀한 아이템을 다량 판매하고 있다고 하니 이벤트 기간동안 벼루와 별이를 찾아가 보는 것은 필수라고 할 수 있다."/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="0">
+<string name="text" value="#i4001442:# #i4001443:# #i4001444:#"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#e#b퍼즐조각C,D,E 얻는 방법.#n#k"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="#r메이플 7주년 축하하기 퀘스트를 수행하라!#k"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="7주년 이벤트 기간 동안 반복해서 수행할 수 있는 #b&apos;메이플 7주년 축하하기&apos;퀘스트를 수행하면 퍼즐조각C, D, E를 무작위로 받을 수 있다. 메이플 스토리의 7번째 생일을 축하하는 퀘스트를 수행하고 퍼즐조각을 입수해야 한다."/>
+</imgdir>
+</imgdir>
+<imgdir name="4">
+<imgdir name="0">
+<string name="text" value="#i4001445:#"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#e#b퍼즐조각F 얻는 방법.#n#k"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="#r애드벌룬을 터트려라!#k"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="7주년 이벤트 기간 동안 참여할 수 있는 파티퀘스트 #b&apos;헌팅 애드벌룬&apos;#k에 참여해 애드벌룬을 터트리면 퍼즐조각을 받을 수 있다. 승리하면 다양한 선물이 주어진다고 하니, 꼭 한번쯤 참여해 보는 것이 진리!"/>
+</imgdir>
+</imgdir>
+<imgdir name="5">
+<imgdir name="0">
+<string name="text" value="#i4001446:#"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#e#b퍼즐조각G 얻는 방법.#n#k"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="#r단풍나무를 키워라!#k"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="7주년 이벤트 기간 동안 단풍나무 언덕에 있는 #b단풍나무#k를 커다랗게 키워서 단풍나무가 터질 때 퍼즐조각G를 얻을 수 있다.\n또는 하루동안 단풍나무에게 준 햇살의 갯수가 50개를 넘어가면 하루에 한 번 아르미가 퍼즐조각G를 주기도 한다."/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04161054">
+<imgdir name="info">
+<canvas name="icon" width="30" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<canvas name="iconRaw" width="30" height="31">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="only" value="1"/>
+<int name="tradeBlock" value="1"/>
+<int name="notSale" value="1"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="#e使用說明書#n"/>
+<int name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="  目錄\n#L1##b1. 簡單的操作方法#k#l\n#L7##b2. 什麼是道具？#k#l"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="1-1. 操作方法"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#e左右方向鍵#n：左右移動\n#e上下方向鍵#n：攀登繩索or天梯，傳送點移動\n#eAlt鍵 #n: 跳躍\n#eCtrl鍵 #n: 攻擊\n#eZ鍵 or 小鍵盤0鍵 #n: 拾取道具\n#eE鍵 #n:  打開裝備欄\n#eI鍵 #n: 打開物品欄\n#eS鍵 #n: 打開能力值視窗\n#eK鍵 #n: 打開技能視窗"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="#bTip.#k 在畫面右下方的快捷鍵視窗中設置消費道具或技能，可以方便地使用道具或技能。"/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="0">
+<string name="text" value="1-2. 指令"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="把下面的指令輸入到聊天視窗，可以使用相應功能。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="(1) #e對話#n\n"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="#e/全體#n：轉換為普通聊天。\n#e/好友#n：轉換為好友聊天。\n#e/組隊#n：轉換為組隊聊天。\n#e/公會#n：轉換為公會聊天。\n#e/悄悄話 [玩家名稱]#n：發出悄悄話。"/>
+</imgdir>
+</imgdir>
+<imgdir name="4">
+<imgdir name="0">
+<string name="text" value="(2) #e動作#n\n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#e/尋找 [玩家名稱]#n：可查詢用戶登錄與否/目前位置。\n#e/交易 [玩家名稱]#n：發出交易請求。"/>
+</imgdir>
+</imgdir>
+<imgdir name="5">
+<imgdir name="0">
+<string name="text" value="(3) #e組隊#n\n"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="#e/組隊訊息#n：可查看目前已加入的隊員們的資訊。\n#e/創建組隊#n：創建新的組隊。\n#e/退出組隊#n :退出已加入的組隊。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="#e/組隊邀請#n：邀請新的隊員。#b(隊長)#k\n#e/強退#n：使已加入的隊員強行退出。#b(隊長)#k"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="#L1##b返回目錄#k#l"/>
+<string name="align" value="2"/>
+</imgdir>
+</imgdir>
+<imgdir name="6">
+<imgdir name="0">
+<string name="text" value="2. 什麼是道具？"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="(1) #e裝備道具#n\n  可直接裝備在身上的道具，分為可提升能力值的普通裝備道具和能夠裝扮外形的商城道具。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="若想將裝備道具裝備在身上，可打開裝備視窗將裝備拖放到對應的位置上(Drag&amp;Drop)，或者點二下裝備道具。"/>
+</imgdir>
+</imgdir>
+<imgdir name="7">
+<imgdir name="0">
+<string name="text" value="(2) #e消費道具#n\n  泛指能夠恢復HP或MP的藥劑和可提升裝備道具的能力值的卷軸等一次性道具。消費道具可點二下來使用，由於是一次性道具，一旦使用就會消失。"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="(3)#e 其他道具#n\n  怪物掉落的戰利品，任務所需的物品，原石、寶石，等道具被稱為其他道具。其他道具不能直接使用"/>
+</imgdir>
+</imgdir>
+<imgdir name="8">
+<imgdir name="0">
+<string name="text" value="透過任務或NPC進而對遊戲產生一定影響。"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="(4)#e 商城道具#n\n  可在現金商店購買的道具，能夠裝扮外貌或顯示特殊畫面效果。 #r商城道具是付費道具，可以現金加值來購買。 #k"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="\n\n\n\n#L1##b返回目錄#k#l"/>
+<int name="align" value="2"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160047">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="寵物指令說明書"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n   接下來的90天中，你會擁有一個可愛的夥伴。"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="當90天結束後，將把你的寵物變成玩偶，只有透過商城購買#k #b生命水。才能復活你的寵物，您也可以透過使用命令或利用商城專屬的寵物食品來提昇你的寵物等級。"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="寵物命令指南： 寶貝龍先生/寶貝龍小姐\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="寵物等級: 1 ~ 30\n坐下\n睡覺\n壞、不\n愛你\n說、說吧、說話\n吃"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="寵物等級: 10 ~ 30\n火\n放屁"/>
+<string name="align" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="寵物等級: 20 ~ 30\n飛"/>
+<string name="align" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="0">
+<string name="text" value="當你的寵物等級達到15級以上，你可以利用下列指令讓你的寵物說出想要說的話，指令如下 : /寵物[空格][想要寵物說的內容]。"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n   寶貝龍先生/寶貝龍小姐，最喜歡吃火球了，你可以透過商城專屬的寵物食品-火球讓他們快速的提升等級及親密度。"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160041">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="펫에 대한 알림문"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n90여일간 당신의 곁에서 사랑스러운 펫으로 지낼 것입니다."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="90일이 지나 생명수가 다 마르면 당신은 #b생명수#k를 구해 #b마르의 숲#k에 있는 요정을 만나거나 루디브리엄의 #b에오스탑 입구#k에 있는 위습을 만나 펫을 부활시킬 수도 있습니다."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="조련사나 펫 먹이 상인을 찾아가 펫의 먹이를 먹이고 명령어를 사용하여 펫과의 친밀도를 높여보세요."/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="펫 명령어 안내서 : 황금돼지 편\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="펫 레벨 : 1 ~ 30\n앉아\n때찌,안돼,혼난다,혼날래\n응가\n사랑해,좋아해,내사랑"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="펫 레벨 : 10 ~ 30\n말해봐,말해,말해줘"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="펫 레벨 : 20 ~ 30\n자자,졸립지,쿨쿨,잘자\n개인기"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="Tip. 펫의 레벨이 15가 되면 특정 말을 하도록 시킬 수 있습니다. \n #b예) /펫 [할 말]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04160046">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="29">
+<vector name="origin" x="-2" y="30"/>
+</canvas>
+<int name="cash" value="0"/>
+<int name="slotMax" value="1"/>
+<int name="price" value="500"/>
+</imgdir>
+<imgdir name="book">
+<imgdir name="0">
+<imgdir name="0">
+<string name="text" value="펫에 대한 알림문"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="\n90여일간 당신의 곁에서 사랑스러운 펫으로 지낼 것입니다."/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="90일이 지나 생명수가 다 마르면 당신은 #b생명수#k를 구해 #b마르의 숲#k에 있는 요정을 만나거나 루디브리엄의 #b에오스탑 입구#k에 있는 위습을 만나 펫을 부활시킬 수도 있습니다."/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="조련사나 펫 먹이 상인을 찾아가 펫의 먹이를 먹이고 명령어를 사용하여 펫과의 친밀도를 높여보세요."/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="0">
+<string name="text" value="펫 명령어 안내서 : 아기 호랑이 편\n"/>
+<string name="align" value="1"/>
+</imgdir>
+<imgdir name="1">
+<string name="text" value="펫 레벨 : 1 ~ 30\n앉아\n때찌,안돼,혼난다,혼날래\n응가\n사랑해,좋아해,내사랑"/>
+</imgdir>
+<imgdir name="2">
+<string name="text" value="펫 레벨 : 10 ~ 30\n말해봐,말해,말해줘"/>
+</imgdir>
+<imgdir name="3">
+<string name="text" value="펫 레벨 : 20 ~ 30\n자자,졸립지,쿨쿨,잘자"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="0">
+<string name="text" value="Tip. 펫의 레벨이 15가 되면 특정 말을 하도록 시킬 수 있습니다. \n #b예) /펫 [할 말]#k"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>

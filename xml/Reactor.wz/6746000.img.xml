@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="6746000.img">
+<imgdir name="info">
+<string name="info" value="토마토리액터"/>
+</imgdir>
+<imgdir name="0">
+<imgdir name="event">
+<imgdir name="0">
+<int name="type" value="100"/>
+<int name="state" value="1"/>
+<int name="0" value="4001196"/>
+<int name="1" value="1"/>
+<vector name="lt" x="-194" y="-33"/>
+<vector name="rb" x="188" y="49"/>
+</imgdir>
+</imgdir>
+<canvas name="0" width="382" height="70">
+<vector name="origin" x="194" y="33"/>
+</canvas>
+</imgdir>
+<imgdir name="1">
+<uol name="0" value="../0/0"/>
+</imgdir>
+<imgdir name="2">
+<canvas name="0" width="382" height="61">
+<vector name="origin" x="194" y="33"/>
+<int name="z" value="0"/>
+<int name="a0" value="0"/>
+<int name="a1" value="255"/>
+<int name="delay" value="3000"/>
+</canvas>
+</imgdir>
+<string name="action" value="tomatoTreeEU"/>
+</imgdir>

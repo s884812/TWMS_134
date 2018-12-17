@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="BlockReason.img">
+<imgdir name="1">
+<string name="type" value="髒話"/>
+<string name="msg" value="使用不雅文字或含有淫穢之意之言語，而鎖定的帳號."/>
+</imgdir>
+<imgdir name="2">
+<string name="type" value="廣告"/>
+<string name="msg" value="進行非認可的廣告行為而鎖定的帳號."/>
+</imgdir>
+<imgdir name="3">
+<string name="type" value="買賣"/>
+<string name="msg" value="因CASH或帳號的移交及買賣、道具現金交易等所屬行為而被中止連接的帳號。"/>
+</imgdir>
+<imgdir name="4">
+<string name="type" value="外掛"/>
+<string name="msg" value="因使用自動殺怪程式及違反營運政策等行為而被中止連接的帳號。"/>
+</imgdir>
+<imgdir name="5">
+<string name="type" value="欺詐"/>
+<string name="msg" value="因盜取網頁散布、CASH欺騙、惡用BUG等所屬行為而被中止連線的帳號。"/>
+</imgdir>
+<imgdir name="6">
+<string name="type" value="點數不法處理"/>
+<string name="msg" value="因CASH不正常交易(未成年交易、盜用)而被中止連接的帳號。詳細內容請詢問客服中心(8024-2002)。"/>
+</imgdir>
+<imgdir name="7">
+<string name="type" value="外掛組隊"/>
+<string name="msg" value="與使用外掛的玩家組隊，以不當方式獲得經驗值而封鎖中的帳號。"/>
+</imgdir>
+<imgdir name="8">
+<string name="type" value="喇叭"/>
+<string name="msg" value="因利用廣播來進行髒話、欺騙、非正常交易等所屬行為而被中止連接的帳號。"/>
+</imgdir>
+<imgdir name="9">
+<string name="type" value="暫停使用"/>
+<string name="msg" value="您所要連線的帳號因持有人的要求而暫時停止使用。"/>
+</imgdir>
+<imgdir name="10">
+<string name="type" value="現金交易"/>
+<string name="msg" value="進行點數、現金、有價物品、帳號及其它遊戲物品之交易，而遭鎖定的帳號。"/>
+</imgdir>
+<imgdir name="11">
+<string name="type" value="違反遊戲規定"/>
+<string name="msg" value="違反官方所訂定的使用者規章等遊戲規定"/>
+</imgdir>
+<imgdir name="12">
+<string name="type" value="外掛自動鎖定"/>
+<string name="msg" value="此遊戲帳號因使用不法程式，已經由系統自動鎖定，鎖定資訊及相關說明請參見楓之谷官網公告。"/>
+</imgdir>
+<imgdir name="13">
+<string name="type" value="無敵"/>
+<string name="msg" value="此遊戲帳號因使用不法程式，已經由系統自動鎖定，鎖定資訊及相關說明請參見楓之谷官網公告。"/>
+</imgdir>
+<imgdir name="14">
+<string name="type" value="吸怪"/>
+<string name="msg" value="此遊戲帳號因使用不法程式，已經由系統自動鎖定，鎖定資訊及相關說明請參見楓之谷官網公告。"/>
+</imgdir>
+<imgdir name="15">
+<string name="type" value="個人資料流出"/>
+<string name="msg" value="在遊戲內因獲得他人的個人資料及流出等行為而被中止連接的帳號。"/>
+</imgdir>
+<imgdir name="16">
+<string name="type" value="吸寶"/>
+<string name="msg" value="此遊戲帳號因使用不法程式，已經由系統自動鎖定，鎖定資訊及相關說明請參見楓之谷官網公告。"/>
+</imgdir>
+<imgdir name="17">
+<string name="type" value="自動練功"/>
+<string name="msg" value="此遊戲帳號因使用不法程式，已經由系統自動鎖定，鎖定資訊及相關說明請參見楓之谷官網公告。"/>
+</imgdir>
+</imgdir>

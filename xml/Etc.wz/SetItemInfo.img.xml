@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="SetItemInfo.img">
+<imgdir name="1">
+<string name="setItemName" value="雪冰的英雄套裝。"/>
+<short name="completeCount" value="6"/>
+<string name="effectLink" value="Effect/SetItemInfoEff.img/1"/>
+<imgdir name="ItemID">
+<int name="1" value="1000039"/>
+<int name="2" value="1001059"/>
+<int name="3" value="1050162"/>
+<int name="4" value="1051201"/>
+<int name="5" value="1072434"/>
+<int name="6" value="1082264"/>
+<int name="7" value="1102235"/>
+<int name="8" value="1442095"/>
+</imgdir>
+<imgdir name="Effect">
+<imgdir name="2">
+<short name="incPDD" value="20"/>
+<short name="incMDD" value="5"/>
+</imgdir>
+<imgdir name="4">
+<short name="incPDD" value="15"/>
+<short name="incMDD" value="3"/>
+<short name="incSTR" value="3"/>
+<short name="incDEX" value="3"/>
+<short name="incACC" value="20"/>
+</imgdir>
+<imgdir name="6">
+<short name="incPDD" value="15"/>
+<short name="incMDD" value="3"/>
+<short name="incPAD" value="10"/>
+<short name="incSpeed" value="10"/>
+<short name="incMHP" value="75"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<string name="setItemName" value="智慧女神套"/>
+<short name="completeCount" value="2"/>
+<imgdir name="ItemID">
+<int name="1" value="1072455"/>
+<int name="2" value="1082232"/>
+</imgdir>
+<imgdir name="Effect">
+<imgdir name="2">
+<short name="incSTR" value="3"/>
+<short name="incDEX" value="3"/>
+<short name="incINT" value="3"/>
+<short name="incLUK" value="3"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>

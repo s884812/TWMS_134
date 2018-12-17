@@ -1,0 +1,1098 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="SpeedAnimationQuiz.img">
+<imgdir name="BeijingOlympic">
+<imgdir name="AniQuiz">
+<imgdir name="0">
+<imgdir name="info">
+<string name="answer" value="西洋劍"/>
+</imgdir>
+<imgdir name="ani">
+<canvas name="0" width="122" height="99">
+<vector name="origin" x="-81" y="-163"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="1" width="121" height="99">
+<vector name="origin" x="-81" y="-162"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="2" width="123" height="100">
+<vector name="origin" x="-81" y="-160"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="3" width="124" height="100">
+<vector name="origin" x="-81" y="-159"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="4" width="124" height="99">
+<vector name="origin" x="-81" y="-161"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="5" width="123" height="99">
+<vector name="origin" x="-81" y="-162"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="6" width="122" height="99">
+<vector name="origin" x="-81" y="-163"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="7" width="121" height="99">
+<vector name="origin" x="-81" y="-162"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="8" width="123" height="100">
+<vector name="origin" x="-81" y="-160"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="9" width="124" height="100">
+<vector name="origin" x="-81" y="-159"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="10" width="124" height="99">
+<vector name="origin" x="-81" y="-161"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="11" width="123" height="99">
+<vector name="origin" x="-81" y="-162"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="12" width="122" height="99">
+<vector name="origin" x="-81" y="-163"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="13" width="152" height="96">
+<vector name="origin" x="-52" y="-164"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="14" width="143" height="96">
+<vector name="origin" x="-60" y="-164"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="15" width="141" height="96">
+<vector name="origin" x="-62" y="-165"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="16" width="183" height="96">
+<vector name="origin" x="-36" y="-165"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="17" width="189" height="96">
+<vector name="origin" x="-35" y="-165"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="18" width="189" height="96">
+<vector name="origin" x="-35" y="-165"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="19" width="152" height="96">
+<vector name="origin" x="-48" y="-165"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="20" width="145" height="96">
+<vector name="origin" x="-56" y="-165"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="21" width="141" height="96">
+<vector name="origin" x="-62" y="-165"/>
+<int name="delay" value="120"/>
+</canvas>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="info">
+<string name="answer" value="騎馬"/>
+</imgdir>
+<imgdir name="ani">
+<canvas name="0" width="95" height="125">
+<vector name="origin" x="-86" y="-132"/>
+<int name="delay" value="150"/>
+</canvas>
+<canvas name="1" width="96" height="123">
+<vector name="origin" x="-85" y="-134"/>
+<int name="delay" value="150"/>
+</canvas>
+<canvas name="2" width="97" height="121">
+<vector name="origin" x="-83" y="-136"/>
+<int name="delay" value="150"/>
+</canvas>
+<canvas name="3" width="96" height="123">
+<vector name="origin" x="-85" y="-134"/>
+<int name="delay" value="150"/>
+</canvas>
+<canvas name="4" width="141" height="125">
+<vector name="origin" x="-40" y="-132"/>
+<int name="delay" value="150"/>
+</canvas>
+<canvas name="5" width="121" height="123">
+<vector name="origin" x="-60" y="-134"/>
+<int name="delay" value="150"/>
+</canvas>
+<canvas name="6" width="100" height="121">
+<vector name="origin" x="-80" y="-136"/>
+<int name="delay" value="150"/>
+</canvas>
+<canvas name="7" width="96" height="123">
+<vector name="origin" x="-85" y="-134"/>
+<int name="delay" value="150"/>
+</canvas>
+<canvas name="8" width="102" height="145">
+<vector name="origin" x="-86" y="-112"/>
+<int name="delay" value="150"/>
+</canvas>
+<canvas name="9" width="117" height="141">
+<vector name="origin" x="-85" y="-116"/>
+<int name="delay" value="150"/>
+</canvas>
+<canvas name="10" width="128" height="122">
+<vector name="origin" x="-83" y="-137"/>
+<int name="delay" value="150"/>
+</canvas>
+<canvas name="11" width="146" height="126">
+<vector name="origin" x="-85" y="-132"/>
+<int name="delay" value="150"/>
+</canvas>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="info">
+<string name="answer" value="跳水"/>
+</imgdir>
+<imgdir name="ani">
+<canvas name="0" width="62" height="69">
+<vector name="origin" x="-115" y="-196"/>
+<int name="delay" value="170"/>
+</canvas>
+<canvas name="1" width="62" height="69">
+<vector name="origin" x="-113" y="-196"/>
+<int name="delay" value="170"/>
+</canvas>
+<canvas name="2" width="65" height="70">
+<vector name="origin" x="-113" y="-201"/>
+<int name="delay" value="170"/>
+</canvas>
+<uol name="3" value="0"/>
+<uol name="4" value="1"/>
+<uol name="5" value="2"/>
+<uol name="6" value="0"/>
+<uol name="7" value="1"/>
+<uol name="8" value="2"/>
+<canvas name="9" width="56" height="87">
+<vector name="origin" x="-119" y="-146"/>
+<int name="delay" value="170"/>
+</canvas>
+<canvas name="10" width="58" height="83">
+<vector name="origin" x="-114" y="-123"/>
+<int name="delay" value="170"/>
+</canvas>
+<canvas name="11" width="58" height="84">
+<vector name="origin" x="-112" y="-150"/>
+<int name="delay" value="170"/>
+</canvas>
+<canvas name="12" width="86" height="48">
+<vector name="origin" x="-103" y="-228"/>
+<int name="delay" value="170"/>
+</canvas>
+<canvas name="13" width="89" height="21">
+<vector name="origin" x="-101" y="-256"/>
+<int name="delay" value="170"/>
+</canvas>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="info">
+<string name="answer" value="游泳"/>
+</imgdir>
+<imgdir name="ani">
+<canvas name="0" width="122" height="106">
+<vector name="origin" x="-82" y="-158"/>
+<int name="delay" value="200"/>
+</canvas>
+<canvas name="1" width="120" height="106">
+<vector name="origin" x="-82" y="-158"/>
+<int name="delay" value="200"/>
+</canvas>
+<canvas name="2" width="122" height="106">
+<vector name="origin" x="-82" y="-158"/>
+<int name="delay" value="200"/>
+</canvas>
+<canvas name="3" width="122" height="106">
+<vector name="origin" x="-82" y="-158"/>
+<int name="delay" value="200"/>
+</canvas>
+<canvas name="4" width="120" height="106">
+<vector name="origin" x="-82" y="-158"/>
+<int name="delay" value="200"/>
+</canvas>
+<canvas name="5" width="122" height="106">
+<vector name="origin" x="-82" y="-158"/>
+<int name="delay" value="200"/>
+</canvas>
+</imgdir>
+</imgdir>
+<imgdir name="4">
+<imgdir name="info">
+<string name="answer" value="田徑"/>
+</imgdir>
+<imgdir name="ani">
+<canvas name="0" width="69" height="73">
+<vector name="origin" x="-106" y="-185"/>
+<int name="delay" value="130"/>
+</canvas>
+<canvas name="1" width="63" height="81">
+<vector name="origin" x="-106" y="-177"/>
+<int name="delay" value="130"/>
+</canvas>
+<canvas name="2" width="69" height="88">
+<vector name="origin" x="-106" y="-170"/>
+<int name="delay" value="130"/>
+</canvas>
+<canvas name="3" width="63" height="90">
+<vector name="origin" x="-106" y="-168"/>
+<int name="delay" value="130"/>
+</canvas>
+<canvas name="4" width="69" height="93">
+<vector name="origin" x="-106" y="-165"/>
+<int name="delay" value="130"/>
+</canvas>
+<canvas name="5" width="68" height="95">
+<vector name="origin" x="-106" y="-163"/>
+<int name="delay" value="130"/>
+</canvas>
+<canvas name="6" width="67" height="72">
+<vector name="origin" x="-108" y="-186"/>
+<int name="delay" value="130"/>
+</canvas>
+<canvas name="7" width="66" height="71">
+<vector name="origin" x="-104" y="-187"/>
+<int name="delay" value="130"/>
+</canvas>
+<canvas name="8" width="67" height="72">
+<vector name="origin" x="-99" y="-186"/>
+<int name="delay" value="130"/>
+</canvas>
+<canvas name="9" width="68" height="70">
+<vector name="origin" x="-109" y="-188"/>
+<int name="delay" value="130"/>
+</canvas>
+<uol name="10" value="6"/>
+<uol name="11" value="7"/>
+<uol name="12" value="8"/>
+<uol name="13" value="9"/>
+<uol name="14" value="6"/>
+<uol name="15" value="7"/>
+<uol name="16" value="8"/>
+<uol name="17" value="9"/>
+<uol name="18" value="6"/>
+<uol name="19" value="7"/>
+<uol name="20" value="8"/>
+<uol name="21" value="9"/>
+<uol name="22" value="6"/>
+<uol name="23" value="7"/>
+<uol name="24" value="8"/>
+<uol name="25" value="9"/>
+</imgdir>
+</imgdir>
+<imgdir name="5">
+<imgdir name="info">
+<string name="answer" value="韻律操"/>
+</imgdir>
+<imgdir name="ani">
+<canvas name="0" width="126" height="78">
+<vector name="origin" x="-53" y="-160"/>
+<int name="delay" value="150"/>
+</canvas>
+<canvas name="1" width="110" height="82">
+<vector name="origin" x="-69" y="-155"/>
+<int name="delay" value="150"/>
+</canvas>
+<canvas name="2" width="118" height="86">
+<vector name="origin" x="-61" y="-152"/>
+<int name="delay" value="150"/>
+</canvas>
+<canvas name="3" width="116" height="75">
+<vector name="origin" x="-63" y="-164"/>
+<int name="delay" value="150"/>
+</canvas>
+</imgdir>
+</imgdir>
+<imgdir name="6">
+<imgdir name="info">
+<string name="answer" value="羽毛球"/>
+</imgdir>
+<imgdir name="ani">
+<canvas name="0" width="72" height="56">
+<vector name="origin" x="-114" y="-198"/>
+<int name="delay" value="130"/>
+</canvas>
+<canvas name="1" width="70" height="56">
+<vector name="origin" x="-116" y="-198"/>
+<int name="delay" value="130"/>
+</canvas>
+<canvas name="2" width="72" height="56">
+<vector name="origin" x="-118" y="-198"/>
+<int name="delay" value="130"/>
+</canvas>
+<canvas name="3" width="70" height="56">
+<vector name="origin" x="-121" y="-198"/>
+<int name="delay" value="130"/>
+</canvas>
+<canvas name="4" width="135" height="128">
+<vector name="origin" x="-60" y="-126"/>
+<int name="delay" value="130"/>
+</canvas>
+<canvas name="5" width="85" height="137">
+<vector name="origin" x="-104" y="-112"/>
+<int name="delay" value="130"/>
+</canvas>
+<canvas name="6" width="58" height="115">
+<vector name="origin" x="-132" y="-132"/>
+<int name="delay" value="130"/>
+</canvas>
+<canvas name="7" width="86" height="82">
+<vector name="origin" x="-133" y="-168"/>
+<int name="delay" value="130"/>
+</canvas>
+<canvas name="8" width="61" height="104">
+<vector name="origin" x="-125" y="-160"/>
+<int name="delay" value="130"/>
+</canvas>
+<canvas name="9" width="120" height="138">
+<vector name="origin" x="-63" y="-123"/>
+<int name="delay" value="130"/>
+</canvas>
+<canvas name="10" width="72" height="56">
+<vector name="origin" x="-125" y="-198"/>
+<int name="delay" value="130"/>
+</canvas>
+<canvas name="11" width="70" height="56">
+<vector name="origin" x="-121" y="-198"/>
+<int name="delay" value="130"/>
+</canvas>
+<canvas name="12" width="72" height="56">
+<vector name="origin" x="-118" y="-198"/>
+<int name="delay" value="130"/>
+</canvas>
+<canvas name="13" width="70" height="56">
+<vector name="origin" x="-116" y="-198"/>
+<int name="delay" value="130"/>
+</canvas>
+</imgdir>
+</imgdir>
+<imgdir name="7">
+<imgdir name="info">
+<string name="answer" value="棒球"/>
+</imgdir>
+<imgdir name="ani">
+<canvas name="0" width="60" height="63">
+<vector name="origin" x="-109" y="-191"/>
+<int name="delay" value="150"/>
+</canvas>
+<canvas name="1" width="60" height="63">
+<vector name="origin" x="-109" y="-191"/>
+<int name="delay" value="150"/>
+</canvas>
+<canvas name="2" width="129" height="63">
+<vector name="origin" x="-40" y="-191"/>
+<int name="delay" value="150"/>
+</canvas>
+<canvas name="3" width="71" height="63">
+<vector name="origin" x="-98" y="-191"/>
+<int name="delay" value="150"/>
+</canvas>
+<canvas name="4" width="101" height="65">
+<vector name="origin" x="-113" y="-189"/>
+<int name="delay" value="150"/>
+</canvas>
+<canvas name="5" width="71" height="79">
+<vector name="origin" x="-98" y="-188"/>
+<int name="delay" value="150"/>
+</canvas>
+<canvas name="6" width="76" height="73">
+<vector name="origin" x="-92" y="-185"/>
+<int name="delay" value="150"/>
+</canvas>
+<canvas name="7" width="74" height="73">
+<vector name="origin" x="-92" y="-185"/>
+<int name="delay" value="150"/>
+</canvas>
+<canvas name="8" width="70" height="73">
+<vector name="origin" x="-96" y="-185"/>
+<int name="delay" value="150"/>
+</canvas>
+<canvas name="9" width="71" height="73">
+<vector name="origin" x="-95" y="-185"/>
+<int name="delay" value="150"/>
+</canvas>
+<canvas name="10" width="56" height="73">
+<vector name="origin" x="-113" y="-185"/>
+<int name="delay" value="150"/>
+</canvas>
+<canvas name="11" width="56" height="73">
+<vector name="origin" x="-113" y="-185"/>
+<int name="delay" value="150"/>
+</canvas>
+<canvas name="12" width="56" height="73">
+<vector name="origin" x="-113" y="-185"/>
+<int name="delay" value="150"/>
+</canvas>
+<canvas name="13" width="56" height="73">
+<vector name="origin" x="-113" y="-185"/>
+<int name="delay" value="150"/>
+</canvas>
+<canvas name="14" width="53" height="73">
+<vector name="origin" x="-113" y="-185"/>
+<int name="delay" value="150"/>
+</canvas>
+</imgdir>
+</imgdir>
+<imgdir name="8">
+<imgdir name="info">
+<string name="answer" value="射擊"/>
+</imgdir>
+<imgdir name="ani">
+<canvas name="0" width="108" height="75">
+<vector name="origin" x="-73" y="-198"/>
+<int name="delay" value="150"/>
+</canvas>
+<canvas name="1" width="108" height="70">
+<vector name="origin" x="-74" y="-200"/>
+<int name="delay" value="150"/>
+</canvas>
+<canvas name="2" width="107" height="69">
+<vector name="origin" x="-75" y="-200"/>
+<int name="delay" value="150"/>
+</canvas>
+<canvas name="3" width="95" height="59">
+<vector name="origin" x="-88" y="-200"/>
+<int name="delay" value="150"/>
+</canvas>
+<canvas name="4" width="97" height="55">
+<vector name="origin" x="-87" y="-199"/>
+<int name="delay" value="150"/>
+</canvas>
+<canvas name="5" width="119" height="57">
+<vector name="origin" x="-64" y="-197"/>
+<int name="delay" value="150"/>
+</canvas>
+<canvas name="6" width="147" height="53">
+<vector name="origin" x="-35" y="-203"/>
+<int name="delay" value="150"/>
+</canvas>
+<canvas name="7" width="159" height="56">
+<vector name="origin" x="-22" y="-198"/>
+<int name="z" value="0"/>
+<int name="delay" value="150"/>
+</canvas>
+<canvas name="8" width="76" height="54">
+<vector name="origin" x="-106" y="-200"/>
+<int name="z" value="0"/>
+<int name="delay" value="150"/>
+</canvas>
+<canvas name="9" width="75" height="54">
+<vector name="origin" x="-107" y="-200"/>
+<int name="z" value="0"/>
+<int name="delay" value="150"/>
+</canvas>
+<canvas name="10" width="75" height="54">
+<vector name="origin" x="-108" y="-200"/>
+<int name="z" value="0"/>
+<int name="delay" value="150"/>
+</canvas>
+<canvas name="11" width="74" height="55">
+<vector name="origin" x="-109" y="-199"/>
+<int name="z" value="0"/>
+<int name="delay" value="150"/>
+</canvas>
+<canvas name="12" width="77" height="57">
+<vector name="origin" x="-106" y="-197"/>
+<int name="z" value="0"/>
+<int name="delay" value="150"/>
+</canvas>
+<canvas name="13" width="78" height="51">
+<vector name="origin" x="-104" y="-203"/>
+<int name="z" value="0"/>
+<int name="delay" value="150"/>
+</canvas>
+</imgdir>
+</imgdir>
+<imgdir name="9">
+<imgdir name="info">
+<string name="answer" value="射箭"/>
+</imgdir>
+<imgdir name="ani">
+<canvas name="0" width="76" height="83">
+<vector name="origin" x="-110" y="-178"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="1" width="76" height="84">
+<vector name="origin" x="-111" y="-177"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="2" width="76" height="84">
+<vector name="origin" x="-112" y="-177"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="3" width="76" height="84">
+<vector name="origin" x="-111" y="-177"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="4" width="76" height="85">
+<vector name="origin" x="-110" y="-176"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="5" width="99" height="86">
+<vector name="origin" x="-94" y="-166"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="6" width="88" height="83">
+<vector name="origin" x="-103" y="-167"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="7" width="80" height="83">
+<vector name="origin" x="-112" y="-166"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="8" width="80" height="84">
+<vector name="origin" x="-113" y="-168"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="9" width="80" height="84">
+<vector name="origin" x="-114" y="-172"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="10" width="76" height="84">
+<vector name="origin" x="-118" y="-173"/>
+<int name="delay" value="120"/>
+</canvas>
+</imgdir>
+</imgdir>
+<imgdir name="10">
+<imgdir name="info">
+<string name="answer" value="足球"/>
+</imgdir>
+<imgdir name="ani">
+<canvas name="0" width="113" height="50">
+<vector name="origin" x="-83" y="-210"/>
+<int name="delay" value="130"/>
+</canvas>
+<canvas name="1" width="94" height="53">
+<vector name="origin" x="-100" y="-210"/>
+<int name="delay" value="130"/>
+</canvas>
+<canvas name="2" width="77" height="49">
+<vector name="origin" x="-119" y="-210"/>
+<int name="delay" value="130"/>
+</canvas>
+<canvas name="3" width="100" height="49">
+<vector name="origin" x="-94" y="-210"/>
+<int name="delay" value="130"/>
+</canvas>
+</imgdir>
+</imgdir>
+<imgdir name="11">
+<imgdir name="info">
+<string name="answer" value="桌球"/>
+</imgdir>
+<imgdir name="ani">
+<canvas name="0" width="133" height="80">
+<vector name="origin" x="-71" y="-180"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="1" width="121" height="80">
+<vector name="origin" x="-79" y="-180"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="2" width="96" height="80">
+<vector name="origin" x="-100" y="-180"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="3" width="78" height="80">
+<vector name="origin" x="-113" y="-180"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="4" width="120" height="80">
+<vector name="origin" x="-80" y="-180"/>
+<int name="delay" value="120"/>
+</canvas>
+</imgdir>
+</imgdir>
+<imgdir name="12">
+<imgdir name="info">
+<string name="answer" value="手球"/>
+</imgdir>
+<imgdir name="ani">
+<canvas name="0" width="70" height="63">
+<vector name="origin" x="-108" y="-195"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="1" width="70" height="62">
+<vector name="origin" x="-109" y="-196"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="2" width="69" height="61">
+<vector name="origin" x="-111" y="-197"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="3" width="67" height="63">
+<vector name="origin" x="-112" y="-195"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="4" width="70" height="64">
+<vector name="origin" x="-110" y="-194"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="5" width="70" height="65">
+<vector name="origin" x="-108" y="-193"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="6" width="70" height="63">
+<vector name="origin" x="-108" y="-195"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="7" width="70" height="62">
+<vector name="origin" x="-109" y="-196"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="8" width="69" height="61">
+<vector name="origin" x="-111" y="-197"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="9" width="67" height="63">
+<vector name="origin" x="-112" y="-195"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="10" width="70" height="64">
+<vector name="origin" x="-110" y="-194"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="11" width="70" height="65">
+<vector name="origin" x="-108" y="-193"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="12" width="70" height="63">
+<vector name="origin" x="-108" y="-195"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="13" width="74" height="69">
+<vector name="origin" x="-105" y="-188"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="14" width="115" height="63">
+<vector name="origin" x="-61" y="-191"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="15" width="155" height="58">
+<vector name="origin" x="-22" y="-204"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="16" width="123" height="63">
+<vector name="origin" x="-54" y="-195"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="17" width="83" height="64">
+<vector name="origin" x="-95" y="-194"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="18" width="72" height="65">
+<vector name="origin" x="-106" y="-193"/>
+<int name="delay" value="120"/>
+</canvas>
+</imgdir>
+</imgdir>
+<imgdir name="13">
+<imgdir name="info">
+<string name="answer" value="籃球"/>
+</imgdir>
+<imgdir name="ani">
+<canvas name="0" width="64" height="77">
+<vector name="origin" x="-114" y="-186"/>
+<int name="delay" value="110"/>
+</canvas>
+<canvas name="1" width="63" height="76">
+<vector name="origin" x="-113" y="-188"/>
+<int name="delay" value="110"/>
+</canvas>
+<canvas name="2" width="62" height="74">
+<vector name="origin" x="-111" y="-189"/>
+<int name="delay" value="110"/>
+</canvas>
+<canvas name="3" width="63" height="76">
+<vector name="origin" x="-112" y="-187"/>
+<int name="delay" value="110"/>
+</canvas>
+<canvas name="4" width="63" height="77">
+<vector name="origin" x="-113" y="-185"/>
+<int name="delay" value="110"/>
+</canvas>
+</imgdir>
+</imgdir>
+<imgdir name="14">
+<imgdir name="info">
+<string name="answer" value="拳擊"/>
+</imgdir>
+<imgdir name="ani">
+<canvas name="0" width="77" height="55">
+<vector name="origin" x="-104" y="-204"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="1" width="78" height="57">
+<vector name="origin" x="-104" y="-203"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="2" width="80" height="59">
+<vector name="origin" x="-103" y="-202"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="3" width="82" height="61">
+<vector name="origin" x="-102" y="-201"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="4" width="80" height="59">
+<vector name="origin" x="-103" y="-202"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="5" width="78" height="57">
+<vector name="origin" x="-104" y="-203"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="6" width="75" height="55">
+<vector name="origin" x="-106" y="-204"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="7" width="88" height="55">
+<vector name="origin" x="-92" y="-204"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="8" width="79" height="55">
+<vector name="origin" x="-102" y="-204"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="9" width="88" height="55">
+<vector name="origin" x="-92" y="-204"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="10" width="79" height="55">
+<vector name="origin" x="-102" y="-204"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="11" width="88" height="55">
+<vector name="origin" x="-92" y="-204"/>
+<int name="delay" value="120"/>
+</canvas>
+<canvas name="12" width="79" height="55">
+<vector name="origin" x="-102" y="-204"/>
+<int name="delay" value="120"/>
+</canvas>
+</imgdir>
+</imgdir>
+<canvas name="Question" width="244" height="37">
+<vector name="origin" x="0" y="0"/>
+</canvas>
+</imgdir>
+<imgdir name="TextQuiz">
+<imgdir name="0">
+<imgdir name="info">
+<string name="answer" value="4"/>
+<string name="question" value="奧運是世界最大的運動競賽，請問是每幾年舉辦一次？"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="info">
+<string name="answer" value="1896"/>
+<string name="question" value="第一屆奧運是在西元幾年，於希臘雅典舉辦？"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="info">
+<string name="answer" value="宙斯"/>
+<string name="question" value="古代奧運是為了紀念哪一個希臘神話中的神祇而開始舉辦？"/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="info">
+<string name="answer" value="29"/>
+<string name="question" value="2008年北京奧運是第幾屆奧運？"/>
+</imgdir>
+</imgdir>
+<imgdir name="4">
+<imgdir name="info">
+<string name="answer" value="田徑"/>
+<string name="question" value="奧運中哪一個競賽項目獎牌數量最多？"/>
+</imgdir>
+</imgdir>
+<imgdir name="5">
+<imgdir name="info">
+<string name="answer" value="IOC"/>
+<string name="question" value="奧運的主管機關是哪裡？(請以縮寫回答)"/>
+</imgdir>
+</imgdir>
+<imgdir name="6">
+<imgdir name="info">
+<string name="answer" value="26"/>
+<string name="question" value="奧運的田徑一共細分為幾個項目？"/>
+</imgdir>
+</imgdir>
+<imgdir name="7">
+<imgdir name="info">
+<string name="answer" value="倫敦"/>
+<string name="question" value="下一屆奧運主辦城市是哪裡？"/>
+</imgdir>
+</imgdir>
+<imgdir name="8">
+<imgdir name="info">
+<string name="answer" value="美國"/>
+<string name="question" value="歷年來舉辦奧運最多次的國家是哪裡？"/>
+</imgdir>
+</imgdir>
+<imgdir name="9">
+<imgdir name="info">
+<string name="answer" value="奧林匹克環"/>
+<string name="question" value="代表近代奧運的象徵為何？"/>
+</imgdir>
+</imgdir>
+<imgdir name="10">
+<imgdir name="info">
+<string name="answer" value="藍、黃、黑、綠、紅"/>
+<string name="question" value="奧運奧林匹克環是由5個顏色的圓圈所組成，這些圓圈從左至右的顏色分別為什麼？(X、X、X、X、X)"/>
+</imgdir>
+</imgdir>
+<imgdir name="11">
+<imgdir name="info">
+<string name="answer" value="五大洲"/>
+<string name="question" value="奧林匹克環的五個圓圈代表什麼？"/>
+</imgdir>
+</imgdir>
+<imgdir name="12">
+<imgdir name="info">
+<string name="answer" value="希拉神廟"/>
+<string name="question" value="奧運聖火是在奧林匹亞山的何處點火？"/>
+</imgdir>
+</imgdir>
+<imgdir name="13">
+<imgdir name="info">
+<string name="answer" value="桂冠"/>
+<string name="question" value="古代奧運比賽中，會讓勝者頭戴什麼作為榮耀的象徵？"/>
+</imgdir>
+</imgdir>
+<imgdir name="14">
+<imgdir name="info">
+<string name="answer" value="貝貝、晶晶、歡歡、迎迎、妮妮"/>
+<string name="question" value="北京二○○八年第二十九?奧會吉祥物的名字「依序」是(  )。(XX、XX、XX、XX、XX)"/>
+</imgdir>
+</imgdir>
+<imgdir name="15">
+<imgdir name="info">
+<string name="answer" value="同一個世界，同一個夢想"/>
+<string name="question" value="2008北京奧運會的口號是(  )。(XXXXX，XXXXX)"/>
+</imgdir>
+</imgdir>
+<imgdir name="16">
+<imgdir name="info">
+<string name="answer" value="希臘雅典"/>
+<string name="question" value="(  )是奧林匹克運動的發源地。"/>
+</imgdir>
+</imgdir>
+<imgdir name="17">
+<imgdir name="info">
+<string name="answer" value="29"/>
+<string name="question" value="2008北京奧運會是第(  )屆奧運會。"/>
+</imgdir>
+</imgdir>
+<imgdir name="18">
+<imgdir name="info">
+<string name="answer" value="奧運五環"/>
+<string name="question" value="奧林匹克標誌是(  )。"/>
+</imgdir>
+</imgdir>
+<imgdir name="19">
+<imgdir name="info">
+<string name="answer" value="陳詩欣"/>
+<string name="question" value="台灣第一塊奧運金牌得主是(  )。"/>
+</imgdir>
+</imgdir>
+<imgdir name="20">
+<imgdir name="info">
+<string name="answer" value="楊傳廣"/>
+<string name="question" value="台灣第一塊奧運獎牌得主是(  )。"/>
+</imgdir>
+</imgdir>
+<imgdir name="21">
+<imgdir name="info">
+<string name="answer" value="跆拳道"/>
+<string name="question" value="台灣第一塊奧運金牌的項目是(  )。"/>
+</imgdir>
+</imgdir>
+<imgdir name="22">
+<imgdir name="info">
+<string name="answer" value="330"/>
+<string name="question" value="北京奧運會有(  )個比賽項目。"/>
+</imgdir>
+</imgdir>
+<imgdir name="23">
+<imgdir name="info">
+<string name="answer" value="3"/>
+<string name="question" value="現代奧運會是從第(  )屆開始設立金牌的。"/>
+</imgdir>
+</imgdir>
+<imgdir name="24">
+<imgdir name="info">
+<string name="answer" value="瑞士洛桑"/>
+<string name="question" value="國際奧委會總部設在(  )。"/>
+</imgdir>
+</imgdir>
+<imgdir name="25">
+<imgdir name="info">
+<string name="answer" value="伊菲圖斯"/>
+<string name="question" value="古代奧運會創始人是(  )。"/>
+</imgdir>
+</imgdir>
+<imgdir name="26">
+<imgdir name="info">
+<string name="answer" value="棒球"/>
+<string name="question" value="2008年3月的「八搶三資格賽」，讓台灣可以參加北京奧運的(  )項目。"/>
+</imgdir>
+</imgdir>
+<imgdir name="27">
+<imgdir name="info">
+<string name="answer" value="紀政"/>
+<string name="question" value="台灣第一位獲得奧運獎牌的「女選手」是 (  )。"/>
+</imgdir>
+</imgdir>
+<imgdir name="28">
+<imgdir name="info">
+<string name="answer" value="鳥巢"/>
+<string name="question" value="北京新建的奧運主場館 - 中國國家體育場，被俗稱為(  )。"/>
+</imgdir>
+</imgdir>
+<imgdir name="29">
+<imgdir name="info">
+<string name="answer" value="魚"/>
+<string name="question" value="北京二○○八年第二十九?奧會吉祥物 - 福娃貝貝的造形融入了(  )的形象。"/>
+</imgdir>
+</imgdir>
+<imgdir name="30">
+<imgdir name="info">
+<string name="answer" value="熊貓"/>
+<string name="question" value="北京二○○八年第二十九?奧會吉祥物 - 福娃晶晶的造形融入了(  )的形象。"/>
+</imgdir>
+</imgdir>
+<imgdir name="31">
+<imgdir name="info">
+<string name="answer" value="奧林匹克聖火"/>
+<string name="question" value="北京二○○八年第二十九?奧會吉祥物 - 福娃歡歡的造形融入了(  )的形象。"/>
+</imgdir>
+</imgdir>
+<imgdir name="32">
+<imgdir name="info">
+<string name="answer" value="藏羚羊"/>
+<string name="question" value="北京二○○八年第二十九?奧會吉祥物 - 福娃迎迎的造形融入了(  )的形象。"/>
+</imgdir>
+</imgdir>
+<imgdir name="33">
+<imgdir name="info">
+<string name="answer" value="燕子"/>
+<string name="question" value="北京二○○八年第二十九?奧會吉祥物 - 福娃妮妮的造形融入了(  )的形象。"/>
+</imgdir>
+</imgdir>
+<imgdir name="34">
+<imgdir name="info">
+<string name="answer" value="17"/>
+<string name="question" value="本屆北京奧運共有(  )天賽事將進行。"/>
+</imgdir>
+</imgdir>
+<imgdir name="35">
+<imgdir name="info">
+<string name="answer" value="壘球"/>
+<string name="question" value="棒球與(  )這兩個比賽項目，將於2012年倫敦奧運取消。"/>
+</imgdir>
+</imgdir>
+<imgdir name="36">
+<imgdir name="info">
+<string name="answer" value="42.195"/>
+<string name="question" value="第一屆奧林匹克運動會就開始設立了「馬拉松」比賽項目，馬拉松比賽的賽程為(  )公里。"/>
+</imgdir>
+</imgdir>
+<imgdir name="37">
+<imgdir name="info">
+<string name="answer" value="倫敦"/>
+<string name="question" value="2008年奧運會在北京舉辦，2012年將移至(  )舉辦。"/>
+</imgdir>
+</imgdir>
+<imgdir name="38">
+<imgdir name="info">
+<string name="answer" value="5"/>
+<string name="question" value="奧運比賽項目中，共有(  )項比賽是自1896年第1屆奧運起便成為比賽項目至今。"/>
+</imgdir>
+</imgdir>
+<imgdir name="39">
+<imgdir name="info">
+<string name="answer" value="香港"/>
+<string name="question" value="第29屆奧運會馬術比賽將於2008年8月9日～20日在(  )舉行。 "/>
+</imgdir>
+</imgdir>
+<imgdir name="40">
+<imgdir name="info">
+<string name="answer" value="水立方"/>
+<string name="question" value="唯一一座由港澳台同胞、海外華僑華人捐資建造的場館 - 中國國家游泳中心，被俗稱為(  )。"/>
+</imgdir>
+</imgdir>
+<imgdir name="41">
+<imgdir name="info">
+<string name="answer" value="五顆松"/>
+<string name="question" value="第29屆奧運會棒球比賽將於北京的(  )棒球場舉行。"/>
+</imgdir>
+</imgdir>
+<imgdir name="42">
+<imgdir name="info">
+<string name="answer" value="荷蘭"/>
+<string name="question" value="第29屆奧運會棒球比賽唯一的歐洲代表隊是(  )隊。"/>
+</imgdir>
+</imgdir>
+<imgdir name="43">
+<imgdir name="info">
+<string name="answer" value="歐洲"/>
+<string name="question" value="奧運五環中，藍色代表的是(  )。"/>
+</imgdir>
+</imgdir>
+<imgdir name="44">
+<imgdir name="info">
+<string name="answer" value="非洲"/>
+<string name="question" value="奧運五環中，黑色代表的是(  )。"/>
+</imgdir>
+</imgdir>
+<imgdir name="45">
+<imgdir name="info">
+<string name="answer" value="大洋洲"/>
+<string name="question" value="奧運五環中，綠色代表的是(  )。"/>
+</imgdir>
+</imgdir>
+<imgdir name="46">
+<imgdir name="info">
+<string name="answer" value="美洲"/>
+<string name="question" value="奧運五環中，紅色代表的是(  )。"/>
+</imgdir>
+</imgdir>
+<imgdir name="47">
+<imgdir name="info">
+<string name="answer" value="亞洲"/>
+<string name="question" value="奧運五環中，黃色代表的是(  )。"/>
+</imgdir>
+</imgdir>
+<canvas name="Question" width="244" height="37">
+<vector name="origin" x="0" y="0"/>
+</canvas>
+<imgdir name="48">
+<imgdir name="info">
+<string name="answer" value="4"/>
+<string name="question" value="奧運是世界最大的運動競賽，請問是每幾年舉辦一次？"/>
+</imgdir>
+</imgdir>
+<imgdir name="49">
+<imgdir name="info">
+<string name="answer" value="1896"/>
+<string name="question" value="第一屆奧運是在西元幾年，於希臘雅典舉辦？"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<string name="path" value="UI/UIWindow.img/BeijingOlympicQuiz"/>
+</imgdir>
+</imgdir>

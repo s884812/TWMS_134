@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="0911.img">
+<imgdir name="9110000">
+<canvas name="icon" width="28" height="28">
+<vector name="origin" x="-2" y="28"/>
+</canvas>
+<string name="name" value="擴充倉庫欄位"/>
+<int name="delta" value="4"/>
+</imgdir>
+<imgdir name="9111000">
+<canvas name="icon" width="28" height="28">
+<vector name="origin" x="-2" y="28"/>
+</canvas>
+<string name="name" value="擴充裝備欄欄位(4個))"/>
+<int name="delta" value="4"/>
+</imgdir>
+<imgdir name="9111001">
+<canvas name="icon" width="28" height="28">
+<vector name="origin" x="-2" y="28"/>
+</canvas>
+<string name="name" value="擴充裝備欄欄位(8個)"/>
+<int name="delta" value="8"/>
+</imgdir>
+<imgdir name="9112000">
+<canvas name="icon" width="28" height="28">
+<vector name="origin" x="-2" y="28"/>
+</canvas>
+<string name="name" value="擴充消耗欄欄位(4個)"/>
+<int name="delta" value="4"/>
+</imgdir>
+<imgdir name="9112001">
+<canvas name="icon" width="28" height="28">
+<vector name="origin" x="-2" y="28"/>
+</canvas>
+<string name="name" value="擴充消耗欄欄位(8個)"/>
+<int name="delta" value="8"/>
+</imgdir>
+<imgdir name="9113000">
+<canvas name="icon" width="28" height="28">
+<vector name="origin" x="-2" y="28"/>
+</canvas>
+<string name="name" value="擴充裝置欄欄位"/>
+<int name="delta" value="4"/>
+</imgdir>
+<imgdir name="9114000">
+<canvas name="icon" width="28" height="28">
+<vector name="origin" x="-2" y="28"/>
+</canvas>
+<string name="name" value="擴充其他欄欄位(4個)"/>
+<int name="delta" value="4"/>
+</imgdir>
+<imgdir name="9114001">
+<canvas name="icon" width="28" height="28">
+<vector name="origin" x="-2" y="28"/>
+</canvas>
+<string name="name" value="擴充其他欄欄位(8個)"/>
+<int name="delta" value="8"/>
+</imgdir>
+</imgdir>

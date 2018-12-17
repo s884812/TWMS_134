@@ -1,0 +1,2435 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="Cash.img">
+<imgdir name="5010000">
+<string name="name" value="微笑太陽"/>
+<string name="desc" value="會出現微笑的太陽特效，在鍵盤中設定對應的熱鍵按鈕，便可利用該熱鍵來開關功能。"/>
+</imgdir>
+<imgdir name="5010001">
+<string name="name" value="閃閃星月"/>
+<string name="desc" value="會出現一閃一閃的星星月亮太陽特效，在鍵盤中設定對應的熱鍵按鈕，便可利用該熱鍵來開關功能。"/>
+</imgdir>
+<imgdir name="5010002">
+<string name="name" value="七色彩虹"/>
+<string name="desc" value="會出現七色彩紅的特效，在鍵盤中設定對應的熱鍵按鈕，便可利用該熱鍵來開關功能。"/>
+</imgdir>
+<imgdir name="5010003">
+<string name="name" value="魔女莉莉"/>
+<string name="desc" value="會出現可愛小魔女莉莉的特效，在鍵盤中設定對應的熱鍵按鈕，便可利用該熱鍵來開關功能。"/>
+</imgdir>
+<imgdir name="5010004">
+<string name="name" value="潛水中"/>
+<string name="desc" value="會出現潛水艇的特效，在鍵盤中設定對應的熱鍵按鈕，便可利用該熱鍵來開關功能。"/>
+</imgdir>
+<imgdir name="5010005">
+<string name="name" value="戀愛心願"/>
+<string name="desc" value="有情人終成眷屬的心願特效，在鍵盤中設定對應的熱鍵按鈕，便可利用該熱鍵來開關功能。"/>
+</imgdir>
+<imgdir name="5010006">
+<string name="name" value="守護天使"/>
+<string name="desc" value="小天使在旁守護的可愛特效，在鍵盤中設定對應的熱鍵按鈕，便可利用該熱鍵來開關功能。"/>
+</imgdir>
+<imgdir name="5010007">
+<string name="name" value="懸賞海報"/>
+<string name="desc" value="在臉前出現海報的特效，給人有如懸賞公告的感覺。在鍵盤中設定對應的熱鍵按鈕，便可利用該熱鍵來開關功能。"/>
+</imgdir>
+<imgdir name="5010008">
+<string name="name" value="中獎男"/>
+</imgdir>
+<imgdir name="5010009">
+<string name="name" value="五星紅旗特效"/>
+<string name="desc" value=" 使用後在角色頭頂上會出現五星紅旗的特效。"/>
+</imgdir>
+<imgdir name="5010010">
+<string name="name" value="一起玩吧"/>
+<string name="desc" value="「一起玩吧」的訊息特效。設定在特定按鍵後，便可使用快速鍵來開啟或關閉。"/>
+</imgdir>
+<imgdir name="5010011">
+<string name="name" value="我要自己玩"/>
+<string name="desc" value="「我要自己玩」的訊息特效。設定在特定按鍵後，便可使用快速鍵來開啟或關閉。"/>
+</imgdir>
+<imgdir name="5010012">
+<string name="name" value="平衡器"/>
+<string name="desc" value="平衡器的特殊效果。設定在特定按鍵後，便可使用熱鍵來開關該特效。"/>
+</imgdir>
+<imgdir name="5010013">
+<string name="name" value="煙火"/>
+<string name="desc" value="綻放煙火光芒的特效。設定在特定按鍵後，便可使用熱鍵來開關該特效。"/>
+</imgdir>
+<imgdir name="5010014">
+<string name="name" value="烏雲"/>
+<string name="desc" value="下著雨並帶有閃電的烏雲特效。設定在特定按鍵後，便可使用熱鍵來開關該特效。"/>
+</imgdir>
+<imgdir name="5010015">
+<string name="name" value="777特效"/>
+</imgdir>
+<imgdir name="5010016">
+<string name="name" value="警鈴"/>
+<string name="desc" value="在危急情況發生時所使用的警鈴特效。設定在特定按鍵後，便可使用快速鍵來開啟或關閉。"/>
+</imgdir>
+<imgdir name="5010017">
+<string name="name" value="星星"/>
+<string name="desc" value="在特別的日子可使用的星星造型特效。設定在特定按鍵後，便可使用快速鍵來開啟或關閉。"/>
+</imgdir>
+<imgdir name="5010018">
+<string name="name" value="微笑"/>
+<string name="desc" value="可以在心情好的時候使用的微笑特效。設定在特定按鍵後，便可使用快速鍵來開啟或關閉。"/>
+</imgdir>
+<imgdir name="5010019">
+<string name="name" value="愛心"/>
+<string name="desc" value="表現滿懷愛心的心情時所使用的特效。設定在特定按鍵後，便可使用快速鍵來開啟或關閉。"/>
+</imgdir>
+<imgdir name="5010020">
+<string name="name" value="大韓民國特效"/>
+<string name="desc" value="祈禱韓國必勝之願的特效，使用後會跟隨在角色身邊。連擊圖示或設定到特定按鍵後，按下該熱鍵來開/ 關此功能。"/>
+</imgdir>
+<imgdir name="5010021">
+<string name="name" value="恐怖骷髏特效"/>
+<string name="desc" value="在遺蹟某處發現的骷髏，將會跟隨在你左右。連擊圖示或設定到特定按鍵後，按下該熱鍵來開/ 關此功能。"/>
+</imgdir>
+<imgdir name="5010022">
+<string name="name" value="閃耀之星特效"/>
+<string name="desc" value="就如閃耀的星星般，想要突顯自己時所使用的特效，使用後會跟隨在角色身邊。連擊圖示或設定到特定按鍵後，按下該熱鍵來開/ 關此功能。"/>
+</imgdir>
+<imgdir name="5010023">
+<string name="name" value="對你心動特效"/>
+<string name="desc" value="想要向某人表達自己的感情時所使用的特效，使用後會跟隨在角色身邊。連擊圖示或設定到特定按鍵後，按下該熱鍵來開/ 關此功能。"/>
+</imgdir>
+<imgdir name="5010024">
+<string name="name" value="玩具小鴨家族"/>
+<string name="desc" value="可愛的小鴨家族會跟在角色後方。連擊圖示或於按鍵設定中，配置到特定快捷鍵即可開關該功能。"/>
+</imgdir>
+<imgdir name="5010025">
+<string name="name" value="恐怖的幽靈"/>
+<string name="desc" value="出現可怕又恐佈的幽靈特效。連擊圖示或於按鍵設定中，配置到特定快捷鍵即可開關該功能。"/>
+</imgdir>
+<imgdir name="5010026">
+<string name="name" value="靛青吸血蝙蝠"/>
+<string name="desc" value="出現一群可怕又恐佈的吸血蝙蝠圍繞在角色周圍，呈現出一種駭人的暗夜氣氛。連擊圖示或於按鍵設定中，配置到特定快捷鍵即可開關該功能。"/>
+</imgdir>
+<imgdir name="5010027">
+<string name="name" value="火冒三丈"/>
+<string name="desc" value="可在極度生氣的日子使用的特效。連擊圖示或於按鍵設定中，配置到特定快捷鍵即可開關該功能。"/>
+</imgdir>
+<imgdir name="5010028">
+<string name="name" value="寒冰鬥魂"/>
+<string name="desc" value="使用後，角色背後會出現藍色的鬥魂特效。"/>
+</imgdir>
+<imgdir name="5010029">
+<string name="name" value=" 紅焰鬥魂"/>
+<string name="desc" value="使用後，角色背後會出現紅色的鬥魂特效。"/>
+</imgdir>
+<imgdir name="5010030">
+<string name="name" value="雷電鬥魂"/>
+<string name="desc" value="使用後，角色背後會出現黃色的鬥魂特效。"/>
+</imgdir>
+<imgdir name="5010031">
+<string name="name" value="我的男友"/>
+<string name="desc" value="可以用來向大家說明，你有多重視你的男友。使用後會跟隨在角色頭頂上。連擊圖示或設定到特定按鍵後，按下該熱鍵來開/關此功能。"/>
+</imgdir>
+<imgdir name="5010032">
+<string name="name" value="我的女友"/>
+<string name="desc" value="可以用來向大家說明，你有多重視你的女友。使用後會跟隨在角色頭頂上。連擊圖示或設定到特定按鍵後，按下該熱鍵來開/關此功能。"/>
+</imgdir>
+<imgdir name="5010033">
+<string name="name" value="好緊張"/>
+<string name="desc" value="碰到可怕或不知所措的事情時，所能使用的特效。連擊圖示或於按鍵設定中，配置到特定快捷鍵即可開關該功能。"/>
+</imgdir>
+<imgdir name="5010034">
+<string name="name" value="聖誕樹人型立牌"/>
+<string name="desc" value="想在聖誕節的日子裡，感受搖身一變成為聖誕樹的感受時所使用的道具。連擊圖示或在按鍵設定上安裝到特定按鈕，即可開關該功能。必須靜止不動才有效果。"/>
+</imgdir>
+<imgdir name="5010035">
+<string name="name" value="寒冬雪人人型立牌"/>
+<string name="desc" value="想在寒風刺骨、白雪紛飛的日子，感受搖身一變成為雪人的感受時所使用的道具。連擊圖示或在按鍵設定上安裝到特定按鈕，即可開關該功能。必須靜止不動才有效果。"/>
+</imgdir>
+<imgdir name="5010036">
+<string name="name" value="情定 101"/>
+<string name="desc" value="表現滿懷愛意心情時所使用的道具。連擊圖示或在按鍵設定上安裝到特定按鈕，即可開關該功能。必須靜止不動才有效果。"/>
+</imgdir>
+<imgdir name="5010038">
+<string name="name" value="撥水柱特效"/>
+<string name="desc" value="頭頂會出現撥水柱的特效。連擊圖示或於按鍵設定中，配置到特定快捷鍵即可開關該功能。"/>
+</imgdir>
+<imgdir name="5010039">
+<string name="name" value="聚光燈"/>
+<string name="desc" value="在角色頭頂照下聚光燈的特效。連擊圖示或於按鍵設定中，配置到特定快捷鍵即可開關該功能。"/>
+</imgdir>
+<imgdir name="5010041">
+<string name="name" value="啦啦啦音符"/>
+<string name="desc" value="想要展現出自己快樂好心情時使用的特效，特效會跟隨著角色移動。連擊圖示或於按鍵設定中，配置到特定快捷鍵即可開關該功能。"/>
+</imgdir>
+<imgdir name="5010043">
+<string name="name" value="眼光"/>
+<string name="desc" value="眼睛會閃閃發亮的特效。連擊圖示或於按鍵設定中，配置到特定快捷鍵即可開關該功能。"/>
+</imgdir>
+<imgdir name="5010044">
+<string name="name" value="殘像效果"/>
+<string name="desc" value="角色在移動的過程中，會出現殘留影像的效果，在鍵盤中設定對應的熱鍵按鈕，便可利用該熱鍵來開關功能。"/>
+</imgdir>
+<imgdir name="5010045">
+<string name="name" value="天打雷劈"/>
+<string name="desc" value="角色的頭頂上會出現打雷的特效，在鍵盤中設定對應的熱鍵按鈕，便可利用該熱鍵來開關功能。"/>
+</imgdir>
+<imgdir name="5010047">
+<string name="name" value="愛的麵包特效"/>
+<string name="desc" value="永久特效─愛心形狀的億萬麵包特效，有愛情也有麵包"/>
+</imgdir>
+<imgdir name="5010050">
+<string name="name" value="玩楓樂聖誕樹"/>
+<string name="desc" value="玩楓樂專屬的聖誕樹人型立牌，能感受在聖誕節日中，搖身一變成為聖誕樹造型的道具。連擊圖示或在按鍵設定上安裝道特定按鈕，即可開關該功能。必須靜止不動才有效果。"/>
+</imgdir>
+<imgdir name="5010051">
+<string name="name" value="霓虹聖誕樹"/>
+<string name="desc" value="使用後角色身邊會出現聖誕樹光線特效。連擊圖示或於按鍵設定中，配置到特定快捷鍵即可開關該功能。"/>
+</imgdir>
+<imgdir name="5010052">
+<string name="name" value="聖誕禮物雪橇"/>
+<string name="desc" value="使用後會出現聖誕老公公坐在雪翹的特效。連擊圖示或於按鍵設定中，配置到特定快捷鍵即可開關該功能。"/>
+</imgdir>
+<imgdir name="5010053">
+<string name="name" value="聖誕檞寄生"/>
+<string name="desc" value="百分百呈現出冬季聖誕氣氛裝飾。連擊圖示或於按鍵設定中，配置到特定快捷鍵即可開關該功能。"/>
+</imgdir>
+<imgdir name="5010054">
+<string name="name" value="搖搖聖誕老人"/>
+<string name="desc" value="使用後會出現搖搖聖誕老人的特效。連擊圖示或於按鍵設定中，配置到特定快捷鍵即可開關該功能。"/>
+</imgdir>
+<imgdir name="5010055">
+<string name="name" value="UFO特效"/>
+<string name="desc" value="角色頭頂會出現UFO的特效。連擊圖示或於按鍵設定中，配置到特定快捷鍵即可開關該功能。"/>
+</imgdir>
+<imgdir name="5010056">
+<string name="name" value="凌步草上飛"/>
+<string name="desc" value="每當角色移動時，後方便會有花草特效出現。連擊圖示或於按鍵設定中，配置到特定快捷鍵即可開關該功能。"/>
+</imgdir>
+<imgdir name="5010057">
+<string name="name" value="花之精靈"/>
+<string name="desc" value="可愛的小精靈散落花朵的特效。連擊圖示或於按鍵設定中，配置到特定快捷鍵即可開關該功能。"/>
+</imgdir>
+<imgdir name="5010058">
+<string name="name" value="中國加油!"/>
+<string name="desc" value="祈禱中國必勝之願的特效，使用後會跟隨在角色身邊。連擊圖示或設定到特定按鍵後，按下該熱鍵來開/ 關此功能。"/>
+</imgdir>
+<imgdir name="5010059">
+<string name="name" value="黑魔蹤跡"/>
+<string name="desc" value="併發一串黑魔法蹤跡，給人一種不寒而慄的恐怖感。"/>
+</imgdir>
+<imgdir name="5010060">
+<string name="name" value="快樂合唱團"/>
+<string name="desc" value="與合唱團成員，向楓之谷的夥伴們獻上快樂的耶誕頌歌吧！"/>
+</imgdir>
+<imgdir name="5010061">
+<string name="name" value="驚喜禮物特效"/>
+<string name="desc" value="永久特效─裝備後將出現禮物盒。能把自己包裝成禮物盒送人，展現你對情人節的熱誠！"/>
+</imgdir>
+<imgdir name="5010064">
+<string name="name" value="搖滾樂團特效"/>
+<string name="desc" value="&quot;使用後身邊會出現兩位搖滾樂手的特效，讓你有搖滾巨型的風采
+，連擊圖示或設定於按鍵中，即可開關該功能。&quot;"/>
+</imgdir>
+<imgdir name="5010065">
+<string name="name" value="記分牌特效"/>
+<string name="desc" value="使用後身後會出現計分牌效果，連擊圖示或設定於按鍵中，即可開關該功能。"/>
+</imgdir>
+<imgdir name="5010066">
+<string name="name" value="霓虹燈特效"/>
+<string name="desc" value="使用後頭頂會出現閃爍霓虹燈的特效，連擊圖示或設定於按鍵中，即可開關該功能。"/>
+</imgdir>
+<imgdir name="5010067">
+<string name="name" value="Yo! 淘氣鴨子T恤"/>
+<string name="desc" value="穿上它讓你盡情享受夏日風情！"/>
+</imgdir>
+<imgdir name="5010068">
+<string name="name" value="天使羽翼特效"/>
+<string name="desc" value="特效，使用後有天使下凡般的感覺，閃閃發亮的翅膀有種清晰的氣息"/>
+</imgdir>
+<imgdir name="5010069">
+<string name="name" value="墮落天使特效"/>
+<string name="desc" value="當展開翅膀的瞬間，也許會飛向天際也不一定。"/>
+</imgdir>
+<imgdir name="5010070">
+<string name="name" value="精靈翅膀特效"/>
+<string name="desc" value="與森林的妖精相像的翅膀。"/>
+</imgdir>
+<imgdir name="5010071">
+<string name="name" value="狼嚎特效"/>
+<string name="desc" value="月亮高掛的夜裡，狼嚎特效道具。連擊圖示或設定到特定按鍵後，按下該熱鍵來開/關此功能。"/>
+</imgdir>
+<imgdir name="5010073">
+<string name="name" value="我是萬人迷"/>
+<string name="desc" value="使用後會出現許多愛慕者唷！讓大家都知道你就是楓之谷人氣王吧！連擊圖示或設定到特定按鍵後，按下該熱鍵來開/關此功能。"/>
+</imgdir>
+<imgdir name="5010074">
+<string name="name" value="強大粉絲團"/>
+<string name="desc" value="使用後會出現許多愛慕者唷！讓大家都知道你就是楓之谷人氣王吧！連擊圖示或設定到特定按鍵後，按下該熱鍵來開/關此功能。"/>
+</imgdir>
+<imgdir name="5010078">
+<string name="name" value="貓頭鷹特效"/>
+<string name="desc" value="影武者的最佳伙伴，貓頭鷹。連擊圖示或設定到特定按鍵後，按下該熱鍵來開/關此功能"/>
+</imgdir>
+<imgdir name="5010079">
+<string name="name" value="提酷小跟班特效"/>
+<string name="desc" value="皇家騎士團貴族的好朋友，提酷小跟班。連擊圖示或設定到特定按鍵後，按下該熱鍵來開/關此功能。"/>
+</imgdir>
+<imgdir name="5010080">
+<string name="name" value="傾盆大雨特效"/>
+<string name="desc" value="感受雲霧罩頂、傾盆大雨的特效。連擊圖示或設定到特定按鍵後，按下該熱鍵來開/關此功能。"/>
+</imgdir>
+<imgdir name="5010999">
+<string name="name" value="怪物變身中特效"/>
+<string name="desc" value="變身成為怪物時，所顯現出的特效。"/>
+</imgdir>
+<imgdir name="5021000">
+<string name="name" value="水球"/>
+<string name="desc" value="可以感覺清涼的藍色水球，使用在#c飛鏢#上，當發射飛鏢時會出現水球特效。該道具使用後無法取消。"/>
+</imgdir>
+<imgdir name="5021001">
+<string name="name" value="紙飛機"/>
+<string name="desc" value="小心翼翼摺疊而成的紙飛機，使用在#c飛鏢#上，當發射飛鏢時，會出現紙飛機的特效。該道具使用後無法取消。"/>
+</imgdir>
+<imgdir name="5021002">
+<string name="name" value="元氣玉"/>
+<string name="desc" value="藉由集中精神凝聚氣而成的玉球。使用後，發射#c飛鏢#時會出現元氣玉的特效。該道具使用後無法取消。"/>
+</imgdir>
+<imgdir name="5021003">
+<string name="name" value="海星"/>
+<string name="desc" value="可在海邊見到的海星。安裝在#c飛鏢#上，使用飛鏢時出現海星的特效。\n\n該道具使用後無法取消。"/>
+</imgdir>
+<imgdir name="5021004">
+<string name="name" value="飛球"/>
+<string name="desc" value="附上一對小翅膀的棒球。安裝在#c飛鏢#上，於使用飛鏢時會出現飛球的特效。\n\n該道具使用後無法取消。"/>
+</imgdir>
+<imgdir name="5021005">
+<string name="name" value="橄欖球"/>
+<string name="desc" value="奮力一擲的橄欖球。裝備在 #c飛鏢#上，當使用飛鏢時會出現投擲橄欖球的特效。該道具無法刪除。"/>
+</imgdir>
+<imgdir name="5021006">
+<string name="name" value="板擦"/>
+<string name="desc" value="教室內使用的黑板擦。裝備在 #c飛鏢#上，當使用飛鏢時會出現丟板擦的特效。\n\n該道具無法刪除。"/>
+</imgdir>
+<imgdir name="5021007">
+<string name="name" value="愛的愛心"/>
+<string name="desc" value="代替飛鏢發射出去的愛心。裝備在 #c飛鏢#上，當使用飛鏢時會出現投出愛心的特效。\n\n該道具無法刪除。"/>
+</imgdir>
+<imgdir name="5021008">
+<string name="name" value="熊寶寶飛鏢"/>
+<string name="desc" value="可愛的熊寶寶娃娃。安裝在#c飛鏢#上，使用飛鏢時出現熊寶寶娃娃的特效。\n\n該道具使用後無法取消。"/>
+</imgdir>
+<imgdir name="5021009">
+<string name="name" value="企鵝王飛鏢"/>
+<string name="desc" value="可愛的企鵝王娃娃。安裝在#c飛鏢#上，使用飛鏢時出現企鵝王娃娃的特效。\n\n該道具使用後無法取消。"/>
+</imgdir>
+<imgdir name="5021010">
+<string name="name" value="紅豆饅頭"/>
+<string name="desc" value="因看起來實在太好吃，忍不住偷吃一口的紅豆饅頭。可裝備在#c飛鏢#後，使用飛鏢時會發出紅豆饅頭的特效。\n\n此為無法取消的道具。"/>
+</imgdir>
+<imgdir name="5021011">
+<string name="name" value="骷髏飛鏢"/>
+<string name="desc" value="令人毛骨悚然的骷髏。裝配在#c飛鏢#後，當使用飛鏢時便會出現丟出骷髏的特效。這是無法刪除的道具。"/>
+</imgdir>
+<imgdir name="5021012">
+<string name="name" value="南瓜派"/>
+<string name="desc" value="剛剛出爐的可口南瓜派。裝配在#c飛鏢#後，當使用飛鏢時便會出現丟出南瓜派的特效。這是無法刪除的道具。"/>
+</imgdir>
+<imgdir name="5021013">
+<string name="name" value="海賊炸彈"/>
+<string name="desc" value="海賊們所使用的威力強大的炸彈。裝配在#c飛鏢#後，當使用飛鏢時便會出現炸彈爆炸的特效。這是無法刪除的道具。"/>
+</imgdir>
+<imgdir name="5021014">
+<string name="name" value="便便飛鏢"/>
+<string name="desc" value="好像會發出臭味的便便。裝配在#c飛鏢#後，當使用飛鏢時便會出現便便的特效。這是無法刪除的道具。"/>
+</imgdir>
+<imgdir name="5021015">
+<string name="name" value="雞蛋飛鏢"/>
+<string name="desc" value="可取代飛鏢的雞蛋特效，裝配在#c飛鏢#後，當使用飛鏢時便會出現小雞特效。\n\n這是無法刪除的道具。"/>
+</imgdir>
+<imgdir name="5021017">
+<string name="name" value="戰龍陀螺"/>
+<string name="desc" value="孩子們使用的龍型戰鬥陀螺，裝備在飛鏢後，當使用會出現華麗的特效。這是無法刪除的道具。"/>
+</imgdir>
+<imgdir name="5021018">
+<string name="name" value="蕃茄"/>
+<string name="desc" value="一個紅色成熟蕃茄。 投擲飛鏢時會有有蕃茄的特效產生。 不可刪除。"/>
+</imgdir>
+<imgdir name="5021021">
+<string name="name" value="爆破綿羊"/>
+<string name="desc" value="可裝備在#c飛鏢#上的可愛逗趣的小綿羊，它可是個致命的武器喔！"/>
+</imgdir>
+<imgdir name="5021023">
+<string name="name" value="紫靈蝙蝠"/>
+<string name="desc" value="可裝備在#c飛鏢#上的紫靈蝙蝠，發射後會有紫色蝙蝠飛出的特效。"/>
+</imgdir>
+<imgdir name="5021024">
+<string name="name" value="投擲雞蛋"/>
+<string name="desc" value="飛鏢特效，投擲飛鏢時會有砸碎雞蛋的特效。"/>
+</imgdir>
+<imgdir name="5030000">
+<string name="name" value="精靈商人"/>
+<string name="desc" value="在自由市場開設僱用商店，代替離線狀態的玩家，進行道具販售的精靈商人。【購買後即開始計算使用時間】"/>
+</imgdir>
+<imgdir name="5030001">
+<string name="name" value="精靈商人"/>
+<string name="desc" value="在自由市場開設僱用商店，代替離線狀態的玩家，進行道具販售的精靈商人。【購買後即開始計算使用時間】"/>
+</imgdir>
+<imgdir name="5030002">
+<string name="name" value="熊熊超商：七日券"/>
+<string name="desc" value="在自由市場開設商店時，就算不是連線狀態也可以代為販售道具的熊熊。【購買後即開始計算使用時間】"/>
+</imgdir>
+<imgdir name="5030003">
+<string name="name" value="熊熊超商：一日券"/>
+<string name="desc" value="在自由市場開設商店時，就算不是連線狀態也可以代為販售道具的熊熊。【購買後即開始計算使用時間】"/>
+</imgdir>
+<imgdir name="5030004">
+<string name="name" value="機器人攤販：七日券"/>
+<string name="desc" value="在自由市場開設商店時，就算不是連線狀態也可以代為販售道具的機器人。【購買後即開始計算使用時間】"/>
+</imgdir>
+<imgdir name="5030005">
+<string name="name" value="機器人攤販：一日券"/>
+<string name="desc" value="在自由市場開設商店時，就算不是連線狀態也可以代為販售道具的機器人【購買後即開始計算使用時間】"/>
+</imgdir>
+<imgdir name="5030007">
+<string name="name" value="市集小販商人:1日券"/>
+<string name="desc" value="在自由市場開設商店時，就算不是連線狀態也可以代為販售道具的市集小販商人。#c有商品售出時，會透過聊天視窗通知。#【購買後即開始計算使用時間】"/>
+</imgdir>
+<imgdir name="5030008">
+<string name="name" value="甜蜜咖啡店：七日券"/>
+<string name="desc" value="在自由市場開設商店時，就算不是連線狀態也可以代為販售道具的甜蜜咖啡店。#c有商品售出時，會透過聊天視窗通知。#【購買後即開始計算使用時間】"/>
+</imgdir>
+<imgdir name="5030009">
+<string name="name" value="甜蜜咖啡店：一日券"/>
+<string name="desc" value="在自由市場開設商店時，就算不是連線狀態也可以代為販售道具的甜蜜咖啡店。#c有商品售出時，會透過聊天視窗通知。#【購買後即開始計算使用時間】"/>
+</imgdir>
+<imgdir name="5030010">
+<string name="name" value="阿婆路邊攤：七日券"/>
+<string name="desc" value="在自由市場開設商店時，就算不是連線狀態也可以代為販售道具的阿婆路邊攤。#c有商品售出時，會透過聊天視窗通知。#【購買後即開始計算使用時間】"/>
+</imgdir>
+<imgdir name="5030011">
+<string name="name" value="阿婆路邊攤：一日券"/>
+<string name="desc" value="在自由市場開設商店時，就算不是連線狀態也可以代為販售道具的阿婆路邊攤。#c有商品售出時，會透過聊天視窗通知。#【購買後即開始計算使用時間】"/>
+</imgdir>
+<imgdir name="5030013">
+<string name="name" value="市集小販商人:7日券"/>
+<string name="desc" value="在自由市場開設商店時，就算不是連線狀態也可以代為販售道具的市集小販商人。#c有商品售出時，會透過聊天視窗通知。#【購買後即開始計算使用時間】"/>
+</imgdir>
+<imgdir name="5030014">
+<string name="name" value="阿婆路邊攤：三十日券"/>
+<string name="desc" value="在自由市場開設商店時，就算不是連線狀態也可以代為販售道具的阿婆路邊攤。#c有商品售出時，會透過聊天視窗通知。#【購買後即開始計算使用時間】"/>
+</imgdir>
+<imgdir name="5030015">
+<string name="name" value="甜蜜咖啡店：4日券"/>
+<string name="desc" value="在自由市場開設商店時，就算不是連線狀態也可以代為販售道具的甜蜜咖啡店。#c商品出售時可從聊天視窗獲知。#"/>
+</imgdir>
+<imgdir name="5040000">
+<string name="name" value="瞬移之石"/>
+<string name="desc" value="可記錄五張遊戲內的地圖，並隨時可往記憶之地圖移動。 還可在同一伺服器同一頻道內往特定角色所在地圖移動。不同大陸不可互傳。"/>
+</imgdir>
+<imgdir name="5040001">
+<string name="name" value="可樂翅膀"/>
+<string name="desc" value="喝下爽口的#c可口可樂#便可#c移動到所記錄的地圖#。在相同頻道內，可移動到#c特定角色所在的地圖#。無法前往限制移動的地圖或是不同大陸的地圖。"/>
+</imgdir>
+<imgdir name="5041000">
+<string name="name" value="高級瞬移之石"/>
+<string name="desc" value="可在#c島嶼間進行傳送的石頭#。在相同頻道內，可移動到特定角色所在的地圖。最多可記錄#c10個#地圖。無法前往限制移動的地圖。"/>
+</imgdir>
+<imgdir name="5042000">
+<string name="name" value="豫園高級瞬移之石"/>
+<string name="desc" value="可瞬間移動到豫園的高級瞬移之石。"/>
+</imgdir>
+<imgdir name="5042001">
+<string name="name" value="不夜城高級瞬移之石"/>
+<string name="desc" value="可瞬間移動到不夜城的高級瞬移之石。"/>
+</imgdir>
+<imgdir name="5050000">
+<string name="name" value="能力點數重配捲軸"/>
+<string name="desc" value="將選擇的能力點數#c退還1點後用來再次重新分配的捲軸#。請注意，無法將各能力值降到4以下。HP、MP必需加過點數才可恢復。"/>
+</imgdir>
+<imgdir name="5050001">
+<string name="name" value="一轉技能點數重配捲軸"/>
+<string name="desc" value="可以將1轉技能#cSP 恢復1，再重回1轉技能的卷軸#。影武者可以恢復1轉SP，並重置1轉與2轉技能。"/>
+</imgdir>
+<imgdir name="5050002">
+<string name="name" value="二轉技能點數重配捲軸"/>
+<string name="desc" value="並且，2轉後獲得的SP如果用於1轉技能也可以進行恢復。另外,適用於影武者的2轉及2轉附加技能"/>
+</imgdir>
+<imgdir name="5050003">
+<string name="name" value="三轉技能點數重配捲軸"/>
+<string name="desc" value="並且，3轉後獲得的SP如果用於1轉或2轉技能也可以進行恢復。另外，還適用於影武者的3轉和3轉附加技能"/>
+</imgdir>
+<imgdir name="5050004">
+<string name="name" value="4轉技能點數重配卷軸"/>
+<string name="desc" value="將4轉技能的#c技能點數退還1點，用來再次分配在4轉技能上#的捲軸。若將4轉後得到的技能點數分配在1轉、2轉、3轉的技能上，也可進行退還。"/>
+</imgdir>
+<imgdir name="5050005">
+<string name="name" value="龍魔導士1，2轉技能點數重配"/>
+<string name="desc" value="重配1轉、2轉技能取得的#c點數 1，可重配相同階段技能的卷軸#。"/>
+</imgdir>
+<imgdir name="5050006">
+<string name="name" value="龍魔導士3，4轉技能點數重配"/>
+<string name="desc" value="重配3轉、4轉技能取得的#c點數 1，可重配相同階段技能的卷軸#。"/>
+</imgdir>
+<imgdir name="5050007">
+<string name="name" value="龍魔導士5，6轉技能點數重配"/>
+<string name="desc" value="重配5轉、6轉技能取得的#c點數 1，可重配相同階段技能的卷軸#。"/>
+</imgdir>
+<imgdir name="5050008">
+<string name="name" value="龍魔導士7，8轉技能點數重配"/>
+<string name="desc" value="重配7轉、8轉技能取得的#c點數 1，可重配相同階段技能的卷軸#。"/>
+</imgdir>
+<imgdir name="5050009">
+<string name="name" value="龍魔導士9，10轉技能點數重配"/>
+<string name="desc" value="重配9轉、10轉技能取得的#c點數 1，可重配相同階段技能的卷軸#。"/>
+</imgdir>
+<imgdir name="5051000">
+<string name="name" value=" "/>
+<string name="desc" value=" "/>
+</imgdir>
+<imgdir name="5053006">
+<string name="name" value="桃花仙境護膚券"/>
+<string name="desc" value="在桃花仙境的護膚中心使用，可將膚色更換成所希望的樣子一次。"/>
+</imgdir>
+<imgdir name="5060000">
+<string name="name" value="刻名道具"/>
+<string name="desc" value="可將自己的名稱刻畫在一件遊戲裝備之上的道具，每樣裝備僅能被刻畫一次，刻畫時僅需將刻名道具拖曳到角色狀態中已裝備的物品即可。"/>
+</imgdir>
+<imgdir name="5060001">
+<string name="name" value="封印之鎖"/>
+<string name="desc" value="除任務道具外的裝備道具與飛鏢加以封印，使其無法#c轉賣商店、交換、丟棄#的鎖。快速連點封印之鎖，便可封印道具。"/>
+</imgdir>
+<imgdir name="5060002">
+<string name="name" value="부화기"/>
+<string name="desc" value="피그미가 낳은 #c피그미 에그를 열기 위해#  필요한 장치이다. 부화기를 더블클릭하면 피그미 에그를 부화 시킬 수 있다."/>
+</imgdir>
+<imgdir name="5061000">
+<string name="name" value="封印之鎖 : 7日"/>
+<string name="desc" value="除任務道具外的裝備道具與飛鏢加以封印，使其無法#c轉賣商店、交換、丟棄#的鎖。快速連點封印之鎖，便可封印道具。"/>
+</imgdir>
+<imgdir name="5061001">
+<string name="name" value="封印之鎖 : 30日"/>
+<string name="desc" value="除任務道具外的裝備道具與飛鏢加以封印，使其無法#c轉賣商店、交換、丟棄#的鎖。快速連點封印之鎖，便可封印道具。"/>
+</imgdir>
+<imgdir name="5061002">
+<string name="name" value="封印之鎖 : 90日"/>
+<string name="desc" value="除任務道具外的裝備道具與飛鏢加以封印，使其無法#c轉賣商店、交換、丟棄#的鎖。快速連點封印之鎖，便可封印道具。"/>
+</imgdir>
+<imgdir name="5061003">
+<string name="name" value="封印之鎖 : 365日"/>
+<string name="desc" value="除任務道具外的裝備道具與飛鏢加以封印，使其無法#c轉賣商店、交換、丟棄#的鎖。快速連點封印之鎖，便可封印道具。"/>
+</imgdir>
+<imgdir name="5070000">
+<string name="name" value="一般喇叭"/>
+<string name="desc" value="使用後，該「地圖」上的所有人都可以看到發言的內容。"/>
+</imgdir>
+<imgdir name="5071000">
+<string name="name" value="紅喇叭"/>
+<string name="desc" value="使用後，該「頻道」上的所有人都可以看到發言的內容。"/>
+</imgdir>
+<imgdir name="5072000">
+<string name="name" value="高效能喇叭"/>
+<string name="desc" value="使用後，該「伺服器」上的所有人都可以看到發言的內容。"/>
+</imgdir>
+<imgdir name="5073000">
+<string name="name" value="愛心喇叭"/>
+<string name="desc" value="角色所輸入的話會以心型圖示傳送給位在相同伺服器的所有角色。"/>
+</imgdir>
+<imgdir name="5074000">
+<string name="name" value="骷髏喇叭"/>
+<string name="desc" value="角色所輸入的話會以骷髏圖示傳送給位在相同伺服器的所有角色。"/>
+</imgdir>
+<imgdir name="5076000">
+<string name="name" value="道具喇叭"/>
+<string name="desc" value="放入想要介紹的道具後輸入的內容，將會與道具資訊一同發布給所在伺服器的所有玩家。"/>
+</imgdir>
+<imgdir name="5077000">
+<string name="name" value="三行喇叭"/>
+<string name="desc" value="可在所屬伺服器內，一次發表三行內容。"/>
+</imgdir>
+<imgdir name="5080000">
+<string name="name" value="風箏"/>
+<string name="desc" value="能飛到高空中的風箏，可輸入想要的訊息。"/>
+<string name="msg" value="新年願望"/>
+<string name="msgIn" value="祈禱你的願望。（在各列都可以輸入）"/>
+</imgdir>
+<imgdir name="5080001">
+<string name="name" value="氫氣球"/>
+<string name="desc" value="可以升空的氣球。可以輸入想說的內容。"/>
+<string name="msg" value="真情告白"/>
+<string name="msgIn" value="真情告白。（在各列都可以輸入）"/>
+</imgdir>
+<imgdir name="5080002">
+<string name="name" value="畢業祝賀橫幅"/>
+<string name="desc" value="在天空上能飄的畢業祝賀帷幕。可以輸入想說的內容。"/>
+<string name="msg" value="的畢業祝賀"/>
+<string name="msgIn" value="請你輸入祝賀的話。（在各列都可以輸入）"/>
+</imgdir>
+<imgdir name="5080003">
+<string name="name" value="入學祝賀帷幕"/>
+<string name="desc" value="在天空上能掛的入學祝賀橫幅。可以輸入想說的內容。"/>
+<string name="msg" value="的入學祝賀"/>
+<string name="msgIn" value="請你輸入祝賀的話。（在各列都可以輸入）"/>
+</imgdir>
+<imgdir name="5090000">
+<string name="name" value="訊息"/>
+<string name="desc" value="可向已離線的玩家發送訊息。當對方登入時，即可閱讀該訊息。而已閱讀的訊息將被刪除。"/>
+</imgdir>
+<imgdir name="5090100">
+<string name="name" value="請柬-1"/>
+<string name="desc" value="可以向自己的親朋好友發送請柬。當對方收到時可閱讀請柬內容。擁有請柬者才可進入結婚宴會廳。"/>
+</imgdir>
+<imgdir name="5100000">
+<string name="name" value="賀曲"/>
+<string name="desc" value="可在自己所在的地圖上，演奏一次祝賀音樂。"/>
+<string name="title" value="祝賀"/>
+<string name="msg" value="這是玩家(%s)的祝賀音樂！"/>
+</imgdir>
+<imgdir name="5110000">
+<string name="name" value="紅心巧克力"/>
+<string name="desc" value="裝在紅色心型盒子內的巧克力，放在身上的話，頭頂上就會出現送禮人的愛心喔！"/>
+</imgdir>
+<imgdir name="5120000">
+<string name="name" value="飄雪花"/>
+<string name="desc" value="在角色所在的地圖上下雪30秒。可以輸入想說的內容。"/>
+<string name="msg" value="%s玩家說: %s"/>
+</imgdir>
+<imgdir name="5120001">
+<string name="name" value="飄花朵"/>
+<string name="desc" value="在角色所在的地圖上飄花朵30秒。可以輸入想說的內容。"/>
+<string name="msg" value="%s玩家說: %s"/>
+</imgdir>
+<imgdir name="5120002">
+<string name="name" value="肥皂泡"/>
+<string name="desc" value="在角色所在的地圖上飄皂泡30秒。可以輸入想說的內容。"/>
+<string name="msg" value="%s玩家說: %s"/>
+</imgdir>
+<imgdir name="5120003">
+<string name="name" value="飄雪結晶"/>
+<string name="desc" value="在角色所在的地圖上飄雪結晶30秒。可以輸入想說的內容。"/>
+<string name="msg" value="%s玩家說: %s"/>
+</imgdir>
+<imgdir name="5120004">
+<string name="name" value="飄禮物"/>
+<string name="desc" value="在角色所在的地圖上撒禮物30秒。可以輸入想說的內容。"/>
+<string name="msg" value="%s玩家說: %s"/>
+</imgdir>
+<imgdir name="5120005">
+<string name="name" value="飄巧克力"/>
+<string name="desc" value="在角色所在的地圖上撒巧克力30秒。可以輸入想說的內容。"/>
+<string name="msg" value="%s玩家說: %s"/>
+</imgdir>
+<imgdir name="5120006">
+<string name="name" value="飄花粉"/>
+<string name="desc" value="在角色所在的地圖上撒花粉30秒。可以輸入想說的內容。"/>
+<string name="msg" value="%s玩家說: %s"/>
+</imgdir>
+<imgdir name="5120007">
+<string name="name" value="飄糖果"/>
+<string name="desc" value="在角色所在的地圖上下糖果30秒。可以輸入想說的內容。"/>
+<string name="msg" value="%s玩家說: %s"/>
+</imgdir>
+<imgdir name="5120008">
+<string name="name" value="飄楓葉"/>
+<string name="desc" value="在角色位置的地圖上飄楓葉30秒鐘。可以輸入想說的內容。"/>
+<string name="msg" value="%s玩家的楓葉: %s"/>
+</imgdir>
+<imgdir name="5120009">
+<string name="name" value="鞭炮"/>
+<string name="desc" value="在角色所在地圖上燃放30秒的鞭炮；並會飄落彩紙。可輸入文字資訊。"/>
+<string name="msg" value="%s 的鞭炮︰%s"/>
+</imgdir>
+<imgdir name="5120010">
+<string name="name" value="코-크 뿌리기"/>
+<string name="desc" value="캐릭터가 속한 맵에 30초간 #c코카-콜라#를 뿌린다. 원하는 메시지를 입력할 수 있다."/>
+<string name="msg" value="%s 님의 코-크 : %s"/>
+</imgdir>
+<imgdir name="5120012">
+<string name="name" value="聖誕襪"/>
+<string name="desc" value="在30秒的時間內，於角色所在的地圖中飄聖誕襪。可輸入所要傳達的訊息。"/>
+<string name="msg" value=" %s 的聖誕襪：%s"/>
+</imgdir>
+<imgdir name="5120014">
+<string name="name" value="聖誕襪"/>
+<string name="desc" value="在30秒的時間內，於角色所在的地圖中飄聖誕襪。可輸入所要傳達的訊息。"/>
+<string name="msg" value="%s玩家說: %s"/>
+</imgdir>
+<imgdir name="5120015">
+<string name="name" value="新年鞭炮"/>
+<string name="desc" value="角色所在地圖內，約出現30秒的鞭炮特效。可輸入所要傳達的訊息。"/>
+<string name="msg" value="%s 的新年祝福: %s"/>
+</imgdir>
+<imgdir name="5120016">
+<string name="name" value="月妙糕點任務用"/>
+<string name="desc" value="老虎"/>
+<string name="msg" value="%s玩家說: %s"/>
+</imgdir>
+<imgdir name="5120017">
+<string name="name" value="首次同行任務用"/>
+<string name="desc" value="拉克里斯"/>
+<string name="msg" value="%s玩家說: %s"/>
+</imgdir>
+<imgdir name="5120018">
+<string name="name" value="時空的裂縫任務用"/>
+<string name="desc" value="標示牌"/>
+<string name="msg" value="%s玩家說: %s"/>
+</imgdir>
+<imgdir name="5120019">
+<string name="name" value="雅典娜禁地任務用"/>
+<string name="desc" value="易克"/>
+<string name="msg" value="%s玩家說: %s"/>
+</imgdir>
+<imgdir name="5120020">
+<string name="name" value="海賊王任務用"/>
+<string name="desc" value="邱翁"/>
+<string name="msg" value="%s玩家說: %s"/>
+</imgdir>
+<imgdir name="5120021">
+<string name="name" value="羅密歐任務用"/>
+<string name="desc" value="羅密歐"/>
+<string name="msg" value="%s玩家說: %s"/>
+</imgdir>
+<imgdir name="5120022">
+<string name="name" value="茱麗葉任務用"/>
+<string name="desc" value="茱麗葉"/>
+<string name="msg" value="%s玩家說: %s"/>
+</imgdir>
+<imgdir name="5120023">
+<string name="name" value="艾靈森林任務用"/>
+<string name="desc" value="妖精"/>
+<string name="msg" value="%s玩家說: %s"/>
+</imgdir>
+<imgdir name="5120024">
+<string name="name" value="武陵道場任務用"/>
+<string name="desc" value="蕭公"/>
+<string name="msg" value="%s玩家說: %s"/>
+</imgdir>
+<imgdir name="5120025">
+<string name="name" value="管理者用"/>
+<string name="desc" value="使用指令。"/>
+<string name="msg" value="%s玩家說: %s"/>
+</imgdir>
+<imgdir name="5120026">
+<string name="name" value="黃金厄運死神迷宮用"/>
+<string name="desc" value="黃金厄運死神"/>
+<string name="msg" value="%s玩家說: %s"/>
+</imgdir>
+<imgdir name="5120027">
+<string name="name" value="宇宙船"/>
+<string name="desc" value="去救加加時，需要乘坐的宇宙船。"/>
+<string name="msg" value="%s玩家說: %s"/>
+</imgdir>
+<imgdir name="5120028">
+<string name="name" value="可愛貓狗對話框"/>
+<string name="desc" value="在角色所在地圖飄可愛的貓狗圖案30秒，且可以在該特效對畫框中，輸入您所要輸入的訊息。"/>
+<string name="msg" value="%s &apos; s消息： %s"/>
+</imgdir>
+<imgdir name="5120030">
+<string name="name" value="魔女之塔"/>
+<string name="desc" value="從魔女之塔發出危險警訊。"/>
+<string name="msg" value="%s玩家說: %s"/>
+</imgdir>
+<imgdir name="5120031">
+<string name="name" value="4週年慶活動用氣象效果"/>
+</imgdir>
+<imgdir name="5120034">
+<string name="name" value="巧克力甜甜圈"/>
+<string name="desc" value="在角色所在的地圖上灑下可口的甜甜圈點心30秒。可以輸入想說的內容唷！"/>
+<string name="msg" value="%s玩家說: %s"/>
+</imgdir>
+<imgdir name="5120036">
+<string name="name" value="5週年紀念慶祝特效"/>
+<string name="desc" value="在角色的所在地圖將出現具有5週年慶祝效果30秒。可以輸入想說的內容唷！"/>
+<string name="msg" value="%s玩家說: %s"/>
+</imgdir>
+<imgdir name="5121000">
+<string name="name" value="攻擊加持"/>
+<string name="desc" value="位在該地圖的角色，約有10分鐘的時間提升物理攻擊力+20, 魔法攻擊力 +20。可輸入所要傳達的訊息。"/>
+<string name="msg" value="%s 的加油聲： %s"/>
+</imgdir>
+<imgdir name="5121001">
+<string name="name" value="防禦加持"/>
+<string name="desc" value="位在該地圖的角色，約有10分鐘的時間提升物理防禦力+50, 魔法防禦力 +50。可輸入所要傳達的訊息。"/>
+<string name="msg" value="%s 的加油聲： %s"/>
+</imgdir>
+<imgdir name="5121002">
+<string name="name" value="移動加持"/>
+<string name="desc" value="位在該地圖的的角色，約有10分鐘的時間，提升移動速度+20, 跳躍力 +10。可輸入所要傳達的訊息。"/>
+<string name="msg" value="%s 的加油聲： %s"/>
+</imgdir>
+<imgdir name="5121003">
+<string name="name" value="蔘雞湯"/>
+<string name="desc" value="位在將該地圖的角色，約有15分鐘的時間可提升物理攻擊 +20, 魔法攻擊 +30。可輸入所要傳達的訊息。"/>
+<string name="msg" value="%s 的蔘雞湯： %s"/>
+</imgdir>
+<imgdir name="5121004">
+<string name="name" value="松糕"/>
+<string name="desc" value="在15分鐘的時間內，讓所在地圖內的所有角色提升物理攻擊力+20、魔法攻擊力+30。玩家可輸入想要傳達的訊息。"/>
+<string name="msg" value="%s 的松糕：%s"/>
+</imgdir>
+<imgdir name="5121005">
+<string name="name" value="韓果"/>
+<string name="desc" value="在15分鐘的時間內，讓所在地圖內的所有角色提升物理攻擊力+20、魔法攻擊力+30。玩家可輸入想要傳達的訊息。"/>
+<string name="msg" value="%s 的韓果：%s"/>
+</imgdir>
+<imgdir name="5121006">
+<string name="name" value="小魔女"/>
+<string name="desc" value="在15分鐘的時間內，讓所在地圖內的所有角色提升物理攻擊力+20、魔法攻擊力+30。玩家可入想要傳達的訊息。"/>
+<string name="msg" value="%s 的聖誕襪：%s"/>
+</imgdir>
+<imgdir name="5121007">
+<string name="name" value="聖誕樹裝飾"/>
+<string name="desc" value="可讓所在地圖內的所有角色，提升物理攻擊力+20、魔法攻擊力+30達15分鐘。可輸入所要傳達的訊息。"/>
+<string name="msg" value="%s 的聖誕裝飾：%s"/>
+</imgdir>
+<imgdir name="5121008">
+<string name="name" value="生日快樂"/>
+<string name="desc" value="可讓所在地圖內的所有角色，提升物理攻擊力+20、魔法攻擊力+30達15分鐘。可輸入所要傳達的訊息。"/>
+<string name="msg" value="%s 的祝賀訊息：%s"/>
+</imgdir>
+<imgdir name="5121009">
+<string name="name" value="美艷玫瑰"/>
+<string name="desc" value="可讓所在地圖內的所有角色，提升物理攻擊力+20、魔法攻擊力+30達15分鐘。可輸入所要傳達的訊息。"/>
+<string name="msg" value="%s 的祝賀訊息：%s"/>
+</imgdir>
+<imgdir name="5121010">
+<string name="name" value="漫天花雨"/>
+<string name="desc" value="可讓所在地圖內的所有角色，提升物理攻擊力+20、魔法攻擊力+30達15分鐘。可輸入所要傳達的訊息。"/>
+<string name="msg" value="%s 的祝賀訊息：%s"/>
+</imgdir>
+<imgdir name="5121014">
+<string name="name" value="飄鯛魚燒"/>
+<string name="desc" value="可讓所在地圖內的所有角色，提升物理攻擊力+20、魔法攻擊力+30達15分鐘。可輸入所要傳達的訊息。"/>
+<string name="msg" value="%s飄鯛魚燒 : %s"/>
+</imgdir>
+<imgdir name="5121015">
+<string name="name" value="雪人和滿天白雪"/>
+<string name="desc" value="可讓所在地圖內的所有角色，提升物理攻擊力+20、魔法攻擊力+30達15分鐘。可輸入所要傳達的訊息。"/>
+<string name="msg" value="%s雪人和滿天白雪 : %s"/>
+</imgdir>
+<imgdir name="5121016">
+<string name="name" value="甜蜜愛心"/>
+<string name="desc" value="可讓所在地圖內的所有角色，提升物理攻擊力+20、魔法攻擊力+30達15分鐘。可輸入所要傳達的訊息。"/>
+<string name="msg" value="%s甜蜜愛心 : %s"/>
+</imgdir>
+<imgdir name="5121019">
+<string name="name" value="溫暖手套"/>
+<string name="desc" value="可讓所在地圖內的所有角色，提升物理攻擊力+20、魔法攻擊力+30達15分鐘。可輸入所要傳達的訊息。"/>
+<string name="msg" value="%s溫暖手套 : %s"/>
+</imgdir>
+<imgdir name="5121020">
+<string name="name" value="恭喜發財"/>
+<string name="desc" value="可讓所在地圖內的所有角色，提升物理攻擊力+20、魔法攻擊力+30達15分鐘。可輸入所要傳達的訊息。"/>
+<string name="msg" value="%s恭喜發財 : %s"/>
+</imgdir>
+<imgdir name="5121025">
+<string name="name" value="2010승리기원"/>
+<string name="desc" value="맵에 속한 캐릭터의 물리방어력 +50, 마법방어력 +50 을 10분간 상승시켜준다. 원하는 메세지를 입력할 수 있다."/>
+<string name="msg" value="%s 님의 함성: %s"/>
+</imgdir>
+<imgdir name="5122000">
+<string name="name" value="可愛派對熊"/>
+<string name="desc" value="可讓所在地圖內的所有角色，提升物理攻擊力+20、魔法攻擊力+30達15分鐘。可輸入所要傳達的訊息。"/>
+<string name="msg" value="%s 可愛派對熊 : %s"/>
+</imgdir>
+<imgdir name="5130000">
+<string name="name" value="護身符"/>
+<string name="desc" value="角色死亡時可不掉經驗值. 有效期限90天, #c角色每死亡一次即消耗一個#。"/>
+</imgdir>
+<imgdir name="5130002">
+<string name="name" value="強效護身符"/>
+<string name="desc" value="擁有護身符的期間，當角色死亡時仍不會有經驗值損失，且當復活時可恢復30%的HP和MP。"/>
+</imgdir>
+<imgdir name="5131000">
+<string name="name" value="VIP護身符"/>
+<string name="desc" value="有效期限45天。擁有該道具時，角色死亡#c不會損失經驗值#。且復活時使HP、MP恢復100%、並另外隨機發動移動速度+10、跳躍力+10。"/>
+</imgdir>
+<imgdir name="5140000">
+<string name="name" value="營業執照"/>
+<string name="desc" value="您可以在自由市場中，指定地點開立商店。【購買後即開始計算使用時間】"/>
+</imgdir>
+<imgdir name="5140001">
+<string name="name" value="藍色木屋商店營業執照"/>
+<string name="desc" value="您可以在自由市場中，指定地點開立商店。【購買後即開始計算使用時間】"/>
+</imgdir>
+<imgdir name="5140002">
+<string name="name" value="粉紅木屋商店營業執照"/>
+<string name="desc" value="您可以在自由市場中，指定地點開立商店。【購買後即開始計算使用時間】"/>
+</imgdir>
+<imgdir name="5140003">
+<string name="name" value="橙色木屋商店營業執照"/>
+<string name="desc" value="用來開設橙色木屋形狀的個人商店。您可在自由市場內開立商店，一次可販賣24樣商品。【購買後即開始計算使用時間】"/>
+</imgdir>
+<imgdir name="5140004">
+<string name="name" value="綠色木屋商店營業執照"/>
+<string name="desc" value="用來開設綠色木屋形狀的個人商店。您可在自由市場內開立商店，一次可販賣24樣商品。【購買後即開始計算使用時間】"/>
+</imgdir>
+<imgdir name="5140006">
+<string name="name" value="聖誕木屋商店營業執照"/>
+<string name="desc" value="用來開設聖誕氣氛的個人商店，您可以在自由商場裡開設，一次能夠放置24樣道具。【購買後即開始計算使用時間】"/>
+</imgdir>
+<imgdir name="5150000">
+<string name="name" value="弓箭手村美髮店一般會員卡"/>
+<string name="desc" value="在弓箭手村美髮店可以用一次的會員卡。髮型隨機。"/>
+</imgdir>
+<imgdir name="5150001">
+<string name="name" value="弓箭手村美髮店高級會員卡"/>
+<string name="desc" value="在弓箭手村美髮店可以用一次的會員卡。可以把髮型變換到願意的樣子。"/>
+</imgdir>
+<imgdir name="5150002">
+<string name="name" value="墮落城市美髮店一般會員卡"/>
+<string name="desc" value="在墮落城市美髮店可以用一次的會員卡。髮型隨機。"/>
+</imgdir>
+<imgdir name="5150003">
+<string name="name" value="墮落城市美髮店高級會員卡"/>
+<string name="desc" value="在墮落城市美髮店可以用一次的會員卡。可以把髮型變換到願意的樣子。"/>
+</imgdir>
+<imgdir name="5150004">
+<string name="name" value="天空之城美髮店一般會員卡"/>
+<string name="desc" value="在天空之城美髮店可以用一次的會員卡。髮型隨機。"/>
+</imgdir>
+<imgdir name="5150005">
+<string name="name" value="天空之城美髮店高級會員卡"/>
+<string name="desc" value="在天空之城美髮店可以用一次的會員卡。可以把髮型變換到願意的樣子。"/>
+</imgdir>
+<imgdir name="5150006">
+<string name="name" value="玩具城美髮店一般會員卡"/>
+<string name="desc" value="在玩具城美髮店使用，可讓髮型隨機變換一次。"/>
+</imgdir>
+<imgdir name="5150007">
+<string name="name" value="玩具城美髮店高級會員卡"/>
+<string name="desc" value="在玩具城美髮店使用，可將髮型更換成所希望的樣式一次。"/>
+</imgdir>
+<imgdir name="5150008">
+<string name="name" value="昭和村美髮店一般會員卡"/>
+<string name="desc" value="在昭和村美髮店使用，可讓髮型隨機變換一次。"/>
+</imgdir>
+<imgdir name="5150009">
+<string name="name" value="昭和村美髮店高級會員卡"/>
+<string name="desc" value="在昭和村美髮店使用，可將髮型更換成所希望的樣式一次。"/>
+</imgdir>
+<imgdir name="5150014">
+<string name="name" value="豫園美髮店一般會員卡"/>
+<string name="desc" value="在豫園美髮店可以用一次的會員卡。髮型隨機。"/>
+</imgdir>
+<imgdir name="5150015">
+<string name="name" value="豫園美髮店高級會員卡"/>
+<string name="desc" value="在豫園美髮店可以用一次的會員卡。可以把髮型變換到願意的樣子。"/>
+</imgdir>
+<imgdir name="5150016">
+<string name="name" value="不夜城美髮店一般會員卡"/>
+<string name="desc" value="在不夜城美髮店使用，可讓髮型隨機變換一次。"/>
+</imgdir>
+<imgdir name="5150017">
+<string name="name" value="不夜城美髮店高級會員卡"/>
+<string name="desc" value="在不夜城美髮店使用，可將髮型更換成所希望的樣式一次。"/>
+</imgdir>
+<imgdir name="5150019">
+<string name="name" value="婚禮美髮店一般會員卡"/>
+<string name="desc" value="在結婚小鎮美髮店使用，可將髮型隨機更換樣式一次。"/>
+</imgdir>
+<imgdir name="5150020">
+<string name="name" value="婚禮美髮店高級會員卡"/>
+<string name="desc" value="在結婚小鎮美髮店使用，可將髮型更換成所希望的樣式一次。"/>
+</imgdir>
+<imgdir name="5150021">
+<string name="name" value="不夜城美髮店一般會員卡"/>
+<string name="desc" value="在#c不夜城美髮店#使用，可讓髮型#c隨機#變換一次。"/>
+</imgdir>
+<imgdir name="5150022">
+<string name="name" value="不夜城美髮店高級會員卡"/>
+<string name="desc" value="在#c不夜城美髮店#使用，可將髮型更換成#c所希望的樣式#一次。"/>
+</imgdir>
+<imgdir name="5150024">
+<string name="name" value="桃花仙境美髮店一般會員卡"/>
+<string name="desc" value="可在#c桃花仙境美髮店#使用，可讓髮型#c隨機#變換一次。"/>
+</imgdir>
+<imgdir name="5150025">
+<string name="name" value="桃花仙境美髮店高級會員卡"/>
+<string name="desc" value="可在#c桃花仙境美髮店#使用，可將髮型更換成#c所希望的樣式#一次。"/>
+</imgdir>
+<imgdir name="5150026">
+<string name="name" value="納希綠洲城美髮店一般會員卡"/>
+<string name="desc" value="可在#c納希綠洲城美髮店#使用，可讓髮型#c隨機#變換一次。"/>
+</imgdir>
+<imgdir name="5150027">
+<string name="name" value="納希綠洲城美髮店高級會員卡"/>
+<string name="desc" value="可在#c納希綠洲城美髮店#使用，可將髮型更換成#c所希望的樣式#一次。"/>
+</imgdir>
+<imgdir name="5150028">
+<string name="name" value="101美髮店一般會員卡"/>
+<string name="desc" value="在#c101美髮店#使用，可讓髮型#c隨機#變換一次。"/>
+</imgdir>
+<imgdir name="5150029">
+<string name="name" value="101美髮店高級會員卡"/>
+<string name="desc" value="在#c101美髮店#使用，可將髮型更換成#c所希望的樣式#一次。"/>
+</imgdir>
+<imgdir name="5150030">
+<string name="name" value="新葉城美髮店一般會員卡"/>
+<string name="desc" value="可在#c新葉城美髮店#使用，可讓頭髮髮型#c隨機#變換一次"/>
+</imgdir>
+<imgdir name="5150031">
+<string name="name" value="新葉城美髮店高級會員卡"/>
+<string name="desc" value="可在#c新葉城美髮店#使用，可將頭髮髮型更換成#c所希望的髮型#一次"/>
+</imgdir>
+<imgdir name="5150032">
+<string name="name" value="中心商務區美髮店一般會員卡"/>
+<string name="desc" value="在#c中心商務區美髮店#使用，可讓髮型#c隨機#變換一次。"/>
+</imgdir>
+<imgdir name="5150033">
+<string name="name" value="中心商務區美髮店高級會員卡"/>
+<string name="desc" value="在#c中心商務區美髮店#使用，可將髮型更換成#c所希望的樣式#一次。"/>
+</imgdir>
+<imgdir name="5150037">
+<string name="name" value="Floating Market Hairstyle Coupon (VIP)"/>
+<string name="desc" value="Use it at #cFloating Market Hair Salon# to change your hair to a style of #cyour choice#. (one-time use)"/>
+</imgdir>
+<imgdir name="5150038">
+<string name="name" value="超級偶像髮型券"/>
+<string name="desc" value="使用限制為1次，之後就會變成閃光的 #c超級偶像# 髮型。#n#c只有在攜帶卷的時候才可以在美髮店中的功能表中察看。#"/>
+</imgdir>
+<imgdir name="5150040">
+<string name="name" value="皇家美髮券"/>
+<string name="desc" value="拿給#c各村莊美髮店的比克‧艾德華#的話，就可以#c隨機#變換一次特別的髮型。"/>
+</imgdir>
+<imgdir name="5150041">
+<string name="name" value="傳說中的美髮券"/>
+<string name="desc" value="只限透過魅力無限美髮師才可使用，可讓髮型隨機變換一次。"/>
+</imgdir>
+<imgdir name="5150042">
+<string name="name" value="通用美髮券"/>
+<string name="desc" value="各村莊美髮店通用，可讓髮型隨機變換一次"/>
+</imgdir>
+<imgdir name="5150043">
+<string name="name" value="通用高級美髮券"/>
+<string name="desc" value="各村莊美髮店通用，可將髮型更換成所希望的樣式一次"/>
+</imgdir>
+<imgdir name="5150044">
+<string name="name" value="스페셜 로얄 헤어 쿠폰"/>
+<string name="desc" value="#c헤네시스 헤어샵의 빅 헤드워드# 에게 가져가면, 1회에 한하여 헤어스타일이 #c임의#로 변한다."/>
+</imgdir>
+<imgdir name="5150047">
+<string name="name" value="雙髻美髮卷"/>
+<string name="desc" value="#c將之交給各村美髮店的院長#，就可以製作雙髻髮型了。\n#c帶有美髮卷的狀態下才可以選擇功能表。"/>
+</imgdir>
+<imgdir name="5150050">
+<string name="name" value="썸머 로얄 헤어 쿠폰"/>
+<string name="desc" value="#c헤네시스 헤어샵의 빅 헤드워드# 에게 가져가면, 1회에 한하여 썸머 스페셜 헤어 중 #c임의#의 한가지로 변한다.\n쿠폰은 구입 후, 90일까지만 사용할 수 있다."/>
+</imgdir>
+<imgdir name="5150052">
+<string name="name" value="헤어샵 일반 쿠폰"/>
+<string name="desc" value="미용실에서 사용하면, 1회에 한하여 헤어스타일이 임의로 변한다.\n모든 마을에서 사용할 수 있다."/>
+</imgdir>
+<imgdir name="5150053">
+<string name="name" value="헤어샵 고급쿠폰"/>
+<string name="desc" value="미용실에서 사용하면, 1회에 한하여 #c원하는 헤어스타일#로 바꿀 수 있다.\n모든 마을에서 사용가능하다."/>
+</imgdir>
+<imgdir name="5151000">
+<string name="name" value="弓箭手村染色一般會員卡"/>
+<string name="desc" value="在弓箭手村美髮店可以用一次的會員卡。顏色隨機。"/>
+</imgdir>
+<imgdir name="5151001">
+<string name="name" value="弓箭手村染色高級會員卡"/>
+<string name="desc" value="在弓箭手村美髮店可以用一次的會員卡。可以把顏色變換到願意的樣子。"/>
+</imgdir>
+<imgdir name="5151002">
+<string name="name" value="墮落城市染色一般會員卡"/>
+<string name="desc" value="在墮落城市美髮店可以用一次的會員卡。顏色隨機。"/>
+</imgdir>
+<imgdir name="5151003">
+<string name="name" value="墮落城市染色高級會員卡"/>
+<string name="desc" value="在墮落城市美髮店可以用一次的會員卡。可以把顏色變換到願意的樣子。"/>
+</imgdir>
+<imgdir name="5151004">
+<string name="name" value="天空之城染色一般會員卡"/>
+<string name="desc" value="在天空之城美髮店可以用一次的會員卡。顏色隨機。"/>
+</imgdir>
+<imgdir name="5151005">
+<string name="name" value="天空之城染色高級會員卡"/>
+<string name="desc" value="在天空之城美髮店可以用一次的會員卡。可以把顏色變換到願意的樣子。"/>
+</imgdir>
+<imgdir name="5151006">
+<string name="name" value="玩具城染色一般會員卡"/>
+<string name="desc" value="在玩具城美髮店使用，可讓頭髮顏色隨機變換一次。"/>
+</imgdir>
+<imgdir name="5151007">
+<string name="name" value="玩具城染色高級會員卡"/>
+<string name="desc" value="在玩具城美髮店使用，可將頭髮顏色更換成所希望的顏色一次。"/>
+</imgdir>
+<imgdir name="5151008">
+<string name="name" value="昭和村染髮一般會員卡"/>
+<string name="desc" value="在昭和村美髮店使用，可讓頭髮顏色隨機變換一次。"/>
+</imgdir>
+<imgdir name="5151009">
+<string name="name" value="昭和村染髮高級會員卡"/>
+<string name="desc" value="在昭和村美髮店使用，可將頭髮顏色更換成所希望的顏色一次。"/>
+</imgdir>
+<imgdir name="5151010">
+<string name="name" value="豫園染色一般會員卡"/>
+<string name="desc" value="在豫園美髮店可以用一次的會員卡。顏色隨機。"/>
+</imgdir>
+<imgdir name="5151011">
+<string name="name" value="豫園染色高級會員卡"/>
+<string name="desc" value="在豫園美髮店可以用一次的會員卡。可以把顏色變換到願意的樣子。"/>
+</imgdir>
+<imgdir name="5151012">
+<string name="name" value="不夜城染色一般會員卡"/>
+<string name="desc" value="在不夜城美髮店使用，可讓頭髮顏色隨機變換一次。"/>
+</imgdir>
+<imgdir name="5151013">
+<string name="name" value="不夜城染色高級會員卡"/>
+<string name="desc" value="在不夜城美髮店使用，可將頭髮顏色更換成所希望的顏色一次。"/>
+</imgdir>
+<imgdir name="5151014">
+<string name="name" value="不夜城染髮一般會員卡"/>
+<string name="desc" value="在#c不夜城美髮店#使用，可讓頭髮?色#c隨機#變換一次。"/>
+</imgdir>
+<imgdir name="5151015">
+<string name="name" value="不夜城染髮高級會員卡"/>
+<string name="desc" value="在#c不夜城美髮店#使用，可將頭髮?色更換成#c所希望的?色#一次。"/>
+</imgdir>
+<imgdir name="5151016">
+<string name="name" value="婚禮染髮一般會員卡"/>
+<string name="desc" value="在結婚小鎮美髮店使用，可將頭髮顏色隨機更換一次。"/>
+</imgdir>
+<imgdir name="5151017">
+<string name="name" value="婚禮染髮高級會員卡"/>
+<string name="desc" value="在結婚小鎮美髮店使用，可將頭髮顏色更換成所希望的一次"/>
+</imgdir>
+<imgdir name="5151019">
+<string name="name" value="桃花仙境染髮一般會員卡"/>
+<string name="desc" value="可在#c桃花仙境美髮店#使用，可讓頭髮顏色#c隨機#變換一次。"/>
+</imgdir>
+<imgdir name="5151020">
+<string name="name" value="桃花仙境染髮高級會員卡"/>
+<string name="desc" value="可在#c桃花仙境美髮店#使用，可將頭髮顏色更換成#c所希望的顏色#一次。"/>
+</imgdir>
+<imgdir name="5151021">
+<string name="name" value="納希綠洲城染髮一般會員卡"/>
+<string name="desc" value="可在#c納希綠洲城美髮店#使用，可讓頭髮顏色#c隨機#變換一次。"/>
+</imgdir>
+<imgdir name="5151022">
+<string name="name" value="納希綠洲城染髮高級會員卡"/>
+<string name="desc" value="可在#c納希綠洲城美髮店#使用，可將頭髮顏色更換成#c所希望的顏色#一次。"/>
+</imgdir>
+<imgdir name="5151035">
+<string name="name" value="염색 일반 쿠폰"/>
+<string name="desc" value="미용실에서 사용하면, 1회에 한하여 임의의 머리색으로 바뀐다.\n모든 마을에서 사용 가능하다."/>
+</imgdir>
+<imgdir name="5151036">
+<string name="name" value="염색 고급 쿠폰"/>
+<string name="desc" value="미용실에서 사용하면, 1회에 한하여 #c원하는 머리색#으로 바꿀 수 있다.\n모든 마을에서 사용가능하다."/>
+</imgdir>
+<imgdir name="5151023">
+<string name="name" value="101染髮一般會員卡"/>
+<string name="desc" value="在#c101美髮店#使用，可讓頭髮顏色#c隨機#變換一次。"/>
+</imgdir>
+<imgdir name="5151024">
+<string name="name" value="101染髮高級會員卡"/>
+<string name="desc" value="在#c101美髮店#使用，可將頭髮顏色更換成#c所希望的顏色#一次。"/>
+</imgdir>
+<imgdir name="5151025">
+<string name="name" value="新葉城染髮一般會員卡"/>
+<string name="desc" value="可在#c新葉城美髮店#使用，可讓頭髮顏色#c隨機#變換一次。"/>
+</imgdir>
+<imgdir name="5151026">
+<string name="name" value="新葉城染髮高級會員卡"/>
+<string name="desc" value="可在#c新葉城美髮店#使用，可將頭髮顏色更換成#c所希望的顏色#一次。"/>
+</imgdir>
+<imgdir name="5151027">
+<string name="name" value="中心商務區染髮一般會員卡"/>
+<string name="desc" value="在#c中心商務區美髮店#使用，可讓頭髮顏色#c隨機#變換一次。"/>
+</imgdir>
+<imgdir name="5151028">
+<string name="name" value="中心商務區染髮高級會員卡"/>
+<string name="desc" value="在#c中心商務區美髮店#使用，可將頭髮顏色更換成#c所希望的顏色#一次。"/>
+</imgdir>
+<imgdir name="5151032">
+<string name="name" value="通用染髮券"/>
+<string name="desc" value="各村莊美髮店通用，可讓髮型顏色隨機變換一次"/>
+</imgdir>
+<imgdir name="5151033">
+<string name="name" value="通用高級染髮券"/>
+<string name="desc" value="各村莊美髮店通用，可將髮型顏色更換成所希望的色彩一次"/>
+</imgdir>
+<imgdir name="5152000">
+<string name="name" value="弓箭手村整形手術一般會員卡"/>
+<string name="desc" value="在弓箭手村整形手術醫院可以用一次的會員卡。臉型隨機。"/>
+</imgdir>
+<imgdir name="5152001">
+<string name="name" value="弓箭手村整形手術高級會員卡"/>
+<string name="desc" value="在弓箭手村整形手術醫院可以用一次的會員卡。可以把臉變換到願意的樣子。"/>
+</imgdir>
+<imgdir name="5152002">
+<string name="name" value="墮落城市整形手術一般會員卡"/>
+<string name="desc" value="在#c墮落城市整形外科醫院#可以用一次的會員卡。臉型會#c隨機#變換。"/>
+</imgdir>
+<imgdir name="5152003">
+<string name="name" value="墮落城市整形手術高級會員卡"/>
+<string name="desc" value="在#c墮落城市整形外科醫院#可以用一次的會員卡。可以把臉變換成#c所指定的臉型#。"/>
+</imgdir>
+<imgdir name="5152004">
+<string name="name" value="天空之城整形手術一般會員卡"/>
+<string name="desc" value="在天空之城整形手術醫院可以用一次的會員卡。臉型隨機。"/>
+</imgdir>
+<imgdir name="5152005">
+<string name="name" value="天空之城整形手術高級會員卡"/>
+<string name="desc" value="在天空之城整形手術醫院可以用一次的會員卡。可以把臉變換到願意的樣子。"/>
+</imgdir>
+<imgdir name="5152006">
+<string name="name" value="玩具城整形手術一般會員卡"/>
+<string name="desc" value="在玩具城的整容院使用，可讓臉部隨機變換一次。"/>
+</imgdir>
+<imgdir name="5152007">
+<string name="name" value="玩具城整形手術高級會員卡"/>
+<string name="desc" value="在玩具城的整容院使用，可將臉部更換成所希望的臉部一次。"/>
+</imgdir>
+<imgdir name="5152008">
+<string name="name" value="昭和村整形手術一般會員卡"/>
+<string name="desc" value="在昭和村的整形外科使用，可讓臉部隨機變換一次。"/>
+</imgdir>
+<imgdir name="5152009">
+<string name="name" value="昭和村整形手術高級會員卡"/>
+<string name="desc" value="在昭和村的整形外科使用，可將臉部更換成所希望的臉部一次。"/>
+</imgdir>
+<imgdir name="5152016">
+<string name="name" value="豫園整形手術一般會員卡"/>
+<string name="desc" value="在豫園整形手術醫院可以用一次的會員卡。臉型隨機。"/>
+</imgdir>
+<imgdir name="5152017">
+<string name="name" value="豫園整形手術高級會員卡"/>
+<string name="desc" value="在豫園整形手術醫院可以用一次的會員卡。可以把臉型變換到願意的樣子。"/>
+</imgdir>
+<imgdir name="5152018">
+<string name="name" value="不夜城整形手術一般會員卡"/>
+<string name="desc" value="在不夜城的整容院使用，可讓臉部隨機變換一次。"/>
+</imgdir>
+<imgdir name="5152019">
+<string name="name" value="不夜城整形手術高級會員卡"/>
+<string name="desc" value="在不夜城的整容院使用，可將臉部更換成所希望的臉部一次。"/>
+</imgdir>
+<imgdir name="5152021">
+<string name="name" value="婚禮整形手術一般會員卡"/>
+<string name="desc" value="在結婚小鎮整形中心使用，可將臉型隨機更換樣式一次。"/>
+</imgdir>
+<imgdir name="5152022">
+<string name="name" value="婚禮整形手術高級會員卡"/>
+<string name="desc" value="在結婚小鎮整形中心使用，可將臉型更換成所希望的樣式一次。"/>
+</imgdir>
+<imgdir name="5152023">
+<string name="name" value="不夜城整形手術一般會員卡"/>
+<string name="desc" value="在#c不夜城的整形外科#使用，可讓臉部#c隨機#變換一次。"/>
+</imgdir>
+<imgdir name="5152024">
+<string name="name" value="不夜城整形手術高級會員卡"/>
+<string name="desc" value="在#c不夜城的整形外科#使用，可將臉部更換成#c所希望的臉部#一次。"/>
+</imgdir>
+<imgdir name="5152027">
+<string name="name" value="桃花仙境整形手術一般會員卡"/>
+<string name="desc" value="可在#c桃花仙境的整形外科#使用，可讓臉部#c隨機#變換一次。"/>
+</imgdir>
+<imgdir name="5152028">
+<string name="name" value="桃花仙境整形手術高級會員卡"/>
+<string name="desc" value="可在#c桃花仙境整形外科#使用，可將臉部更換成#c所希望的臉部#一次。"/>
+</imgdir>
+<imgdir name="5152029">
+<string name="name" value="納希綠洲城整形手術一般會員卡"/>
+<string name="desc" value="可在#c納希綠洲城整形中心#使用，可讓臉部#c隨機#變換一次。"/>
+</imgdir>
+<imgdir name="5152030">
+<string name="name" value="納希綠洲城整形手術高級會員卡"/>
+<string name="desc" value="可在#c納希綠洲城整型外科#使用，可將臉部更換成#c所希望的臉部#一次。"/>
+</imgdir>
+<imgdir name="5152056">
+<string name="name" value="성형외과 일반 쿠폰"/>
+<string name="desc" value="성형외과에서 사용하면, 1회에 한하여 임의의 얼굴로 변한다.\n모든 마을에서 사용 가능하다."/>
+</imgdir>
+<imgdir name="5152057">
+<string name="name" value="성형외과 고급 쿠폰"/>
+<string name="desc" value="성형외과에서 사용하면, 1회에 한하여 원하는 얼굴로 바꿀 수 있다.\n모든 마을에서 사용 가능하다."/>
+</imgdir>
+<imgdir name="5152031">
+<string name="name" value="101整形手術一般會員卡"/>
+<string name="desc" value="在#c101的整形外科#使用，可讓臉部#c隨機#變換一次。"/>
+</imgdir>
+<imgdir name="5152032">
+<string name="name" value="101整形手術高級會員卡"/>
+<string name="desc" value="在#c101的整形外科#使用，可將臉部更換成#c所希望的臉部#一次。"/>
+</imgdir>
+<imgdir name="5152033">
+<string name="name" value="新葉城整形手術一般會員卡"/>
+<string name="desc" value="可在#c新葉城整形外科#使用，可讓臉部#c隨機#變換一次。"/>
+</imgdir>
+<imgdir name="5152034">
+<string name="name" value="新葉城整形手術高級會員卡"/>
+<string name="desc" value="可在#c新葉城整形外科#使用，可將臉部更換成#c所希望的臉部#一次。"/>
+</imgdir>
+<imgdir name="5152037">
+<string name="name" value="中心商務區整形手術一般會員卡"/>
+<string name="desc" value="在#c中心商務區整形外科#使用，可讓臉型#c隨機#變換一次。"/>
+</imgdir>
+<imgdir name="5152038">
+<string name="name" value="中心商務區整形手術高級會員卡"/>
+<string name="desc" value="在#c中心商務區整形外科#使用，可將臉型更換成#c所希望的臉型#一次。"/>
+</imgdir>
+<imgdir name="5152049">
+<string name="name" value="通用整形券"/>
+<string name="desc" value="各村莊整形外科通用，可讓臉型隨機變換一次"/>
+<imgdir name="5390005">
+<string name="name" value="微笑太陽"/>
+<string name="desc" value="會出現微笑的太陽特效，在鍵盤中設定對應的熱鍵按鈕，便可利用該熱鍵來開關功能。"/>
+</imgdir>
+</imgdir>
+<imgdir name="5152050">
+<string name="name" value="通用高級整形券"/>
+<string name="desc" value="各村莊整形外科通用，可將臉型更換成所希望的臉型一次"/>
+</imgdir>
+<imgdir name="5152054">
+<string name="name" value="狂狼勇士整形券"/>
+<string name="desc" value="在各村落#c整形外科#中使用的話，可以變更為#c狂狼勇士#的臉型。"/>
+</imgdir>
+<imgdir name="5152055">
+<string name="name" value="龍魔導士整形券"/>
+<string name="desc" value="在各村落#c整形外科#中使用的話，可以變更為#c龍魔導士#的臉型。"/>
+</imgdir>
+<imgdir name="5152100">
+<string name="name" value="日拋隱形眼鏡(黑色)"/>
+<string name="desc" value="使用後可將眼睛顏色改為#c黑色#(限使用一次)。"/>
+</imgdir>
+<imgdir name="5152101">
+<string name="name" value="日拋隱形眼鏡(藍色)"/>
+<string name="desc" value="使用後可將眼睛顏色改為#c藍色#(限使用一次)。"/>
+</imgdir>
+<imgdir name="5152102">
+<string name="name" value="日拋隱形眼鏡(紅色)"/>
+<string name="desc" value="使用後可將眼睛顏色改為#c紅色#(限使用一次)。"/>
+</imgdir>
+<imgdir name="5152103">
+<string name="name" value="日拋隱形眼鏡(綠色)"/>
+<string name="desc" value="使用後可將眼睛顏色改為#c綠色#(限使用一次)。"/>
+</imgdir>
+<imgdir name="5152104">
+<string name="name" value="日拋隱形眼鏡(褐色)"/>
+<string name="desc" value="使用後可將眼睛顏色改為#c褐色#(限使用一次)。"/>
+</imgdir>
+<imgdir name="5152105">
+<string name="name" value="日拋隱形眼鏡(藍綠色)"/>
+<string name="desc" value="使用後可將眼睛顏色改為#c藍綠色#(限使用一次)。"/>
+</imgdir>
+<imgdir name="5152106">
+<string name="name" value="日拋隱形眼鏡(紫色)"/>
+<string name="desc" value="使用後可將眼睛顏色改為#c紫色#(限使用一次)。"/>
+</imgdir>
+<imgdir name="5152107">
+<string name="name" value="日拋隱形眼鏡(亮紫色)"/>
+<string name="desc" value="使用後可將眼睛顏色改為#c亮紫色#(限使用一次)。"/>
+</imgdir>
+<imgdir name="5153000">
+<string name="name" value="弓箭手村護膚中心會員卡"/>
+<string name="desc" value="在弓箭手村護膚中心可以用一次的會員卡。"/>
+</imgdir>
+<imgdir name="5153001">
+<string name="name" value="天空之城護膚中心會員卡"/>
+<string name="desc" value="在天空之城護膚中心可以用一次的會員卡。"/>
+</imgdir>
+<imgdir name="5153002">
+<string name="name" value="玩具城護膚中心會員卡"/>
+<string name="desc" value="在玩具城的皮膚護理店使用， 可將身體更換成所希望的樣子一次。"/>
+</imgdir>
+<imgdir name="5153003">
+<string name="name" value="豫園護膚中心會員卡"/>
+<string name="desc" value="在豫園護膚中心可以用一次的會員卡。"/>
+</imgdir>
+<imgdir name="5153004">
+<string name="name" value="不夜城護膚中心會員卡"/>
+<string name="desc" value="在不夜城的皮膚護理店使用， 可將身體更換成所希望的樣子一次。"/>
+</imgdir>
+<imgdir name="5153005">
+<string name="name" value="不夜城護膚券"/>
+<string name="desc" value="在#c不夜城的護膚中心#使用，可將膚色更換成#c所希望的顏色#一次。"/>
+</imgdir>
+<imgdir name="5153006">
+<string name="name" value="桃花仙境護膚券"/>
+<string name="desc" value="在桃花仙境的護膚中心使用，可將膚色更換成所希望的樣子一次。"/>
+</imgdir>
+<imgdir name="5153007">
+<string name="name" value="納希綠洲城護膚券"/>
+<string name="desc" value="在#c納希綠洲城的護膚中心#使用，可將膚色更換成#c所希望的顏色#一次"/>
+</imgdir>
+<imgdir name="5153015">
+<string name="name" value="스킨케어 쿠폰"/>
+<string name="desc" value="스킨케어샵에서 사용하면, 1회에 한하여 원하는 피부로 바꿀 수 있다.\n모든 마을에서 사용 가능하다."/>
+</imgdir>
+<imgdir name="5153008">
+<string name="name" value="101護膚券"/>
+<string name="desc" value="在#c101的護膚中心#使用，可將膚色更換成#c所希望的顏色#一次。"/>
+</imgdir>
+<imgdir name="5153009">
+<string name="name" value="新葉城護膚中心會員卡"/>
+<string name="desc" value="在#c新葉城護膚中心#使用，可將膚色更換成#c所希望的顏色#一次。"/>
+</imgdir>
+<imgdir name="5153010">
+<string name="name" value="中心商務區護膚中心會員卡"/>
+<string name="desc" value="在#c中心商務區護膚中心#使用，可將膚色更換成#c所希望的顏色#一次。"/>
+</imgdir>
+<imgdir name="5153013">
+<string name="name" value="通用高級護膚券"/>
+<string name="desc" value="各村莊護膚中心通用，可將膚色更換成所希望的顏色一次"/>
+</imgdir>
+<imgdir name="5154000">
+<string name="name" value="天空之城美髮會員卡"/>
+<string name="desc" value="在天空之城美髮店把髮型換成散髮的會員卡，限女生使用。"/>
+</imgdir>
+<imgdir name="5160000">
+<string name="name" value="嘔吐"/>
+<string name="desc" value="嘔吐的表情；可設定在鍵盤的熱鍵上，在遊戲中按下該熱鍵時，角色就會出現嘔吐的表情"/>
+</imgdir>
+<imgdir name="5160001">
+<string name="name" value="汗"/>
+<string name="desc" value="無奈的表情；可設定在鍵盤的熱鍵上，在遊戲中按下該熱鍵，角色就會做出無奈的表情。"/>
+</imgdir>
+<imgdir name="5160002">
+<string name="name" value="哇塞"/>
+<string name="desc" value="開心的表情；可設定在鍵盤的熱鍵上，在遊戲中按下該熱鍵，角色就會做出開心的表情。"/>
+</imgdir>
+<imgdir name="5160003">
+<string name="name" value="親親"/>
+<string name="desc" value="親嘴的表情；可設定在鍵盤的熱鍵上，在遊戲中按下該熱鍵，角色就會做出親嘴的表情。"/>
+</imgdir>
+<imgdir name="5160004">
+<string name="name" value="眨眼"/>
+<string name="desc" value="可設定在鍵盤的熱鍵上，在遊戲中按下該熱鍵，角色就會做出眨眼的動作。"/>
+</imgdir>
+<imgdir name="5160005">
+<string name="name" value="一把眼淚"/>
+<string name="desc" value="可設定在鍵盤的熱鍵上，在遊戲中按下該熱鍵，角色就會做出流淚的表情。"/>
+</imgdir>
+<imgdir name="5160006">
+<string name="name" value="眼光閃爍"/>
+<string name="desc" value="可設定在鍵盤的熱鍵上，在遊戲中按下該熱鍵，角色就會做出眼光閃爍的表情。"/>
+</imgdir>
+<imgdir name="5160007">
+<string name="name" value="怒火中燒"/>
+<string name="desc" value="設定在特定按鍵後，按下該熱鍵角色就會作出怒火燃燒的表情。"/>
+</imgdir>
+<imgdir name="5160008">
+<string name="name" value="閃閃發亮"/>
+<string name="desc" value="設定在特定按鍵後，按下該熱鍵角色就會作出閃閃發亮的表情。"/>
+</imgdir>
+<imgdir name="5160009">
+<string name="name" value="一見鍾情"/>
+<string name="desc" value="設定到指定按鍵後，當使用該鍵，角色的眼睛會變成心型，做出一見鍾情的心動表情。"/>
+</imgdir>
+<imgdir name="5160010">
+<string name="name" value="難以接受"/>
+<string name="desc" value="設定在特定按鍵後，按下該熱鍵角色就會作出痛苦難受的表情。"/>
+</imgdir>
+<imgdir name="5160011">
+<string name="name" value="沉思"/>
+<string name="desc" value="連擊圖示或設定在特定按鍵後，按下該熱鍵角色就會作出若有所思的表情。"/>
+</imgdir>
+<imgdir name="5160012">
+<string name="name" value="打瞌睡"/>
+<string name="desc" value="連擊圖示或設定在特定按鍵後，按下該熱鍵角色就會作出打瞌睡的表情。"/>
+</imgdir>
+<imgdir name="5160013">
+<string name="name" value="好熱好熱"/>
+<string name="desc" value="連擊圖示或設定在特定按鍵後，按下該熱鍵角色就會作出發熱的表情。"/>
+</imgdir>
+<imgdir name="5160014">
+<string name="name" value="吐舌頭"/>
+<string name="desc" value=" 連擊道具圖示，或在按鍵設定中配置在特定按鍵後使用，角色會出現戲弄某人般的吐舌頭表情。"/>
+</imgdir>
+<imgdir name="5170000">
+<string name="name" value="取寵物名"/>
+<string name="desc" value="可以給寵物取名。與名字一起命令的話，寵物會更順從。例：寵物名字 坐"/>
+</imgdir>
+<imgdir name="5180000">
+<string name="name" value="生命水"/>
+<string name="desc" value="在魔法森林深處採的生命之水。用這個水可以讓寵物復活。"/>
+</imgdir>
+<imgdir name="5190000">
+<string name="name" value="撿道具技能"/>
+<string name="desc" value="為所選取的寵物，增加自動撿起道具的功能。 \n#c只限使用於只能撿起楓幣的寵物。"/>
+</imgdir>
+<imgdir name="5190001">
+<string name="name" value="自動服用HP藥水技能"/>
+<string name="desc" value="寵物會根據系統設定中指定的HP警戒，自動幫角色服用藥水。 \n#c可使用於無內建此功能的所有寵物。#"/>
+</imgdir>
+<imgdir name="5190002">
+<string name="name" value="擴大移動範圍技能"/>
+<string name="desc" value="使用該卷軸，寵物的移動範圍會增為3倍。\n#c只限於已經學習範圍自動撿取功能的寵物，無法重複使用。#"/>
+</imgdir>
+<imgdir name="5190003">
+<string name="name" value="範圍自動撿起功能"/>
+<string name="desc" value="範圍內若有楓幣和道具，就算不移動仍可自動撿起的功能。 \n#c只限使用於已經學習撿道具技能的寵物。#"/>
+</imgdir>
+<imgdir name="5190004">
+<string name="name" value="撿起無所有權道具&amp;楓幣技能"/>
+<string name="desc" value="讓寵物自動撿起掉出已超過30秒而無所有權的道具、楓幣。 \n#c只限使用於具備撿起楓幣、道具的寵物。#"/>
+</imgdir>
+<imgdir name="5190005">
+<string name="name" value="勿撿特定道具技能"/>
+<string name="desc" value="可設定寵物不要撿取特定道具的技能。已學習寵物達人技能並召喚出多隻寵物的狀態下，主寵使用該技能才會發揮效果。"/>
+</imgdir>
+<imgdir name="5190006">
+<string name="name" value="自動服用MP藥水技能"/>
+<string name="desc" value="寵物會根據系統設定中指定的MP警戒，自動幫角色服用藥水。\n#c可使用於無內建此功能的所有寵物。#"/>
+</imgdir>
+<imgdir name="5190007">
+<string name="name" value="寵物召喚"/>
+<string name="desc" value="自言自語"/>
+</imgdir>
+<imgdir name="5190008">
+<string name="name" value="自言自語"/>
+<string name="desc" value="自言自語"/>
+</imgdir>
+<imgdir name="5191000">
+<string name="name" value="取消撿道具功能"/>
+<string name="desc" value="使用該卷軸後，該寵物便無法繼續自動撿起道具。"/>
+</imgdir>
+<imgdir name="5191001">
+<string name="name" value="取消自動服用藥水功能"/>
+<string name="desc" value="使用該卷軸後，寵物便無法繼續使用自動服用HP藥水的功能。"/>
+</imgdir>
+<imgdir name="5191002">
+<string name="name" value="取消擴大移動範圍技能"/>
+<string name="desc" value="使用該卷軸，寵物的移動範圍會恢復到初始的狀態。"/>
+</imgdir>
+<imgdir name="5191003">
+<string name="name" value="取消範圍自動撿起功能"/>
+<string name="desc" value="使用該卷軸，那寵物便無法繼續自行移動來撿起道具或楓幣。"/>
+</imgdir>
+<imgdir name="5191004">
+<string name="name" value="取消撿起無所有權道具&amp;楓幣功能"/>
+<string name="desc" value="#c取消#自動撿起無所有權道具的卷軸。 \n#c只能對具備撿起無所有權道具&amp;楓幣技能的寵物使用。#"/>
+</imgdir>
+<imgdir name="5200000">
+<string name="name" value="青銅金幣包"/>
+<string name="desc" value="裝有10萬楓幣的福袋包"/>
+</imgdir>
+<imgdir name="5200001">
+<string name="name" value="銀色金幣包"/>
+<string name="desc" value="裝有50萬楓幣的福袋包"/>
+</imgdir>
+<imgdir name="5200002">
+<string name="name" value="黃色金幣包"/>
+<string name="desc" value="裝有100萬楓幣的福袋包"/>
+</imgdir>
+<imgdir name="5201001">
+<string name="name" value="小鋼珠盒子(500)"/>
+<string name="desc" value="可儲值成在小鋼珠機台上使用的小鋼珠，一共500顆。"/>
+</imgdir>
+<imgdir name="5201002">
+<string name="name" value="小鋼珠盒子(3000)"/>
+<string name="desc" value="可儲值成在小鋼珠機台上使用的小鋼珠，一共3000顆。"/>
+</imgdir>
+<imgdir name="5201003">
+<string name="name" value="小鋼珠盒子(100)"/>
+<string name="desc" value="可儲值成在小鋼珠機台上使用的小鋼珠，一共100顆。"/>
+</imgdir>
+<imgdir name="5210000">
+<string name="name" value="經驗值加倍全日券"/>
+<string name="desc" value="帶在身上時，使用期限內可隨時上線都能享有經驗值加倍，購買後即開始計算時間，與其他經驗加倍券同時使用不會有加乘效果。"/>
+</imgdir>
+<imgdir name="5210001">
+<string name="name" value="經驗加倍凌晨券"/>
+<string name="desc" value="適用時間：00:00 ~ 06:00\n在時效內#c打怪可獲得兩倍經驗#，同時擁有數個加倍券時，效果不累計但仍計算使用期限。"/>
+</imgdir>
+<imgdir name="5210002">
+<string name="name" value="經驗加倍上午券"/>
+<string name="desc" value="適用時間：06:00 ~ 12:00\n在時效內#c打怪可獲得兩倍經驗#，同時擁有數個加倍券時，效果不累計但仍計算使用期限。"/>
+</imgdir>
+<imgdir name="5210003">
+<string name="name" value="經驗加倍下午券"/>
+<string name="desc" value="適用時間：12:00 ~ 18:00\n在時效內#c打怪可獲得兩倍經驗#，同時擁有數個加倍券時，效果不累計但仍計算使用期限。"/>
+</imgdir>
+<imgdir name="5210004">
+<string name="name" value="經驗加倍晚上券"/>
+<string name="desc" value="適用時間：18:00 ~ 24:00\n在時效內#c打怪可獲得兩倍經驗#，同時擁有數個加倍券時，效果不累計但仍計算使用期限。"/>
+</imgdir>
+<imgdir name="5210005">
+<string name="name" value="經驗值加倍券"/>
+<string name="desc" value="擁有該道具者便可在特定時間內獲得兩倍的經驗值。"/>
+</imgdir>
+<imgdir name="5210006">
+<string name="name" value="經驗值加倍卡(22~2)"/>
+<string name="desc" value="適用時間：22:00-02:00\n在時效內#c打怪可獲得兩倍經驗#，同時擁有數個加倍券時，效果不累計但仍計算使用期限。"/>
+</imgdir>
+<imgdir name="5210007">
+<string name="name" value="經驗值加倍卡(2~6)"/>
+<string name="desc" value="適用時間： 02:00-06:00\n在時效內#c打怪可獲得兩倍經驗#，同時擁有數個加倍券時，效果不累計但仍計算使用期限。"/>
+</imgdir>
+<imgdir name="5210008">
+<string name="name" value="經驗值加倍卡(6~10)"/>
+<string name="desc" value="適用時間：06:00-10:00\n在時效內#c打怪可獲得兩倍經驗#，同時擁有數個加倍券時，效果不累計但仍計算使用期限。"/>
+</imgdir>
+<imgdir name="5210009">
+<string name="name" value="鞭炮"/>
+<string name="desc" value="在角色所在地圖上燃放30秒的鞭炮；並會飄落彩紙。可輸入文字資訊。"/>
+<string name="msg" value="%s 的鞭炮︰%s"/>
+</imgdir>
+<imgdir name="5210010">
+<string name="name" value="經驗值加倍卡(14~18)"/>
+<string name="desc" value="適用時間：14:00-18:00\n在時效內#c打怪可獲得兩倍經驗#，同時擁有數個加倍券時，效果不累計但仍計算使用期限。"/>
+</imgdir>
+<imgdir name="5210011">
+<string name="name" value="經驗值加倍卡(18~22)"/>
+<string name="desc" value="適用時間：18:00-22:00\n在時效內#c打怪可獲得兩倍經驗#，同時擁有數個加倍券時，效果不累計但仍計算使用期限。"/>
+</imgdir>
+<imgdir name="5211000">
+<string name="name" value="特殊禮券1日券"/>
+<string name="desc" value="擁有該道具者，#c透過打怪獲得的經驗值為兩倍#，有效期間為自獲得時間點起一天，若擁有數個特殊禮券便會同時發揮效果，因此需多加注意。"/>
+</imgdir>
+<imgdir name="5211001">
+<string name="name" value="特殊禮券3日券"/>
+<string name="desc" value="擁有該道具者，#c透過打怪獲得的經驗值為兩倍#，有效期間為自獲得時間點起三天，若擁有數個特殊禮券便會同時發揮效果，因此需多加注意。"/>
+</imgdir>
+<imgdir name="5211002">
+<string name="name" value="特殊禮券5日券"/>
+<string name="desc" value="擁有該道具者，#c透過打怪獲得的經驗值為兩倍#，有效期間為自獲得時間點起五天，若擁有數個特殊禮券便會同時發揮效果，因此需多加注意。"/>
+</imgdir>
+<imgdir name="5220000">
+<string name="name" value="轉蛋券"/>
+<string name="desc" value="在轉蛋機使用，可得到各種物品。"/>
+</imgdir>
+<imgdir name="5220001">
+<string name="name" value="活動入場券"/>
+<string name="desc" value="進入活動地圖所需的入場券。"/>
+</imgdir>
+<imgdir name="5220002">
+<string name="name" value="掉寶加倍頻道門票"/>
+<string name="desc" value="持有門票才能進去掉寶加倍的頻道。"/>
+</imgdir>
+<imgdir name="5220003">
+<string name="name" value="擂臺開設券"/>
+<string name="desc" value="可在豫園擂臺上開設遊戲房的開設券。"/>
+</imgdir>
+<imgdir name="5220004">
+<string name="name" value="擂臺入場券"/>
+<string name="desc" value="可以參加擂臺遊戲的入場券。"/>
+</imgdir>
+<imgdir name="5220008">
+<string name="name" value="老天保佑幸運符"/>
+<string name="desc" value="身上擁有幸運符，獵殺怪物時有機會隨機掉落兵法書。掉落兵法書時將消耗一個幸運符。"/>
+</imgdir>
+<imgdir name="5220010">
+<string name="name" value="超級轉蛋券"/>
+<string name="desc" value="在超級轉蛋機使用，可得到各種物品。"/>
+</imgdir>
+<imgdir name="5220040">
+<string name="name" value="楓葉轉蛋券"/>
+<string name="desc" value="在楓葉轉蛋機使用，可得到各種物品"/>
+</imgdir>
+<imgdir name="5221000">
+<string name="name" value="主題館免費體驗券"/>
+<string name="desc" value="主題館中的道具可以在&quot;主題館免費優待券&quot;的有效期間內自由選購。但道具將與主題館免費體驗券期限到時一併消失唷!!"/>
+</imgdir>
+<imgdir name="5222000">
+<string name="name" value="月光寶盒"/>
+<string name="desc" value="在打開此月光寶盒之後隨機可以獲得現金道具。試試看你的運氣唷！請注意你只能在購物商場加值道具欄使用左鍵點擊開啟月光寶盒。"/>
+</imgdir>
+<imgdir name="5222004">
+<string name="name" value="月光精品禮盒"/>
+<string name="desc" value="在打開此月光精品禮盒之後隨機可以獲得現金道具。試試看你的運氣唷！請注意你只能在購物商場加值道具欄使用左鍵點擊開啟月光精品禮盒。"/>
+</imgdir>
+<imgdir name="5222005">
+<string name="name" value="商城驚喜"/>
+<string name="desc" value="恭喜你獲得#c商城驚喜#!雙擊盒子可隨機獲得一個現金道具。試下你的手氣吧！注：每天，角色每纍計消耗一定金額即可免費獲得1個#c商城驚喜#，當日消費金額不計入第二天。"/>
+</imgdir>
+<imgdir name="5230000">
+<string name="name" value="智慧貓頭鷹"/>
+<string name="desc" value="使用賢者的象徵 #c智慧貓頭鷹#便可查詢在自由市場販售中的道具資料。#c在顯示道具搜尋結果後，貓頭鷹也會消失。#"/>
+</imgdir>
+<imgdir name="5240000">
+<string name="name" value="新鮮香蕉"/>
+<string name="desc" value="「猴子，黑色小豬」喜歡的新鮮香蕉。\n可完全恢復飽滿感。\n並可增加100的親密度。"/>
+</imgdir>
+<imgdir name="5240001">
+<string name="name" value="電池"/>
+<string name="desc" value="「機器人」喜歡的電池。\n可完全恢復飽滿感。\n並可增加100的親密度。"/>
+</imgdir>
+<imgdir name="5240002">
+<string name="name" value="骨頭"/>
+<string name="desc" value="「哈士奇，褐色小狗，黑色小豬」喜歡的骨頭。\n可完全恢復飽滿感。\n並可增加100的親密度。"/>
+</imgdir>
+<imgdir name="5240003">
+<string name="name" value="竹"/>
+<string name="desc" value="「熊貓，黑色小豬」喜歡的竹。\n可完全恢復飽滿感。\n並可增加100的親密度。"/>
+</imgdir>
+<imgdir name="5240004">
+<string name="name" value="鮮魚"/>
+<string name="desc" value="「褐色小貓，黑色小貓，黑色小豬，小企鵝」喜歡的鮮魚。\n可完全恢復飽滿感。\n並可增加100的親密度。"/>
+</imgdir>
+<imgdir name="5240005">
+<string name="name" value="綠草"/>
+<string name="desc" value="「粉紅兔子，白色兔子，黑色小豬，聖誕麋鹿」喜歡的綠草。\n可完全恢復飽滿感。\n並可增加100的親密度。"/>
+</imgdir>
+<imgdir name="5240006">
+<string name="name" value="新鮮肉"/>
+<string name="desc" value="「小白虎， 迪諾龍， 妮諾龍，小魔龍, 黑色小豬」喜歡的新鮮肉。\n可完全恢復飽滿感。\n並可增加100的親密度。"/>
+</imgdir>
+<imgdir name="5240007">
+<string name="name" value="冰凍水果"/>
+<string name="desc" value="「雪吉拉，黑色小豬」喜歡的冰凍水果。\n可完全恢復飽滿感。\n並可增加100的親密度。"/>
+</imgdir>
+<imgdir name="5240008">
+<string name="name" value="火雞飼料"/>
+<string name="desc" value="只限#c火雞、豬#服用飼料。可將飽滿感全數恢復，並提升#c100的親密度#。"/>
+</imgdir>
+<imgdir name="5240009">
+<string name="name" value="羊羹"/>
+<string name="desc" value="「小巴洛古」喜歡的羊羹。\n可完全恢復飽滿感。\n並可增加100的親密度。"/>
+</imgdir>
+<imgdir name="5240010">
+<string name="name" value="金幣巧克力"/>
+<string name="desc" value="有著金色包裝的美味巧克力。只限黃金肥肥食用。\n可完全恢復生命力。\n並可增加100的親密度。"/>
+</imgdir>
+<imgdir name="5240011">
+<string name="name" value="棉花糖"/>
+<string name="desc" value="「齊天大聖」最愛的棉花糖。\n可完全恢復飽滿感，\n並可增加100的親密度。"/>
+</imgdir>
+<imgdir name="5240012">
+<string name="name" value="水晶糖"/>
+<string name="desc" value="神奇寶貝的專屬飼料，恢復飽足感100%並提升100的親密度。"/>
+</imgdir>
+<imgdir name="5240013">
+<string name="name" value="焦糖甲蟲"/>
+<string name="desc" value="只限#c鬼靈精怪#食用的專屬飼料，可恢復飽足感100%並提升100的親密度。"/>
+</imgdir>
+<imgdir name="5240016">
+<string name="name" value="焦糖橡木甲蟲"/>
+<string name="desc" value="從雲裡摘下所製造而成唯有#c小里波#可以吃的焦糖橡木甲蟲。可恢復飽足感並提升#c親密度100#。"/>
+</imgdir>
+<imgdir name="5240017">
+<string name="name" value="雪結晶"/>
+<string name="desc" value="只限#c水晶麋鹿#和#c雪寶#使用的冰凍雪塊。可補滿飽足感並提升100的親密度。"/>
+</imgdir>
+<imgdir name="5240018">
+<string name="name" value="好吃的芽芽"/>
+<string name="desc" value="充滿營養並只有#c菇菇寶貝#可吃的飼料。可恢復飽足感並提升 #c親密度 100#。"/>
+</imgdir>
+<imgdir name="5240019">
+<string name="name" value="刺蝟飼料"/>
+<string name="desc" value="充滿營養並只有#c小刺蝟#可吃的飼料。可恢復飽足感並提升 #c親密度100 #。"/>
+</imgdir>
+<imgdir name="5240021">
+<string name="name" value="柴油"/>
+<string name="desc" value="「機器小子」喜歡的柴油。\n可完全恢復飽滿感。\n並可增加100的親密度。"/>
+</imgdir>
+<imgdir name="5240023">
+<string name="name" value="唐小鴨食用麵包"/>
+<string name="desc" value="寵物“唐小鴨”愛吃的麵包，它是剛剛烘培並且切好的麵包，可完全恢復飽滿感，並可增加100的親密度。"/>
+<imgdir name="5151032">
+<string name="name" value="霓虹燈特效"/>
+<string name="desc" value="使用後頭頂會出現閃爍霓虹燈的特效，連擊圖示或設定於按鍵中，即可開關該功能。"/>
+</imgdir>
+</imgdir>
+<imgdir name="5240024">
+<string name="name" value="皮卡啾新鮮雞腿肉"/>
+<string name="desc" value="皮卡啾最愛的食物。只限皮卡啾使用。並可增加100的親密度。"/>
+</imgdir>
+<imgdir name="5240027">
+<string name="name" value="小帥虎雞腿肉"/>
+<string name="desc" value="只有#c小帥虎#可以吃的肉塊，恢復飽滿感。#c提高100 親密度。#"/>
+</imgdir>
+<imgdir name="5240028">
+<string name="name" value="炸彈"/>
+<string name="desc" value="只有寵物#c水星寶寶#才可以食用的炸彈，恢復飽滿感，#c提高100 親密度。#"/>
+</imgdir>
+<imgdir name="5240029">
+<string name="name" value="營養的肉排"/>
+<string name="desc" value="#c小老虎#可食用的高營養飼料。可以全部恢復飽腹感並可以提升#c親密度100#。"/>
+</imgdir>
+<imgdir name="5251004">
+<string name="name" value="閃電結婚券"/>
+<string name="desc" value="可進行閃電婚禮的結婚券。#c新郎、新娘可分別邀請5位客人，並可得到1克拉結婚戒指#。"/>
+</imgdir>
+<imgdir name="5251005">
+<string name="name" value="甜蜜結婚券"/>
+<string name="desc" value="可進行甜蜜婚禮的結婚券。#c新郎、新娘可分別邀請15位客人， 可進行結婚紀念攝影，且可得到2克拉結婚戒指。#"/>
+</imgdir>
+<imgdir name="5251006">
+<string name="name" value="豪門結婚券"/>
+<string name="desc" value="可進行豪門婚禮的結婚券。#c新郎、新娘可分別邀請30位客人，可進行結婚紀念攝影與結婚派對，且可得到3克拉結婚戒指與特別的禮物。#"/>
+</imgdir>
+<imgdir name="5252000">
+<string name="name" value="楓之谷迷你地城入場券"/>
+<string name="desc" value="任務期間進入迷你地城所需的入場券。 沒有的話不能進入楓之谷迷你地城。"/>
+</imgdir>
+<imgdir name="5252001">
+<string name="name" value="藏寶城門票"/>
+<string name="desc" value="可讓你進入藏寶城的門票。"/>
+</imgdir>
+<imgdir name="5252002">
+<string name="name" value="當鋪裡的大蟾蜍錢包"/>
+<string name="desc" value="任務道具，用來進入未來東京的入場券"/>
+</imgdir>
+<imgdir name="5252003">
+<string name="name" value="黃金種子"/>
+<string name="desc" value="比神秘種子快速成長的傳說中的種子。"/>
+</imgdir>
+<imgdir name="5260000">
+<string name="name" value="常用語便條紙1"/>
+<string name="desc" value="購買後可以雙擊該道具來設定常用語，每個便條紙僅能設定一句常用語(最多15字)，設定好後可以裝在鍵盤上使用。"/>
+</imgdir>
+<imgdir name="5260001">
+<string name="name" value="常用語便條紙2"/>
+<string name="desc" value="購買後可以雙擊該道具來設定常用語，每個便條紙僅能設定一句常用語(最多15字)，設定好後可以裝在鍵盤上使用。"/>
+</imgdir>
+<imgdir name="5260002">
+<string name="name" value="常用語便條紙3"/>
+<string name="desc" value="購買後可以雙擊該道具來設定常用語，每個便條紙僅能設定一句常用語(最多15字)，設定好後可以裝在鍵盤上使用。"/>
+</imgdir>
+<imgdir name="5260003">
+<string name="name" value="常用語便條紙4"/>
+<string name="desc" value="購買後可以雙擊該道具來設定常用語，每個便條紙僅能設定一句常用語(最多15字)，設定好後可以裝在鍵盤上使用。"/>
+</imgdir>
+<imgdir name="5260004">
+<string name="name" value="常用語便條紙5"/>
+<string name="desc" value="購買後可以雙擊該道具來設定常用語，每個便條紙僅能設定一句常用語(最多15字)，設定好後可以裝在鍵盤上使用。"/>
+</imgdir>
+<imgdir name="5260005">
+<string name="name" value="常用語便條紙6"/>
+<string name="desc" value="購買後可以雙擊該道具來設定常用語，每個便條紙僅能設定一句常用語(最多15字)，設定好後可以裝在鍵盤上使用。"/>
+</imgdir>
+<imgdir name="5260006">
+<string name="name" value="常用語便條紙7"/>
+<string name="desc" value="購買後可以雙擊該道具來設定常用語，每個便條紙僅能設定一句常用語(最多15字)，設定好後可以裝在鍵盤上使用。"/>
+</imgdir>
+<imgdir name="5260007">
+<string name="name" value="常用語便條紙8"/>
+<string name="desc" value="購買後可以雙擊該道具來設定常用語，每個便條紙僅能設定一句常用語(最多15字)，設定好後可以裝在鍵盤上使用。"/>
+</imgdir>
+<imgdir name="5260008">
+<string name="name" value="常用語便條紙9"/>
+<string name="desc" value="購買後可以雙擊該道具來設定常用語，每個便條紙僅能設定一句常用語(最多15字)，設定好後可以裝在鍵盤上使用。"/>
+</imgdir>
+<imgdir name="5260009">
+<string name="name" value="常用語便條紙10"/>
+<string name="desc" value="購買後可以雙擊該道具來設定常用語，每個便條紙僅能設定一句常用語(最多15字)，設定好後可以裝在鍵盤上使用。"/>
+</imgdir>
+<imgdir name="5270000">
+<string name="name" value="楓幣加倍1天券"/>
+<string name="desc" value="#c擁有該券後，自怪物獲得的楓幣量將成為兩倍。#擁有道具後就會發揮效果，其效力將持續一天。該券無法與其它楓幣加倍券重複使用。"/>
+</imgdir>
+<imgdir name="5270001">
+<string name="name" value="楓幣加倍券(18-22)"/>
+<string name="desc" value="擁有該券後，18:00 ~ 22:00間自怪物獲得的楓幣量將成為兩倍。擁有道具後就會發揮效果，其效力將持續一天。該券無法與其它楓幣加倍券重複使用。"/>
+</imgdir>
+<imgdir name="5270002">
+<string name="name" value="楓幣加倍券 (22-02)"/>
+<string name="desc" value="擁有該券後， 22:00 ~ 02:00間自怪物獲得的楓幣量將成為兩倍。擁有道具後就會發揮效果，其效力將持續一天。該券無法與其它楓幣加倍券重複使用。"/>
+</imgdir>
+<imgdir name="5270003">
+<string name="name" value="楓幣加倍券 (02-06)"/>
+<string name="desc" value="擁有該券後，02:00 ~ 06:00 間自怪物獲得的楓幣量將成為兩倍。擁有道具後就會發揮效果，其效力將持續一天。該券無法與其它楓幣加倍券重複使用。"/>
+</imgdir>
+<imgdir name="5270004">
+<string name="name" value="楓幣加倍券 (06-10)"/>
+<string name="desc" value="擁有該券後，06:00 ~ 10:00間自怪物獲得的楓幣量將成為兩倍。擁有道具後就會發揮效果，其效力將持續一天。該券無法與其它楓幣加倍券重複使用。"/>
+</imgdir>
+<imgdir name="5270005">
+<string name="name" value="楓幣加倍券 (10-14)"/>
+<string name="desc" value="擁有該券後，10:00 ~ 14:00間自怪物獲得的楓幣量將成為兩倍。擁有道具後就會發揮效果，其效力將持續一天。該券無法與其它楓幣加倍券重複使用。"/>
+</imgdir>
+<imgdir name="5270006">
+<string name="name" value="楓幣加倍券 (14-18)"/>
+<string name="desc" value="擁有該券後，14:00 ~ 18:00間自怪物獲得的楓幣量將成為兩倍。擁有道具後就會發揮效果，其效力將持續一天。該券無法與其它楓幣加倍券重複使用。"/>
+</imgdir>
+<imgdir name="5281000">
+<string name="name" value="毒屁"/>
+<string name="desc" value="消耗型特效─使用後放出毒屁特效，進入毒屁區域的所有角色會因此受到影響，表情大變。"/>
+</imgdir>
+<imgdir name="5281001">
+<string name="name" value="花香"/>
+<string name="desc" value="藉由所散發的花香令身邊的人改變表情. "/>
+</imgdir>
+<imgdir name="5290000">
+<string name="name" value="生氣-公會留言版表情"/>
+<string name="desc" value="可在公會留言版內插入的表情圖案。"/>
+</imgdir>
+<imgdir name="5290001">
+<string name="name" value="微笑-公會留言版表情"/>
+<string name="desc" value="可在公會留言版內插入的表情圖案。"/>
+</imgdir>
+<imgdir name="5290002">
+<string name="name" value="不語-公會留言版表情"/>
+<string name="desc" value="可在公會留言版內插入的表情圖案。"/>
+</imgdir>
+<imgdir name="5290003">
+<string name="name" value="大笑-公會留言版表情"/>
+<string name="desc" value="可在公會留言版內插入的表情圖案。"/>
+</imgdir>
+<imgdir name="5290004">
+<string name="name" value="驚訝-公會留言版表情"/>
+<string name="desc" value="可在公會留言版內插入的表情圖案。"/>
+</imgdir>
+<imgdir name="5290005">
+<string name="name" value="哭泣-公會留言版表情"/>
+<string name="desc" value="可在公會留言版內插入的表情圖案。"/>
+</imgdir>
+<imgdir name="5290006">
+<string name="name" value="怒火-公會留言版表情"/>
+<string name="desc" value="可在公會留言版內插入的表情圖案。"/>
+</imgdir>
+<imgdir name="5310000">
+<string name="name" value="幸運御守"/>
+<string name="desc" value="占卜守護幸運星時所需的幸運御守。交給微微安，就可以為您算出今天的守護幸運星喔！"/>
+</imgdir>
+<imgdir name="5320000">
+<string name="name" value="速配券"/>
+<string name="desc" value="連擊道具便會顯示速配查詢視窗，可輸入兩個角色的資料查詢兩者的速配指數。"/>
+</imgdir>
+<imgdir name="5330000">
+<string name="name" value="快遞使用券"/>
+<string name="desc" value="使用本快遞使用券，可隨同所輸入的訊息，將物件#c即時#傳送給收件人的服務。請#c連擊#該道具，或透過#c宅配NPC#來使用。"/>
+</imgdir>
+<imgdir name="5340000">
+<string name="name" value="釣竿"/>
+<string name="desc" value="用來捕魚的重要裝備。特別的是，這隻神奇的釣竿可以為您帶來各種礦石、錢、經驗值等各式各樣的好康物品。"/>
+</imgdir>
+<imgdir name="5340001">
+<string name="name" value="高級釣竿"/>
+<string name="desc" value="用更堅韌的材料製成的釣魚竿，可以加快釣魚的速度。"/>
+</imgdir>
+<imgdir name="5350000">
+<string name="name" value="高級魚餌罐頭"/>
+<string name="desc" value="裝有魚兒愛吃的魚餌，可獲得更好的收穫，不過要先去兌換成高級魚餌才能開始釣魚。"/>
+</imgdir>
+<imgdir name="5350003">
+<string name="name" value="精靈小釣手專用魚餌罐頭"/>
+<string name="desc" value="精靈小釣手專用的魚餌，使用後可獲得更好的收穫，不過要先去兌換才能開始使用。"/>
+</imgdir>
+<imgdir name="5360000">
+<string name="name" value="掉寶加倍凌晨券"/>
+<string name="desc" value="適用期間：00：00~06：00\n在時效內打怪，掉寶率可增加兩倍，同時擁有數個加倍券時，效果不累計但仍同時算在使用期限。"/>
+</imgdir>
+<imgdir name="5360001">
+<string name="name" value="掉寶加倍上午券"/>
+<string name="desc" value="適用期間：06：00~12：00\n在時效內打怪，掉寶率可增加兩倍，同時擁有數個加倍券時，效果不累計但仍同時算在使用期限。"/>
+</imgdir>
+<imgdir name="5360002">
+<string name="name" value="掉寶加倍下午券"/>
+<string name="desc" value="適用期間：12：00~18：00\n在時效內打怪，掉寶率可增加兩倍，同時擁有數個加倍券時，效果不累計但仍同時算在使用期限。"/>
+</imgdir>
+<imgdir name="5360003">
+<string name="name" value="掉寶加倍晚上券"/>
+<string name="desc" value="適用期間：18：00~24：00\n在時效內打怪，掉寶率可增加兩倍，同時擁有數個加倍券時，效果不累計但仍同時算在使用期限。"/>
+</imgdir>
+<imgdir name="5360015">
+<string name="name" value="掉寶加倍全日券"/>
+<string name="desc" value="帶在身上時，在時效內，隨時上線都能享有掉保率加倍，購買後即開始計算時間，與其他掉寶加倍券同時使用不會有加乘效果。"/>
+</imgdir>
+<imgdir name="5370000">
+<string name="name" value="黑板 7天"/>
+<string name="desc" value="將玩家所輸入的內容，顯示在黑板上。可在自由市場入口使用，但不能在#c自由市場內#使用。"/>
+</imgdir>
+<imgdir name="5370001">
+<string name="name" value="黑板 1天"/>
+<string name="desc" value="將玩家所輸入的內容，顯示在黑板上。可在自由市場入口使用，但不能在#c自由市場內#使用。"/>
+</imgdir>
+<imgdir name="5370002">
+<string name="name" value="黑板：3日券"/>
+<string name="desc" value="輸入的內容會在黑板上顯示。可以在自由市場入口處使用，但在#c市場#內不能使用。"/>
+</imgdir>
+<imgdir name="5380000">
+<string name="name" value="進化之石"/>
+<string name="desc" value="可讓神奇寶貝、機器小子進行進化的石頭。"/>
+</imgdir>
+<imgdir name="5390000">
+<string name="name" value="怒火心情喇叭"/>
+<string name="desc" value="向所有在相同伺服器的人發出公告，且使用者的角色圖像與公告內容會出現在其他人的遊戲畫面右上方。"/>
+</imgdir>
+<imgdir name="5390001">
+<string name="name" value="白雲朵朵心情喇叭"/>
+<string name="desc" value="向所有在相同伺服器的人發出公告，且使用者的角色圖像與公告內容會出現在其他人的遊戲畫面右上方。"/>
+</imgdir>
+<imgdir name="5390002">
+<string name="name" value="戀愛心情喇叭"/>
+<string name="desc" value="向所有在相同伺服器的人發出公告，且使用者的角色圖像與公告內容會出現在其他人的遊戲畫面右上方。"/>
+</imgdir>
+<imgdir name="5390003">
+<string name="name" value="福到運到心情喇叭"/>
+<string name="desc" value="向所有在相同伺服器的人發出公告，且使用者的角色圖像與公告內容會出現在其他人的遊戲畫面右上方。"/>
+</imgdir>
+<imgdir name="5390004">
+<string name="name" value="喜氣洋洋心情喇叭"/>
+<string name="desc" value="向所有在相同伺服器的人發出公告，且使用者的角色圖像與公告內容會出現在其他人的遊戲畫面右上方。"/>
+</imgdir>
+<imgdir name="5390005">
+<string name="name" value="小帥虎喇叭"/>
+<string name="desc" value="使用該道具，在全伺服器右上角出現小帥虎可愛的奔跑模樣，還有使用者角色圖樣以及公告內容的道具喇叭。"/>
+</imgdir>
+<imgdir name="5390006">
+<string name="name" value="怒吼老虎喇叭"/>
+<string name="desc" value="使用該道具，在全伺服器出現老虎咆哮震動效果，且使用者角色圖像以及公告內容將會顯示在右上方老虎怒吼背景中的道具喇叭。"/>
+</imgdir>
+<imgdir name="5390007">
+<string name="name" value="達陣喇叭"/>
+<string name="desc" value="使用該道具，在全伺服器出現達陣效果，且使用者角色圖像以及公告內容將會顯示在右上方足球場背景中的道具喇叭。"/>
+</imgdir>
+<imgdir name="5390008">
+<string name="name" value="我是冠軍喇叭"/>
+<string name="desc" value="使用該道具，在全伺服器出現我是冠軍效果，且使用者角色圖像以及公告內容將會顯示在右上方冠軍杯背景中的道具喇叭。"/>
+</imgdir>
+<imgdir name="5400000">
+<string name="name" value="角色名稱變更券  "/>
+<string name="desc" value=" 這張票券可以讓你的角色變更一個新的角色名稱。"/>
+</imgdir>
+<imgdir name="5401000">
+<string name="name" value="伺服器移民券"/>
+<string name="desc" value="角色跨伺服器移民所使用的道具，購買票券後如自行放棄移民，將無法進行退費。"/>
+</imgdir>
+<imgdir name="5430000">
+<string name="name" value="角色欄位擴充券"/>
+<string name="desc" value="可增加新建角色所需的一個欄位。包含預設的3個，最多可增加到6個角色欄位。"/>
+</imgdir>
+<imgdir name="5440000">
+<string name="name" value="楓葉點數袋"/>
+</imgdir>
+<imgdir name="5450000">
+<string name="name" value="地攤商人妙妙"/>
+<string name="desc" value="使用後會出現進入雜貨商店的效果。可購買部份HP/MP藥水並補充飛鏢與彈丸，但部分地圖是無法使用。"/>
+</imgdir>
+<imgdir name="5451000">
+<string name="name" value="隨時隨地轉蛋券"/>
+<string name="desc" value="這張票券可以讓你隨時隨地選擇任何一台轉蛋機使用，而不需要親自前往該地圖。"/>
+</imgdir>
+<imgdir name="5460000">
+<string name="name" value="寵物點心"/>
+<string name="desc" value="學習可一次召喚多隻寵物的技能，所需要的道具。"/>
+</imgdir>
+<imgdir name="5470000">
+<string name="name" value="精靈商人遠端遙控器"/>
+<string name="desc" value="只要位在與自己開設精靈商店的同一個頻道上，便可遠端進行遙控管理商店。【購買後即開始計算使用時間】"/>
+</imgdir>
+<imgdir name="5480000">
+<string name="name" value="彩色字體10字"/>
+<string name="desc" value="可自由組合個性文字，編輯成功後個性文字將跟隨著在角色後面。特殊符號使用只能設置在文字的最前、後面。"/>
+</imgdir>
+<imgdir name="5480001">
+<string name="name" value="彩色字體20字"/>
+<string name="desc" value="可自由組合個性文字，編輯成功後個性文字將跟隨著在角色後面。特殊符號使用只能設置在文字的最前、後面。"/>
+</imgdir>
+<imgdir name="5480002">
+<string name="name" value="彩色字體10字（幻影）"/>
+<string name="desc" value="可自由組合個性文字，編輯成功後個性文字將以字體變大變小的形式跟隨著在角色後面。特殊符號使用只能設置在文字的最前、後面。"/>
+</imgdir>
+<imgdir name="5480003">
+<string name="name" value="彩色字體20字（幻影）"/>
+<string name="desc" value="可自由組合個性文字，編輯成功後個性文字將以字體變大變小的形式跟隨著在角色後面。特殊符號使用只能設置在文字的最前、後面。"/>
+</imgdir>
+<imgdir name="5480004">
+<string name="name" value="糖果字體10字"/>
+<string name="desc" value="可自由組合個性文字，編輯成功後個性文字將跟隨著在角色後面。特殊符號使用只能設置在文字的最前、後面。"/>
+</imgdir>
+<imgdir name="5480005">
+<string name="name" value="糖果字體20字"/>
+<string name="desc" value="可自由組合個性文字，編輯成功後個性文字將跟隨著在角色後面。特殊符號使用只能設置在文字的最前、後面。"/>
+</imgdir>
+<imgdir name="5480006">
+<string name="name" value="糖果字體10字（幻影）"/>
+<string name="desc" value="可自由組合個性文字，編輯成功後個性文字將以字體變大變小的形式跟隨著在角色後面。特殊符號使用只能設置在文字的最前、後面。"/>
+</imgdir>
+<imgdir name="5480007">
+<string name="name" value="糖果字體20字（幻影）"/>
+<string name="desc" value="可自由組合個性文字，編輯成功後個性文字將以字體變大變小的形式跟隨著在角色後面。特殊符號使用只能設置在文字的最前、後面。"/>
+</imgdir>
+<imgdir name="5480008">
+<string name="name" value="果凍字體10字"/>
+<string name="desc" value="可自由組合個性文字，編輯成功後個性文字將跟隨著在角色後面。特殊符號使用只能設置在文字的最前、後面。"/>
+</imgdir>
+<imgdir name="5480009">
+<string name="name" value="果凍字體20字"/>
+<string name="desc" value="可自由組合個性文字，編輯成功後個性文字將跟隨著在角色後面。特殊符號使用只能設置在文字的最前、後面。"/>
+</imgdir>
+<imgdir name="5480010">
+<string name="name" value="果凍字體10字（幻影）"/>
+<string name="desc" value="可自由組合個性文字，編輯成功後個性文字將以字體變大變小的形式跟隨著在角色後面。特殊符號使用只能設置在文字的最前、後面。"/>
+</imgdir>
+<imgdir name="5480011">
+<string name="name" value="果凍字體20字（幻影）"/>
+<string name="desc" value="可自由組合個性文字，編輯成功後個性文字將以字體變大變小的形式跟隨著在角色後面。特殊符號使用只能設置在文字的最前、後面。"/>
+</imgdir>
+<imgdir name="5490000">
+<string name="name" value="金鑰匙"/>
+<string name="desc" value="活動道具，打王後會隨機掉落金寶箱，這個鑰匙是用來開啟金寶箱，並有機會獲得一個稀有的道具。"/>
+</imgdir>
+<imgdir name="5490001">
+<string name="name" value="銀鑰匙"/>
+<string name="desc" value="活動道具，打怪後會隨機掉落銀寶箱，這個鑰匙是用來開啟銀寶箱，並有機會獲得一個稀有的道具。"/>
+</imgdir>
+<imgdir name="5500000">
+<string name="name" value="魔法沙漏"/>
+<string name="desc" value="在穿戴中的有使用時效的裝備上如卷軸般拖放使用時，有效時間 #c將延長#  一天。 #c無法使用在現金道具。 也無法延長至100天以上#"/>
+</imgdir>
+<imgdir name="5500001">
+<string name="name" value="魔法沙漏*7天"/>
+<string name="desc" value="在穿戴中的有使用時效的裝備上如卷軸般拖放使用時，有效時間 #c將延長#  七天。 #c無法使用在現金道具。 也無法延長至100天以上#"/>
+</imgdir>
+<imgdir name="5500002">
+<string name="name" value="魔法沙漏*20天"/>
+<string name="desc" value="在穿戴中的有使用時效的裝備上如卷軸般拖放使用時，有效時間 #c將延長#  二十天。 #c無法使用在現金道具。 最多延長有效時間100天。#"/>
+</imgdir>
+<imgdir name="5500005">
+<string name="name" value="[50日]魔法沙漏"/>
+<string name="desc" value="穿戴有使用時效的裝備上，如卷軸般拖放使用時，有效時間將延長 #c50天# 。#c無法使用在現金道具上，也無法延長至100天以上#"/>
+</imgdir>
+<imgdir name="5500006">
+<string name="name" value="[99日]魔法沙漏"/>
+<string name="desc" value="穿戴有使用時效的裝備上，如卷軸般拖放使用時，有效時間將延長 #c99天# 。#c無法使用在現金道具上，也無法延長至100天以上#"/>
+</imgdir>
+<imgdir name="5510000">
+<string name="name" value="原地復活術"/>
+<string name="desc" value="在角色死亡時使用，可在死亡原地復活。"/>
+</imgdir>
+<imgdir name="5520000">
+<string name="name" value="神奇剪刀"/>
+<string name="desc" value="切斷原先與主人連接的線，使用後該道具有一次機會可以與別人兌換的機會。 但是，只有限定部分的道具才能使用。"/>
+</imgdir>
+<imgdir name="5520001">
+<string name="name" value="白金神奇剪刀"/>
+<string name="desc" value="切斷和原先主人連接的線，使用後該道具有一次機會可以與別人交換。 但是，只有部分的道具才能使用。"/>
+</imgdir>
+<imgdir name="5530000">
+<string name="name" value="DS 蛋籃(石頭)"/>
+<string name="desc" value="點二下時可交換1個DS蛋。"/>
+</imgdir>
+<imgdir name="5530001">
+<string name="name" value="DS 勳章籃"/>
+<string name="desc" value="點二下時可交換 DS 愛好者的勳章。"/>
+</imgdir>
+<imgdir name="5530002">
+<string name="name" value="5個黃金羅盤 "/>
+<string name="desc" value="點二下時可進入黃金厄運死神的寶物倉庫，取得  5個黃金羅盤。"/>
+</imgdir>
+<imgdir name="5530003">
+<string name="name" value="10個加加變身祕藥 "/>
+<string name="desc" value="點二下後可取得10個祕藥，可變身成為楓之谷最棒的明星加加。"/>
+</imgdir>
+<imgdir name="5530004">
+<string name="name" value="100個特殊藥水 "/>
+<string name="desc" value="點二下時可取得100個 特殊藥水。"/>
+</imgdir>
+<imgdir name="5530005">
+<string name="name" value="200個特殊藥水 "/>
+<string name="desc" value="點二下時可取得200個 特殊藥水。"/>
+</imgdir>
+<imgdir name="5530006">
+<string name="name" value="100個超級藥水 "/>
+<string name="desc" value="點二下時可取得100個超級藥水 100個。"/>
+</imgdir>
+<imgdir name="5530007">
+<string name="name" value="150個超級藥水 "/>
+<string name="desc" value="點二下時可取得100個超級藥水 150個。"/>
+</imgdir>
+<imgdir name="5530008">
+<string name="name" value="200個超級藥水 "/>
+<string name="desc" value="點二下時可取得100個超級藥水 200個。"/>
+</imgdir>
+<imgdir name="5530009">
+<string name="name" value="DS 箱子 (銅)"/>
+<string name="desc" value="點二下時可交換3個DS蛋。"/>
+</imgdir>
+<imgdir name="5530010">
+<string name="name" value="DS 箱子 (銀)"/>
+<string name="desc" value="點二下時可交換5個DS蛋。"/>
+</imgdir>
+<imgdir name="5530011">
+<string name="name" value="DS 箱子 (金)"/>
+<string name="desc" value="點二下時可交換10個DS蛋。"/>
+</imgdir>
+<imgdir name="5530012">
+<string name="name" value="DS 箱子 (鑽石)"/>
+<string name="desc" value="點二下時可交換15個DS蛋。"/>
+</imgdir>
+<imgdir name="5530013">
+<string name="name" value="黃金寺廟邀請函"/>
+<string name="desc" value="點二下後可以獲得可進入黃金寺廟迷你地下城的高級黃金卷。\r\n注意事項： 高級黃金卷從邀請函中拿出時只能使用1個小時。"/>
+</imgdir>
+<imgdir name="5530014">
+<string name="name" value="[Lv.13]ZD老虎7日使用卷交換卷"/>
+<string name="desc" value="點二下就可以交換成ZD老虎7日使用卷。"/>
+</imgdir>
+<imgdir name="5530015">
+<string name="name" value="雙刀攻擊卷軸60%交換券"/>
+<string name="desc" value="按兩下可獲得雙刀攻擊卷軸60%"/>
+</imgdir>
+<imgdir name="5530016">
+<string name="name" value="雙刀攻擊卷軸10%交換券"/>
+<string name="desc" value="按兩下可獲得雙刀攻擊卷軸10%"/>
+</imgdir>
+<imgdir name="5530017">
+<string name="name" value="[Lv. 30]紅河之地天刀交換券"/>
+<string name="desc" value="按兩下可獲得紅河之地天刀；可使用職業：盜賊、影武者"/>
+</imgdir>
+<imgdir name="5530018">
+<string name="name" value="[Lv. 50]紅河之霸王刀交換券"/>
+<string name="desc" value="按兩下可獲得紅河之霸王刀；可使用職業：盜賊、影武者"/>
+</imgdir>
+<imgdir name="5530019">
+<string name="name" value="[Lv. 50]紅河之破碎刃交換券"/>
+<string name="desc" value="按兩下可獲得紅河之破碎刃；可使用職業：盜賊、影武者"/>
+</imgdir>
+<imgdir name="5530020">
+<string name="name" value="[Lv. 30]貓頭鷹墜飾(14天)交換券"/>
+<string name="desc" value="按兩下可獲得貓頭鷹墜飾(14天). 請注意，交換的瞬間便開始計算配戴的天數。"/>
+</imgdir>
+<imgdir name="5530021">
+<string name="name" value="短劍攻擊卷軸60%交換券"/>
+<string name="desc" value="按兩下可獲得短劍攻擊卷軸60%"/>
+</imgdir>
+<imgdir name="5530022">
+<string name="name" value="短劍攻擊卷軸10%交換券"/>
+<string name="desc" value="按兩下可獲得短劍攻擊卷軸10%"/>
+</imgdir>
+<imgdir name="5530023">
+<string name="name" value="[Lv. 20]雪天刀交換券"/>
+<string name="desc" value="按兩下可獲得雪天刀"/>
+</imgdir>
+<imgdir name="5530024">
+<string name="name" value="[Lv. 20]雪地刀交換券"/>
+<string name="desc" value="按兩下可獲得雪地刀"/>
+</imgdir>
+<imgdir name="5530025">
+<string name="name" value="[Lv. 50]火雪天刀交換券"/>
+<string name="desc" value="按兩下可獲得火雪天刀"/>
+</imgdir>
+<imgdir name="5530026">
+<string name="name" value="[Lv. 50]火雪地刀交換券"/>
+<string name="desc" value="按兩下可獲得火雪地刀"/>
+</imgdir>
+<imgdir name="5530031">
+<string name="name" value="[Lv.13]神鳥 20日使用券交換券"/>
+<string name="desc" value="點滑鼠左鍵兩下，可交換 神鳥 20日使用券交換券。"/>
+</imgdir>
+<imgdir name="5530032">
+<string name="name" value="閃雷悍將貼紙"/>
+<string name="desc" value="點兩下就可以兌換出閃雷悍將貼紙."/>
+</imgdir>
+<imgdir name="5530052">
+<string name="name" value="寵物裝備攻擊力卷軸 60% 2張交換券"/>
+<string name="desc" value="點兩下就可交換寵物裝備攻擊力卷軸 60%2張的交換券。"/>
+</imgdir>
+<imgdir name="5530053">
+<string name="name" value="寵物裝備魔力卷軸 60%2張交換券"/>
+<string name="desc" value="點兩下就可交換寵物裝備魔力卷軸 60%2張的交換券。"/>
+</imgdir>
+<imgdir name="5530054">
+<string name="name" value="詛咒的防具強化卷軸20% 交換券"/>
+<string name="desc" value="點兩下就可交換詛咒的防具強化卷軸20%的交換券。"/>
+</imgdir>
+<imgdir name="5530055">
+<string name="name" value="詛咒的防具增幅卷軸20% 交換券"/>
+<string name="desc" value="點兩下就可交換詛咒的防具增幅卷軸20%的交換券。"/>
+</imgdir>
+<imgdir name="5530056">
+<string name="name" value="菇菇寶貝騎寵 7日體驗券"/>
+<string name="desc" value="點兩下就可以兌換為騎菇菇寶貝 7日使用卷."/>
+</imgdir>
+<imgdir name="5530061">
+<string name="name" value="烈焰巫師貼紙"/>
+<string name="desc" value="點兩下就可以兌換出烈焰巫師貼紙."/>
+</imgdir>
+<imgdir name="5540000">
+<string name="name" value="折價券 "/>
+<string name="desc" value="50%折價券 "/>
+</imgdir>
+<imgdir name="5550000">
+<string name="name" value="增加墜飾欄位: 1日"/>
+<string name="desc" value="購買後能多裝備1個墜飾。#c但每個角色只能裝備一個專屬裝備#"/>
+</imgdir>
+<imgdir name="5550001">
+<string name="name" value="增加墜飾欄位：7日"/>
+<string name="desc" value="購買後，可以在7日內再裝備1個墜飾。 #c另外，原有裝備物品每個角色只能使用1個#"/>
+</imgdir>
+<imgdir name="5560000">
+<string name="name" value="任意門一般券"/>
+<string name="desc" value="可在角色目前所在區域為限，自由進行移動。\n開啟可傳送的區域地圖之後，請選擇要前往的目的地。"/>
+</imgdir>
+<imgdir name="5561000">
+<string name="name" value="任意門高級券"/>
+<string name="desc" value="不限角色所在區域，可自由移動各大陸間的地點。\n開啟可傳送的區域地圖之後，請選擇要前往的目的地。"/>
+</imgdir>
+<imgdir name="5570000">
+<string name="name" value="黃金鐵鎚"/>
+<string name="desc" value="額外增加裝備一次強化次數，對一個道具最多可以使用一次，但無法對闇黑龍王項鍊使用。"/>
+</imgdir>
+<imgdir name="5600000">
+<string name="name" value="企鵝小釣手"/>
+<string name="desc" value="就讓企鵝小釣手代替你進行釣魚吧!"/>
+</imgdir>
+<imgdir name="5600001">
+<string name="name" value="喵喵貓小釣手"/>
+<string name="desc" value="就讓喵喵貓小釣手代替你進行釣魚吧!"/>
+</imgdir>
+<imgdir name="5610000">
+<string name="name" value="卷軸成功提升卡(10%卷軸專用)"/>
+<string name="desc" value="使用這個道具可以讓你的10%卷軸成功機率提升到30%，請在雙擊該道具後，放置上你想使用的10%卷軸及裝備，點擊開始後即可看到使用是否成功。(卷軸使用失敗，裝備並不會消失;卷軸成功提升卡無法配合祝福卷軸一同使用。)"/>
+</imgdir>
+<imgdir name="5610001">
+<string name="name" value="卷軸成功提升卡(60%卷軸專用)"/>
+<string name="desc" value="使用這個道具可以讓你的60%卷軸成功機率提升到90%，請在雙擊該道具後，放置上你想使用的60%卷軸及裝備，點擊開始後即可看到使用是否成功。(卷軸使用失敗，裝備並不會消失;卷軸成功提升卡無法配合祝福卷軸一同使用。)"/>
+</imgdir>
+<imgdir name="5620000">
+<string name="name" value="[技能書]狂刃風暴 20"/>
+<string name="desc" value="100%的機率提高 #c狂刃風暴#的最高等級提高到20, 使用時技能等級提高1.\n職業：中忍 \n條件：技能等級5級以上 \n#c每個角色只能使用1次"/>
+</imgdir>
+<imgdir name="5620001">
+<string name="name" value="[技能書]雙刃旋 20"/>
+<string name="desc" value="100%的機率提高 #c雙刃旋#的最高等級提高到20, 使用時技能等級提高1.\n職業 : 上忍 \n條件：技能等級5級以上 \n#c每個角色只能使用1次"/>
+</imgdir>
+<imgdir name="5620002">
+<string name="name" value="[技能書]替身術 30"/>
+<string name="desc" value="100%的機率提高 #c替身術#的最高等級提高到30, 使用時技能等級提高1.\n職業 : 隱忍 \n條件：技能等級10級以上 \n#c每個角色只能使用1次"/>
+</imgdir>
+<imgdir name="5620003">
+<string name="name" value="[技能書]翔空落葉斬 20"/>
+<string name="desc" value="100%的機率提高 #c翔空落葉斬#的最高等級提高到20, 使用時技能等級提高1.\n職業 : 隱忍 \n條件：技能等級5級以上\n#c每個角色只能使用1次 "/>
+</imgdir>
+<imgdir name="5620004">
+<string name="name" value="[技能書]穢土轉生 30"/>
+<string name="desc" value="100%的機率提高 #c穢土轉生#的最高等級提高到30, 使用時技能等級提高1.\n職業 : 影武者 \n條件：技能等級10級以上 \n#c每個角色只能使用1次"/>
+</imgdir>
+<imgdir name="5620005">
+<string name="name" value="[技能書]荊棘特效 30"/>
+<string name="desc" value="100%的機率提高 #c荊棘特效#的最高等級提高到30, 使用時技能等級提高1.\n職業 : 影武者 \n條件：技能等級10級以上 \n#c每個角色只能使用1次"/>
+</imgdir>
+<imgdir name="5251014">
+<string name="name" value="永恆之戀一般券"/>
+<string name="desc" value="可舉辦一般銀婚式的永恆之戀一般券。 #c新郎、新娘可以各招待10名賓客，並完成結婚後可得到銀婚式一般戒。#使用永恆之戀券，進行銀婚式預約之後，將無法取消預約。"/>
+</imgdir>
+<imgdir name="5251015">
+<string name="name" value="永恆之戀高級券"/>
+<string name="desc" value="可舉辦高級銀婚式的永恆之戀高級券。 #c新郎、新娘可以各招待20名賓客，並可得到婚禮攝影、婚禮派對、銀婚式高級戒與特別的禮物。。#使用永恆之戀券，進行銀婚式預約之後，將無法取消預約。"/>
+</imgdir>
+<imgdir name="5640000">
+<string name="name" value="潘姆音樂"/>
+<string name="desc" value="裝備升級失敗時，防止減少升級最大次數。"/>
+</imgdir>
+<imgdir name="5062000">
+<string name="name" value="奇幻方塊"/>
+<string name="desc" value="使裝備道具的潛在能力新設定的神秘方塊\n#c特殊等級以上的道具才可以使用#"/>
+</imgdir>
+<imgdir name="5530038">
+<string name="name" value="超級藥水(50個)交換券"/>
+<string name="desc" value="點滑鼠右鍵兩下，可交換為超級藥水50個的交換券。"/>
+</imgdir>
+<imgdir name="5530039">
+<string name="name" value="特殊藥水交換券"/>
+<string name="desc" value="點滑鼠左鍵兩下，可交換為特殊藥水交換券50個的交換券。"/>
+</imgdir>
+<imgdir name="5530066">
+<string name="name" value="超級藥水(10個)交換券"/>
+<string name="desc" value="點滑鼠左鍵兩下，可交換為超級藥水10個的交換券。"/>
+</imgdir>
+<imgdir name="5530067">
+<string name="name" value="돌아온탕아 축복 교환권"/>
+<string name="desc" value="더블클릭하면 돌아온탕아를 위한 축복 1장을 얻을 수 있다."/>
+</imgdir>
+<imgdir name="5530068">
+<string name="name" value="정령의 펜던트 3일 교환권"/>
+<string name="desc" value="더블클릭하면 3일의 유효기간을 가지는 정령의 펜던트로 교환할 수 있는 교환권이다."/>
+</imgdir>
+<imgdir name="5530069">
+<string name="name" value="黃金楓葉棍交換卷"/>
+<string name="desc" value="點擊兩下可以獲得黃金楓葉棍的兌換卷."/>
+</imgdir>
+<imgdir name="5530070">
+<string name="name" value="黃金楓葉弩交換卷"/>
+<string name="desc" value="點擊兩下可以獲得黃金楓葉弩的兌換卷."/>
+</imgdir>
+<imgdir name="5530071">
+<string name="name" value="棍魔力卷軸60%交換卷2張"/>
+<string name="desc" value="點擊兩下可以獲得棍魔力卷軸60%交換卷2張的兌換卷."/>
+</imgdir>
+<imgdir name="5530072">
+<string name="name" value="弩攻擊力卷軸60%2張"/>
+<string name="desc" value="點擊兩下可以獲得弩攻擊力卷軸60%2張的兌換卷."/>
+</imgdir>
+<imgdir name="5532003">
+<string name="name" value="白色兔子變身祕藥(5個)兌換券"/>
+<string name="desc" value="點滑鼠左鍵兩下，可交換為白色兔子變身祕藥5個的兌換券。"/>
+</imgdir>
+<imgdir name="5532004">
+<string name="name" value="粉紅兔子變身祕藥(5個)兌換券"/>
+<string name="desc" value="點滑鼠左鍵兩下，可交換為粉紅兔子變身祕藥5個的兌換券。"/>
+</imgdir>
+<imgdir name="5240031">
+<string name="name" value="火球"/>
+<string name="desc" value="#c只有寶貝龍# 才能一口吞下的滾燙燙食物。 \n可恢復飽足感。提升100 親密度。"/>
+</imgdir>
+<imgdir name="5530076">
+<string name="name" value="神秘的魔法棒交換卷 (商城)"/>
+<string name="desc" value="使用交換卷的話，可以獲得比還不錯用的魔法棒更好的神秘的魔法棒唷！"/>
+</imgdir>
+<imgdir name="5431000">
+<string name="name" value="角色卡(30級)"/>
+<string name="desc" value="擁有可以快速養成30級角色的道具卡，購買後可以創立出角色(僅能創立冒險家、騎士團、狂狼勇士)。必須使用遊戲帳號內達30級以上的角色才能購買。"/>
+</imgdir>
+<imgdir name="5431002">
+<string name="name" value="角色卡(70級)  "/>
+<string name="desc" value="擁有可以快速養成70級角色的道具卡，購買後可以創立出角色(僅能創立冒險家、騎士團、狂狼勇士)。必須使用遊戲帳號內達70級以上的角色才能購買。"/>
+</imgdir>
+<imgdir name="5660000">
+<string name="name" value="接取任務小幫手托瑪斯"/>
+<string name="desc" value="跟NPC距離無關，可以在遠端直接接取目前可接取的任務。(部分任務無法使用)"/>
+</imgdir>
+<imgdir name="5660001">
+<string name="name" value="完成任務小幫手艾莉絲"/>
+<string name="desc" value="跟NPC距離無關，可以在遠端直接完成目前可完成的任務。(部分任務無法使用)"/>
+</imgdir>
+<imgdir name="5240032">
+<string name="name" value="高級魚子醬"/>
+<string name="desc" value="專屬#c臭鼬#吃的高級魚子醬。可以全部恢復飽腹感並可以提升#c親密度100#。"/>
+</imgdir>
+<imgdir name="5060003">
+<string name="name" value="花生機器"/>
+<string name="desc" value="為了打開#c黃金花生#所需要的道具。點擊兩下花生機器就可以打開黃金花生。"/>
+</imgdir>
+<imgdir name="5530057">
+<string name="name" value="回來的勇者戒指箱子"/>
+<string name="desc" value="雙點的話，可得到回來的勇者戒指，回來的勇者戒指要持有3小時才會產生能力值，在途中結束連接的話，則會永遠失去戒指，要注意。"/>
+</imgdir>
+<imgdir name="5530058">
+<string name="name" value="為了回來的勇者祝福交換卷"/>
+<string name="desc" value="雙點的話，可得到道具-為了回來的勇者祝福1張。"/>
+</imgdir>
+<imgdir name="5530060">
+<string name="name" value="宣導者戒指箱子"/>
+<string name="desc" value="雙點的話，可得到宣導者的戒指。"/>
+</imgdir>
+<imgdir name="5530103">
+<string name="name" value="紅蘿蔔椅子兌換卷"/>
+<string name="desc" value="點滑鼠左鍵兩下，可交換超可愛的紅蘿蔔椅子的兌換券。"/>
+</imgdir>
+<imgdir name="5530106">
+<string name="name" value="遺物大會點數2倍交換券*3小時"/>
+<string name="desc" value="按下後，在3小時內於會出現可以獲得2倍遺物大會點數的道具。"/>
+</imgdir>
+<imgdir name="5530107">
+<string name="name" value="遺物大會點數2倍交換券*1天"/>
+<string name="desc" value="按下後，在1天之內於會出現可以獲得2倍遺物大會點數的道具。"/>
+</imgdir>
+<imgdir name="5530108">
+<string name="name" value="遺物大會點數2倍交換券*7天"/>
+<string name="desc" value="按下後，在7天之內於會出現可以獲得2倍遺物大會點數的道具。"/>
+</imgdir>
+<imgdir name="5250003">
+<string name="name" value="遠古精靈的皮肩膀兌換券"/>
+<string name="desc" value="跟假面紳士對話可以把遠古精靈的皮肩膀兌換成別的皮肩膀。"/>
+</imgdir>
+<imgdir name="5211063">
+<string name="name" value="經驗加持下午券*7天"/>
+<string name="desc" value="下午券12:00~18:00\n在時效內打怪，經驗值可增加1.5倍，商品購買後即開始計算時效，且同時擁有數個加倍券時，效果將不累加， 請特別留意。"/>
+</imgdir>
+<imgdir name="5211064">
+<string name="name" value="經驗加持晚上券*7天"/>
+<string name="desc" value="晚上券18:00~24:00\n在時效內打怪，經驗值可增加1.5倍，商品購買後即開始計算時效，且同時擁有數個加倍券時，效果將不累加， 請特別留意。"/>
+</imgdir>
+<imgdir name="5211065">
+<string name="name" value="經驗加持下午券*28天"/>
+<string name="desc" value="下午券12:00~18:00\n在時效內打怪，經驗值可增加1.5倍，商品購買後即開始計算時效，且同時擁有數張加持券，效果將不累加，請特別留意。"/>
+</imgdir>
+<imgdir name="5211066">
+<string name="name" value="經驗加持晚上券*28天"/>
+<string name="desc" value="晚上券18:00~24:00\n在時效內打怪，經驗值可增加1.5倍，商品購買後即開始計算時效，且同時擁有數個加倍券時，效果將不累加， 請特別留意。"/>
+</imgdir>
+</imgdir>

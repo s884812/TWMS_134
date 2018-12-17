@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="PredictCard.img">
+<imgdir name="0">
+<string name="name" value="愚者"/>
+<string name="comment" value="期待‧轉機‧直覺"/>
+</imgdir>
+<imgdir name="1">
+<string name="name" value="魔術師"/>
+<string name="comment" value="好奇心‧獨創性‧新穎"/>
+</imgdir>
+<imgdir name="2">
+<string name="name" value="女祭司"/>
+<string name="comment" value="安全‧智慧‧純淨心靈"/>
+</imgdir>
+<imgdir name="3">
+<string name="name" value="皇后"/>
+<string name="comment" value="豐收‧戀愛‧結婚"/>
+</imgdir>
+<imgdir name="4">
+<string name="name" value="皇帝"/>
+<string name="comment" value="威嚴‧統治‧決斷力"/>
+</imgdir>
+<imgdir name="5">
+<string name="name" value="教宗"/>
+<string name="comment" value="一致感‧慈愛‧溫暖"/>
+</imgdir>
+<imgdir name="6">
+<string name="name" value="戀人"/>
+<string name="comment" value="愛情‧結婚‧相遇"/>
+</imgdir>
+<imgdir name="7">
+<string name="name" value="戰車"/>
+<string name="comment" value="勝利‧奮鬥‧積極"/>
+</imgdir>
+<imgdir name="8">
+<string name="name" value="力量"/>
+<string name="comment" value="信念‧努力‧獨立"/>
+</imgdir>
+<imgdir name="9">
+<string name="name" value="隱士"/>
+<string name="comment" value="睿智‧真實‧探索真理"/>
+</imgdir>
+<imgdir name="10">
+<string name="name" value="命運之輪"/>
+<string name="comment" value="幸運、進展‧轉變"/>
+</imgdir>
+<imgdir name="11">
+<string name="name" value="正義"/>
+<string name="comment" value="正義‧榮譽‧地位"/>
+</imgdir>
+<imgdir name="12">
+<string name="name" value="吊人"/>
+<string name="comment" value="困難‧障礙‧苦難"/>
+</imgdir>
+<imgdir name="13">
+<string name="name" value="死神"/>
+<string name="comment" value="崩潰‧損失‧結束"/>
+</imgdir>
+<imgdir name="14">
+<string name="name" value="節制"/>
+<string name="comment" value="節制‧順應‧穩固"/>
+</imgdir>
+<imgdir name="15">
+<string name="name" value="惡魔　"/>
+<string name="comment" value="嫉妒‧墮落‧惡化"/>
+</imgdir>
+<imgdir name="16">
+<string name="name" value="塔"/>
+<string name="comment" value="毀滅‧疏遠‧分離"/>
+</imgdir>
+<imgdir name="17">
+<string name="name" value="星星"/>
+<string name="comment" value="希望‧安全‧成功"/>
+</imgdir>
+<imgdir name="18">
+<string name="name" value="月亮"/>
+<string name="comment" value="恐懼‧幻滅‧懷疑"/>
+</imgdir>
+<imgdir name="19">
+<string name="name" value="太陽"/>
+<string name="comment" value="戀愛‧成功‧躍進"/>
+</imgdir>
+<imgdir name="20">
+<string name="name" value="審判"/>
+<string name="comment" value="復原‧重聚‧和解"/>
+</imgdir>
+<imgdir name="21">
+<string name="name" value="世界"/>
+<string name="comment" value="命運的相會‧幸福‧完成"/>
+</imgdir>
+<imgdir name="22">
+<string name="name" value="愚者"/>
+<string name="comment" value="陳腐‧輕率‧反覆無常"/>
+</imgdir>
+<imgdir name="23">
+<string name="name" value="魔術師"/>
+<string name="comment" value="不信任‧狡猾‧優柔寡斷"/>
+</imgdir>
+<imgdir name="24">
+<string name="name" value="女祭司"/>
+<string name="comment" value="悲觀‧疑神疑鬼‧自我中心"/>
+</imgdir>
+<imgdir name="25">
+<string name="name" value="皇后"/>
+<string name="comment" value="停滯‧浪費‧取消婚約"/>
+</imgdir>
+<imgdir name="26">
+<string name="name" value="皇帝"/>
+<string name="comment" value="魯莽‧自負‧無權力"/>
+</imgdir>
+<imgdir name="27">
+<string name="name" value="教宗"/>
+<string name="comment" value="誤解‧反感‧自我完結"/>
+</imgdir>
+<imgdir name="28">
+<string name="name" value="戀人"/>
+<string name="comment" value="失戀‧消極‧浮躁"/>
+</imgdir>
+<imgdir name="29">
+<string name="name" value="戰車"/>
+<string name="comment" value="失敗‧憤怒‧維持現狀"/>
+</imgdir>
+<imgdir name="30">
+<string name="name" value="力量"/>
+<string name="comment" value="自負‧妥協‧葬失自信"/>
+</imgdir>
+<imgdir name="31">
+<string name="name" value="隱士"/>
+<string name="comment" value="膽怯‧虛實‧自卑感"/>
+</imgdir>
+<imgdir name="32">
+<string name="name" value="命運之輪"/>
+<string name="comment" value="不幸‧惡運‧錯過"/>
+</imgdir>
+<imgdir name="33">
+<string name="name" value="正義"/>
+<string name="comment" value="分離‧非正義‧腐化"/>
+</imgdir>
+<imgdir name="34">
+<string name="name" value="吊人"/>
+<string name="comment" value="無效‧疲勞‧單戀"/>
+</imgdir>
+<imgdir name="35">
+<string name="name" value="死神"/>
+<string name="comment" value="再生‧復活‧再出發"/>
+</imgdir>
+<imgdir name="36">
+<string name="name" value="節制"/>
+<string name="comment" value="混亂‧傲慢‧失去信任"/>
+</imgdir>
+<imgdir name="37">
+<string name="name" value="惡魔　"/>
+<string name="comment" value="執著‧怨恨‧惡性循環"/>
+</imgdir>
+<imgdir name="38">
+<string name="name" value="塔"/>
+<string name="comment" value="解放‧重建‧團聚"/>
+</imgdir>
+<imgdir name="39">
+<string name="name" value="星星"/>
+<string name="comment" value="不安‧悲觀‧喪失自信"/>
+</imgdir>
+<imgdir name="40">
+<string name="name" value="月亮"/>
+<string name="comment" value="光明‧明瞭‧寬心"/>
+</imgdir>
+<imgdir name="41">
+<string name="name" value="太陽"/>
+<string name="comment" value="衰退‧廢除‧雜亂的"/>
+</imgdir>
+<imgdir name="42">
+<string name="name" value="審判"/>
+<string name="comment" value="挫折‧離別‧固執"/>
+</imgdir>
+<imgdir name="43">
+<string name="name" value="世界"/>
+<string name="comment" value="失望‧沮喪‧延緩"/>
+</imgdir>
+<imgdir name="comment">
+<imgdir name="0">
+<string name="0" value="天作之合"/>
+<string name="1" value="兩人的相遇可說是上天所賜予的！雙方彼此心靈契合，甚至會感染週遭的人感受到幸福呢！"/>
+<int name="score" value="95"/>
+<int name="effectType" value="0"/>
+</imgdir>
+<imgdir name="1">
+<string name="0" value="心心相印"/>
+<string name="1" value="相親相愛、由命運的紅線所維繫的兩人！被沉浸在兩人世界的幸福感所圍繞喔！但是…可別讓熱戀給沖昏頭囉！"/>
+<int name="score" value="90"/>
+<int name="effectType" value="1"/>
+</imgdir>
+<imgdir name="2">
+<string name="0" value="情投意合"/>
+<string name="1" value="彼此是否是對方尋找多時的理想伴侶呢？若希望將這種關係持續發展下去，請勿將小問題放在心上，適度地溝通解決，相信你命運中的那個人吧！"/>
+<int name="score" value="85"/>
+<int name="effectType" value="2"/>
+</imgdir>
+<imgdir name="3">
+<string name="0" value="相處融洽"/>
+<string name="1" value="契合度很高的兩人，只要彼此尊重，相信可以建構出相當美滿的關係！只要兩人同心協力，就算面臨到困難也能一同克服，創造出屬於兩人的幸福喔！"/>
+<int name="score" value="80"/>
+<int name="effectType" value="3"/>
+</imgdir>
+<imgdir name="4">
+<string name="0" value="平淡無奇"/>
+<string name="1" value="只要兩人在一起沒有變化，過於平淡，可能陷入缺乏刺激與激情的情況喔！若能在日常生活中增加一點點變化，將會助你營造出更好的結果喔！"/>
+<int name="score" value="70"/>
+<int name="effectType" value="3"/>
+</imgdir>
+<imgdir name="5">
+<string name="0" value="藕斷絲連"/>
+<string name="1" value="兩人的關係尚處於變化的階段，目前可說是更進一步或是漸行漸遠的分水嶺上喔！記得要注意對方的心聲，才能夠有更好的發展喔！"/>
+<int name="score" value="60"/>
+<int name="effectType" value="3"/>
+</imgdir>
+<imgdir name="6">
+<string name="0" value="有名無實"/>
+<string name="1" value="因偶然的機會而讓感情加溫，也會因小小的爭吵而交惡的兩人喔！只要你能在此往前邁進一步，應該可以建造出更好的關係吧！可千萬不要執著於自己的意見喔！"/>
+<int name="score" value="50"/>
+<int name="effectType" value="4"/>
+</imgdir>
+<imgdir name="7">
+<string name="0" value="漸行漸遠"/>
+<string name="1" value="你是否急於下結論呢？目前應該要重新思考，確認自己心中想法！當你能放寬心胸不再操之過急時，對方才能對你產生安全感喔！"/>
+<int name="score" value="40"/>
+<int name="effectType" value="4"/>
+</imgdir>
+<imgdir name="8">
+<string name="0" value="流水無情"/>
+<string name="1" value="你是苦於單戀呢？請你思考一下是否是將自己單方面的夢想加諸在對方身上！若你的深切地了解到對方的想法，相信好運也會造訪你喔！"/>
+<int name="score" value="30"/>
+<int name="effectType" value="5"/>
+</imgdir>
+<imgdir name="9">
+<string name="0" value="貌合神離"/>
+<string name="1" value="兩人之間有無形的隔閡存在喔！要讓你們之間更了解彼此，必須需要更多的時間和努力吧！若能持續對對方體貼及用心，相信一定可以柳暗花明的！"/>
+<int name="score" value="20"/>
+<int name="effectType" value="5"/>
+</imgdir>
+<imgdir name="10">
+<string name="0" value="一廂情願"/>
+<string name="1" value="你的愛可能造成對方相當大的負擔喔！你的熱情奔放可能只會讓對方緊閉心房也說不定…請配合對方的反應改變對應的方法，相信你可以開創新的命運。"/>
+<int name="score" value="10"/>
+<int name="effectType" value="6"/>
+</imgdir>
+<imgdir name="11">
+<string name="0" value="形同陌路"/>
+<string name="1" value="你無意的行為舉止可能會讓對方的受到傷害喔！若持續下去，將會造成悲劇，因此請你重新反省近來的言行吧！目前還有機會可以重新開始…"/>
+<int name="score" value="5"/>
+<int name="effectType" value="6"/>
+</imgdir>
+</imgdir>
+</imgdir>

@@ -1,0 +1,4812 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="ToolTipHelp.img">
+<imgdir name="Game">
+<imgdir name="Button">
+<imgdir name="Shop">
+<string name="Title" value="楓之谷商城"/>
+<string name="Desc" value="用現金可以購買可愛又好看的裝飾道具、聊天道具、美髮店會員卡、整形手術卡等多種的物品。"/>
+</imgdir>
+<imgdir name="Item">
+<string name="Title" value="物品(I)"/>
+<string name="Desc" value="可看見所有物品的視窗\n背包（物品欄）裡有裝備、消耗品、設定、其他道具。"/>
+</imgdir>
+<imgdir name="Equip">
+<string name="Title" value="裝備(E)"/>
+<string name="Desc" value="察看道具裝備情況，穿、脫道具的視窗\n和物品欄一起使用可裝備道具。"/>
+</imgdir>
+<imgdir name="Stat">
+<string name="Title" value="狀態(S)"/>
+<string name="Desc" value="察看角色的詳細情況和能力值的視窗\n可使用技能點數提升多種能力值。"/>
+</imgdir>
+<imgdir name="Skill">
+<string name="Title" value="技能(K)"/>
+<string name="Desc" value="可以察看各種技能的詳細內容\n消耗技能點，可以學習專門的技能。"/>
+</imgdir>
+<imgdir name="Chat">
+<string name="Title" value="聊天欄"/>
+<string name="Desc" value="與同區好友進行交流的視窗。"/>
+</imgdir>
+<imgdir name="Menu">
+<string name="Title" value="目錄"/>
+<string name="Desc" value="更改遊戲設定和察看遊戲情況的視窗。\n可以更改遊戲設定、系統參數，可以察看任務情報，組隊情況及社區訊息。"/>
+</imgdir>
+<imgdir name="Whisper">
+<string name="Title" value="悄悄話"/>
+<string name="Desc" value="選擇發送悄悄話的對象\n再次點擊按鈕就解除悄悄話狀態。"/>
+</imgdir>
+<imgdir name="MapTransfer">
+<imgdir name="Register">
+<string name="Title" value="登記地圖"/>
+<string name="Desc" value="將目前角色所在的地圖，登記到瞬間移動的目錄中。總共可記錄五個地點。"/>
+</imgdir>
+<imgdir name="Delete">
+<string name="Title" value="刪除地圖"/>
+<string name="Desc" value="將所選擇的地圖，由瞬間移動目錄中刪除。"/>
+</imgdir>
+<imgdir name="Move">
+<string name="Title" value="移動"/>
+<string name="Desc" value="瞬間移動至所選的地圖或所選擇的角色所在地圖。"/>
+</imgdir>
+<imgdir name="RegisterEx">
+<string name="Title" value="登錄地圖"/>
+<string name="Desc" value="將目前角色所在的位置加入瞬間移動列表。 總共可以登錄 10個。"/>
+</imgdir>
+</imgdir>
+<imgdir name="KeySet">
+<string name="Title" value="按鍵設定"/>
+</imgdir>
+<imgdir name="QuickSlot">
+<string name="Title" value="開啟快捷鍵"/>
+</imgdir>
+<imgdir name="QuickSlotD">
+<string name="Title" value="關閉快捷鍵"/>
+</imgdir>
+<imgdir name="Claim">
+<string name="Title" value="檢舉"/>
+</imgdir>
+<imgdir name="QuestAlarm">
+<string name="Desc" value="若想要將目前進行中的任務設定到任務指引時，請按下任務指引按鈕。最多可登錄5個任務。"/>
+</imgdir>
+<imgdir name="StatAuto">
+<string name="Title" value="能力自動配點"/>
+<string name="Desc" value="將剩餘的能力點數(AP)加以自動分配，以符合目前的等級和職業。"/>
+</imgdir>
+<imgdir name="StatAuto1">
+<string name="Title" value="能力自動配點(打手)"/>
+<string name="Desc" value="將剩餘的能力點數(AP)加以自動分配，以符合打手的特性。"/>
+</imgdir>
+<imgdir name="StatAuto2">
+<string name="Title" value="能力自動配點(槍手)"/>
+<string name="Desc" value="將剩餘的能力點數(AP)加以自動分配，以符合槍手的特性。"/>
+</imgdir>
+<imgdir name="QuestLocation">
+<string name="Desc" value="在世界地圖上顯示該任務執行位子。"/>
+</imgdir>
+</imgdir>
+<imgdir name="UIWnd">
+<imgdir name="Stat">
+<imgdir name="0">
+<vector name="lt" x="8" y="32"/>
+<vector name="rb" x="55" y="47"/>
+<string name="Title" value="角色名稱"/>
+<string name="Desc" value="創立之後，無法再更改。"/>
+</imgdir>
+<imgdir name="1">
+<vector name="lt" x="8" y="50"/>
+<vector name="rb" x="55" y="66"/>
+<string name="Title" value="職業種類"/>
+<string name="Desc" value="可以轉職為戰士, 弓箭手, 魔法師, 盜賊, 海盜.\n戰士 : 等級10,STR35以上,轉職地點在勇士之村\n弓箭手 : 等級10,DEX25以上,轉職地點在弓箭手村\n魔法師 : 等級8,INT20以上,轉職地點在魔法森林\n盜賊 : 等級10,DEX25以上,轉職地點在墮落城市\n海盜 : 等級10,DEX20以上,轉職地點在鯨魚號"/>
+</imgdir>
+<imgdir name="2">
+<vector name="lt" x="8" y="68"/>
+<vector name="rb" x="55" y="83"/>
+<string name="Title" value="角色等級"/>
+<string name="Desc" value="當累積一定的經驗值之後，角色的等級便會提升。"/>
+</imgdir>
+<imgdir name="3">
+<vector name="lt" x="8" y="86"/>
+<vector name="rb" x="55" y="101"/>
+<string name="Title" value="公會"/>
+<string name="Desc" value="角色所隸屬的公會。按下快捷鍵G，便可確認公會資料。"/>
+</imgdir>
+<imgdir name="4">
+<vector name="lt" x="8" y="104"/>
+<vector name="rb" x="55" y="119"/>
+<string name="Title" value="HP"/>
+<string name="Desc" value="體力值變成0就會死掉，被敵人攻擊、使用特定技能或在特定地點的話，HP就會減少，最高能夠提升到99,999。"/>
+</imgdir>
+<imgdir name="5">
+<vector name="lt" x="8" y="122"/>
+<vector name="rb" x="55" y="137"/>
+<string name="Title" value="MP"/>
+<string name="Desc" value="使用各種技能的時候所需要的能力值，最高能夠提升到99,999。"/>
+</imgdir>
+<imgdir name="6">
+<vector name="lt" x="8" y="140"/>
+<vector name="rb" x="55" y="155"/>
+<string name="Title" value="經驗值"/>
+<string name="Desc" value="表示目前角色的經驗值，當經驗值超過100%時便可提升角色等級。打倒怪物或完成任務，即可獲得經驗值。"/>
+</imgdir>
+<imgdir name="7">
+<vector name="lt" x="8" y="158"/>
+<vector name="rb" x="55" y="173"/>
+<string name="Title" value="角色的名聲值"/>
+<string name="Desc" value="透過其他玩家使名聲值上升或下降，名聲值與使用特定裝備或進行特定任務有關。"/>
+</imgdir>
+<imgdir name="8">
+<vector name="lt" x="8" y="234"/>
+<vector name="rb" x="55" y="250"/>
+<string name="Title" value="力量"/>
+<string name="Desc" value="使用武器直接攻擊敵人時顯示的數值. 決定戰士和海盜(格鬥家)攻擊力的最重要能力."/>
+</imgdir>
+<imgdir name="9">
+<vector name="lt" x="8" y="252"/>
+<vector name="rb" x="55" y="268"/>
+<string name="Title" value="敏捷"/>
+<string name="Desc" value="能力值越高則命中率和迴避率提升. 決定弓箭手和海盜(槍手)攻擊力的最重要能力."/>
+</imgdir>
+<imgdir name="10">
+<vector name="lt" x="8" y="270"/>
+<vector name="rb" x="55" y="286"/>
+<string name="Title" value="智力"/>
+<string name="Desc" value="智力值越高，魔法攻擊的成功率就越高，是決定法師魔力的關鍵，增加智力值的模式有兩種︰等級增加或使用技能點數增加MP。"/>
+</imgdir>
+<imgdir name="11">
+<vector name="lt" x="8" y="288"/>
+<vector name="rb" x="55" y="304"/>
+<string name="Title" value="幸運"/>
+<string name="Desc" value="幸運度越高，敏捷也會增加\n是決定盜賊攻擊力和技能的關鍵\n幸運度愈高，死亡時下降的經驗值越少。"/>
+</imgdir>
+<imgdir name="12">
+<vector name="lt" x="3" y="185"/>
+<vector name="rb" x="89" y="225"/>
+<string name="Title" value="能力值 "/>
+<string name="Desc" value="能力值可以提升力量、敏捷、智力、幸運及\nHP、MP的值。消耗1點技能點數\n可以使力量、敏捷、智力、幸運的能力值\n各提升1點。 提升HP和MP量時\n隨著角色等級的上升，能力值也不同。 \n等級上升將得到5點技能點數。"/>
+</imgdir>
+</imgdir>
+<imgdir name="StatDetail">
+<imgdir name="0">
+<vector name="lt" x="13" y="7"/>
+<vector name="rb" x="70" y="22"/>
+<string name="Title" value="攻擊力"/>
+<string name="Desc" value="顯示實際損傷的部分，裝備短杖和長杖的時候是魔法攻擊力，裝備其他武器的時候則會顯示物理攻擊力。"/>
+</imgdir>
+<imgdir name="1">
+<vector name="lt" x="13" y="25"/>
+<vector name="rb" x="70" y="40"/>
+<string name="Title" value="致命一擊機率"/>
+<string name="Desc" value="顯示致命一擊機率的部分，致命一擊機率基本是5%，可以利用技能或道具提升，致命一擊的損傷可藉由技能或道具提升120%到150%。"/>
+</imgdir>
+<imgdir name="2">
+<vector name="lt" x="13" y="43"/>
+<vector name="rb" x="70" y="58"/>
+<string name="Title" value="物理防禦力"/>
+<string name="Desc" value="隨著物理防禦力越高，敵人所造成的物理傷害就會減少，計算方式由能力值和裝備所有防具物理防禦力的總和來決定。"/>
+</imgdir>
+<imgdir name="3">
+<vector name="lt" x="13" y="61"/>
+<vector name="rb" x="70" y="76"/>
+<string name="Title" value="魔法防禦力"/>
+<string name="Desc" value="隨著魔法防禦力越高，敵人所造成的魔法傷害就會減少，計算方式由能力值和裝備所有防具魔法防禦力的總和來決定。"/>
+</imgdir>
+<imgdir name="4">
+<vector name="lt" x="13" y="79"/>
+<vector name="rb" x="70" y="94"/>
+<string name="Title" value="物理命中率"/>
+<string name="Desc" value="這是決定物理攻擊命中率的能力值，隨著能力值越高，物理攻擊命中率就會提升，計算方式由能力值和裝備道具屬性的總和來決定。"/>
+</imgdir>
+<imgdir name="5">
+<vector name="lt" x="13" y="97"/>
+<vector name="rb" x="70" y="112"/>
+<string name="Title" value="魔法命中率"/>
+<string name="Desc" value="這是決定魔法攻擊命中率的能力值，隨著能力值越高，魔法攻擊命中率就會提升，計算方式由能力值和裝備道具屬性的總和來決定。"/>
+</imgdir>
+<imgdir name="6">
+<vector name="lt" x="13" y="115"/>
+<vector name="rb" x="70" y="130"/>
+<string name="Title" value="物理迴避率"/>
+<string name="Desc" value="這是決定物理攻擊迴避率的能力值，隨著能力值越高，物理攻擊迴避率就會提升，計算方式由能力值和裝備道具屬性的總和來決定。"/>
+</imgdir>
+<imgdir name="7">
+<vector name="lt" x="13" y="133"/>
+<vector name="rb" x="70" y="148"/>
+<string name="Title" value="魔法迴避率"/>
+<string name="Desc" value="這是決定魔法攻擊迴避率的能力值，隨著能力值越高，魔法攻擊迴避率就會提升，計算方式由能力值和裝備道具屬性的總和來決定。"/>
+</imgdir>
+<imgdir name="8">
+<vector name="lt" x="13" y="151"/>
+<vector name="rb" x="70" y="166"/>
+<string name="Title" value=""/>
+<string name="Desc" value=""/>
+</imgdir>
+<imgdir name="9">
+<vector name="lt" x="13" y="169"/>
+<vector name="rb" x="70" y="184"/>
+<string name="Title" value="移動速度"/>
+<string name="Desc" value="角色的移動速度最高無法提升到超過140%，裝備道具的屬性或技能可以改變移動速度，不過，乘騎的時候能夠提升到最高190%。"/>
+</imgdir>
+<imgdir name="10">
+<vector name="lt" x="13" y="187"/>
+<vector name="rb" x="70" y="202"/>
+<string name="Title" value="跳躍力"/>
+<string name="Desc" value="利用角色的跳躍力是無法提升到超過123%以上，利用裝備道具的屬性技能可以變更跳躍力。"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="Shop">
+<imgdir name="Button">
+<imgdir name="BuyAvatar">
+<string name="Title" value="購買試穿商品"/>
+<string name="Desc" value="購買角色目前已裝備的物品\n不包括原來所擁有的物品。"/>
+</imgdir>
+<imgdir name="DefaultAvatar">
+<string name="Title" value="恢復裝扮"/>
+<string name="Desc" value="恢復角色裝扮。"/>
+</imgdir>
+<imgdir name="Rebate">
+<string name="Title" value="商品退貨"/>
+<string name="Desc" value="將使用Gash點數購買的道具，販賣給商店，並以該道具原價的30%退回楓葉點數。"/>
+</imgdir>
+<imgdir name="ExEquip">
+<string name="Title" value="增加裝備欄"/>
+<string name="Desc" value="增加4個(1列)裝備欄的空格需要100GASH。"/>
+</imgdir>
+<imgdir name="ExConsume">
+<string name="Title" value="增加消耗欄"/>
+<string name="Desc" value="增加4個(1列)消耗欄的空格需要100GASH。"/>
+</imgdir>
+<imgdir name="ExInstall">
+<string name="Title" value="增加裝飾欄"/>
+<string name="Desc" value="增加4個(1列)裝飾欄的空格需要100GASH。"/>
+</imgdir>
+<imgdir name="ExEtc">
+<string name="Title" value="增加其他欄"/>
+<string name="Desc" value="增加4個(1列)其他欄的空格需要100GASH。"/>
+</imgdir>
+<imgdir name="Charge">
+<string name="Title" value="點數加值"/>
+<string name="Desc" value="您可利用購買點數卡、手機付費、信用卡線上刷卡、ATM轉帳等各種方式來購買GASH點數。\n若點數不足時，須請您先行儲值GASH點數才能購買道具。"/>
+</imgdir>
+<imgdir name="Check">
+<string name="Title" value="剩餘點數"/>
+<string name="Desc" value="該帳號剩餘的點數。"/>
+</imgdir>
+<imgdir name="Coupon">
+<string name="Title" value="序號兌換"/>
+<string name="Desc" value="把所有序號在此兌換成道具"/>
+</imgdir>
+<imgdir name="TakeoffAvatar">
+<string name="Title" value="全部脫掉"/>
+<string name="Desc" value="將角色試穿的道具全部脫掉。"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="Mapobject">
+<imgdir name="0">
+<imgdir name="0">
+<string name="Title" value="角色跳躍(Alt)"/>
+<string name="Desc" value="按鍵盤的「Alt」可以讓角色跳躍"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="角色移動(←↑↓→)"/>
+<string name="Desc" value="利用鍵盤的方向鍵，可以左右移動、趴下、上下樓梯和進入傳送點"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="傳送點移動(↑)"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="移動至下一張地圖..."/>
+<string name="Desc" value="往右邊移動時可以到下一張地圖。"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="開始地點"/>
+</imgdir>
+</imgdir>
+<imgdir name="10000">
+<imgdir name="0">
+<string name="Title" value="傳送點 移動(↑)"/>
+</imgdir>
+</imgdir>
+<imgdir name="20000">
+<imgdir name="0">
+<string name="Title" value="菇菇村"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="菇菇村東入口"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="菇菇村村民家"/>
+</imgdir>
+</imgdir>
+<imgdir name="30000">
+<imgdir name="0">
+<string name="Title" value="小樹林"/>
+</imgdir>
+</imgdir>
+<imgdir name="40000">
+<imgdir name="0">
+<string name="Title" value="楓葉村"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="楓之港"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="楓葉村"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="楓之港"/>
+</imgdir>
+</imgdir>
+<imgdir name="40001">
+<imgdir name="0">
+<string name="Title" value="楓葉村"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="楓之港"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="楓葉村"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="楓之港"/>
+</imgdir>
+</imgdir>
+<imgdir name="40002">
+<imgdir name="0">
+<string name="Title" value="楓葉村"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="楓之港"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="楓葉村"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="楓之港"/>
+</imgdir>
+</imgdir>
+<imgdir name="50000">
+<imgdir name="0">
+<string name="Title" value="楓葉村"/>
+</imgdir>
+</imgdir>
+<imgdir name="60000">
+<imgdir name="0">
+<string name="Title" value="楓之港防具店"/>
+<string name="Desc" value="可以購買防具。"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="&quot;楓之港→ 
+開往維多利亞港&quot;"/>
+<string name="Desc" value="費用 : 150 楓幣\n\n透過桑克斯才可以搭乘開往維多利亞港的船。無法再返回原地。"/>
+</imgdir>
+</imgdir>
+<imgdir name="1000000">
+<imgdir name="0">
+<string name="Title" value="武器店"/>
+<string name="Desc" value="可以購買武器。"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="雜貨店"/>
+<string name="Desc" value="藥水或捲軸等等…可以購買雜貨。"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="冒險者的修練場入口"/>
+<string name="Desc" value="楓之港方向"/>
+</imgdir>
+</imgdir>
+<imgdir name="1010000">
+<imgdir name="0">
+<string name="Title" value="抉擇的岔路"/>
+<string name="Desc" value="楓之港方向"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="修練場"/>
+</imgdir>
+</imgdir>
+<imgdir name="100000000">
+<imgdir name="0">
+<string name="Title" value="弓箭手村北邊山丘"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="芽孢山丘"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="維多利亞計程車"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="麗娜的家"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="弓箭手村市場"/>
+</imgdir>
+<imgdir name="5">
+<string name="Title" value="弓箭手村公園"/>
+</imgdir>
+<imgdir name="6">
+<string name="Title" value="傑伊的家"/>
+</imgdir>
+<imgdir name="7">
+<string name="Title" value="瑪亞的家"/>
+</imgdir>
+<imgdir name="8">
+<string name="Title" value="芽孢山丘"/>
+</imgdir>
+<imgdir name="9">
+<string name="Title" value="弓箭手村北邊山丘"/>
+</imgdir>
+</imgdir>
+<imgdir name="100000100">
+<imgdir name="1">
+<string name="Title" value="芽孢山丘"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="維多利亞計程車"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="麗娜的家"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="弓箭手村市場"/>
+</imgdir>
+<imgdir name="5">
+<string name="Title" value="弓箭手村公園"/>
+</imgdir>
+<imgdir name="6">
+<string name="Title" value="長老斯坦的家"/>
+</imgdir>
+<imgdir name="7">
+<string name="Title" value="瑪亞的家"/>
+</imgdir>
+<imgdir name="8">
+<string name="Title" value="芽孢山丘"/>
+</imgdir>
+</imgdir>
+<imgdir name="100000200">
+<imgdir name="0">
+<string name="Title" value="弓箭手村"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="邱比特公園"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="寵物公園"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="弓箭手村"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="弓箭手村市集"/>
+</imgdir>
+<imgdir name="5">
+<string name="Title" value="弓箭手村遊戲中心"/>
+</imgdir>
+<imgdir name="6">
+<string name="Title" value="弓箭手培訓中心"/>
+</imgdir>
+<imgdir name="7">
+<string name="Title" value="弓箭手培訓中心"/>
+</imgdir>
+</imgdir>
+<imgdir name="101000000">
+<imgdir name="0">
+<string name="Title" value="和風鄰近的地方"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="閃爍森林的通路"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="魔法森林雜貨商店"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="和風鄰近的地方"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="閃爍森林的通路"/>
+</imgdir>
+<imgdir name="5">
+<string name="Title" value="魔法圖書館"/>
+</imgdir>
+<imgdir name="6">
+<string name="Title" value="魔法森林武器/防具商店"/>
+</imgdir>
+<imgdir name="7">
+<string name="Title" value="維多利亞計程車"/>
+</imgdir>
+</imgdir>
+<imgdir name="101030100">
+<imgdir name="0">
+<string name="Title" value="藤條巢穴1"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="北部森林空地"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="巨大的樹木"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="北部森林空地"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="巨大的樹木"/>
+</imgdir>
+</imgdir>
+<imgdir name="101030400">
+<imgdir name="0">
+<string name="Title" value="東方岩石山II"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="勇士之村東路口"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="岩石路Ⅰ"/>
+</imgdir>
+</imgdir>
+<imgdir name="102000000">
+<imgdir name="0">
+<string name="Title" value="勇士之村北部"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="勇士之村北部"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="維多利亞計程車"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="勇士聖殿"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="勇士之村武器/防具商店"/>
+</imgdir>
+<imgdir name="5">
+<string name="Title" value="勇士之村雜貨商店"/>
+</imgdir>
+<imgdir name="6">
+<string name="Title" value="自由市場"/>
+</imgdir>
+<imgdir name="7">
+<string name="Title" value="勇士之村北部"/>
+</imgdir>
+<imgdir name="8">
+<string name="Title" value="勇士之村南部"/>
+</imgdir>
+</imgdir>
+<imgdir name="102020000">
+<imgdir name="0">
+<string name="Title" value="風塵山丘"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="勇士之村"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="劍士修練場"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="風塵山丘"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="勇士之村"/>
+</imgdir>
+</imgdir>
+<imgdir name="102020100">
+<imgdir name="0">
+<string name="Title" value="小岩石路"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="黑肥肥領土"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="勇士之村北部"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="黑肥肥領土/小岩石路"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="勇士之村北部"/>
+</imgdir>
+<imgdir name="5">
+<string name="Title" value="黑肥肥領土"/>
+</imgdir>
+<imgdir name="6">
+<string name="Title" value="小岩石路"/>
+</imgdir>
+<imgdir name="7">
+<string name="Title" value="勇士之村北部"/>
+</imgdir>
+</imgdir>
+<imgdir name="102020200">
+<imgdir name="0">
+<string name="Title" value="大岩石路"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="風塵山丘"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="大岩石路"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="風塵山丘"/>
+</imgdir>
+</imgdir>
+<imgdir name="102020300">
+<imgdir name="0">
+<string name="Title" value="粗岩地帶"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="小岩石路"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="粗岩地帶"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="小岩石路"/>
+</imgdir>
+</imgdir>
+<imgdir name="102020400">
+<imgdir name="0">
+<string name="Title" value="暴風地帶"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="初期挖掘地區"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="大岩石路"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="初期挖掘地區"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="暴風地帶"/>
+</imgdir>
+<imgdir name="5">
+<string name="Title" value="大岩石路"/>
+</imgdir>
+<imgdir name="6">
+<string name="Title" value="暴風地帶"/>
+</imgdir>
+<imgdir name="7">
+<string name="Title" value="初期挖掘地區"/>
+</imgdir>
+<imgdir name="8">
+<string name="Title" value="大岩石路"/>
+</imgdir>
+</imgdir>
+<imgdir name="102020500">
+<imgdir name="0">
+<string name="Title" value="粗岩地帶"/>
+</imgdir>
+</imgdir>
+<imgdir name="103000000">
+<imgdir name="0">
+<string name="Title" value="地鐵售票處"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="小心墜落"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="墮落城市藥店"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="墮落城市酒吧"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="墮落城市武器店"/>
+</imgdir>
+<imgdir name="5">
+<string name="Title" value="墮落城市美髮店"/>
+</imgdir>
+<imgdir name="6">
+<string name="Title" value="墮落城市修理店"/>
+</imgdir>
+<imgdir name="7">
+<string name="Title" value="地鐵售票處"/>
+</imgdir>
+<imgdir name="8">
+<string name="Title" value="小心墜落"/>
+</imgdir>
+</imgdir>
+<imgdir name="103030000">
+<imgdir name="0">
+<string name="Title" value="墮落城市森林Ⅱ"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="歷恩森林Ⅲ"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="三叉路"/>
+</imgdir>
+</imgdir>
+<imgdir name="104000000">
+<imgdir name="0">
+<string name="Title" value="前往東方售票處"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="維多利亞港雜貨商店"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="維多利亞港防具商店"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="維多利亞計程車"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="維多利亞港外圍"/>
+<string name="Desc" value="\n勇士之村, 魔法森林: 1200楓幣, 弓箭手村: 800楓幣, 墮落城市: 1000楓幣\n\n\n- 初心者打一折!!!"/>
+</imgdir>
+<imgdir name="5">
+<string name="Title" value="維多利亞港武器商店"/>
+</imgdir>
+<imgdir name="6">
+<string name="Title" value="特魯的情報商店"/>
+</imgdir>
+<imgdir name="7">
+<string name="Title" value="世界之旅導遊"/>
+</imgdir>
+</imgdir>
+<imgdir name="104010000">
+<imgdir name="0">
+<string name="Title" value="維多利亞港"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="山林小徑1"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="維多利亞港"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="山林小徑1"/>
+</imgdir>
+</imgdir>
+<imgdir name="104010100">
+<imgdir name="0">
+<string name="Title" value="維多利亞港外圍"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="山林小徑2"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="維多利亞港外圍"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="山林小徑2"/>
+</imgdir>
+</imgdir>
+<imgdir name="104010200">
+<imgdir name="0">
+<string name="Title" value="山林小徑1"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="六條岔道"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="山林小徑1"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="六條岔道"/>
+</imgdir>
+</imgdir>
+<imgdir name="105040000">
+<imgdir name="0">
+<string name="Title" value="弓箭手村迷宮入口"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="黑森林"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="奇幻村"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="黑森林狩獵場Ⅰ"/>
+</imgdir>
+</imgdir>
+<imgdir name="105040300">
+<imgdir name="0">
+<string name="Title" value="旅館"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="黑森林通道"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="迷霧森林"/>
+</imgdir>
+</imgdir>
+<imgdir name="200000000">
+<imgdir name="0">
+<string name="Title" value="自由市場"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="天空之城武器店"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="公會本部&lt;英雄之殿&gt;"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="天空之城雜貨店"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="天空之城碼頭"/>
+</imgdir>
+<imgdir name="5">
+<string name="Title" value="天空之城公園"/>
+</imgdir>
+<imgdir name="6">
+<string name="Title" value="天空之城碼頭"/>
+</imgdir>
+<imgdir name="7">
+<string name="Title" value="天空之城塔"/>
+</imgdir>
+<imgdir name="8">
+<string name="Title" value="雲彩公園"/>
+</imgdir>
+<imgdir name="9">
+<string name="Title" value="世界之旅導遊"/>
+</imgdir>
+</imgdir>
+<imgdir name="200000100">
+<imgdir name="0">
+<string name="Title" value="天空之城"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="站台"/>
+</imgdir>
+</imgdir>
+<imgdir name="200000110">
+<imgdir name="0">
+<string name="Title" value="港口通道&lt;往天空之城售票員&gt;"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="碼頭&lt;開往魔法森林&gt;"/>
+</imgdir>
+</imgdir>
+<imgdir name="200000120">
+<imgdir name="0">
+<string name="Title" value="港口通道&lt;往天空之城售票員&gt;"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="碼頭&lt;開往玩具城&gt; "/>
+</imgdir>
+</imgdir>
+<imgdir name="200000130">
+<imgdir name="0">
+<string name="Title" value="開往神木村的站台"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="碼頭&lt;開往神木村&gt;"/>
+</imgdir>
+</imgdir>
+<imgdir name="200000140">
+<imgdir name="0">
+<string name="Title" value="往桃花仙境站台"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="天空之城碼頭候客室"/>
+</imgdir>
+</imgdir>
+<imgdir name="200010000">
+<imgdir name="0">
+<string name="Title" value="前往天空之城"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="前往三色庭園的路"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="雲彩公園Ⅱ"/>
+</imgdir>
+</imgdir>
+<imgdir name="200010100">
+<imgdir name="0">
+<string name="Title" value="紅光庭園Ⅰ"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="黃光庭園Ⅰ"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="藍光庭園Ⅰ"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="三色庭園入口"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="雲彩公園Ⅰ"/>
+</imgdir>
+</imgdir>
+<imgdir name="200010200">
+<imgdir name="0">
+<string name="Title" value="天空階梯Ⅱ"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="紅光庭園Ⅱ"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="黃光庭園Ⅱ"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="藍光庭園Ⅱ"/>
+</imgdir>
+</imgdir>
+<imgdir name="200082100">
+<imgdir name="0">
+<string name="Title" value="天空之塔地下"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="天空之塔地下"/>
+</imgdir>
+</imgdir>
+<imgdir name="211040000">
+<imgdir name="0">
+<string name="Title" value="冰雪峽谷Ⅰ"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="結冰的平原Ⅰ"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="寒冰平原"/>
+</imgdir>
+</imgdir>
+<imgdir name="211000000">
+<imgdir name="0">
+<string name="Title" value="天空之城塔"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="冰原雪域"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="冰原市集"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="長老公館"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="冰原雪域"/>
+</imgdir>
+<imgdir name="5">
+<string name="Title" value="冰原雪域山脈"/>
+</imgdir>
+</imgdir>
+<imgdir name="211000100">
+<imgdir name="0">
+<string name="Title" value="冰原雪域"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="冰原市集"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="自由市場"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="冰原武器店"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="冰原雜貨店"/>
+</imgdir>
+</imgdir>
+<imgdir name="219000000">
+<imgdir name="0">
+<string name="Title" value="冰原雜貨店"/>
+</imgdir>
+</imgdir>
+<imgdir name="220000000">
+<imgdir name="0">
+<string name="Title" value="赫爾奧斯塔入口"/>
+<string name="Desc" value="前往赫爾奧斯塔的路"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="護膚中心"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="鐘塔"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="美髮店"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="愛奧斯塔入口"/>
+<string name="Desc" value="前往愛奧斯塔的路"/>
+</imgdir>
+<imgdir name="5">
+<string name="Title" value="玩具城寵物散步路"/>
+</imgdir>
+<imgdir name="6">
+<string name="Title" value="自由市場"/>
+</imgdir>
+<imgdir name="7">
+<string name="Title" value="玩具城整形外科"/>
+</imgdir>
+<imgdir name="8">
+<string name="Title" value="雜貨店"/>
+</imgdir>
+<imgdir name="9">
+<string name="Title" value="雜貨店"/>
+</imgdir>
+<imgdir name="10">
+<string name="Title" value="玩具城武防店"/>
+</imgdir>
+<imgdir name="11">
+<string name="Title" value="碼頭"/>
+</imgdir>
+<imgdir name="12">
+<string name="Title" value="鐘塔"/>
+</imgdir>
+<imgdir name="13">
+<string name="Title" value="寵物公園"/>
+</imgdir>
+<imgdir name="14">
+<string name="Title" value="赫爾奧斯塔"/>
+</imgdir>
+<imgdir name="15">
+<string name="Title" value="自由市場·整容院"/>
+</imgdir>
+<imgdir name="16">
+<string name="Title" value="武器店·雜貨店·碼頭"/>
+</imgdir>
+<imgdir name="17">
+<string name="Title" value="赫爾奧斯塔"/>
+</imgdir>
+<imgdir name="18">
+<string name="Title" value="玩具城"/>
+</imgdir>
+</imgdir>
+<imgdir name="220000100">
+<imgdir name="0">
+<string name="Title" value="玩具城售票處"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="往碼頭"/>
+</imgdir>
+</imgdir>
+<imgdir name="220000300">
+<imgdir name="0">
+<string name="Title" value="吉羅根與蓓依的家"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="柯林之家"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="卡霍之家"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="科洛伊之家"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="空屋Ⅲ"/>
+</imgdir>
+<imgdir name="5">
+<string name="Title" value="愛奧斯塔入口"/>
+<string name="Desc" value="前往愛奧斯塔的路"/>
+</imgdir>
+<imgdir name="6">
+<string name="Title" value="愛奧斯塔"/>
+</imgdir>
+<imgdir name="7">
+<string name="Title" value="玩具城"/>
+</imgdir>
+</imgdir>
+<imgdir name="220000400">
+<imgdir name="0">
+<string name="Title" value="愛奧斯塔"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="愛奧斯塔"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="民宅"/>
+</imgdir>
+</imgdir>
+<imgdir name="220000500">
+<imgdir name="0">
+<string name="Title" value="赫爾奧斯塔"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="玩具城"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="赫爾奧斯塔"/>
+</imgdir>
+</imgdir>
+<imgdir name="220050300">
+<imgdir name="0">
+<string name="Title" value="扭曲的時間之路"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="遺忘的時間之路"/>
+</imgdir>
+</imgdir>
+<imgdir name="221050300">
+<imgdir name="0">
+<string name="Title" value="扭曲的時間之路"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="遺忘的時間之路"/>
+</imgdir>
+</imgdir>
+<imgdir name="221000000">
+<imgdir name="0">
+<string name="Title" value="自由市場"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="地球防衛總部"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="安全地帶"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="危險地帶"/>
+</imgdir>
+</imgdir>
+<imgdir name="221000200">
+<imgdir name="0">
+<string name="Title" value="醫務室"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="武器補給站"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="防具補給站"/>
+</imgdir>
+</imgdir>
+<imgdir name="221030000">
+<imgdir name="0">
+<string name="Title" value="羅威草原Ⅰ"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="地球防衛總部"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="克嵐草原Ⅰ"/>
+</imgdir>
+</imgdir>
+<imgdir name="221000400">
+<imgdir name="0">
+<string name="Title" value="愛奧斯塔"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="愛奧斯塔"/>
+</imgdir>
+</imgdir>
+<imgdir name="221022200">
+<imgdir name="0">
+<string name="Title" value="迷你地城：兔子鼓手隱身處"/>
+</imgdir>
+</imgdir>
+<imgdir name="222000000">
+<imgdir name="0">
+<string name="Title" value="雜貨店"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="童話村"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="烏山"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="烏山"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="武器、防具店"/>
+</imgdir>
+<imgdir name="5">
+<string name="Title" value="赫爾奧斯塔圖書館"/>
+</imgdir>
+<imgdir name="6">
+<string name="Title" value="烏山入口"/>
+</imgdir>
+<imgdir name="7">
+<string name="Title" value="自由市場"/>
+</imgdir>
+</imgdir>
+<imgdir name="222010000">
+<imgdir name="0">
+<string name="Title" value="烏山深處"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="童話村"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="小池塘"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="小池塘"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="童話村"/>
+</imgdir>
+</imgdir>
+<imgdir name="222010100">
+<imgdir name="0">
+<string name="Title" value="老虎樹林Ⅰ"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="烏山入口"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="老虎山坡"/>
+</imgdir>
+</imgdir>
+<imgdir name="222010200">
+<imgdir name="0">
+<string name="Title" value="烏山峽谷"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="小池塘"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="狐狸山坡"/>
+</imgdir>
+</imgdir>
+<imgdir name="230000000">
+<imgdir name="0">
+<string name="Title" value="水世界商店街"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="水世界動物園"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="水世界"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="水世界"/>
+</imgdir>
+</imgdir>
+<imgdir name="230000001">
+<imgdir name="0">
+<string name="Title" value="水世界動物園"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="水世界商店街"/>
+</imgdir>
+</imgdir>
+<imgdir name="230000002">
+<imgdir name="0">
+<string name="Title" value="雜貨店"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="防具店"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="武器店"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="倉庫"/>
+</imgdir>
+</imgdir>
+<imgdir name="230000003">
+<imgdir name="0">
+<string name="Title" value="巴洛古"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="白狼和雪吉拉"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="肥肥和緞帶肥肥"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="水世界動物園"/>
+</imgdir>
+</imgdir>
+<imgdir name="230010000">
+<imgdir name="0">
+<string name="Title" value="天空之塔"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="水中峽谷"/>
+</imgdir>
+</imgdir>
+<imgdir name="230010001">
+<imgdir name="0">
+<string name="Title" value="海底出入口"/>
+</imgdir>
+</imgdir>
+<imgdir name="230010400">
+<imgdir name="0">
+<string name="Title" value="水世界"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="貝殼山丘"/>
+</imgdir>
+</imgdir>
+<imgdir name="230020000">
+<imgdir name="0">
+<string name="Title" value="水世界"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="海藻塔"/>
+</imgdir>
+</imgdir>
+<imgdir name="230020100">
+<imgdir name="0">
+<string name="Title" value="東海岔道"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="沙塔休息地"/>
+</imgdir>
+</imgdir>
+<imgdir name="230020101">
+<imgdir name="0">
+<string name="Title" value="海藻塔"/>
+</imgdir>
+</imgdir>
+<imgdir name="230020200">
+<imgdir name="0">
+<string name="Title" value="海藻塔"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="大魚峽谷"/>
+</imgdir>
+</imgdir>
+<imgdir name="230020300">
+<imgdir name="0">
+<string name="Title" value="沙塔休息地"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="綠海藻之地"/>
+</imgdir>
+</imgdir>
+<imgdir name="230030000">
+<imgdir name="0">
+<string name="Title" value="大魚峽谷"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="菇菇珊瑚地"/>
+</imgdir>
+</imgdir>
+<imgdir name="230030001">
+<imgdir name="0">
+<string name="Title" value="綠海藻之地"/>
+</imgdir>
+</imgdir>
+<imgdir name="230030100">
+<imgdir name="0">
+<string name="Title" value="綠海藻之地"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="四角地帶"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="太公的渡船"/>
+</imgdir>
+</imgdir>
+<imgdir name="230030200">
+<imgdir name="0">
+<string name="Title" value="童話村"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="菇菇珊瑚地"/>
+</imgdir>
+</imgdir>
+<imgdir name="240000000">
+<imgdir name="0">
+<string name="Title" value="雜貨店"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="武器、防具店"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="自由市場"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="神木村西部森林"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="神木村東部森林"/>
+</imgdir>
+<imgdir name="5">
+<string name="Title" value="神木村碼頭"/>
+</imgdir>
+<imgdir name="6">
+<string name="Title" value="神木村"/>
+</imgdir>
+<imgdir name="7">
+<string name="Title" value="世界之旅導遊"/>
+</imgdir>
+</imgdir>
+<imgdir name="240000100">
+<imgdir name="0">
+<string name="Title" value="神木村"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="售票處"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="碼頭"/>
+</imgdir>
+</imgdir>
+<imgdir name="240010000">
+<imgdir name="0">
+<string name="Title" value="神木村"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="米納爾森林西邊境界"/>
+</imgdir>
+</imgdir>
+<imgdir name="240010100">
+<imgdir name="0">
+<string name="Title" value="神木村西邊森林"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="怪脾氣森林"/>
+</imgdir>
+</imgdir>
+<imgdir name="240010200">
+<imgdir name="0">
+<string name="Title" value="尖峭的山丘"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="尖峭的山丘"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="米納爾森林西邊境界"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="火焰半人馬領土"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="米納爾森林西邊境界"/>
+</imgdir>
+</imgdir>
+<imgdir name="240010300">
+<imgdir name="0">
+<string name="Title" value="森林岔道"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="怪脾氣森林"/>
+</imgdir>
+</imgdir>
+<imgdir name="240010400">
+<imgdir name="0">
+<string name="Title" value="龍森林路口"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="尖峭的山丘"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="山羊峽谷"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="尖峭的山丘"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="山羊峽谷"/>
+</imgdir>
+<imgdir name="5">
+<string name="Title" value="龍森林路口"/>
+</imgdir>
+</imgdir>
+<imgdir name="240010800">
+<imgdir name="0">
+<string name="Title" value="米納爾森林東邊境界"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="天空之巢 I"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="冰冷死亡戰場"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="米納爾森林東邊境界"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="天空之巢 I"/>
+</imgdir>
+</imgdir>
+<imgdir name="240011000">
+<imgdir name="0">
+<string name="Title" value="米納爾森林東邊境界"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="神木村東邊森林"/>
+</imgdir>
+</imgdir>
+<imgdir name="240020000">
+<imgdir name="0">
+<string name="Title" value="冰火戰場"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="怪脾氣森林"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="火燄死亡戰場"/>
+</imgdir>
+</imgdir>
+<imgdir name="240020300">
+<imgdir name="0">
+<string name="Title" value="寒冰半人馬領土"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="天空之巢"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="暗黑半人馬領土"/>
+</imgdir>
+</imgdir>
+<imgdir name="240030000">
+<imgdir name="0">
+<string name="Title" value="森林岔道"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="龍森林Ⅰ"/>
+</imgdir>
+</imgdir>
+<imgdir name="240030103">
+<imgdir name="0">
+<string name="Title" value="龍森林Ⅰ"/>
+</imgdir>
+</imgdir>
+<imgdir name="240030104">
+<imgdir name="0">
+<string name="Title" value="龍森林Ⅰ"/>
+</imgdir>
+</imgdir>
+<imgdir name="240030100">
+<imgdir name="0">
+<string name="Title" value="龍森林Ⅱ"/>
+</imgdir>
+<imgdir name="7">
+<string name="Title" value="龍森林路口"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="龍森林路口"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="龍森林Ⅱ"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="火焰森林"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="秘密森林"/>
+</imgdir>
+</imgdir>
+<imgdir name="240030200">
+<imgdir name="0">
+<string name="Title" value="龍森林Ⅲ"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="龍森林Ⅰ"/>
+</imgdir>
+</imgdir>
+<imgdir name="240030300">
+<imgdir name="0">
+<string name="Title" value="龍森林Ⅱ"/>
+</imgdir>
+</imgdir>
+<imgdir name="240040000">
+<imgdir name="0">
+<string name="Title" value="龍森林 III"/>
+</imgdir>
+</imgdir>
+<imgdir name="240040100">
+<imgdir name="0">
+<string name="Title" value="龍之峽谷"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="峽谷東側路"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="峽谷西側路"/>
+</imgdir>
+</imgdir>
+<imgdir name="240040400">
+<imgdir name="0">
+<string name="Title" value="峽谷西側路"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="峽谷東側路"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="龍之巢穴入口"/>
+</imgdir>
+</imgdir>
+<imgdir name="240040500">
+<imgdir name="0">
+<string name="Title" value="遭破壞的龍之巢穴"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="死龍巢穴"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="翼龍峽谷"/>
+</imgdir>
+</imgdir>
+<imgdir name="240040600">
+<imgdir name="0">
+<string name="Title" value="被遺留的龍之巢穴"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="生命之穴入口"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="危險的龍之巢穴"/>
+</imgdir>
+</imgdir>
+<imgdir name="250000000">
+<imgdir name="0">
+<string name="Title" value="世界之旅服務台"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="桃花仙境美髮店"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="桃花仙境整形外科"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="防具商店"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="武器商店"/>
+</imgdir>
+<imgdir name="5">
+<string name="Title" value="桃花仙境護膚中心"/>
+</imgdir>
+<imgdir name="6">
+<string name="Title" value="桃花仙境雜貨店"/>
+</imgdir>
+<imgdir name="7">
+<string name="Title" value="自由市場入口"/>
+</imgdir>
+<imgdir name="8">
+<string name="Title" value="桃花仙境寺院"/>
+</imgdir>
+</imgdir>
+<imgdir name="250010301">
+<imgdir name="0">
+<string name="Title" value="花蛇的領土"/>
+</imgdir>
+</imgdir>
+<imgdir name="250010500">
+<imgdir name="0">
+<string name="Title" value="仙桃果園2"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="天空森林的盡頭"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="濃霧森林"/>
+</imgdir>
+</imgdir>
+<imgdir name="250010501">
+<imgdir name="0">
+<string name="Title" value="仙人之林"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="仙桃果園1"/>
+</imgdir>
+</imgdir>
+<imgdir name="250010700">
+<imgdir name="0">
+<string name="Title" value="偏僻泥沼"/>
+</imgdir>
+</imgdir>
+<imgdir name="251000000">
+<imgdir name="0">
+<string name="Title" value="武器商店"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="防具商店"/>
+</imgdir>
+</imgdir>
+<imgdir name="251010400">
+<imgdir name="0">
+<string name="Title" value="人蔘谷"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="偏僻泥沼"/>
+</imgdir>
+</imgdir>
+<imgdir name="251010500">
+<imgdir name="0">
+<string name="Title" value="仙桃果園3"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="古老泥沼"/>
+</imgdir>
+</imgdir>
+<imgdir name="500000000">
+<imgdir name="0">
+<string name="Title" value="自由市場"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="世界之旅服務台"/>
+</imgdir>
+</imgdir>
+<imgdir name="500020100">
+<imgdir name="0">
+<string name="Title" value="村外"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="華麗濕地"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="小雨林"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="村外"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="華麗濕地"/>
+</imgdir>
+<imgdir name="5">
+<string name="Title" value="小雨林"/>
+</imgdir>
+</imgdir>
+<imgdir name="701000000">
+<imgdir name="0">
+<string name="Title" value="雜貨店"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="武器、防具店"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="路邊攤"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="路邊攤"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="雜貨店"/>
+</imgdir>
+<imgdir name="5">
+<string name="Title" value="世界之旅導遊"/>
+</imgdir>
+</imgdir>
+<imgdir name="740000000">
+<imgdir name="0">
+<string name="Title" value="武器店"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="防具店"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="雜貨店"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="西門町"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="地鐵站&lt;西門町&gt;"/>
+</imgdir>
+<imgdir name="5">
+<string name="Title" value="世界之旅導遊"/>
+</imgdir>
+</imgdir>
+<imgdir name="740000100">
+<imgdir name="0">
+<string name="Title" value="出口"/>
+</imgdir>
+</imgdir>
+<imgdir name="740010200">
+<imgdir name="0">
+<string name="Title" value="西門町後街"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="西門町街道Ⅱ"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="西門町街道Ⅳ"/>
+</imgdir>
+</imgdir>
+<imgdir name="741000000">
+<imgdir name="0">
+<string name="Title" value="美髮店"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="美髮店"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="整形外科"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="整形外科"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="整形外科"/>
+</imgdir>
+<imgdir name="5">
+<string name="Title" value="護膚中心"/>
+</imgdir>
+</imgdir>
+<imgdir name="741000001">
+<imgdir name="0">
+<string name="Title" value="護膚中心"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="整形外科"/>
+</imgdir>
+</imgdir>
+<imgdir name="741010200">
+<imgdir name="0">
+<string name="Title" value="不夜城街道 II"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="不夜城街道 IV"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="不夜城岔路 I"/>
+</imgdir>
+</imgdir>
+<imgdir name="800000000">
+<imgdir name="0">
+<string name="Title" value="古代神社"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="黑輪店"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="炒麵店"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="章魚燒店"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="拉麵店"/>
+</imgdir>
+<imgdir name="5">
+<string name="Title" value="丸子店"/>
+</imgdir>
+<imgdir name="6">
+<string name="Title" value="古代神社"/>
+</imgdir>
+<imgdir name="7">
+<string name="Title" value="世界之旅服務台"/>
+</imgdir>
+</imgdir>
+<imgdir name="800020000">
+<imgdir name="0">
+<string name="Title" value="烏鴉樹林Ⅱ"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="妖獸之林"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="櫻花山林"/>
+</imgdir>
+</imgdir>
+<imgdir name="800020101">
+<imgdir name="0">
+<string name="Title" value="月下竹林"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="雲狐山坡"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="烏鴉樹林Ⅰ"/>
+</imgdir>
+</imgdir>
+<imgdir name="211041100">
+<imgdir name="1">
+<string name="Title" value="亡者之林2"/>
+</imgdir>
+</imgdir>
+<imgdir name="211041200">
+<imgdir name="1">
+<string name="Title" value="亡者之林1"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="亡者之林3"/>
+</imgdir>
+</imgdir>
+<imgdir name="101030103">
+<imgdir name="0">
+<string name="Title" value="遺跡發掘隊營地"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="遺跡發掘地2"/>
+</imgdir>
+</imgdir>
+<imgdir name="101030104">
+<imgdir name="0">
+<string name="Title" value="遺跡之墓"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="遺跡發掘地3"/>
+</imgdir>
+</imgdir>
+<imgdir name="222010300">
+<imgdir name="0">
+<string name="Title" value="鬼怪山脊"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="老虎山坡"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="                    石塔                    "/>
+<string name="Desc" value="若是經過狐狸山坡的人，就算是一次也好，理應在石塔上獻上三尾狐的尾巴，以解開其中的怨恨…"/>
+</imgdir>
+</imgdir>
+<imgdir name="222010101">
+<imgdir name="0">
+<string name="Title" value="小池塘"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="老虎樹林 II"/>
+</imgdir>
+</imgdir>
+<imgdir name="230010200">
+<imgdir name="0">
+<string name="Title" value="水中峽谷"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="貝殼山丘"/>
+</imgdir>
+</imgdir>
+<imgdir name="230010100">
+<imgdir name="0">
+<string name="Title" value="海底出入口"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="紅珊瑚之林"/>
+</imgdir>
+</imgdir>
+<imgdir name="101040001">
+<imgdir name="0">
+<string name="Title" value="魔精靈石板"/>
+<string name="Desc" value="若想要打倒魔精靈，須先銷毀他力量的泉源。"/>
+</imgdir>
+</imgdir>
+<imgdir name="100030000">
+<imgdir name="0">
+<string name="Title" value="猶他的肥肥農場"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="魔法森林南部 (魔法森林方向)"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="前往碼頭的路 (鯨魚號方向)"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="猶他的肥肥農場"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="魔法森林南部 (魔法森林方向)"/>
+</imgdir>
+<imgdir name="5">
+<string name="Title" value="弓箭手村東部草叢 (弓箭手村方向)"/>
+</imgdir>
+<imgdir name="6">
+<string name="Title" value="前往碼頭的路 (鯨魚號方向)"/>
+</imgdir>
+<imgdir name="7">
+<string name="Title" value="猶他的肥肥農場"/>
+</imgdir>
+<imgdir name="8">
+<string name="Title" value="魔法森林南部 (魔法森林方向)"/>
+</imgdir>
+<imgdir name="9">
+<string name="Title" value="前往碼頭的路 (鯨魚號方向)"/>
+</imgdir>
+<imgdir name="10">
+<string name="Title" value="弓箭手村東部草叢 (弓箭手村方向)"/>
+</imgdir>
+</imgdir>
+<imgdir name="104030000">
+<imgdir name="0">
+<string name="Title" value="弓箭手訓練場1"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="弓箭手村西部森林"/>
+</imgdir>
+</imgdir>
+<imgdir name="200082300">
+<imgdir name="0">
+<string name="Title" value="海底出入口"/>
+</imgdir>
+</imgdir>
+<imgdir name="211000200">
+<imgdir name="0">
+<string name="Title" value="天空之塔"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="冰原雪域"/>
+</imgdir>
+</imgdir>
+<imgdir name="222010102">
+<imgdir name="0">
+<string name="Title" value="老虎樹林1"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="※無法繼續往前"/>
+</imgdir>
+</imgdir>
+<imgdir name="260000000">
+<imgdir name="0">
+<string name="Title" value="納希西門外"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="宅配物流倉庫"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="世界之旅服務台"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="納希站台"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="納希護膚中心"/>
+</imgdir>
+<imgdir name="5">
+<string name="Title" value="納希整形外科"/>
+</imgdir>
+<imgdir name="6">
+<string name="Title" value="納希民宅"/>
+</imgdir>
+<imgdir name="7">
+<string name="Title" value="自由市場"/>
+</imgdir>
+<imgdir name="8">
+<string name="Title" value="納希宮殿"/>
+</imgdir>
+<imgdir name="9">
+<string name="Title" value="納希武器商店"/>
+</imgdir>
+<imgdir name="10">
+<string name="Title" value="納希雜貨店"/>
+</imgdir>
+<imgdir name="11">
+<string name="Title" value="納希雜貨商店"/>
+</imgdir>
+<imgdir name="12">
+<string name="Title" value="納希北門外"/>
+</imgdir>
+<imgdir name="13">
+<string name="Title" value="納希美髮店"/>
+</imgdir>
+<imgdir name="14">
+<string name="Title" value="納希東門外"/>
+</imgdir>
+<imgdir name="15">
+<string name="Title" value="納希站台"/>
+</imgdir>
+</imgdir>
+<imgdir name="260000200">
+<imgdir name="0">
+<string name="Title" value="鋰加工廠"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="納希綠洲城"/>
+</imgdir>
+</imgdir>
+<imgdir name="260010000">
+<imgdir name="0">
+<string name="Title" value="往納希綠洲城"/>
+</imgdir>
+</imgdir>
+<imgdir name="260010600">
+<imgdir name="0">
+<string name="Title" value="乾旱沙漠"/>
+</imgdir>
+</imgdir>
+<imgdir name="260010700">
+<imgdir name="0">
+<string name="Title" value="往納希綠洲城"/>
+</imgdir>
+</imgdir>
+<imgdir name="260020000">
+<imgdir name="0">
+<string name="Title" value="納希綠洲城"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="駱駝計程車"/>
+<string name="Desc" value="瑪迦提亞城1500楓幣"/>
+</imgdir>
+</imgdir>
+<imgdir name="990000200">
+<imgdir name="0">
+<string name="Title" value="威廉的古堡城遺跡"/>
+</imgdir>
+</imgdir>
+<imgdir name="230010300">
+<imgdir name="0">
+<string name="Title" value="紅珊瑚之林"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="西海岔道"/>
+</imgdir>
+</imgdir>
+<imgdir name="200000150">
+<imgdir name="0">
+<string name="Title" value="天空之城售票處"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="碼頭&lt;前往納希綠洲城&gt;"/>
+</imgdir>
+</imgdir>
+<imgdir name="260020700">
+<imgdir name="0">
+<string name="Title" value="駱駝計程車"/>
+<string name="Desc" value="納希沙漠 1500 楓幣"/>
+</imgdir>
+</imgdir>
+<imgdir name="261000000">
+<imgdir name="0">
+<string name="Title" value="薩赫勒地區"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="卡帕萊特協會*雜貨店"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="蒙特鳩協會*武防店"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="瑪迦提亞銀行"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="瑪迦提亞城武防店"/>
+</imgdir>
+<imgdir name="5">
+<string name="Title" value="瑪迦提亞城武防店"/>
+</imgdir>
+<imgdir name="6">
+<string name="Title" value="蒙特鳩協會"/>
+</imgdir>
+<imgdir name="7">
+<string name="Title" value="瑪迦提亞城雜貨店"/>
+</imgdir>
+<imgdir name="8">
+<string name="Title" value="卡帕萊特協會"/>
+</imgdir>
+<imgdir name="9">
+<string name="Title" value="自由市場入口"/>
+</imgdir>
+</imgdir>
+<imgdir name="702090101">
+<imgdir name="0">
+<string name="Title" value="初級第二階段"/>
+</imgdir>
+</imgdir>
+<imgdir name="702090102">
+<imgdir name="0">
+<string name="Title" value="初級第一階段"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="初級第三階段"/>
+</imgdir>
+</imgdir>
+<imgdir name="702090103">
+<imgdir name="0">
+<string name="Title" value="初級第二階段"/>
+</imgdir>
+</imgdir>
+<imgdir name="702090201">
+<imgdir name="0">
+<string name="Title" value="中級第二階段"/>
+</imgdir>
+</imgdir>
+<imgdir name="702090202">
+<imgdir name="0">
+<string name="Title" value="中級第一階段"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="中級第三階段"/>
+</imgdir>
+</imgdir>
+<imgdir name="702090203">
+<imgdir name="0">
+<string name="Title" value="中級第二階段"/>
+</imgdir>
+</imgdir>
+<imgdir name="702090301">
+<imgdir name="0">
+<string name="Title" value="高級第二階段"/>
+</imgdir>
+</imgdir>
+<imgdir name="702090302">
+<imgdir name="0">
+<string name="Title" value="高級第一階段"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="高級第三階段"/>
+</imgdir>
+</imgdir>
+<imgdir name="702090303">
+<imgdir name="0">
+<string name="Title" value="高級第二階段"/>
+</imgdir>
+</imgdir>
+<imgdir name="800020110">
+<imgdir name="0">
+<string name="Title" value="小心竹刀武士！"/>
+<string name="Desc" value="隨著一陣涼風，竹刀武士出現了他的蹤影！大家一定要小心心懷滿滿怨恨的竹刀武士！若要擊退竹刀武士，需要打碎小竹片。"/>
+</imgdir>
+</imgdir>
+<imgdir name="800020120">
+<imgdir name="0">
+<string name="Title" value="小心竹刀武士！"/>
+<string name="Desc" value="隨著一陣涼風，竹刀武士出現了他的蹤影！大家一定要小心心懷滿滿怨恨的竹刀武士！若要擊退竹刀武士，需要打碎小竹片。"/>
+</imgdir>
+</imgdir>
+<imgdir name="800020130">
+<imgdir name="0">
+<string name="Title" value="小心竹刀武士！"/>
+<string name="Desc" value="隨著一陣涼風，竹刀武士出現了他的蹤影！大家一定要小心心懷滿滿怨恨的竹刀武士！若要擊退竹刀武士，需要打碎小竹片。"/>
+</imgdir>
+</imgdir>
+<imgdir name="500010000">
+<imgdir name="0">
+<string name="Title" value="蟾蜍水池"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="水上市場"/>
+</imgdir>
+</imgdir>
+<imgdir name="500010100">
+<imgdir name="0">
+<string name="Title" value="青蛙池塘　/水上市場"/>
+</imgdir>
+</imgdir>
+<imgdir name="211050000">
+<imgdir name="1">
+<string name="Title" value="라이더의 벌판"/>
+</imgdir>
+</imgdir>
+<imgdir name="120000100">
+<imgdir name="0">
+<string name="Title" value="航海室　"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="餐廳"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="鯨魚號中央走廊(↓)"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="訓練場"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="卡伊琳的航海室"/>
+<string name="Desc" value="要轉職成為海盜請進入最左側房間..."/>
+</imgdir>
+</imgdir>
+<imgdir name="120000200">
+<imgdir name="0">
+<string name="Title" value="摩根的武器商店"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="羅德斯的防具商店"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="會議室"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="鯨魚號碼頭"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="蓋利的雜貨商店"/>
+</imgdir>
+<imgdir name="5">
+<string name="Title" value="鯨魚號上層走廊 (↑)"/>
+</imgdir>
+<imgdir name="6">
+<string name="Title" value="鯨魚號下層走廊 (↓)"/>
+</imgdir>
+<imgdir name="7">
+<string name="Title" value="寢室"/>
+</imgdir>
+<imgdir name="8">
+<string name="Title" value="武器/防具商店"/>
+</imgdir>
+<imgdir name="9">
+<string name="Title" value="雜貨商店/樓梯"/>
+</imgdir>
+<imgdir name="10">
+<string name="Title" value="自由市場"/>
+</imgdir>
+</imgdir>
+<imgdir name="120000300">
+<imgdir name="0">
+<string name="Title" value="鯨魚號中央走廊 (↑)"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="動力機房"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="動力機房"/>
+</imgdir>
+</imgdir>
+<imgdir name="60002">
+<imgdir name="0">
+<string name="Title" value="楓之港"/>
+<string name="Desc" value="這是港口城市楓之港。"/>
+</imgdir>
+</imgdir>
+<imgdir name="229010000">
+<imgdir name="0">
+<string name="Title" value="荒廢的墳墓"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="回去的路"/>
+</imgdir>
+</imgdir>
+<imgdir name="300000000">
+<imgdir name="0">
+<string name="Title" value="結界石"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="雜貨商店"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="治療所"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="亞泰爾營地"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="結界石"/>
+</imgdir>
+</imgdir>
+<imgdir name="300010000">
+<imgdir name="0">
+<string name="Title" value="亞泰爾營地"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="苔蘚西部森林1"/>
+</imgdir>
+</imgdir>
+<imgdir name="300010200">
+<imgdir name="0">
+<string name="Title" value="苔蘚森林小徑"/>
+<string name="Desc" value="迷路的冒險家請往這邊..."/>
+</imgdir>
+</imgdir>
+<imgdir name="300010300">
+<imgdir name="0">
+<string name="Title" value="苔蘚西部森林"/>
+<string name="Desc" value="營地在西部森林的另一端 -拉爾斯-"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="苔蘚南部森林"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="往石山"/>
+</imgdir>
+</imgdir>
+<imgdir name="300020000">
+<imgdir name="0">
+<string name="Title" value="苔蘚森林小徑"/>
+<string name="Desc" value="迷路的冒險家請往這邊..."/>
+</imgdir>
+</imgdir>
+<imgdir name="300030000">
+<imgdir name="0">
+<string name="Title" value="危險區域！禁止進入！"/>
+<string name="Desc" value="因最近發生異常現象，禁止入內探險 -赫麗娜-"/>
+</imgdir>
+</imgdir>
+<imgdir name="310000000">
+<imgdir name="0">
+<string name="Title" value="埃德爾斯坦警察局"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="埃德爾斯坦私立學校"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="埃德爾斯坦議會場"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="自由市場"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="議會長的住宅"/>
+</imgdir>
+<imgdir name="5">
+<string name="Title" value="埃德爾斯坦臨時機場"/>
+</imgdir>
+<imgdir name="6">
+<string name="Title" value="美髮店"/>
+</imgdir>
+<imgdir name="7">
+<string name="Title" value="武器防具商店"/>
+</imgdir>
+<imgdir name="8">
+<string name="Title" value="雜貨店"/>
+</imgdir>
+<imgdir name="9">
+<string name="Title" value="埃德爾斯坦綜合醫院"/>
+</imgdir>
+</imgdir>
+<imgdir name="310010010">
+<imgdir name="0">
+<string name="Title" value="訓練房"/>
+</imgdir>
+</imgdir>
+<imgdir name="310020000">
+<imgdir name="0">
+<string name="Title" value="埃德爾斯坦"/>
+</imgdir>
+</imgdir>
+<imgdir name="310030100">
+<imgdir name="0">
+<string name="Title" value="出現蛇的路"/>
+</imgdir>
+</imgdir>
+<imgdir name="310030200">
+<imgdir name="0">
+<string name="Title" value="可疑的機械裝置"/>
+</imgdir>
+</imgdir>
+<imgdir name="310030300">
+<imgdir name="0">
+<string name="Title" value="去礦山的路"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="通往礦山的纜車"/>
+</imgdir>
+</imgdir>
+<imgdir name="310040110">
+<imgdir name="0">
+<string name="Title" value="黑色傳送點"/>
+</imgdir>
+</imgdir>
+<imgdir name="310040200">
+<imgdir name="0">
+<string name="Title" value="礦山入口"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="雷本礦山"/>
+</imgdir>
+</imgdir>
+<imgdir name="310050100">
+<imgdir name="0">
+<string name="Title" value="發電廠入口"/>
+</imgdir>
+</imgdir>
+<imgdir name="540000000">
+<imgdir name="0">
+<string name="Title" value="樟宜機場"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="中央路1"/>
+</imgdir>
+</imgdir>
+<imgdir name="540000100">
+<imgdir name="0">
+<string name="Title" value="中央路2"/>
+</imgdir>
+</imgdir>
+<imgdir name="540000200">
+<imgdir name="0">
+<string name="Title" value="中央路3"/>
+</imgdir>
+</imgdir>
+<imgdir name="540000300">
+<imgdir name="0">
+<string name="Title" value="中央路2"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="郊區1"/>
+</imgdir>
+</imgdir>
+<imgdir name="540020000">
+<imgdir name="0">
+<string name="Title" value="郊區2"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="駁船碼頭城"/>
+</imgdir>
+</imgdir>
+<imgdir name="540020100">
+<imgdir name="0">
+<string name="Title" value="郊區1"/>
+</imgdir>
+</imgdir>
+<imgdir name="541000300">
+<imgdir name="0">
+<string name="Title" value="幽靈船1"/>
+</imgdir>
+</imgdir>
+<imgdir name="100000002">
+<imgdir name="0">
+<string name="Title" value="菇菇公園1"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="菇菇王國"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="弓箭手村"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="菇菇王國"/>
+</imgdir>
+</imgdir>
+<imgdir name="100000004">
+<imgdir name="0">
+<string name="Title" value="菇菇王出沒地"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="菇菇公園1 (弓箭手村方向)"/>
+</imgdir>
+</imgdir>
+<imgdir name="100000005">
+<imgdir name="0">
+<string name="Title" value="菇菇公園2 (弓箭手村方向)"/>
+</imgdir>
+</imgdir>
+<imgdir name="100010000">
+<imgdir name="0">
+<string name="Title" value="做夢的山林小徑"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="弓箭手村"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="做夢的山林小徑"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="弓箭手村"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="可疑的山丘"/>
+</imgdir>
+</imgdir>
+<imgdir name="100010100">
+<imgdir name="0">
+<string name="Title" value="六條岔道"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="弓箭手村北邊山丘"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="六條岔道"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="弓箭手村北邊山丘"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="可疑的山丘"/>
+</imgdir>
+</imgdir>
+<imgdir name="100020000">
+<imgdir name="0">
+<string name="Title" value="弓箭手村"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="哼聲森林小徑"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="弓箭手修煉場"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="弓箭手村"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="哼聲森林小徑"/>
+</imgdir>
+</imgdir>
+<imgdir name="100020100">
+<imgdir name="0">
+<string name="Title" value="芽孢山丘"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="銀蓮花叢林"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="芽孢山丘"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="銀蓮花叢林"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="蘑菇王森林小徑"/>
+</imgdir>
+</imgdir>
+<imgdir name="100020200">
+<imgdir name="0">
+<string name="Title" value="哼聲森林小徑"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="藍菇菇樹林"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="石巨人寺院入口/哼聲森林小徑"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="藍菇菇樹林"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="石巨人寺院入口"/>
+</imgdir>
+<imgdir name="5">
+<string name="Title" value="哼聲森林小徑"/>
+</imgdir>
+<imgdir name="6">
+<string name="Title" value="石巨人寺院入口"/>
+</imgdir>
+<imgdir name="7">
+<string name="Title" value="藍菇菇樹林"/>
+</imgdir>
+</imgdir>
+<imgdir name="100020300">
+<imgdir name="0">
+<string name="Title" value="銀蓮花叢林"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="幽靈菇菇路"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="銀蓮花叢林"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="幽靈菇菇森林"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="藍色蘑菇王森林"/>
+</imgdir>
+</imgdir>
+<imgdir name="100020400">
+<imgdir name="0">
+<string name="Title" value="溫暖的樹蔭"/>
+<string name="Desc" value="&lt;迷你地城&gt;"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="僵屍菇菇王的山丘"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="菇菇之城"/>
+<string name="Desc" value="&lt;主題地下城&gt;"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="菇菇之城"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="藍菇菇樹林"/>
+</imgdir>
+</imgdir>
+<imgdir name="100040000">
+<imgdir name="0">
+<string name="Title" value="銀蓮花叢林"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="石巨人寺院1"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="石巨人寺院2"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="石巨人寺院3"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="石巨人寺院4"/>
+</imgdir>
+</imgdir>
+<imgdir name="100040100">
+<imgdir name="0">
+<string name="Title" value="魔法森林南部 (弓箭手村/鯨魚號方向)"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="魔法森林南郊 (魔法森林方向)"/>
+</imgdir>
+</imgdir>
+<imgdir name="100040400">
+<imgdir name="0">
+<string name="Title" value="倒塌的石巨人聖地"/>
+<string name="Desc" value="&lt;迷你地城&gt;"/>
+</imgdir>
+</imgdir>
+<imgdir name="101010000">
+<imgdir name="0">
+<string name="Title" value="魔法森林"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="森林的起始點"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="魔法森林"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="森林的起始點"/>
+</imgdir>
+</imgdir>
+<imgdir name="101010100">
+<imgdir name="0">
+<string name="Title" value="閃爍森林的通路"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="六條岔道"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="閃爍森林的通路"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="六條岔道"/>
+</imgdir>
+</imgdir>
+<imgdir name="101010101">
+<imgdir name="0">
+<string name="Title" value="大木林3"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="大木林1"/>
+</imgdir>
+</imgdir>
+<imgdir name="101010102">
+<imgdir name="0">
+<string name="Title" value="大木林之巔"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="大木林2"/>
+</imgdir>
+</imgdir>
+<imgdir name="101010103">
+<imgdir name="0">
+<string name="Title" value="             &lt;警告&gt;             "/>
+<string name="Desc" value="高度：距離地面30km\n這裡是魔法森林最高的樹木之頂端，距離地面約30km，一年365天吹著往奇幻村的風。若從此處一躍而下，將無法保證您的人身安全。"/>
+</imgdir>
+</imgdir>
+<imgdir name="101020000">
+<imgdir name="0">
+<string name="Title" value="和鳥鄰近的地方"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="魔法森林"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="和鳥鄰近的地方"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="魔法森林"/>
+</imgdir>
+</imgdir>
+<imgdir name="101020100">
+<imgdir name="0">
+<string name="Title" value="和天空鄰近的地方"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="和風鄰近的地方"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="和天空鄰近的地方"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="和風鄰近的地方"/>
+</imgdir>
+</imgdir>
+<imgdir name="101020200">
+<imgdir name="0">
+<string name="Title" value="大木林之巔"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="和鳥鄰近的地方"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="大木林之巔"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="和鳥鄰近的地方"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="大木林之巔"/>
+</imgdir>
+<imgdir name="5">
+<string name="Title" value="巨大的樹木"/>
+</imgdir>
+<imgdir name="6">
+<string name="Title" value="和鳥鄰近的地方"/>
+</imgdir>
+<imgdir name="7">
+<string name="Title" value="巨大的樹木"/>
+</imgdir>
+<imgdir name="8">
+<string name="Title" value="巨大的樹木"/>
+</imgdir>
+</imgdir>
+<imgdir name="101020300">
+<imgdir name="0">
+<string name="Title" value="猴子森林"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="和天空鄰近的地方"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="猴子森林"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="和天空鄰近的地方"/>
+</imgdir>
+</imgdir>
+<imgdir name="101030000">
+<imgdir name="0">
+<string name="Title" value="綠樹的藤條"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="和天空鄰近的地方"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="綠樹的藤條"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="和天空鄰近的地方"/>
+</imgdir>
+</imgdir>
+<imgdir name="101030101">
+<imgdir name="0">
+<string name="Title" value="遺跡發掘地2 (遺跡發掘隊營地方向)"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="岩石路3 (維多利亞方向)"/>
+</imgdir>
+</imgdir>
+<imgdir name="101030102">
+<imgdir name="0">
+<string name="Title" value="遺跡發掘地1 (維多利亞方向)"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="遺跡發掘地3 (遺跡發掘隊營地方向)"/>
+</imgdir>
+</imgdir>
+<imgdir name="101030200">
+<imgdir name="0">
+<string name="Title" value="小樹森林"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="綠樹的藤條"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="藤條巢穴2"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="小樹森林"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="綠樹的藤條"/>
+</imgdir>
+</imgdir>
+<imgdir name="101030300">
+<imgdir name="0">
+<string name="Title" value="北部森林空地"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="獨眼蜥蜴"/>
+<string name="Desc" value="&lt;迷你地城&gt;"/>
+</imgdir>
+</imgdir>
+<imgdir name="101030401">
+<imgdir name="0">
+<string name="Title" value="東部岩山1 (維多利亞方向)"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="東部岩山3"/>
+</imgdir>
+</imgdir>
+<imgdir name="101030402">
+<imgdir name="0">
+<string name="Title" value="東部岩山2 (維多利亞方向)"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="東部岩山4"/>
+</imgdir>
+</imgdir>
+<imgdir name="101030403">
+<imgdir name="0">
+<string name="Title" value="東部岩山3 (維多利亞方向)"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="東部岩山5"/>
+</imgdir>
+</imgdir>
+<imgdir name="101030404">
+<imgdir name="0">
+<string name="Title" value="東部岩山4 (維多利亞方向)"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="東部岩山6"/>
+</imgdir>
+</imgdir>
+<imgdir name="101030405">
+<imgdir name="0">
+<string name="Title" value="東部岩山5 (維多利亞方向)"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="東部岩山7"/>
+</imgdir>
+</imgdir>
+<imgdir name="101040000">
+<imgdir name="0">
+<string name="Title" value="大木林之巔"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="猴子王的巢穴"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="大木林之巔"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="猴子王的巢穴"/>
+</imgdir>
+</imgdir>
+<imgdir name="101040100">
+<imgdir name="0">
+<string name="Title" value="猴子森林"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="黑暗森林"/>
+</imgdir>
+</imgdir>
+<imgdir name="101040200">
+<imgdir name="0">
+<string name="Title" value="被汙染的樹木"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="猴子王的巢穴"/>
+</imgdir>
+</imgdir>
+<imgdir name="101040300">
+<imgdir name="0">
+<string name="Title" value="邪惡氣息的森林1"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="黑暗的森林"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="邪惡氣息的森林1"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="黑暗的森林"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="邪惡氣息的森林2"/>
+</imgdir>
+<imgdir name="5">
+<string name="Title" value="黑暗的森林"/>
+</imgdir>
+<imgdir name="6">
+<string name="Title" value="邪惡氣息的森林2"/>
+</imgdir>
+</imgdir>
+<imgdir name="101040310">
+<imgdir name="0">
+<string name="Title" value="被汙染的樹木"/>
+</imgdir>
+</imgdir>
+<imgdir name="101040320">
+<imgdir name="0">
+<string name="Title" value="被汙染的樹木"/>
+</imgdir>
+</imgdir>
+<imgdir name="102010000">
+<imgdir name="0">
+<string name="Title" value="勇士之村"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="岩地荒野"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="勇士之村"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="岩地荒野"/>
+</imgdir>
+</imgdir>
+<imgdir name="102010100">
+<imgdir name="0">
+<string name="Title" value="勇士之村南部"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="六條岔道"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="勇士之村南部"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="六條岔道"/>
+</imgdir>
+</imgdir>
+<imgdir name="102030000">
+<imgdir name="0">
+<string name="Title" value="野豬領土"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="風塵山丘"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="野豬領土"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="風塵山丘"/>
+</imgdir>
+</imgdir>
+<imgdir name="102030100">
+<imgdir name="0">
+<string name="Title" value="鐵甲豬領土"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="黑肥肥領土"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="鐵甲豬領土"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="黑肥肥領土"/>
+</imgdir>
+</imgdir>
+<imgdir name="102030200">
+<imgdir name="0">
+<string name="Title" value="燃燒的熱氣"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="野豬領土"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="燃燒的熱氣"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="野豬領土"/>
+</imgdir>
+</imgdir>
+<imgdir name="102030300">
+<imgdir name="0">
+<string name="Title" value="碳屑之地"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="鐵甲豬領土"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="碳屑之地"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="鐵甲豬領土"/>
+</imgdir>
+</imgdir>
+<imgdir name="102030400">
+<imgdir name="0">
+<string name="Title" value="燃燒的熱氣"/>
+</imgdir>
+</imgdir>
+<imgdir name="102040000">
+<imgdir name="0">
+<string name="Title" value="粗岩地帶"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="挖掘結束地區"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="粗岩地帶"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="挖掘結束地區"/>
+</imgdir>
+</imgdir>
+<imgdir name="102040100">
+<imgdir name="0">
+<string name="Title" value="初期挖掘地區"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="遺跡發掘隊營區"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="初期挖掘地區"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="遺跡發掘隊營區"/>
+</imgdir>
+</imgdir>
+<imgdir name="102040200">
+<imgdir name="0">
+<string name="Title" value="挖掘中斷地區"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="挖掘結束地區"/>
+</imgdir>
+</imgdir>
+<imgdir name="102040300">
+<imgdir name="0">
+<string name="Title" value="遺跡發掘隊營區"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="挖掘危險地區"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="第1軍營"/>
+</imgdir>
+</imgdir>
+<imgdir name="102040400">
+<imgdir name="0">
+<string name="Title" value="挖掘中斷地區"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="第2軍營"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="封閉地區"/>
+</imgdir>
+</imgdir>
+<imgdir name="102040500">
+<imgdir name="0">
+<string name="Title" value="挖掘危險地區"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="第3軍營"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="未接近地區"/>
+</imgdir>
+</imgdir>
+<imgdir name="102040600">
+<imgdir name="0">
+<string name="Title" value="封閉地區"/>
+</imgdir>
+</imgdir>
+<imgdir name="102050000">
+<imgdir name="0">
+<string name="Title" value="墮落城市"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="墮落城市北方工地 (勇士之村方向)"/>
+</imgdir>
+</imgdir>
+<imgdir name="103010000">
+<imgdir name="0">
+<string name="Title" value="墮落城市"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="廢棄的工地"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="盜賊修練場"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="墮落城市"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="廢棄的工地"/>
+</imgdir>
+</imgdir>
+<imgdir name="103010100">
+<imgdir name="0">
+<string name="Title" value="小心墜落"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="六條岔道"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="小心墜落"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="六條岔道"/>
+</imgdir>
+</imgdir>
+<imgdir name="103020000">
+<imgdir name="0">
+<string name="Title" value="墮落城市南方工地 (墮落城市方向)"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="歷恩森林2 (弓箭手村/維多利亞港方向)"/>
+</imgdir>
+</imgdir>
+<imgdir name="103020100">
+<imgdir name="0">
+<string name="Title" value="歷恩森林1 (墮落城市方向)"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="歷恩森林3 (弓箭手村/維多利亞港方向)"/>
+</imgdir>
+</imgdir>
+<imgdir name="103020200">
+<imgdir name="0">
+<string name="Title" value="墮落城市森林1 (弓箭手村/維多利亞港方向)"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="歷恩森林2 (墮落城市方向)"/>
+</imgdir>
+</imgdir>
+<imgdir name="103030100">
+<imgdir name="0">
+<string name="Title" value="墮落城市森林3"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="墮落城市森林1"/>
+</imgdir>
+</imgdir>
+<imgdir name="104000100">
+<imgdir name="0">
+<string name="Title" value="海岸草叢1 (維多利亞方向)"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="維多利亞港"/>
+</imgdir>
+</imgdir>
+<imgdir name="104000200">
+<imgdir name="0">
+<string name="Title" value="維多利亞港郊外 (維多利亞港方向)"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="海岸草叢2 (維多利亞方向)"/>
+</imgdir>
+</imgdir>
+<imgdir name="104000300">
+<imgdir name="0">
+<string name="Title" value="海岸草叢1 (維多利亞港方向)"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="海岸草叢3 (維多利亞方向)"/>
+</imgdir>
+</imgdir>
+<imgdir name="104000400">
+<imgdir name="0">
+<string name="Title" value="海岸草叢2 (維多利亞港方向)"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="三叉路 (維多利亞方向)"/>
+</imgdir>
+</imgdir>
+<imgdir name="104020000">
+<imgdir name="0">
+<string name="Title" value="廢棄的工地"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="山林小徑2"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="做夢的山林小徑"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="岩地荒野"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="森林的起始點"/>
+</imgdir>
+<imgdir name="5">
+<string name="Title" value="通往海岸的路"/>
+</imgdir>
+</imgdir>
+<imgdir name="104020100">
+<imgdir name="0">
+<string name="Title" value="前往耶雷弗站台"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="前往天空之城站台"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="前往埃德爾斯坦站台"/>
+</imgdir>
+</imgdir>
+<imgdir name="104020110">
+<imgdir name="0">
+<string name="Title" value="弓箭手村"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="勇士之村"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="魔法森林"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="墮落城市"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="售票處"/>
+</imgdir>
+</imgdir>
+<imgdir name="104040000">
+<imgdir name="0">
+<string name="Title" value="弓箭手訓練場2"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="弓箭手村"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="弓箭手村西部小山 (維多利亞港/墮落城市方向)"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="弓箭手訓練場2"/>
+</imgdir>
+</imgdir>
+<imgdir name="104040001">
+<imgdir name="0">
+<string name="Title" value="弓箭手訓練場3"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="弓箭手訓練場1"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="弓箭手訓練場3"/>
+</imgdir>
+</imgdir>
+<imgdir name="104040002">
+<imgdir name="0">
+<string name="Title" value="弓箭手訓練場2"/>
+</imgdir>
+</imgdir>
+<imgdir name="105020400">
+<imgdir name="0">
+<string name="Title" value="龍族洞穴"/>
+<string name="Desc" value="&lt;迷你地城&gt;"/>
+</imgdir>
+</imgdir>
+<imgdir name="105030000">
+<imgdir name="0">
+<string name="Title" value="黑森林沼澤 (墮落城市方向)"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="勇士之村迷宮通道 (勇士之村方向)"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="黑森林通道 (奇幻村方向)"/>
+</imgdir>
+</imgdir>
+<imgdir name="105040100">
+<imgdir name="0">
+<string name="Title" value="黑森林狩獵場1"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="黑森林通道 (奇幻村方向)"/>
+</imgdir>
+</imgdir>
+<imgdir name="105040304">
+<imgdir name="0">
+<string name="Title" value="迷你地城:倒塌的石巨人聖地"/>
+</imgdir>
+</imgdir>
+<imgdir name="105050100">
+<imgdir name="0">
+<string name="Title" value="迷你地城:菇菇生長之地"/>
+</imgdir>
+</imgdir>
+<imgdir name="106000000">
+<imgdir name="0">
+<string name="Title" value="勇士之村"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="幽深的峽谷2 (奇幻村方向)"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="勇士之村"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="幽深的峽谷2 (奇幻村方向)"/>
+</imgdir>
+</imgdir>
+<imgdir name="106000001">
+<imgdir name="0">
+<string name="Title" value="幽深的峽谷1"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="危險的峽谷2"/>
+</imgdir>
+</imgdir>
+<imgdir name="106000100">
+<imgdir name="0">
+<string name="Title" value="幽深的峽谷3 (奇幻村方向)"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="火焰之地1"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="幽深的峽谷1 (勇士之村方向)"/>
+</imgdir>
+</imgdir>
+<imgdir name="106000101">
+<imgdir name="0">
+<string name="Title" value="幽深的峽谷2"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="火焰之地2"/>
+</imgdir>
+</imgdir>
+<imgdir name="106000110">
+<imgdir name="0">
+<string name="Title" value="火焰之地1"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="火焰之地3"/>
+</imgdir>
+</imgdir>
+<imgdir name="106000120">
+<imgdir name="0">
+<string name="Title" value="火焰之地2"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="火焰之地4"/>
+</imgdir>
+</imgdir>
+<imgdir name="106000130">
+<imgdir name="0">
+<string name="Title" value="火焰之地3"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="火焰之地5"/>
+</imgdir>
+</imgdir>
+<imgdir name="106000200">
+<imgdir name="0">
+<string name="Title" value="幽深的峽谷2 (勇士之村方向)"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="勇士之村迷宮通道 (奇幻村方向)"/>
+</imgdir>
+</imgdir>
+<imgdir name="106000300">
+<imgdir name="0">
+<string name="Title" value="黑森林 (奇幻村方向)"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="幽深的峽谷3 (勇士之村方向)"/>
+</imgdir>
+</imgdir>
+<imgdir name="106010000">
+<imgdir name="0">
+<string name="Title" value="弓箭手村"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="弓箭手村迷宮入口 (奇幻村方向)"/>
+</imgdir>
+</imgdir>
+<imgdir name="106010100">
+<imgdir name="0">
+<string name="Title" value="迷宮通道 (弓箭手村方向)"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="黑森林狩獵場2 (奇幻村方向)"/>
+</imgdir>
+</imgdir>
+<imgdir name="106010101">
+<imgdir name="0">
+<string name="Title" value="石人寺院入口"/>
+</imgdir>
+</imgdir>
+<imgdir name="106010102">
+<imgdir name="0">
+<string name="Title" value="石人寺院門外"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="石人寺院1"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="石人寺院2"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="石人寺院3"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="石人寺院4"/>
+</imgdir>
+</imgdir>
+<imgdir name="107000500">
+<imgdir name="0">
+<string name="Title" value="鱷魚潭2 (墮落城市方向)"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="黑森林 (奇幻村方向)"/>
+</imgdir>
+</imgdir>
+<imgdir name="120010000">
+<imgdir name="0">
+<string name="Title" value="通往海岸的路"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="鯨魚號碼頭"/>
+</imgdir>
+</imgdir>
+<imgdir name="120010100">
+<imgdir name="0">
+<string name="Title" value="六條岔道"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="肥肥牧場"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="六條岔道"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="肥肥牧場"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="猶他的肥肥農場"/>
+</imgdir>
+<imgdir name="5">
+<string name="Title" value="猶他的肥肥農場"/>
+</imgdir>
+</imgdir>
+<imgdir name="120020000">
+<imgdir name="0">
+<string name="Title" value="鯨魚號碼頭"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="波浪海岸"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="鯨魚號碼頭"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="波浪海岸"/>
+</imgdir>
+</imgdir>
+<imgdir name="120020100">
+<imgdir name="0">
+<string name="Title" value="海岸草叢區"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="藍色緞帶海岸"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="海岸草叢區"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="藍色緞帶海岸"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="肥肥海岸"/>
+<string name="Desc" value="&lt;迷你地城&gt;"/>
+</imgdir>
+</imgdir>
+<imgdir name="120020300">
+<imgdir name="0">
+<string name="Title" value="波浪海岸"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="白色波浪碼頭"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="波浪海岸"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="白色波浪碼頭"/>
+</imgdir>
+</imgdir>
+<imgdir name="105000000">
+<imgdir name="0">
+<string name="Title" value="六條岔道"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="奇幻村旅館大廳"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="寧靜的沼澤"/>
+</imgdir>
+</imgdir>
+<imgdir name="105010000">
+<imgdir name="0">
+<string name="Title" value="潮濕的沼澤"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="奇幻村"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="潮濕的沼澤"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="奇幻村"/>
+</imgdir>
+</imgdir>
+<imgdir name="105010100">
+<imgdir name="0">
+<string name="Title" value="安靜的沼澤"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="不見光的地方"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="安靜的沼澤"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="不見光的地方"/>
+</imgdir>
+</imgdir>
+<imgdir name="200090500">
+<imgdir name="0">
+<string name="Title" value="天空之路：往時間神殿"/>
+</imgdir>
+</imgdir>
+<imgdir name="200090510">
+<imgdir name="0">
+<string name="Title" value="天空之路：往神木村"/>
+</imgdir>
+</imgdir>
+<imgdir name="240020500">
+<imgdir name="0">
+<string name="Title" value="迷你地城:半人馬的圓桌"/>
+</imgdir>
+</imgdir>
+<imgdir name="240040511">
+<imgdir name="0">
+<string name="Title" value="迷你地城:復活的記憶"/>
+</imgdir>
+</imgdir>
+<imgdir name="240040520">
+<imgdir name="0">
+<string name="Title" value="迷你地城:蜥蜴保護區"/>
+</imgdir>
+</imgdir>
+<imgdir name="260020600">
+<imgdir name="0">
+<string name="Title" value="迷你地城:風沙之丘"/>
+</imgdir>
+</imgdir>
+<imgdir name="261020300">
+<imgdir name="0">
+<string name="Title" value="迷你地城:致命的錯誤"/>
+</imgdir>
+</imgdir>
+<imgdir name="270000000">
+<imgdir name="0">
+<string name="Title" value="未來之路"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="現在之路"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="過去之路"/>
+</imgdir>
+</imgdir>
+<imgdir name="270000100">
+<imgdir name="0">
+<string name="Title" value="前往米納爾森林之路"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="前往米納爾森林之路"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="神殿入口"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="三扇門"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="神殿入口"/>
+</imgdir>
+</imgdir>
+<imgdir name="270010000">
+<imgdir name="0">
+<string name="Title" value="三扇門"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="回憶之門"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="過去之路：回憶"/>
+</imgdir>
+</imgdir>
+<imgdir name="270010100">
+<imgdir name="0">
+<string name="Title" value="新錄的過去"/>
+</imgdir>
+</imgdir>
+<imgdir name="270010110">
+<imgdir name="0">
+<string name="Title" value="凝視者的房間"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="回憶之路2"/>
+</imgdir>
+</imgdir>
+<imgdir name="270010111">
+<imgdir name="0">
+<string name="Title" value="時間觀景台"/>
+</imgdir>
+</imgdir>
+<imgdir name="270010200">
+<imgdir name="0">
+<string name="Title" value="回憶中的休息處1"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="回憶中的休息處2"/>
+</imgdir>
+</imgdir>
+<imgdir name="270010210">
+<imgdir name="0">
+<string name="Title" value="回憶之門3"/>
+</imgdir>
+</imgdir>
+<imgdir name="270010310">
+<imgdir name="0">
+<string name="Title" value="回憶之路4"/>
+</imgdir>
+</imgdir>
+<imgdir name="270010500">
+<imgdir name="0">
+<string name="Title" value="凍結的過去"/>
+</imgdir>
+</imgdir>
+<imgdir name="270020000">
+<imgdir name="0">
+<string name="Title" value="往悔恨之路"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="悔恨之路"/>
+</imgdir>
+</imgdir>
+<imgdir name="270020100">
+<imgdir name="0">
+<string name="Title" value="凍結的過去"/>
+</imgdir>
+</imgdir>
+<imgdir name="270020110">
+<imgdir name="0">
+<string name="Title" value="悔恨之路1"/>
+</imgdir>
+</imgdir>
+<imgdir name="270020210">
+<imgdir name="0">
+<string name="Title" value="魔法提煉師的房間"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="悔恨之路2"/>
+</imgdir>
+</imgdir>
+<imgdir name="270020400">
+<imgdir name="0">
+<string name="Title" value="悔恨中的休息處4"/>
+</imgdir>
+</imgdir>
+<imgdir name="270030000">
+<imgdir name="0">
+<string name="Title" value="忘卻之路"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="悔恨之路5"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="忘卻之門"/>
+</imgdir>
+</imgdir>
+<imgdir name="270030210">
+<imgdir name="0">
+<string name="Title" value="忘卻之路2"/>
+</imgdir>
+</imgdir>
+<imgdir name="270030300">
+<imgdir name="0">
+<string name="Title" value="忘卻中的休息處3"/>
+</imgdir>
+</imgdir>
+<imgdir name="270030400">
+<imgdir name="0">
+<string name="Title" value="忘卻中的休息處3"/>
+</imgdir>
+</imgdir>
+<imgdir name="270030410">
+<imgdir name="0">
+<string name="Title" value="忘卻之路4"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="忘卻之路5"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="記錄者的房間"/>
+</imgdir>
+</imgdir>
+<imgdir name="270030500">
+<imgdir name="0">
+<string name="Title" value="往神殿廢墟"/>
+</imgdir>
+</imgdir>
+<imgdir name="922230000">
+<imgdir name="0">
+<string name="Title" value="出口"/>
+</imgdir>
+</imgdir>
+<imgdir name="930000800">
+<imgdir name="0">
+<string name="Title" value="淨化池"/>
+<string name="Desc" value="有清澈泉水湧出的池，看來可淨化巨人珠上所附著的毒。將巨人珠掉落到淨化池上吧！"/>
+</imgdir>
+</imgdir>
+<imgdir name="925020000">
+<imgdir name="0">
+<string name="Title" value="武陵道場"/>
+</imgdir>
+</imgdir>
+<imgdir name="130000000">
+<imgdir name="0">
+<string name="Title" value="神獸沉睡之地"/>
+</imgdir>
+</imgdir>
+<imgdir name="130000200">
+<imgdir name="0">
+<string name="Title" value="修煉森林1"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="騎士之殿"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="耶雷弗岔道"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="天空渡口方向"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="自由市場"/>
+</imgdir>
+<imgdir name="5">
+<string name="Title" value="武器防具商店"/>
+</imgdir>
+<imgdir name="6">
+<string name="Title" value="雜貨商店"/>
+</imgdir>
+<imgdir name="7">
+<string name="Title" value="天空渡口"/>
+<string name="Desc" value="目前停泊往其他地區的船隻。"/>
+</imgdir>
+</imgdir>
+<imgdir name="200000160">
+<imgdir name="0">
+<string name="Title" value="天空之城碼頭候客室"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="往耶雷弗站台"/>
+</imgdir>
+</imgdir>
+<imgdir name="200000200">
+<imgdir name="0">
+<string name="Title" value="美髮店"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="整形外科"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="護膚中心"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="商談室"/>
+</imgdir>
+</imgdir>
+<imgdir name="200000300">
+<imgdir name="0">
+<string name="Title" value="公會本部&lt;英雄之殿&gt;"/>
+</imgdir>
+</imgdir>
+<imgdir name="980020000">
+<imgdir name="0">
+<string name="Title" value="黃金厄運死神的迷宮入口"/>
+<string name="Desc" value="這裡開始是黃金厄運死神的私有地。 若要拜訪請操作黃金羅盤。"/>
+</imgdir>
+</imgdir>
+<imgdir name="551030400">
+<imgdir name="0">
+<string name="Title" value="Spooky World"/>
+</imgdir>
+</imgdir>
+<imgdir name="551030300">
+<imgdir name="0">
+<string name="Title" value="Fantasy Theme Park 2"/>
+</imgdir>
+</imgdir>
+<imgdir name="551030200">
+<imgdir name="0">
+<string name="Title" value="Fantasy Theme Park 1"/>
+</imgdir>
+</imgdir>
+<imgdir name="551030100">
+<imgdir name="0">
+<string name="Title" value="夢幻樂園3"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="夢幻公園入口"/>
+</imgdir>
+</imgdir>
+<imgdir name="551030000">
+<imgdir name="0">
+<string name="Title" value="夢幻樂園2"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="夢幻公園入口"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="夢幻樂園2"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="夢幻公園入口"/>
+</imgdir>
+</imgdir>
+<imgdir name="551020000">
+<imgdir name="0">
+<string name="Title" value="夢幻樂園1"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="夢幻樂園3"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="夢幻樂園1"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="夢幻樂園3"/>
+</imgdir>
+</imgdir>
+<imgdir name="551010000">
+<imgdir name="0">
+<string name="Title" value="木槿路2"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="夢幻樂園2"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="木槿路2"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="夢幻樂園2"/>
+</imgdir>
+</imgdir>
+<imgdir name="551000200">
+<imgdir name="0">
+<string name="Title" value="Hibiscus Road 2"/>
+</imgdir>
+</imgdir>
+<imgdir name="551000100">
+<imgdir name="0">
+<string name="Title" value="Hibiscus Road 1"/>
+</imgdir>
+</imgdir>
+<imgdir name="551000000">
+<imgdir name="0">
+<string name="Title" value="Kampung Village"/>
+</imgdir>
+</imgdir>
+<imgdir name="550000300">
+<imgdir name="0">
+<string name="Title" value="Muddy Banks 2"/>
+</imgdir>
+</imgdir>
+<imgdir name="550000200">
+<imgdir name="0">
+<string name="Title" value="Muddy Banks 1"/>
+</imgdir>
+</imgdir>
+<imgdir name="550000100">
+<imgdir name="0">
+<string name="Title" value="Outskirt of Muddy Banks"/>
+</imgdir>
+</imgdir>
+<imgdir name="550000000">
+<imgdir name="0">
+<string name="Title" value="Trend Zone Metropolis"/>
+</imgdir>
+</imgdir>
+<imgdir name="105090311">
+<imgdir name="0">
+<string name="Title" value="迷你地城：龍族的藍色洞穴"/>
+</imgdir>
+</imgdir>
+<imgdir name="251010402">
+<imgdir name="0">
+<string name="Title" value="迷你地城：搶奪寶物島"/>
+</imgdir>
+</imgdir>
+<imgdir name="970000100">
+<imgdir name="0">
+<string name="Title" value="楓之谷攝影室"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="玩具城攝影室"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="納希綠洲城攝影室"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="天空之城攝影室"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="武陵攝影室"/>
+</imgdir>
+<imgdir name="5">
+<string name="Title" value="瑪迦提亞城攝影室"/>
+</imgdir>
+<imgdir name="6">
+<string name="Title" value="耶雷弗攝影室"/>
+</imgdir>
+<imgdir name="7">
+<string name="Title" value="用餅乾做的攝影室"/>
+</imgdir>
+</imgdir>
+<imgdir name="2000000">
+<imgdir name="0">
+<string name="Title" value="防具店"/>
+<string name="Desc" value="可以購買防具。"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="楓之港→維多利亞港"/>
+<string name="Desc" value="費用：150楓幣\n\n透過桑克斯可以使用往維多利亞港的船。無法再回來這裡。"/>
+</imgdir>
+</imgdir>
+<imgdir name="1020000">
+<imgdir name="0">
+<string name="Title" value="楓之港"/>
+</imgdir>
+</imgdir>
+<imgdir name="106020000">
+<imgdir name="0">
+<string name="Title" value="菇菇王之城"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="幽靈菇菇森林"/>
+</imgdir>
+</imgdir>
+<imgdir name="106020100">
+<imgdir name="0">
+<string name="Title" value="菇菇王之城"/>
+</imgdir>
+</imgdir>
+<imgdir name="106020200">
+<imgdir name="0">
+<string name="Title" value="菇菇王之城"/>
+</imgdir>
+</imgdir>
+<imgdir name="106020300">
+<imgdir name="0">
+<string name="Title" value="菇菇王之城"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="魔法芽孢結界 "/>
+<string name="Desc" value="點擊兩次使用彩色菇菇芽孢道具永久破壞結界，或使用毒菇掉落的毒芽孢1個可以破壞一次結界。"/>
+</imgdir>
+</imgdir>
+<imgdir name="106020400">
+<imgdir name="0">
+<string name="Title" value="菇菇王之城"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="絕壁的影子"/>
+</imgdir>
+</imgdir>
+<imgdir name="106020401">
+<imgdir name="0">
+<string name="Title" value="絕壁的影子"/>
+</imgdir>
+</imgdir>
+<imgdir name="106020402">
+<imgdir name="0">
+<string name="Title" value="絕壁的影子"/>
+</imgdir>
+</imgdir>
+<imgdir name="106020403">
+<imgdir name="0">
+<string name="Title" value="菇菇王之城（請注意絕壁）"/>
+</imgdir>
+</imgdir>
+<imgdir name="106020500">
+<imgdir name="0">
+<string name="Title" value="  菇菇城壁外部"/>
+<string name="Desc" value="點擊兩次使用荊棘解除劑解除荊棘之後可以爬上去。"/>
+</imgdir>
+</imgdir>
+<imgdir name="106020501">
+<imgdir name="0">
+<string name="Title" value="        進入菇菇王之城     "/>
+<string name="Desc" value="爬解除刺兒的藤可以進入城。"/>
+</imgdir>
+</imgdir>
+<imgdir name="106020600">
+<imgdir name="0">
+<string name="Title" value="西邊城塔"/>
+</imgdir>
+</imgdir>
+<imgdir name="106020700">
+<imgdir name="0">
+<string name="Title" value="西邊城塔"/>
+</imgdir>
+</imgdir>
+<imgdir name="106020800">
+<imgdir name="0">
+<string name="Title" value="西邊城塔"/>
+</imgdir>
+</imgdir>
+<imgdir name="106021000">
+<imgdir name="0">
+<string name="Title" value="中央城塔"/>
+</imgdir>
+</imgdir>
+<imgdir name="106021100">
+<imgdir name="0">
+<string name="Title" value="中央城塔"/>
+</imgdir>
+</imgdir>
+<imgdir name="106021200">
+<imgdir name="0">
+<string name="Title" value="中央城塔"/>
+</imgdir>
+</imgdir>
+<imgdir name="106021300">
+<imgdir name="0">
+<string name="Title" value="東邊城塔"/>
+</imgdir>
+</imgdir>
+<imgdir name="106021800">
+<imgdir name="0">
+<string name="Title" value="離開菇菇王國的路"/>
+</imgdir>
+</imgdir>
+<imgdir name="140000000">
+<imgdir name="0">
+<string name="Title" value="往島中心方向"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="往港口方向"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="瑞恩圖書館"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="武器防具店"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="雜貨店"/>
+</imgdir>
+</imgdir>
+<imgdir name="140010000">
+<imgdir name="0">
+<string name="Title" value="瑞恩村"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="企鵝修練場"/>
+</imgdir>
+</imgdir>
+<imgdir name="140010100">
+<imgdir name="0">
+<string name="Title" value="企鵝修練場"/>
+</imgdir>
+</imgdir>
+<imgdir name="140020000">
+<imgdir name="0">
+<string name="Title" value="企鵝港口"/>
+</imgdir>
+</imgdir>
+<imgdir name="140020200">
+<imgdir name="0">
+<string name="Title" value="企鵝港口"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="瑞恩"/>
+</imgdir>
+</imgdir>
+<imgdir name="260020500">
+<imgdir name="0">
+<string name="Title" value="金字塔山丘"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="沙漠遊牧民族的廢墟"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="薩赫勒地區２"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="金字塔山丘"/>
+</imgdir>
+</imgdir>
+<imgdir name="702000000">
+<imgdir name="0">
+<string name="Title" value="嵩山鎮"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="..."/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="嵩山雜貨店"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="嵩山鎮美髮店"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="嵩山鎮護膚中心"/>
+</imgdir>
+<imgdir name="5">
+<string name="Title" value="嵩山鎮整容院"/>
+</imgdir>
+<imgdir name="6">
+<string name="Title" value="自由市場入口"/>
+</imgdir>
+<imgdir name="7">
+<string name="Title" value="嵩山鎮武器、防具店"/>
+</imgdir>
+<imgdir name="8">
+<string name="Title" value="山腳"/>
+</imgdir>
+<imgdir name="9">
+<string name="Title" value="嵩山鎮"/>
+</imgdir>
+<imgdir name="10">
+<string name="Title" value="水井"/>
+</imgdir>
+</imgdir>
+<imgdir name="702010000">
+<imgdir name="0">
+<string name="Title" value="山路一"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="嵩山鎮"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="山路一"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="嵩山鎮"/>
+</imgdir>
+</imgdir>
+<imgdir name="702020000">
+<imgdir name="0">
+<string name="Title" value="山腳"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="山腰"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="山腳"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="山腰"/>
+</imgdir>
+</imgdir>
+<imgdir name="702030000">
+<imgdir name="0">
+<string name="Title" value="山路一"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="山路二"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="山路一"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="山路二"/>
+</imgdir>
+</imgdir>
+<imgdir name="702040000">
+<imgdir name="0">
+<string name="Title" value="山腰"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="廣場"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="山腰"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="廣場"/>
+</imgdir>
+</imgdir>
+<imgdir name="702050000">
+<imgdir name="0">
+<string name="Title" value="山路二"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="大雄寶殿"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="少林寺"/>
+</imgdir>
+</imgdir>
+<imgdir name="702060000">
+<imgdir name="0">
+<string name="Title" value="少林秘室"/>
+</imgdir>
+</imgdir>
+<imgdir name="702070100">
+<imgdir name="0">
+<string name="Title" value="藏經閣一層"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="藏經閣二層"/>
+</imgdir>
+</imgdir>
+<imgdir name="702070200">
+<imgdir name="0">
+<string name="Title" value="藏經閣三層"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="藏經閣四層"/>
+</imgdir>
+</imgdir>
+<imgdir name="702070300">
+<imgdir name="0">
+<string name="Title" value="藏經閣五層"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="藏經閣六層"/>
+</imgdir>
+</imgdir>
+<imgdir name="702070400">
+<imgdir name="0">
+<string name="Title" value="藏經閣頂樓"/>
+</imgdir>
+</imgdir>
+<imgdir name="702080000">
+<imgdir name="0">
+<string name="Title" value="大雄寶殿"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="大雄寶殿"/>
+</imgdir>
+</imgdir>
+<imgdir name="702100000">
+<imgdir name="0">
+<string name="Title" value="水井"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="塔林"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="藏經閣"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="大雄寶殿"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="塔林"/>
+</imgdir>
+<imgdir name="5">
+<string name="Title" value="廣場"/>
+</imgdir>
+</imgdir>
+<imgdir name="702060001">
+<imgdir name="0">
+<string name="Title" value="少林秘室"/>
+</imgdir>
+</imgdir>
+<imgdir name="140090100">
+<imgdir name="0">
+<string name="Title" value="寒冷的森林2"/>
+</imgdir>
+</imgdir>
+<imgdir name="140090200">
+<imgdir name="0">
+<string name="Title" value="寒冷的森林3"/>
+</imgdir>
+</imgdir>
+<imgdir name="140090300">
+<imgdir name="0">
+<string name="Title" value="寒冷的森林4"/>
+</imgdir>
+</imgdir>
+<imgdir name="140090400">
+<imgdir name="0">
+<string name="Title" value="寒冷的森林5"/>
+</imgdir>
+</imgdir>
+<imgdir name="100030102">
+<imgdir name="0">
+<string name="Title" value="小山林小徑"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="猶他家"/>
+</imgdir>
+</imgdir>
+<imgdir name="100030200">
+<imgdir name="0">
+<string name="Title" value="農場中心地"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="猶他家"/>
+</imgdir>
+</imgdir>
+<imgdir name="100030300">
+<imgdir name="0">
+<string name="Title" value="猶他家方向"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="農場入口方向"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="茂盛的森林"/>
+</imgdir>
+</imgdir>
+<imgdir name="100030310">
+<imgdir name="0">
+<string name="Title" value="農場中心地"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="大路2"/>
+</imgdir>
+</imgdir>
+<imgdir name="100030320">
+<imgdir name="0">
+<string name="Title" value="農場入口"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="大路1"/>
+</imgdir>
+</imgdir>
+<imgdir name="100030400">
+<imgdir name="0">
+<string name="Title" value="猶他的肥肥農場入口"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="農場中心地、猶他家方向"/>
+</imgdir>
+</imgdir>
+<imgdir name="240010900">
+<imgdir name="0">
+<string name="Title" value="泰拉森林"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="泰拉森林"/>
+</imgdir>
+</imgdir>
+<imgdir name="103050100">
+<imgdir name="0">
+<string name="Title" value="雪姬的房間"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="秘密花園下層"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="珠子之房"/>
+</imgdir>
+</imgdir>
+<imgdir name="103050200">
+<imgdir name="0">
+<string name="Title" value="秘密花園上層"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="出路"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="限制區域"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="秘密花園地下"/>
+</imgdir>
+</imgdir>
+<imgdir name="103050300">
+<imgdir name="0">
+<string name="Title" value="秘密花園下層"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="修煉場/雜貨店/武器店"/>
+</imgdir>
+<imgdir name="2">
+<string name="Title" value="修煉場1"/>
+</imgdir>
+<imgdir name="3">
+<string name="Title" value="修煉場2"/>
+</imgdir>
+<imgdir name="4">
+<string name="Title" value="修煉場3"/>
+</imgdir>
+</imgdir>
+<imgdir name="749060400">
+<imgdir name="0">
+<string name="Title" value="荒廢的墳墓"/>
+</imgdir>
+<imgdir name="1">
+<string name="Title" value="回去的路"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="PortalTooltip">
+<imgdir name="100000100">
+<string name="market00" value="自由市場入口"/>
+</imgdir>
+<imgdir name="100030000">
+<string name="quest00" value="猶他的肥肥農場"/>
+</imgdir>
+<imgdir name="101030104">
+<string name="pt00" value="未公開的遺跡"/>
+</imgdir>
+<imgdir name="102000000">
+<string name="market00" value="自由市場入口"/>
+</imgdir>
+<imgdir name="105090700">
+<string name="in00" value="祕密神殿"/>
+</imgdir>
+<imgdir name="105090800">
+<string name="in00" value="被遺忘的神殿"/>
+</imgdir>
+<imgdir name="200000000">
+<string name="market00" value="自由市場入口"/>
+</imgdir>
+<imgdir name="211000100">
+<string name="market00" value="自由市場入口"/>
+</imgdir>
+<imgdir name="211042300">
+<string name="ps00" value="殘暴炎魔祭壇"/>
+</imgdir>
+<imgdir name="220000000">
+<string name="market00" value="自由市場入口"/>
+</imgdir>
+<imgdir name="221000000">
+<string name="market00" value="自由市場入口"/>
+</imgdir>
+<imgdir name="230000000">
+<string name="market01" value="自由市場入口"/>
+</imgdir>
+<imgdir name="230040410">
+<string name="boss00" value="海怒斯洞穴"/>
+</imgdir>
+<imgdir name="240000000">
+<string name="market00" value="自由市場入口"/>
+</imgdir>
+<imgdir name="240010700">
+<string name="pt00" value="天空之巢頂端"/>
+</imgdir>
+<imgdir name="240020100">
+<string name="boss00" value="格瑞芬多森林"/>
+</imgdir>
+<imgdir name="240020400">
+<string name="boss00" value="噴火龍棲息地"/>
+</imgdir>
+<imgdir name="240040610">
+<string name="in00" value="九靈巢穴"/>
+</imgdir>
+<imgdir name="240040700">
+<string name="out00" value="主巢穴山峰"/>
+<string name="temp00" value="闇黑龍王洞穴入口"/>
+</imgdir>
+<imgdir name="240050100">
+<string name="in00" value="第一迷宮室"/>
+</imgdir>
+<imgdir name="240050101">
+<string name="in00" value="第二迷宮室"/>
+</imgdir>
+<imgdir name="240050102">
+<string name="in00" value="第三迷宮室"/>
+</imgdir>
+<imgdir name="240050103">
+<string name="in00" value="第四迷宮室"/>
+</imgdir>
+<imgdir name="240050104">
+<string name="in00" value="第五迷宮室"/>
+</imgdir>
+<imgdir name="240050105">
+<string name="in00" value="迷宮室"/>
+</imgdir>
+<imgdir name="240050400">
+<string name="temp00" value="生命之穴入口"/>
+</imgdir>
+<imgdir name="250000000">
+<string name="market00" value="自由市場入口"/>
+</imgdir>
+<imgdir name="251000000">
+<string name="market00" value="自由市場入口"/>
+</imgdir>
+<imgdir name="280010000">
+<string name="ps01" value="悲憤之室"/>
+</imgdir>
+<imgdir name="500000000">
+<string name="market00" value="自由市場入口"/>
+</imgdir>
+<imgdir name="920010100">
+<string name="in00" value="雅典娜禁地&lt;散步路&gt;"/>
+<string name="in01" value="雅典娜禁地&lt;倉庫&gt;"/>
+<string name="in02" value="雅典娜禁地&lt;休息室&gt;"/>
+<string name="in05" value="雅典娜禁地&lt;上去的路&gt;"/>
+<string name="in03" value="雅典娜禁地&lt;封印之室&gt;"/>
+</imgdir>
+<imgdir name="310050100">
+<string name="in00" value="發電廠"/>
+</imgdir>
+<imgdir name="920010300">
+<string name="st00" value="雅典娜禁地&lt;中央塔&gt;"/>
+</imgdir>
+<imgdir name="920010500">
+<string name="st00" value="雅典娜禁地&lt;中央塔&gt;"/>
+</imgdir>
+<imgdir name="920010800">
+<string name="in00" value="雅典娜禁地&lt;中央塔&gt;"/>
+</imgdir>
+<imgdir name="925100000">
+<string name="next00" value="突破船首!"/>
+</imgdir>
+<imgdir name="925100100">
+<string name="next00" value="突破甲板 I"/>
+</imgdir>
+<imgdir name="925100200">
+<string name="next00" value="突破甲板 II"/>
+</imgdir>
+<imgdir name="925100300">
+<string name="next00" value="打倒海賊！"/>
+</imgdir>
+<imgdir name="925100400">
+<string name="next00" value="海盜船長的威嚴"/>
+</imgdir>
+<imgdir name="910000000">
+<string name="out00" value="自由市場出口"/>
+</imgdir>
+<imgdir name="261020600">
+<string name="up00" value="研究所A-3區"/>
+</imgdir>
+<imgdir name="120000200">
+<string name="market00" value="自由市場"/>
+</imgdir>
+<imgdir name="222000000">
+<string name="market00" value="自由市場"/>
+</imgdir>
+<imgdir name="222010300">
+<string name="west00" value="老虎山坡"/>
+</imgdir>
+<imgdir name="261000000">
+<string name="market0" value="自由市場"/>
+</imgdir>
+<imgdir name="100040105">
+<string name="quest00" value="腐爛的大樹通道"/>
+</imgdir>
+<imgdir name="100020000">
+<string name="MD00" value="迷你地城:弓箭手村肥肥農場"/>
+</imgdir>
+<imgdir name="105040304">
+<string name="MD00" value="迷你地城:倒塌的石巨人聖地"/>
+</imgdir>
+<imgdir name="105050100">
+<string name="MD00" value="迷你地城:菇菇生長之地"/>
+</imgdir>
+<imgdir name="221023400">
+<string name="MD00" value="迷你地城:兔子鼓手隱身處"/>
+</imgdir>
+<imgdir name="240020500">
+<string name="MD00" value="迷你地城:半人馬的圓桌"/>
+</imgdir>
+<imgdir name="240040511">
+<string name="MD00" value="迷你地城:復活的記憶"/>
+</imgdir>
+<imgdir name="240040520">
+<string name="MD00" value="迷你地城:蜥蜴保護區"/>
+</imgdir>
+<imgdir name="260020600">
+<string name="MD00" value="迷你地城:風沙之丘"/>
+</imgdir>
+<imgdir name="261020300">
+<string name="MD00" value="迷你地城:致命的錯誤"/>
+</imgdir>
+<imgdir name="101000000">
+<string name="jobin00" value="魔法圖書館"/>
+<string name="inERShip" value="天空渡口"/>
+<string name="in04" value="天空渡口"/>
+</imgdir>
+<imgdir name="130000200">
+<string name="west00" value="修煉森林1"/>
+</imgdir>
+<imgdir name="130010000">
+<string name="in00" value="提諾森林"/>
+<string name="in01" value="提弗森林"/>
+</imgdir>
+<imgdir name="130010100">
+<string name="in00" value="提姆森林"/>
+<string name="in01" value="提魯森林"/>
+</imgdir>
+<imgdir name="130010200">
+<string name="west00" value="練武場入口"/>
+</imgdir>
+<imgdir name="240020101">
+<string name="in00" value="偏僻森林"/>
+</imgdir>
+<imgdir name="240020102">
+<string name="in00" value="偏僻森林"/>
+</imgdir>
+<imgdir name="240020401">
+<string name="in00" value="偏僻森林"/>
+</imgdir>
+<imgdir name="240020402">
+<string name="in00" value="偏僻森林"/>
+</imgdir>
+<imgdir name="130020000">
+<string name="in00" value="第一練武場"/>
+<string name="in01" value="第二練武場"/>
+<string name="in02" value="第三練武場"/>
+<string name="in03" value="第四練武場"/>
+</imgdir>
+<imgdir name="240020600">
+<string name="out00" value="格瑞芬多森林"/>
+<string name="out01" value="噴火龍棲息地"/>
+</imgdir>
+<imgdir name="501000000">
+<string name="market00" value="自由市場入口"/>
+</imgdir>
+<imgdir name="105090311">
+<string name="MD00" value="迷你地城：龍族的藍色洞穴"/>
+</imgdir>
+<imgdir name="251010402">
+<string name="MD00" value="迷你地城：搶奪寶物島"/>
+</imgdir>
+<imgdir name="106020400">
+<string name="right00" value="城壁邊邊"/>
+<string name="right01" value="?陡的下坡１"/>
+</imgdir>
+<imgdir name="106021000">
+<string name="in00" value="城堡安全室"/>
+</imgdir>
+<imgdir name="222020400">
+<string name="in00" value="往過去的路"/>
+</imgdir>
+<imgdir name="914000000">
+<string name="out00" value="避難準備中"/>
+</imgdir>
+<imgdir name="914000100">
+<string name="out00" value="燃燒的森林１"/>
+</imgdir>
+<imgdir name="914000200">
+<string name="west00" value="燃燒的森林２"/>
+</imgdir>
+<imgdir name="914000210">
+<string name="west00" value="燃燒的森林３"/>
+</imgdir>
+<imgdir name="914000300">
+<string name="east00" value="燃燒的森林３"/>
+</imgdir>
+<imgdir name="914000500">
+<string name="out00" value="燃燒的森林1"/>
+</imgdir>
+<imgdir name="140090100">
+<string name="west00" value="寒冷的森林2"/>
+</imgdir>
+<imgdir name="140090200">
+<string name="west00" value="寒冷的森林3"/>
+</imgdir>
+<imgdir name="140090300">
+<string name="west00" value="寒冷的森林4"/>
+</imgdir>
+<imgdir name="140090400">
+<string name="west00" value="寒冷的森林5"/>
+</imgdir>
+<imgdir name="140000000">
+<string name="market00" value="自由市場"/>
+<string name="west00" value="瑞恩西郊平原"/>
+</imgdir>
+<imgdir name="140010000">
+<string name="east00" value="瑞恩"/>
+<string name="west00" value="瑞恩修練入口"/>
+</imgdir>
+<imgdir name="140010200">
+<string name="in00" value="鏡子洞窟"/>
+</imgdir>
+<imgdir name="140030000">
+<string name="in00" value="心願的鏡子"/>
+</imgdir>
+<imgdir name="140020200">
+<string name="east00" value="企鵝港口"/>
+</imgdir>
+<imgdir name="914020000">
+<string name="out00" value="離開瑪哈對練"/>
+</imgdir>
+<imgdir name="211050000">
+<string name="in00" value="騎士的平原"/>
+</imgdir>
+<imgdir name="914030000">
+<string name="out00" value="狼的平原"/>
+</imgdir>
+<imgdir name="140010100">
+<string name="in00" value="瑞恩修練場"/>
+</imgdir>
+<imgdir name="104000000">
+<string name="in03" value="維多利亞港資料商店"/>
+</imgdir>
+<imgdir name="200060000">
+<string name="in00" value="人少的散佈道"/>
+</imgdir>
+<imgdir name="925040001">
+<string name="out00" value="武陵道場後路"/>
+</imgdir>
+<imgdir name="300000010">
+<string name="in00" value="圖書館"/>
+</imgdir>
+<imgdir name="100000200">
+<string name="in02" value="弓箭手教育原園"/>
+</imgdir>
+<imgdir name="702000000">
+<string name="market00" value="自由市場入口"/>
+</imgdir>
+<imgdir name="1010000">
+<string name="in00" value="冒險者的修練場"/>
+</imgdir>
+<imgdir name="100030101">
+<string name="out00" value="前院"/>
+<string name="in00" value="小閣樓"/>
+</imgdir>
+<imgdir name="100030102">
+<string name="west00" value="小路"/>
+<string name="east00" value="後院"/>
+</imgdir>
+<imgdir name="100030300">
+<string name="in00" value="茂密的森林"/>
+<string name="west00" value="大路1"/>
+</imgdir>
+<imgdir name="100030320">
+<string name="west00" value="農場入口"/>
+</imgdir>
+<imgdir name="100030400">
+<string name="quest00" value="猶他的豬農場"/>
+</imgdir>
+<imgdir name="103000310">
+<string name="out00" value="前往墮落城市"/>
+</imgdir>
+<imgdir name="106010101">
+<string name="in00" value="巨人的寺院入口"/>
+</imgdir>
+<imgdir name="220000300">
+<string name="scr00" value="青蛙嘴巴的家"/>
+</imgdir>
+<imgdir name="220011000">
+<string name="in00" value="天空露台"/>
+</imgdir>
+<imgdir name="900030000">
+<string name="out00" value="黑色魔法師遠征隊陣地"/>
+</imgdir>
+<imgdir name="914100010">
+<string name="in00" value="寂靜的洞穴"/>
+</imgdir>
+</imgdir>
+</imgdir>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="Halloween.img">
+<imgdir name="HalloweenItem">
+<int name="0" value="1003214"/>
+<int name="1" value="1003215"/>
+<int name="2" value="1042212"/>
+<int name="3" value="1042213"/>
+<int name="4" value="1702289"/>
+<int name="5" value="1012074"/>
+<int name="6" value="1072484"/>
+<int name="7" value="1003133"/>
+</imgdir>
+</imgdir>

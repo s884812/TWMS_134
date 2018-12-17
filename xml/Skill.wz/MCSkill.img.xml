@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="MCSkill.img">
+<imgdir name="0">
+<int name="target" value="1"/>
+<int name="spendCP" value="14"/>
+<string name="name" value="封印(1名)"/>
+<string name="desc" value="對方一名成員中封印效果."/>
+<int name="mobSkillID" value="120"/>
+<int name="level" value="10"/>
+</imgdir>
+<imgdir name="1">
+<int name="target" value="2"/>
+<int name="spendCP" value="17"/>
+<string name="name" value="黑暗(隊伍)"/>
+<string name="desc" value="對方全體成員80%的機率中黑暗效果."/>
+<int name="mobSkillID" value="121"/>
+<int name="level" value="6"/>
+</imgdir>
+<imgdir name="2">
+<int name="target" value="2"/>
+<int name="spendCP" value="19"/>
+<string name="name" value="虛弱(隊伍)"/>
+<string name="desc" value="對方全體成員80%的機率中虛弱效果."/>
+<int name="mobSkillID" value="122"/>
+<int name="level" value="7"/>
+</imgdir>
+<imgdir name="3">
+<int name="target" value="1"/>
+<int name="spendCP" value="22"/>
+<string name="name" value="昏迷(1名)"/>
+<string name="desc" value="對方一名成員中昏迷效果."/>
+<int name="mobSkillID" value="123"/>
+<int name="level" value="11"/>
+</imgdir>
+<imgdir name="4">
+<int name="target" value="2"/>
+<int name="spendCP" value="12"/>
+<string name="name" value="詛咒(組隊)"/>
+<string name="desc" value="對方全體成員中詛咒效果."/>
+<int name="mobSkillID" value="124"/>
+<int name="level" value="7"/>
+</imgdir>
+<imgdir name="5">
+<int name="target" value="2"/>
+<int name="spendCP" value="19"/>
+<string name="name" value="毒(組隊)"/>
+<string name="desc" value="對方每個成員80%的機率中毒效果."/>
+<int name="mobSkillID" value="125"/>
+<int name="level" value="6"/>
+</imgdir>
+<imgdir name="6">
+<int name="target" value="2"/>
+<int name="spendCP" value="16"/>
+<string name="name" value="減速(組隊)"/>
+<string name="desc" value="對方全體成員80%的機率中移動速度減慢效果."/>
+<int name="mobSkillID" value="126"/>
+<int name="level" value="6"/>
+</imgdir>
+<imgdir name="7">
+<int name="target" value="1"/>
+<int name="spendCP" value="18"/>
+<string name="name" value="取消狀況(1名)"/>
+<string name="desc" value="對方一名成員中取消狀況"/>
+<int name="mobSkillID" value="127"/>
+<int name="level" value="9"/>
+</imgdir>
+<imgdir name="8">
+<int name="target" value="1"/>
+<int name="type" value="8"/>
+<int name="time" value="30"/>
+<int name="spendCP" value="10"/>
+<string name="name" value="隨機"/>
+<string name="desc" value="隨機"/>
+<int name="prop" value="100"/>
+</imgdir>
+<imgdir name="9">
+<int name="target" value="2"/>
+<int name="type" value="8"/>
+<int name="time" value="30"/>
+<int name="spendCP" value="10"/>
+<string name="name" value="隨機"/>
+<string name="desc" value="隨機"/>
+<int name="prop" value="100"/>
+</imgdir>
+</imgdir>

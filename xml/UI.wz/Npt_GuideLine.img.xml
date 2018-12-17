@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="Npt_GuideLine.img">
+<imgdir name="NptGuide">
+<string name="Text00" value="■ 簡介\r\n"/>
+<string name="Text01" value="本系統提供玩家以楓葉點數為媒介的玩家間物品交易服務。\r\n"/>
+<string name="Text02" value="透過本系統，玩家可在遊戲內進行安全又簡便的物品交易。\r\n\r\n"/>
+<string name="Text03" value="■「販售」說明\r\n"/>
+<string name="Text04" value="1, 物品的販售：\r\n在畫面最下方的身上道具內，選擇所要售出的物品後，點選販售按鈕，"/>
+<string name="Text05" value="設定想賣出的價格和數量，便可將該物品刊登到「販售」分頁列表內。\r\n"/>
+<string name="Text06" value="販售的登錄刊登時間為七日。\r\n登錄物品時，系統將收取5000楓幣的登錄費。\r\n"/>
+<string name="Text07" value="請注意！物品登錄完成後，就算取消販售也將不退還此登錄費。\r\n"/>
+<string name="Text08" value="登錄到「販售」列表的物品，便會從玩家的身上道具欄移至等待販售欄內，"/>
+<string name="Text09" value="因此無法在遊戲內使用該物品。必須取消交易並將物品移回身上道具欄才能繼續使用該物品。\r\n\r\n"/>
+<string name="Text10" value="2, 購買正在販售中的物品：\r\n若想要購買販售中的物品，只要點選購買按鈕，即可進行購買。\r\n"/>
+<string name="Text11" value="購買前，請務必確認物品的詳細資料(物品名稱、數量、價格、屬性等)後，再行購買。\r\n\r\n"/>
+<string name="Text12" value="3, 交易手續費：\r\n在登記販售時，會以賣方登記價格+手續費(10點 + 賣方登記價格10%)的楓葉點數，顯示在販售列表上。\r\n"/>
+<string name="Text13" value="賣方的登記價格必須高於20點，否則不予登錄。\r\n在完成物品交易的當下為基準，賣方獲得的金額與買方實際購買價格的金額，便是手續費(楓葉點數)的金額。\r\n"/>
+<string name="Text14" value="交易手續費(楓葉點數)是由購買物品的買方來支付。\r\n\r\n"/>
+<string name="Text15" value="4, 購物車功能：\r\n"/>
+<string name="Text16" value="若想要購買多個登記物品，可先將想要購買的物品放入購物車內， "/>
+<string name="Text17" value="最後可決定是否購買。\r\n"/>
+<string name="Text18" value="放入購物車的物品，可在我的拍賣內的購物車分頁中確認。\r\n\r\n"/>
+<string name="Text19" value="■「購買」說明\r\n"/>
+<string name="Text20" value="1, 登記購買：\r\n可將想要購買的物品，透過購買登記登錄到「購買」列表上，藉此來購買其他玩家所擁有的物品。\r\n"/>
+<string name="Text21" value="購買登記成功時，系統會預先扣除買方的希望價格，若是取消購買登記，將會將點數退還。\r\n"/>
+<string name="Text22" value="購買的登錄刊登時間為七日。\r\n\r\n"/>
+<string name="Text23" value="2, 交易手續費：\r\n登記購買時，會以買方希望價格-手續費[10點+(買方希望價格-10)10%]的金額(楓葉點數)，顯示在購買列表上。\r\n"/>
+<string name="Text24" value="在完成物品交易的當下為基準，買方實際購買的金額與賣方實際獲得的金額的差價，便是手續費的金額。\r\n購買價格會以不包含手續費的價格來公開。\r\n\r\n"/>
+<string name="Text25" value="■「競標」說明\r\n"/>
+<string name="Text26" value="1, 物品的競標：\r\n在畫面最下方的身上道具內，選擇所要售出的物品後，點選競標按鈕，"/>
+<string name="Text27" value="設定競標期限、開始價格、出價增額、直接購買價和數量，便可將該物品刊登到「競標」分頁列表內。\r\n"/>
+<string name="Text28" value="競標的設定時間是以小時為單位，最低設定時間為24小時(1天)，最高為168小時(七天)。\r\n"/>
+<string name="Text29" value="登錄物品時，系統將收取5000楓幣的登錄費。\r\n"/>
+<string name="Text30" value="請注意！物品登錄完成後，就算取消也將不退還此登錄費。\r\n"/>
+<string name="Text31" value="登錄到「競標」列表的物品，便會從玩家的身上道具欄移至等待販售欄內，"/>
+<string name="Text32" value="因此無法在遊戲內使用該物品。必須取消交易並將物品移回身上道具欄才能繼續使用該物品。\r\n\r\n"/>
+<string name="Text33" value="2, 競標、購買正在競標中的物品：\r\n競標者可以在「競標」分頁裡，找到欲競標的物品，點選出價按鈕，"/>
+<string name="Text34" value="視窗將會顯示剩餘時間、出價次數、目前最高出價、出價增額、下標價，"/>
+<string name="Text35" value="按下確定按鈕，即可完成競標，\r\n"/>
+<string name="Text36" value="競標成功時，系統會預先扣除競標方的出價價格，若是出價價格被其他玩家超越，將會將點數退還。\r\n"/>
+<string name="Text37" value="若想要以直接購買價購買競標中的物品，只要點選購買按鈕，即可進行購買。\r\n"/>
+<string name="Text38" value="競標、購買前，請務必確認物品的詳細資料(物品名稱、數量、價格、屬性等)後，再行購買。\r\n\r\n"/>
+<string name="Text39" value="3, 交易手續費：\r\n在登記販售時，會以賣方登記價格+手續費(10點 + 賣方登記價格10%)的楓葉點數，顯示在販售列表上。\r\n"/>
+<string name="Text40" value="競標方的登記價格必須高於20點，否則不予登錄。\r\n"/>
+<string name="Text41" value="在完成物品交易的當下為基準，賣方獲得的金額與買方實際購買價格的金額，便是手續費(楓葉點數)的金額。\r\n交易手續費(楓葉點數)是由購買物品的競標方來支付。\r\n\r\n"/>
+<string name="Text42" value="4, 得標：\r\n在時間期限到期時，最高價為得標者，將可獲得該物品，\r\n"/>
+<string name="Text43" value="物品與點數不會在到期期間的瞬間完成交換的動作，需要有約3~5分鐘的系統處理時間。\r\n\r\n"/>
+<string name="Text44" value="■「我的拍賣」說明\r\n1, 購物車：\r\n透過購物車內的道具列表，可一目了然地確認預定購買的物品。\r\n"/>
+<string name="Text45" value="需要注意的是，已經被放入購物車的物品，不同玩家可以再次放入，以最先購買的玩家取得該物品。\r\n\r\n"/>
+<string name="Text46" value="2, 等待購買：\r\n可確認想要購買的物品之購買等待狀態。\r\n若有想要賣出的玩家有將該物品申請賣出時，可於此分頁直接進行購買。\r\n\r\n"/>
+<string name="Text47" value="3, 交易紀錄：\r\n可確認過去的交易紀錄。\r\n\r\n"/>
+<string name="Text48" value="4, 交易進行：\r\n可確認目前的交易進行狀況。\r\n\r\n"/>
+<string name="Text49" value="■ 其他\r\n修改已登記的資料：\r\n一旦完成販售登記與購買登記的內容，是無法進行修改。\r\n"/>
+<string name="Text50" value="需取消登記後重新登錄。\r\n販售和申請賣出都可以取消販售，唯有已經被出過一次價以上的競標物，無法取消販售。"/>
+</imgdir>
+<imgdir name="Version">
+<int name="Number" value="2"/>
+</imgdir>
+</imgdir>

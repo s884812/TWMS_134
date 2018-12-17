@@ -1,0 +1,1164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="PQuest.img">
+<imgdir name="1200">
+<string name="月妙的年糕" value=""/>
+<string name="mark" value="Map/MapHelper/mark/MoonRabbitParty"/>
+<imgdir name="rank">
+<imgdir name="S">
+<imgdir name="less">
+<int name="min" value="6"/>
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="60"/>
+</imgdir>
+<imgdir name="equal">
+<int name="have" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="A">
+<imgdir name="less">
+<int name="min" value="7"/>
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="40"/>
+</imgdir>
+<imgdir name="equal">
+<int name="have" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="B">
+<imgdir name="less">
+<int name="min" value="8"/>
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="20"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="C">
+<imgdir name="less">
+<int name="min" value="9"/>
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="10"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="D">
+<imgdir name="less">
+<int name="min" value="10"/>
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="1"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="F">
+<imgdir name="less">
+<int name="min" value="10"/>
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="0"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="string">
+<string name="S" value="已達成 S等級。"/>
+<string name="A" value="下一等級條件 \n\n最短記錄：5分鐘以內\n完成：50次以上\n#t1002798##k 獲得"/>
+<string name="B" value="下一等級條件\n\n最短記錄：7分鐘以內\n完成：40次以上\n#t1002798##k 獲得"/>
+<string name="C" value="下一等級條件\n\n最短記錄：8分鐘以內\n完成：20次以上"/>
+<string name="D" value="下一等級條件\n\n最短記錄：9分鐘以內\n完成：10次以上"/>
+<string name="F" value="下一等級條件\n\n最短記錄：10分鐘以內\n完成：1次以上"/>
+</imgdir>
+</imgdir>
+<imgdir name="1201">
+<string name="第一次同行" value=""/>
+<string name="mark" value="Map/MapHelper/mark/KerningParty"/>
+<imgdir name="rank">
+<imgdir name="S">
+<imgdir name="less">
+<int name="min" value="10"/>
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="70"/>
+<int name="have" value="1"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="A">
+<imgdir name="less">
+<int name="min" value="15"/>
+</imgdir>
+<imgdir name="more">
+<int name="have" value="1"/>
+<int name="cmp" value="50"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="B">
+<imgdir name="less">
+<int name="min" value="20"/>
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="30"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="C">
+<imgdir name="less">
+<int name="min" value="25"/>
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="10"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="D">
+<imgdir name="less">
+<int name="min" value="30"/>
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="1"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="F">
+<imgdir name="less">
+<int name="min" value="30"/>
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="0"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="string">
+<string name="S" value="已達成 S等級。"/>
+<string name="A" value="下一等級條件\n\n最短記錄：10分鐘以內\n完成：70次以上\n#t1072369##k 獲得"/>
+<string name="B" value="下一等級條件\n\n最短記錄：15分鐘以內\n完成：50次以上\n#t1072369##k 獲得"/>
+<string name="C" value="下一等級條件\n\n最短記錄：2分鐘以內\n完成：30次以上"/>
+<string name="D" value="下一等級條件\n\n最短記錄：25分鐘以內\n完成：10次以上"/>
+<string name="F" value="下一等級條件\n\n最短記錄：30分鐘以內\n完成：1次以上"/>
+</imgdir>
+</imgdir>
+<imgdir name="1202">
+<string name="時空的裂縫" value=""/>
+<string name="mark" value="Map/MapHelper/mark/AbandonTower"/>
+<imgdir name="rank">
+<imgdir name="S">
+<imgdir name="less">
+<int name="min" value="20"/>
+</imgdir>
+<imgdir name="more">
+<int name="have" value="1"/>
+<int name="cmp" value="80"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="A">
+<imgdir name="less">
+<int name="min" value="25"/>
+</imgdir>
+<imgdir name="more">
+<int name="have" value="1"/>
+<int name="cmp" value="60"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="B">
+<imgdir name="less">
+<int name="min" value="30"/>
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="40"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="C">
+<imgdir name="less">
+<int name="min" value="40"/>
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="20"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="D">
+<imgdir name="less">
+<int name="min" value="60"/>
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="1"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="F">
+<imgdir name="less">
+<int name="min" value="60"/>
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="0"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="string">
+<string name="S" value="已達成 S等級。"/>
+<string name="A" value="下一等級條件\n\n最短記錄：20分鐘以內\n完成：80次以上\n#t1022073##k 獲得"/>
+<string name="B" value="下一等級條件\n\n最短記錄：25分鐘以內\n完成：60次以上\n#t1022073##k 獲得"/>
+<string name="C" value="下一等級條件\n\n最短記錄：30分鐘以內\n完成：40次以上"/>
+<string name="D" value="下一等級條件\n\n最短記錄：40分鐘以內\n完成：20次以上"/>
+<string name="F" value="下一等級條件\n\n最短記錄：60分鐘以內\n完成：1次以上\n"/>
+</imgdir>
+</imgdir>
+<imgdir name="1203">
+<string name="女神的痕跡" value=""/>
+<string name="mark" value="Map/MapHelper/mark/GoddessTower"/>
+<imgdir name="rank">
+<imgdir name="S">
+<imgdir name="less">
+<int name="min" value="15"/>
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="80"/>
+</imgdir>
+<imgdir name="equal">
+<int name="have" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="A">
+<imgdir name="less">
+<int name="min" value="20"/>
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="60"/>
+</imgdir>
+<imgdir name="equal">
+<int name="have" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="B">
+<imgdir name="less">
+<int name="min" value="30"/>
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="40"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="C">
+<imgdir name="less">
+<int name="min" value="40"/>
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="20"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="D">
+<imgdir name="less">
+<int name="min" value="60"/>
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="1"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="F">
+<imgdir name="less">
+<int name="min" value="60"/>
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="0"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="string">
+<string name="S" value="已達成 S等級。"/>
+<string name="A" value="下一等級條件\n\n最短記錄：15分鐘以內\n完成：80次以上\n#t1082232##k 獲得"/>
+<string name="B" value="下一等級條件\n\n最短記錄：20分鐘以內\n完成：60次以上\n#t1082232##k 獲得"/>
+<string name="C" value="下一等級條件\n\n最短記錄：30分鐘以內\n完成：40次以上"/>
+<string name="D" value="下一等級條件\n\n最短記錄：40分鐘以內\n完成：20次以上"/>
+<string name="F" value="下一等級條件\n\n最短記錄：60分鐘以內\n完成：1次以上\n"/>
+</imgdir>
+</imgdir>
+<imgdir name="1204">
+<string name="金勾海賊王" value=""/>
+<string name="mark" value="Map/MapHelper/mark/DevijonParty"/>
+<imgdir name="rank">
+<imgdir name="S">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="80"/>
+</imgdir>
+<imgdir name="equal">
+<int name="have3" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="A">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="60"/>
+</imgdir>
+<imgdir name="equal">
+<int name="have1" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="B">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="40"/>
+</imgdir>
+<imgdir name="equal">
+<int name="have0" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="C">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="20"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="D">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="1"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="F">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="0"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="string">
+<string name="S" value="已達成 S等級。"/>
+<string name="A" value="下一等級條件\n\n完成：80次以上\n#t1002571##k(80等級) 獲得"/>
+<string name="B" value="下一等級條件\n\n完成：60次以上\n#t1002571##k(70等級) 獲得"/>
+<string name="C" value="下一等級條件\n\n完成：40次以上\n#t1002571##k(60等級) 獲得"/>
+<string name="D" value="下一等級條件\n\n完成：20次以上"/>
+<string name="F" value="下一等級條件\n\n完成：1次以上\n"/>
+</imgdir>
+</imgdir>
+<imgdir name="1205">
+<string name="羅密歐和茱麗葉" value=""/>
+<string name="mark" value="Map/MapHelper/mark/RomioJuliet"/>
+<imgdir name="rank">
+<imgdir name="S">
+<imgdir name="less">
+<int name="min" value="20"/>
+</imgdir>
+<imgdir name="more">
+<int name="have" value="1"/>
+<int name="cmp" value="80"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="A">
+<imgdir name="less">
+<int name="min" value="25"/>
+</imgdir>
+<imgdir name="more">
+<int name="have" value="1"/>
+<int name="cmp" value="60"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="B">
+<imgdir name="less">
+<int name="min" value="30"/>
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="40"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="C">
+<imgdir name="less">
+<int name="min" value="35"/>
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="20"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="D">
+<imgdir name="less">
+<int name="min" value="45"/>
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="1"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="F">
+<imgdir name="less">
+<int name="min" value="45"/>
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="0"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="string">
+<string name="S" value="已達成 S等級。"/>
+<string name="A" value="下一等級條件\n\n最短記錄：15分鐘以內\n完成：80次以上\n#t1082232##k 獲得"/>
+<string name="B" value="下一等級條件\n\n最短記錄：25分鐘以內\n完成：60次以上\n#t1082232##k 獲得"/>
+<string name="C" value="下一等級條件\n\n最短記錄：30分鐘以內\n完成：40次以上"/>
+<string name="D" value="下一等級條件\n\n最短記錄：35分鐘以內\n完成：20次以上"/>
+<string name="F" value="下一等級條件\n\n最短記錄：45分鐘以內\n完成：1次以上\n"/>
+</imgdir>
+</imgdir>
+<imgdir name="1206">
+<string name="毒霧森林" value=""/>
+<string name="mark" value="Map/MapHelper/mark/EilnForest"/>
+<imgdir name="rank">
+<imgdir name="S">
+<imgdir name="less">
+<int name="min" value="20"/>
+</imgdir>
+<imgdir name="more">
+<int name="have0" value="1"/>
+<int name="cmp" value="80"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="A">
+<imgdir name="less">
+<int name="min" value="25"/>
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="60"/>
+<int name="have0" value="1"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="B">
+<imgdir name="less">
+<int name="min" value="30"/>
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="40"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="C">
+<imgdir name="less">
+<int name="min" value="35"/>
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="20"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="D">
+<imgdir name="less">
+<int name="min" value="45"/>
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="1"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="F">
+<imgdir name="less">
+<int name="min" value="45"/>
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="0"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="string">
+<string name="S" value="已達成 S等級。"/>
+<string name="A" value="下一等級條件\n\n最短記錄：20分鐘以內\n完成：80次以上\n#t1032060##k 獲得"/>
+<string name="B" value="下一等級條件\n\n最短記錄：25分鐘以內\n完成：60次以上"/>
+<string name="C" value="下一等級條件\n\n最短記錄：30分鐘以內\n完成：40次以上"/>
+<string name="D" value="下一等級條件\n\n最短記錄：35分鐘以內\n完成：20次以上"/>
+<string name="F" value="下一等級條件\n\n最短記錄：45分鐘以內\n完成：1次以上\n"/>
+</imgdir>
+</imgdir>
+<imgdir name="1209">
+<string name="侏儒帝王的復活" value=""/>
+<string name="mark" value="Map/MapHelper/mark/Lex"/>
+<imgdir name="rank">
+<imgdir name="S">
+<imgdir name="less">
+<int name="min" value="15"/>
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="80"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="A">
+<imgdir name="less">
+<int name="min" value="17"/>
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="60"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="B">
+<imgdir name="less">
+<int name="min" value="20"/>
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="40"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="C">
+<imgdir name="less">
+<int name="min" value="25"/>
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="20"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="D">
+<imgdir name="less">
+<int name="min" value="30"/>
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="1"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="F">
+<imgdir name="less">
+<int name="min" value="30"/>
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="0"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="string">
+<string name="S" value="已達成 S等級。"/>
+<string name="A" value="下一等級條件\n\n最短記錄：15分鐘以內\n完成：80次以上"/>
+<string name="B" value="下一等級條件\n\n最短記錄：17分鐘以內\n完成：60次以上"/>
+<string name="C" value="下一等級條件\n\n最短記錄：20分鐘以內\n完成：40次以上"/>
+<string name="D" value="下一等級條件\n\n最短記錄：25分鐘以內\n完成：20次以上"/>
+<string name="F" value="下一等級條件\n\n最短記錄：30分鐘以內\n完成：1次以上"/>
+</imgdir>
+</imgdir>
+<imgdir name="1210">
+<string name="龍騎士" value=""/>
+<string name="mark" value="Map/MapHelper/mark/Dragonrider"/>
+<imgdir name="rank">
+<imgdir name="S">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="120"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="A">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="100"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="B">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="60"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="C">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="30"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="D">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="10"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="F">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="0"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="string">
+<string name="S" value="已達成 S等級。"/>
+<string name="A" value="下一等級條件\n\n完成：120次以上"/>
+<string name="B" value="下一等級條件\n\n完成：100次以上"/>
+<string name="C" value="下一等級條件\n\n完成：60次以上"/>
+<string name="D" value="下一等級條件\n\n完成：30次以上"/>
+<string name="F" value="下一等級條件\n\n完成：10次以上"/>
+</imgdir>
+</imgdir>
+<imgdir name="1211">
+<string name="奈特的金字塔" value=""/>
+<string name="mark" value="Map/MapHelper/mark/Pyramid"/>
+<imgdir name="rank">
+<imgdir name="S">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="70"/>
+</imgdir>
+<imgdir name="equal">
+<int name="have" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="A">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="50"/>
+</imgdir>
+<imgdir name="equal">
+<int name="have" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="B">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="30"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="C">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="20"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="D">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="1"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="F">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="0"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="string">
+<string name="S" value="已達成 S等級。"/>
+<string name="A" value="下一等級條件\n\n完成：70次以上\n#t1142142##k 獲得"/>
+<string name="B" value="下一等級條件\n\n完成：50次以上\n#t1142142##k 獲得"/>
+<string name="C" value="下一等級條件\n\n完成：30次以上"/>
+<string name="D" value="下一等級條件\n\n完成：20次以上"/>
+<string name="F" value="下一等級條件\n\n完成：1次以上"/>
+</imgdir>
+</imgdir>
+<imgdir name="1212">
+<string name="林車長的地鐵站" value=""/>
+<string name="mark" value="Map/MapHelper/mark/KerningCity"/>
+<imgdir name="rank">
+<imgdir name="S">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="50"/>
+</imgdir>
+<imgdir name="equal">
+<int name="have" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="A">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="40"/>
+</imgdir>
+<imgdir name="equal">
+<int name="have" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="B">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="20"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="C">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="10"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="D">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="1"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="F">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="0"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="string">
+<string name="S" value="已達成 S等級。"/>
+<string name="A" value="下一等級條件\n\n完成：50次以上\n#t1142141##k 獲得"/>
+<string name="B" value="下一等級條件\n\n完成：40次以上\n#t1142141##k 獲得"/>
+<string name="C" value="下一等級條件\n\n完成：20次以上"/>
+<string name="D" value="下一等級條件\n\n完成：10次以上"/>
+<string name="F" value="下一等級條件\n\n完成：1次以上"/>
+</imgdir>
+</imgdir>
+<imgdir name="1213">
+<string name="武陵道場" value=""/>
+<string name="mark" value="Map/MapHelper/mark/MuruengRaid"/>
+<imgdir name="rank">
+<imgdir name="S">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="20"/>
+</imgdir>
+<imgdir name="equal">
+<int name="have4" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="A">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="10"/>
+</imgdir>
+<imgdir name="equal">
+<int name="have3" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="B">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="1"/>
+</imgdir>
+<imgdir name="equal">
+<int name="have2" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="C">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+</imgdir>
+<imgdir name="equal">
+<int name="have1" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="D">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+</imgdir>
+<imgdir name="equal">
+<int name="have" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="F">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="cmp" value="0"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="string">
+<string name="S" value="已達成 S等級。"/>
+<string name="A" value="下一等級條件\n\n完成：20次以上\n#t1132004##k 獲得"/>
+<string name="B" value="下一等級條件\n\n完成：10次以上\n#t1132003##k 獲得"/>
+<string name="C" value="下一等級條件\n\n#t1132002##k 獲得"/>
+<string name="D" value="下一等級條件\n\n#t1132001##k 獲得"/>
+<string name="F" value="下一等級條件\n\n#t1132000##k 獲得"/>
+</imgdir>
+</imgdir>
+<imgdir name="1300">
+<string name="納希競技大會" value=""/>
+<string name="mark" value="Map/MapHelper/mark/AriantMatch"/>
+<imgdir name="rank">
+<imgdir name="S">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="try" value="100"/>
+<int name="VR" value="40"/>
+</imgdir>
+<imgdir name="equal">
+<int name="have" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="A">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="try" value="70"/>
+<int name="VR" value="30"/>
+</imgdir>
+<imgdir name="equal">
+<int name="have" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="B">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="try" value="50"/>
+<int name="VR" value="25"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="C">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="try" value="10"/>
+<int name="VR" value="20"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="D">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="try" value="1"/>
+<int name="VR" value="10"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="F">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="try" value="1"/>
+<int name="VR" value="0"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="1301">
+<string name="怪物擂台賽" value=""/>
+<string name="mark" value="Map/MapHelper/mark/Carnival"/>
+<imgdir name="rank">
+<imgdir name="S">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="vic" value="100"/>
+</imgdir>
+<imgdir name="equal">
+<int name="have" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="A">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="vic" value="80"/>
+</imgdir>
+<imgdir name="equal">
+<int name="have" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="B">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="vic" value="50"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="C">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="vic" value="20"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="D">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="vic" value="1"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="F">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="try" value="1"/>
+<int name="VR" value="0"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="string">
+<string name="S" value="已達成 S等級。"/>
+<string name="A" value="下一等級條件\n\n獲勝：100次以上\n#t1122007##k 獲得"/>
+<string name="B" value="下一等級條件\n\n獲勝：80次以上\n#t1122007##k 獲得"/>
+<string name="C" value="下一等級條件\n\n獲勝：50次以上"/>
+<string name="D" value="下一等級條件\n\n獲勝：20次以上"/>
+<string name="F" value="下一等級條件\n\n獲勝：1次以上"/>
+</imgdir>
+</imgdir>
+<imgdir name="1302">
+<string name="第2回怪物擂臺賽" value=""/>
+<string name="mark" value="Map/MapHelper/mark/Carnival"/>
+<imgdir name="rank">
+<imgdir name="S">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="vic" value="100"/>
+</imgdir>
+<imgdir name="equal">
+<int name="have" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="A">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="vic" value="80"/>
+</imgdir>
+<imgdir name="equal">
+<int name="have" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="B">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="vic" value="50"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="C">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="vic" value="20"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="D">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="vic" value="1"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="F">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="try" value="1"/>
+<int name="VR" value="0"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="string">
+<string name="S" value="已達成 S等級。"/>
+<string name="A" value="下一等級條件\n\n獲勝：100次以上\n#t1122058##k 獲得"/>
+<string name="B" value="下一等級條件\n\n獲勝：80次以上\n#t1122058##k 獲得"/>
+<string name="C" value="下一等級條件\n\n獲勝：50次以上"/>
+<string name="D" value="下一等級條件\n\n獲勝：20次以上"/>
+<string name="F" value="下一等級條件\n\n獲勝：1次以上"/>
+</imgdir>
+</imgdir>
+<imgdir name="1303">
+<string name="霧之海的鬼盜船" value=""/>
+<string name="mark" value="Map/MapHelper/mark/GhostShip2"/>
+<imgdir name="rank">
+<imgdir name="S">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="vic" value="100"/>
+</imgdir>
+<imgdir name="equal">
+<int name="have1" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="A">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="vic" value="80"/>
+</imgdir>
+<imgdir name="equal">
+<int name="have" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="B">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="vic" value="50"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="C">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="vic" value="20"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="D">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="vic" value="1"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+<imgdir name="F">
+<imgdir name="less">
+</imgdir>
+<imgdir name="more">
+<int name="try" value="1"/>
+<int name="VR" value="0"/>
+</imgdir>
+<imgdir name="equal">
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="string">
+<string name="S" value="已達成 S等級。"/>
+<string name="A" value="下一等級條件\n\n獲勝：100次以上\n#t1102226##k(70等級) 獲得"/>
+<string name="B" value="下一等級條件\n\n獲勝：80次以上\n#t1102226##k(60等級) 獲得"/>
+<string name="C" value="下一等級條件\n\n獲勝：50次以上"/>
+<string name="D" value="下一等級條件\n\n獲勝：20次以上"/>
+<string name="F" value="下一等級條件\n\n獲勝：1次以上"/>
+</imgdir>
+</imgdir>
+</imgdir>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="9330123.img">
+<imgdir name="info">
+<imgdir name="script">
+<imgdir name="0">
+<string name="script" value="Quest2322_2430014Reward"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="stand">
+<canvas name="0" width="78" height="67">
+<vector name="origin" x="36" y="67"/>
+<vector name="lt" x="-36" y="-67"/>
+<vector name="rb" x="42" y="0"/>
+<vector name="head" x="0" y="-44"/>
+<int name="delay" value="180"/>
+</canvas>
+<canvas name="1" width="78" height="65">
+<vector name="origin" x="36" y="65"/>
+<vector name="lt" x="-36" y="-67"/>
+<vector name="rb" x="42" y="0"/>
+<vector name="head" x="0" y="-43"/>
+<int name="delay" value="180"/>
+</canvas>
+<canvas name="2" width="78" height="66">
+<vector name="origin" x="36" y="66"/>
+<vector name="lt" x="-36" y="-67"/>
+<vector name="rb" x="42" y="0"/>
+<vector name="head" x="0" y="-44"/>
+<int name="delay" value="180"/>
+</canvas>
+<canvas name="3" width="78" height="66">
+<vector name="origin" x="36" y="66"/>
+<vector name="lt" x="-36" y="-67"/>
+<vector name="rb" x="42" y="0"/>
+<vector name="head" x="0" y="-44"/>
+<int name="delay" value="180"/>
+</canvas>
+</imgdir>
+</imgdir>

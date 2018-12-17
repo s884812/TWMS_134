@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="BFSkill.img">
+<imgdir name="0">
+<string name="name" value="吶喊"/>
+<string name="desc" value="向狼大聲吶喊。會像被攻擊一樣移動速度突然變慢。"/>
+<int name="mobSkillID" value="126"/>
+<int name="level" value="9"/>
+<int name="userCount" value="5"/>
+<int name="owner" value="0"/>
+<string name="effect" value="Effect/BasicEff/ItemSkill/Success"/>
+</imgdir>
+<imgdir name="1">
+<string name="name" value="反擊"/>
+<string name="desc" value="攻擊狼，使狼暫時無法打起精神。"/>
+<int name="mobSkillID" value="123"/>
+<int name="level" value="14"/>
+<int name="userCount" value="2"/>
+<int name="owner" value="0"/>
+<string name="effect" value="Effect/BasicEff/ItemSkill/Success"/>
+</imgdir>
+<imgdir name="2">
+<string name="name" value="大混亂"/>
+<string name="desc" value="讓羊陷入混亂狀態。"/>
+<int name="mobSkillID" value="132"/>
+<int name="level" value="4"/>
+<int name="userCount" value="6"/>
+<int name="owner" value="1"/>
+<string name="effect" value="Effect/BasicEff/ItemSkill/Success"/>
+</imgdir>
+<imgdir name="3">
+<string name="name" value="羊的鐘"/>
+<string name="desc" value="讓狼的速度減緩。"/>
+<int name="mobSkillID" value="126"/>
+<int name="level" value="10"/>
+<int name="allMap" value="1"/>
+<int name="owner" value="0"/>
+</imgdir>
+<imgdir name="4">
+<string name="name" value="狼的鐘"/>
+<string name="desc" value="讓羊暫時無法移動。"/>
+<int name="mobSkillID" value="123"/>
+<int name="level" value="15"/>
+<int name="allMap" value="1"/>
+<int name="owner" value="1"/>
+</imgdir>
+<imgdir name="5">
+<string name="name" value="狼的威脅"/>
+<string name="desc" value="使羊暫時陷入虛弱狀態。"/>
+<int name="mobSkillID" value="122"/>
+<int name="level" value="12"/>
+<int name="allMap" value="1"/>
+<int name="owner" value="1"/>
+<int name="userCount" value="6"/>
+<string name="effect" value="Effect/BasicEff/ItemSkill/Success"/>
+</imgdir>
+</imgdir>

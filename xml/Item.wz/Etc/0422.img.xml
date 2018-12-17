@@ -1,0 +1,3080 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="0422.img">
+<imgdir name="04220000">
+<imgdir name="info">
+<canvas name="icon" width="31" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<canvas name="iconRaw" width="31" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="1000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220001">
+<imgdir name="info">
+<canvas name="icon" width="31" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<canvas name="iconRaw" width="31" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="3000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220002">
+<imgdir name="info">
+<canvas name="icon" width="31" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<canvas name="iconRaw" width="31" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="3800"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220003">
+<imgdir name="info">
+<canvas name="icon" width="31" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<canvas name="iconRaw" width="31" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="7000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220004">
+<imgdir name="info">
+<canvas name="icon" width="31" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<canvas name="iconRaw" width="31" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="13000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220005">
+<imgdir name="info">
+<canvas name="icon" width="31" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<canvas name="iconRaw" width="31" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="24000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220006">
+<imgdir name="info">
+<canvas name="icon" width="31" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<canvas name="iconRaw" width="31" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="39000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220007">
+<imgdir name="info">
+<canvas name="icon" width="31" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<canvas name="iconRaw" width="31" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="60000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220008">
+<imgdir name="info">
+<canvas name="icon" width="31" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<canvas name="iconRaw" width="31" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="83000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220009">
+<imgdir name="info">
+<canvas name="icon" width="31" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<canvas name="iconRaw" width="31" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="100000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220010">
+<imgdir name="info">
+<canvas name="icon" width="31" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<canvas name="iconRaw" width="31" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="140000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220011">
+<imgdir name="info">
+<canvas name="icon" width="31" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<canvas name="iconRaw" width="31" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="185000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220012">
+<imgdir name="info">
+<canvas name="icon" width="31" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<canvas name="iconRaw" width="31" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="240000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220013">
+<imgdir name="info">
+<canvas name="icon" width="31" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<canvas name="iconRaw" width="31" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="310000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220014">
+<imgdir name="info">
+<canvas name="icon" width="31" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<canvas name="iconRaw" width="31" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="410000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220015">
+<imgdir name="info">
+<canvas name="icon" width="31" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<canvas name="iconRaw" width="31" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="530000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220016">
+<imgdir name="info">
+<canvas name="icon" width="31" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<canvas name="iconRaw" width="31" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="700000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220017">
+<imgdir name="info">
+<canvas name="icon" width="31" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<canvas name="iconRaw" width="31" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="910000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220018">
+<imgdir name="info">
+<canvas name="icon" width="31" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<canvas name="iconRaw" width="31" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="1200000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220019">
+<imgdir name="info">
+<canvas name="icon" width="31" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<canvas name="iconRaw" width="31" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="2000000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220020">
+<imgdir name="info">
+<canvas name="icon" width="31" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<canvas name="iconRaw" width="31" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="1000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220021">
+<imgdir name="info">
+<canvas name="icon" width="30" height="32">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<canvas name="iconRaw" width="30" height="31">
+<vector name="origin" x="-1" y="32"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="1000"/>
+<int name="slotMax" value="1"/>
+<int name="grade" value="3"/>
+<int name="questId" value="7647"/>
+<string name="name" value="碎布娃娃"/>
+<string name="uiData" value="UI/UIWindow/raise/0"/>
+<int name="timeLimited" value="1"/>
+<imgdir name="message">
+<string name="0" value="只做好骨幹的娃娃。"/>
+<string name="1" value="娃娃已完成雛型。"/>
+<string name="2" value="娃娃即將完成！"/>
+<string name="3" value="娃娃已做好了！"/>
+</imgdir>
+<imgdir name="consumeItem">
+<int name="0" value="4031838"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04220023">
+<imgdir name="info">
+<canvas name="icon" width="31" height="31">
+<vector name="origin" x="-1" y="31"/>
+</canvas>
+<canvas name="iconRaw" width="31" height="30">
+<vector name="origin" x="-1" y="31"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="100"/>
+<int name="slotMax" value="1"/>
+<int name="grade" value="4"/>
+<int name="questId" value="7660"/>
+<string name="name" value="命運紙張"/>
+<string name="uiData" value="UI/UIWindow/raise/1"/>
+<int name="timeLimited" value="1"/>
+<imgdir name="message">
+<string name="0" value="還看不出任何東西"/>
+<string name="1" value="勉強可以模糊的看出魔法陣"/>
+<string name="2" value="可以看到更多的魔法陣內容"/>
+<string name="3" value="幾乎可以看出魔法陣"/>
+<string name="4" value="可以看到今年運勢的魔法陣全部顯示出來"/>
+</imgdir>
+<imgdir name="consumeItem">
+<int name="0" value="4031896"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04220045">
+<imgdir name="info">
+<canvas name="icon" width="32" height="30">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="32" height="28">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<int name="only" value="1"/>
+<int name="exp" value="100"/>
+<int name="grade" value="5"/>
+<int name="questId" value="7691"/>
+<string name="name" value="生日蛋糕"/>
+<int name="notSale" value="1"/>
+<string name="uiData" value="UI/UIWindow/raise/2"/>
+<int name="timeLimited" value="1"/>
+<int name="price" value="100"/>
+<int name="slotMax" value="1"/>
+<int name="quest" value="1"/>
+<imgdir name="message">
+<string name="0" value="盤子是空的"/>
+<string name="1" value="盤子上放著一片蛋糕"/>
+<string name="2" value="已收集兩片蛋糕"/>
+<string name="3" value="已收集三片蛋糕再收集兩片就好了"/>
+<string name="4" value="第4片蛋糕，再收集到一片就可以完成整個週年慶蛋糕了"/>
+<string name="5" value="完成5週年的楓之谷蛋糕"/>
+</imgdir>
+<imgdir name="consumeItem">
+<int name="0" value="4001167"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04220046">
+<imgdir name="info">
+<canvas name="icon" width="24" height="29">
+<vector name="origin" x="-5" y="29"/>
+</canvas>
+<canvas name="iconRaw" width="22" height="28">
+<vector name="origin" x="-5" y="29"/>
+</canvas>
+<int name="price" value="100"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="1000"/>
+<int name="grade" value="3"/>
+<int name="questId" value="7067"/>
+<string name="name" value="咕咕鐘的蛋"/>
+<int name="notSale" value="1"/>
+<string name="uiData" value="UI/UIWindow/raise/3"/>
+<int name="slotMax" value="1"/>
+<imgdir name="message">
+<string name="0" value="從蛋裡孵化不久的咕咕鐘"/>
+<string name="1" value="咕咕鐘長大了一點"/>
+<string name="2" value="咕咕鐘又長大了一點"/>
+<string name="3" value="咕咕鐘幾乎已長大應該可以靠自己的力量生活了"/>
+</imgdir>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4031992"/>
+<int name="1" value="1"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04220067">
+<imgdir name="info">
+<canvas name="icon" width="29" height="24">
+<vector name="origin" x="-2" y="24"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="17">
+<vector name="origin" x="-2" y="24"/>
+</canvas>
+<int name="only" value="1"/>
+<int name="questId" value="10041"/>
+<string name="name" value="月亮照片信封"/>
+<int name="notSale" value="1"/>
+<string name="uiData" value="UI/UIWindow/raise/4"/>
+<int name="price" value="100"/>
+<int name="slotMax" value="1"/>
+<int name="quest" value="1"/>
+<imgdir name="message">
+<string name="0" value="空白的信封。"/>
+<string name="1" value="蒐集到一張月亮照片碎片 。"/>
+<string name="2" value="蒐集到兩張月亮照片碎片 。"/>
+<string name="3" value="蒐集到三張月亮照片碎片 。"/>
+</imgdir>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032042"/>
+<int name="1" value="1"/>
+</imgdir>
+<imgdir name="1">
+<int name="0" value="4032043"/>
+<int name="1" value="1"/>
+</imgdir>
+<imgdir name="2">
+<int name="0" value="4032044"/>
+<int name="1" value="1"/>
+</imgdir>
+<int name="consumeCount" value="3"/>
+<string name="consumeCountMessage" value="aaa。"/>
+</imgdir>
+<int name="timeLimited" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220068">
+<imgdir name="info">
+<canvas name="icon" width="31" height="27">
+<vector name="origin" x="0" y="27"/>
+</canvas>
+<canvas name="iconRaw" width="31" height="23">
+<vector name="origin" x="0" y="27"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="1000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="7"/>
+<int name="questId" value="8588"/>
+<string name="name" value="我的魚缸"/>
+<string name="uiData" value="UI/UIWindow/raise/8"/>
+<imgdir name="message">
+<string name="0" value="魚缸裡沒有任何變化。"/>
+<string name="1" value="小魚從魚卵裡孵化出來了。 "/>
+<string name="2" value="小魚睜開了眼睛眨了一下。 "/>
+<string name="3" value="小魚開始長出了粉紅色的魚鱗。 "/>
+<string name="4" value="小魚開始長出了魚鰭和小小的嘴巴。 "/>
+<string name="5" value="小魚長出了明顯的尾鰭，大眼睛對著你一眨一眨地。"/>
+<string name="6" value="小魚快樂的游來游去，兩側的鰭都長出來了。 "/>
+<string name="7" value="哇！終於變成了一條美麗的大金魚。"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04220069">
+<imgdir name="info">
+<canvas name="icon" width="31" height="27">
+<vector name="origin" x="0" y="27"/>
+</canvas>
+<canvas name="iconRaw" width="31" height="23">
+<vector name="origin" x="0" y="27"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="3000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="7"/>
+<int name="questId" value="8589"/>
+<string name="name" value="我的魚缸"/>
+<string name="uiData" value="UI/UIWindow/raise/8"/>
+<imgdir name="message">
+<string name="0" value="魚缸裡沒有任何變化"/>
+<string name="1" value="小魚從魚卵裡孵化出來了。 "/>
+<string name="2" value="小魚睜開了眼睛眨了一下。 "/>
+<string name="3" value="小魚開始長出了粉紅色的魚鱗。 "/>
+<string name="4" value="小魚開始長出了魚鰭和小小的嘴巴。 "/>
+<string name="5" value="小魚長出了明顯的尾鰭，大眼睛對著你一眨一眨地。"/>
+<string name="6" value="小魚快樂的游來游去，兩側的鰭都長出來了。 "/>
+<string name="7" value="哇！終於變成了一條美麗的大金魚。"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04220070">
+<imgdir name="info">
+<canvas name="icon" width="31" height="27">
+<vector name="origin" x="0" y="27"/>
+</canvas>
+<canvas name="iconRaw" width="31" height="23">
+<vector name="origin" x="0" y="27"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="5000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="7"/>
+<int name="questId" value="8590"/>
+<string name="name" value="我的魚缸"/>
+<string name="uiData" value="UI/UIWindow/raise/8"/>
+<imgdir name="message">
+<string name="0" value="魚缸裡沒有任何變化"/>
+<string name="1" value="小魚從魚卵裡孵化出來了。 "/>
+<string name="2" value="小魚睜開了眼睛眨了一下。 "/>
+<string name="3" value="小魚開始長出了粉紅色的魚鱗。 "/>
+<string name="4" value="小魚開始長出了魚鰭和小小的嘴巴。 "/>
+<string name="5" value="小魚長出了明顯的尾鰭，大眼睛對著你一眨一眨地。"/>
+<string name="6" value="小魚快樂的游來游去，兩側的鰭都長出來了。 "/>
+<string name="7" value="哇！終於變成了一條美麗的大金魚。"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04220071">
+<imgdir name="info">
+<canvas name="icon" width="31" height="27">
+<vector name="origin" x="0" y="27"/>
+</canvas>
+<canvas name="iconRaw" width="31" height="23">
+<vector name="origin" x="0" y="27"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="10000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="7"/>
+<int name="questId" value="8591"/>
+<string name="name" value="我的魚缸"/>
+<string name="uiData" value="UI/UIWindow/raise/8"/>
+<imgdir name="message">
+<string name="0" value="魚缸裡沒有任何變化"/>
+<string name="1" value="小魚從魚卵裡孵化出來了。 "/>
+<string name="2" value="小魚睜開了眼睛眨了一下。 "/>
+<string name="3" value="小魚開始長出了粉紅色的魚鱗。 "/>
+<string name="4" value="小魚開始長出了魚鰭和小小的嘴巴。 "/>
+<string name="5" value="小魚長出了明顯的尾鰭，大眼睛對著你一眨一眨地。"/>
+<string name="6" value="小魚快樂的游來游去，兩側的鰭都長出來了。 "/>
+<string name="7" value="哇！終於變成了一條美麗的大金魚。"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04220072">
+<imgdir name="info">
+<canvas name="icon" width="31" height="27">
+<vector name="origin" x="0" y="27"/>
+</canvas>
+<canvas name="iconRaw" width="31" height="23">
+<vector name="origin" x="0" y="27"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="20000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="7"/>
+<int name="questId" value="8592"/>
+<string name="name" value="我的魚缸"/>
+<string name="uiData" value="UI/UIWindow/raise/8"/>
+<imgdir name="message">
+<string name="0" value="魚缸裡沒有任何變化"/>
+<string name="1" value="小魚從魚卵裡孵化出來了。 "/>
+<string name="2" value="小魚睜開了眼睛眨了一下。 "/>
+<string name="3" value="小魚開始長出了粉紅色的魚鱗。 "/>
+<string name="4" value="小魚開始長出了魚鰭和小小的嘴巴。 "/>
+<string name="5" value="小魚長出了明顯的尾鰭，大眼睛對著你一眨一眨地。"/>
+<string name="6" value="小魚快樂的游來游去，兩側的鰭都長出來了。 "/>
+<string name="7" value="哇！終於變成了一條美麗的大金魚。"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04220073">
+<imgdir name="info">
+<canvas name="icon" width="31" height="27">
+<vector name="origin" x="0" y="27"/>
+</canvas>
+<canvas name="iconRaw" width="31" height="23">
+<vector name="origin" x="0" y="27"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="25000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="7"/>
+<int name="questId" value="8593"/>
+<string name="name" value="我的魚缸"/>
+<string name="uiData" value="UI/UIWindow/raise/8"/>
+<imgdir name="message">
+<string name="0" value="魚缸裡沒有任何變化"/>
+<string name="1" value="小魚從魚卵裡孵化出來了。 "/>
+<string name="2" value="小魚睜開了眼睛眨了一下。 "/>
+<string name="3" value="小魚開始長出了粉紅色的魚鱗。 "/>
+<string name="4" value="小魚開始長出了魚鰭和小小的嘴巴。 "/>
+<string name="5" value="小魚長出了明顯的尾鰭，大眼睛對著你一眨一眨地。"/>
+<string name="6" value="小魚快樂的游來游去，兩側的鰭都長出來了。 "/>
+<string name="7" value="哇！終於變成了一條美麗的大金魚。"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04220074">
+<imgdir name="info">
+<canvas name="icon" width="32" height="30">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="32" height="28">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<int name="only" value="1"/>
+<int name="exp" value="100"/>
+<int name="grade" value="4"/>
+<int name="questId" value="52019"/>
+<string name="name" value="生日蛋糕禮盒"/>
+<int name="notSale" value="1"/>
+<string name="uiData" value="UI/UIWindow/raise/23"/>
+<int name="timeLimited" value="1"/>
+<int name="price" value="100"/>
+<int name="slotMax" value="1"/>
+<int name="quest" value="1"/>
+<imgdir name="message">
+<string name="0" value="您的生日蛋糕盒盤子是空的。"/>
+<string name="1" value="一個生日蛋糕碎片被放置在生日蛋糕盒盤子上。"/>
+<string name="2" value="您收集了二個生日蛋糕碎片。"/>
+<string name="3" value="只差一片就完成了生日蛋糕。"/>
+<string name="4" value="楓之谷4週年慶生日蛋糕完成了。"/>
+</imgdir>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4001167"/>
+<int name="1" value="100"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04220089">
+<imgdir name="info">
+<canvas name="icon" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<string name="questId" value="8252"/>
+<string name="name" value="雞蛋"/>
+<int name="only" value="1"/>
+<int name="exp" value="1000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="3"/>
+<string name="uiData" value="UI/UIWindow/raise/9"/>
+<int name="hybrid" value="1"/>
+<imgdir name="message">
+<string name="0" value="尚未孵化的雞蛋。"/>
+<string name="1" value="蛋殼有了小小的裂痕。"/>
+<string name="2" value="長出了小雞。"/>
+<string name="3" value="成長為一隻雞了！"/>
+</imgdir>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032135"/>
+<int name="1" value="1"/>
+</imgdir>
+<int name="consumeCount" value="5"/>
+<string name="consumeCountMessage" value="需連續五天每天灑成長粉。"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04220090">
+<imgdir name="info">
+<canvas name="icon" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<string name="questId" value="8252"/>
+<string name="name" value="雞蛋"/>
+<int name="only" value="1"/>
+<int name="exp" value="3300"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="3"/>
+<string name="uiData" value="UI/UIWindow/raise/9"/>
+<imgdir name="message">
+<string name="0" value="尚未孵化的雞蛋。"/>
+<string name="1" value="蛋殼有了小小的裂痕。"/>
+<string name="2" value="長出了小雞。"/>
+<string name="3" value="成長為一隻雞了！"/>
+</imgdir>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032135"/>
+<int name="1" value="1"/>
+</imgdir>
+<int name="consumeCount" value="5"/>
+<string name="consumeCountMessage" value="需連續五天每天灑成長粉。"/>
+</imgdir>
+<int name="hybrid" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220091">
+<imgdir name="info">
+<canvas name="icon" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="7000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="3"/>
+<string name="uiData" value="UI/UIWindow/raise/9"/>
+<imgdir name="message">
+<string name="0" value="尚未孵化的雞蛋。"/>
+<string name="1" value="蛋殼有了小小的裂痕。"/>
+<string name="2" value="長出了小雞。"/>
+<string name="3" value="成長為一隻雞了！"/>
+</imgdir>
+<string name="questId" value="8252"/>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032135"/>
+<int name="1" value="1"/>
+</imgdir>
+<int name="consumeCount" value="5"/>
+<string name="consumeCountMessage" value="需連續五天每天灑成長粉。"/>
+</imgdir>
+<string name="name" value="雞蛋"/>
+<int name="hybrid" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220092">
+<imgdir name="info">
+<canvas name="icon" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="13000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="3"/>
+<string name="uiData" value="UI/UIWindow/raise/9"/>
+<imgdir name="message">
+<string name="0" value="尚未孵化的雞蛋。"/>
+<string name="1" value="蛋殼有了小小的裂痕。"/>
+<string name="2" value="長出了小雞。"/>
+<string name="3" value="成長為一隻雞了！"/>
+</imgdir>
+<string name="questId" value="8252"/>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032135"/>
+<int name="1" value="1"/>
+</imgdir>
+<int name="consumeCount" value="5"/>
+<string name="consumeCountMessage" value="需連續五天每天灑成長粉。"/>
+</imgdir>
+<string name="name" value="雞蛋"/>
+<int name="hybrid" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220093">
+<imgdir name="info">
+<canvas name="icon" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="30000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="3"/>
+<string name="uiData" value="UI/UIWindow/raise/9"/>
+<imgdir name="message">
+<string name="0" value="尚未孵化的雞蛋。"/>
+<string name="1" value="蛋殼有了小小的裂痕。"/>
+<string name="2" value="長出了小雞。"/>
+<string name="3" value="成長為一隻雞了！"/>
+</imgdir>
+<string name="questId" value="8252"/>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032135"/>
+<int name="1" value="1"/>
+</imgdir>
+<int name="consumeCount" value="5"/>
+<string name="consumeCountMessage" value="需連續五天每天灑成長粉。"/>
+</imgdir>
+<string name="name" value="雞蛋"/>
+<int name="hybrid" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220094">
+<imgdir name="info">
+<canvas name="icon" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="70000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="3"/>
+<string name="uiData" value="UI/UIWindow/raise/9"/>
+<imgdir name="message">
+<string name="0" value="尚未孵化的雞蛋。"/>
+<string name="1" value="蛋殼有了小小的裂痕。"/>
+<string name="2" value="長出了小雞。"/>
+<string name="3" value="成長為一隻雞了！"/>
+</imgdir>
+<string name="questId" value="8252"/>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032135"/>
+<int name="1" value="1"/>
+</imgdir>
+<int name="consumeCount" value="5"/>
+<string name="consumeCountMessage" value="需連續五天每天灑成長粉。"/>
+</imgdir>
+<string name="name" value="雞蛋"/>
+<int name="hybrid" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220095">
+<imgdir name="info">
+<canvas name="icon" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="110000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="3"/>
+<string name="uiData" value="UI/UIWindow/raise/9"/>
+<imgdir name="message">
+<string name="0" value="尚未孵化的雞蛋。"/>
+<string name="1" value="蛋殼有了小小的裂痕。"/>
+<string name="2" value="長出了小雞。"/>
+<string name="3" value="成長為一隻雞了！"/>
+</imgdir>
+<string name="questId" value="8252"/>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032135"/>
+<int name="1" value="1"/>
+</imgdir>
+<int name="consumeCount" value="5"/>
+<string name="consumeCountMessage" value="需連續五天每天灑成長粉。"/>
+</imgdir>
+<string name="name" value="雞蛋"/>
+<int name="hybrid" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220096">
+<imgdir name="info">
+<canvas name="icon" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="190000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="3"/>
+<string name="uiData" value="UI/UIWindow/raise/9"/>
+<imgdir name="message">
+<string name="0" value="尚未孵化的雞蛋。"/>
+<string name="1" value="蛋殼有了小小的裂痕。"/>
+<string name="2" value="長出了小雞。"/>
+<string name="3" value="成長為一隻雞了！"/>
+</imgdir>
+<string name="questId" value="8252"/>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032135"/>
+<int name="1" value="1"/>
+</imgdir>
+<int name="consumeCount" value="5"/>
+<string name="consumeCountMessage" value="需連續五天每天灑成長粉。"/>
+</imgdir>
+<string name="name" value="雞蛋"/>
+<int name="hybrid" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220097">
+<imgdir name="info">
+<canvas name="icon" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="350000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="3"/>
+<string name="uiData" value="UI/UIWindow/raise/9"/>
+<imgdir name="message">
+<string name="0" value="尚未孵化的雞蛋。"/>
+<string name="1" value="蛋殼有了小小的裂痕。"/>
+<string name="2" value="長出了小雞。"/>
+<string name="3" value="成長為一隻雞了！"/>
+</imgdir>
+<string name="questId" value="8252"/>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032135"/>
+<int name="1" value="1"/>
+</imgdir>
+<int name="consumeCount" value="5"/>
+<string name="consumeCountMessage" value="需連續五天每天灑成長粉。"/>
+</imgdir>
+<string name="name" value="雞蛋"/>
+<int name="hybrid" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220098">
+<imgdir name="info">
+<canvas name="icon" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="550000"/>
+<string name="questId" value="8252"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="3"/>
+<string name="uiData" value="UI/UIWindow/raise/9"/>
+<imgdir name="message">
+<string name="0" value="尚未孵化的雞蛋。"/>
+<string name="1" value="蛋殼有了小小的裂痕。"/>
+<string name="2" value="長出了小雞。"/>
+<string name="3" value="成長為一隻雞了！"/>
+</imgdir>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032135"/>
+<int name="1" value="1"/>
+</imgdir>
+<int name="consumeCount" value="5"/>
+<string name="consumeCountMessage" value="需連續五天每天灑成長粉。"/>
+</imgdir>
+<string name="name" value="雞蛋"/>
+<int name="hybrid" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220099">
+<imgdir name="info">
+<canvas name="icon" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="910000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+<string name="questId" value="8252"/>
+<int name="grade" value="3"/>
+<string name="uiData" value="UI/UIWindow/raise/9"/>
+<imgdir name="message">
+<string name="0" value="尚未孵化的雞蛋。"/>
+<string name="1" value="蛋殼有了小小的裂痕。"/>
+<string name="2" value="長出了小雞。"/>
+<string name="3" value="成長為一隻雞了！"/>
+</imgdir>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032135"/>
+<int name="1" value="1"/>
+</imgdir>
+<int name="consumeCount" value="5"/>
+<string name="consumeCountMessage" value="需連續五天每天灑成長粉。"/>
+</imgdir>
+<string name="name" value="雞蛋"/>
+<int name="hybrid" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220100">
+<imgdir name="info">
+<canvas name="icon" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="2000000"/>
+<int name="slotMax" value="1"/>
+<string name="questId" value="8252"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="3"/>
+<string name="uiData" value="UI/UIWindow/raise/9"/>
+<imgdir name="message">
+<string name="0" value="尚未孵化的雞蛋。"/>
+<string name="1" value="蛋殼有了小小的裂痕。"/>
+<string name="2" value="長出了小雞。"/>
+<string name="3" value="成長為一隻雞了！"/>
+</imgdir>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032135"/>
+<int name="1" value="1"/>
+</imgdir>
+<int name="consumeCount" value="5"/>
+<string name="consumeCountMessage" value="需連續五天每天灑成長粉。"/>
+</imgdir>
+<string name="name" value="雞蛋"/>
+<int name="hybrid" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220101">
+<imgdir name="info">
+<canvas name="icon" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<string name="questId" value="8252"/>
+<int name="only" value="1"/>
+<int name="exp" value="1000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="3"/>
+<string name="uiData" value="UI/UIWindow/raise/10"/>
+<imgdir name="message">
+<string name="0" value="尚未孵化的雞蛋。"/>
+<string name="1" value="蛋殼有了小小的裂痕。"/>
+<string name="2" value="長出了小雞。"/>
+<string name="3" value="成長為一隻鴨子了！"/>
+</imgdir>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032135"/>
+<int name="1" value="1"/>
+</imgdir>
+<int name="consumeCount" value="5"/>
+<string name="consumeCountMessage" value="需連續五天每天灑成長粉。"/>
+</imgdir>
+<string name="name" value="雞蛋"/>
+<int name="hybrid" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220102">
+<imgdir name="info">
+<canvas name="icon" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<string name="questId" value="8252"/>
+<int name="only" value="1"/>
+<int name="exp" value="3300"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="3"/>
+<string name="uiData" value="UI/UIWindow/raise/10"/>
+<imgdir name="message">
+<string name="0" value="尚未孵化的雞蛋。"/>
+<string name="1" value="蛋殼有了小小的裂痕。"/>
+<string name="2" value="長出了小雞。"/>
+<string name="3" value="成長為一隻鴨子了！"/>
+</imgdir>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032135"/>
+<int name="1" value="1"/>
+</imgdir>
+<int name="consumeCount" value="5"/>
+<string name="consumeCountMessage" value="需連續五天每天灑成長粉。"/>
+</imgdir>
+<string name="name" value="雞蛋"/>
+<int name="hybrid" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220103">
+<imgdir name="info">
+<canvas name="icon" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="7000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="3"/>
+<string name="uiData" value="UI/UIWindow/raise/10"/>
+<imgdir name="message">
+<string name="0" value="尚未孵化的雞蛋。"/>
+<string name="1" value="蛋殼有了小小的裂痕。"/>
+<string name="2" value="長出了小雞。"/>
+<string name="3" value="成長為一隻鴨子了！"/>
+</imgdir>
+<string name="questId" value="8252"/>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032135"/>
+<int name="1" value="1"/>
+</imgdir>
+<int name="consumeCount" value="5"/>
+<string name="consumeCountMessage" value="需連續五天每天灑成長粉。"/>
+</imgdir>
+<string name="name" value="雞蛋"/>
+<int name="hybrid" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220104">
+<imgdir name="info">
+<canvas name="icon" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="13000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="3"/>
+<string name="uiData" value="UI/UIWindow/raise/10"/>
+<imgdir name="message">
+<string name="0" value="尚未孵化的雞蛋。"/>
+<string name="1" value="蛋殼有了小小的裂痕。"/>
+<string name="2" value="長出了小雞。"/>
+<string name="3" value="成長為一隻鴨子了！"/>
+</imgdir>
+<string name="questId" value="8252"/>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032135"/>
+<int name="1" value="1"/>
+</imgdir>
+<int name="consumeCount" value="5"/>
+<string name="consumeCountMessage" value="需連續五天每天灑成長粉。"/>
+</imgdir>
+<string name="name" value="雞蛋"/>
+<int name="hybrid" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220105">
+<imgdir name="info">
+<canvas name="icon" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="30000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="3"/>
+<string name="uiData" value="UI/UIWindow/raise/10"/>
+<imgdir name="message">
+<string name="0" value="尚未孵化的雞蛋。"/>
+<string name="1" value="蛋殼有了小小的裂痕。"/>
+<string name="2" value="長出了小雞。"/>
+<string name="3" value="成長為一隻鴨子了！"/>
+</imgdir>
+<string name="questId" value="8252"/>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032135"/>
+<int name="1" value="1"/>
+</imgdir>
+<int name="consumeCount" value="5"/>
+<string name="consumeCountMessage" value="需連續五天每天灑成長粉。"/>
+</imgdir>
+<string name="name" value="雞蛋"/>
+<int name="hybrid" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220106">
+<imgdir name="info">
+<canvas name="icon" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="70000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="3"/>
+<string name="uiData" value="UI/UIWindow/raise/10"/>
+<imgdir name="message">
+<string name="0" value="尚未孵化的雞蛋。"/>
+<string name="1" value="蛋殼有了小小的裂痕。"/>
+<string name="2" value="長出了小雞。"/>
+<string name="3" value="成長為一隻鴨子了！"/>
+</imgdir>
+<string name="questId" value="8252"/>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032135"/>
+<int name="1" value="1"/>
+</imgdir>
+<int name="consumeCount" value="5"/>
+<string name="consumeCountMessage" value="需連續五天每天灑成長粉。"/>
+</imgdir>
+<string name="name" value="雞蛋"/>
+<int name="hybrid" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220107">
+<imgdir name="info">
+<canvas name="icon" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="110000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="3"/>
+<string name="uiData" value="UI/UIWindow/raise/10"/>
+<imgdir name="message">
+<string name="0" value="尚未孵化的雞蛋。"/>
+<string name="1" value="蛋殼有了小小的裂痕。"/>
+<string name="2" value="長出了小雞。"/>
+<string name="3" value="成長為一隻鴨子了！"/>
+</imgdir>
+<string name="questId" value="8252"/>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032135"/>
+<int name="1" value="1"/>
+</imgdir>
+<int name="consumeCount" value="5"/>
+<string name="consumeCountMessage" value="需連續五天每天灑成長粉。"/>
+</imgdir>
+<string name="name" value="雞蛋"/>
+<int name="hybrid" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220108">
+<imgdir name="info">
+<canvas name="icon" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="190000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="3"/>
+<string name="uiData" value="UI/UIWindow/raise/10"/>
+<imgdir name="message">
+<string name="0" value="尚未孵化的雞蛋。"/>
+<string name="1" value="蛋殼有了小小的裂痕。"/>
+<string name="2" value="長出了小雞。"/>
+<string name="3" value="成長為一隻鴨子了！"/>
+</imgdir>
+<string name="questId" value="8252"/>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032135"/>
+<int name="1" value="1"/>
+</imgdir>
+<int name="consumeCount" value="5"/>
+<string name="consumeCountMessage" value="需連續五天每天灑成長粉。"/>
+</imgdir>
+<string name="name" value="雞蛋"/>
+<int name="hybrid" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220109">
+<imgdir name="info">
+<canvas name="icon" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="350000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="3"/>
+<string name="uiData" value="UI/UIWindow/raise/10"/>
+<imgdir name="message">
+<string name="0" value="尚未孵化的雞蛋。"/>
+<string name="1" value="蛋殼有了小小的裂痕。"/>
+<string name="2" value="長出了小雞。"/>
+<string name="3" value="成長為一隻鴨子了！"/>
+</imgdir>
+<string name="questId" value="8252"/>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032135"/>
+<int name="1" value="1"/>
+</imgdir>
+<int name="consumeCount" value="5"/>
+<string name="consumeCountMessage" value="需連續五天每天灑成長粉。"/>
+</imgdir>
+<string name="name" value="雞蛋"/>
+<int name="hybrid" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220110">
+<imgdir name="info">
+<canvas name="icon" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="550000"/>
+<string name="questId" value="8252"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="3"/>
+<string name="uiData" value="UI/UIWindow/raise/10"/>
+<imgdir name="message">
+<string name="0" value="尚未孵化的雞蛋。"/>
+<string name="1" value="蛋殼有了小小的裂痕。"/>
+<string name="2" value="長出了小雞。"/>
+<string name="3" value="成長為一隻鴨子了！"/>
+</imgdir>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032135"/>
+<int name="1" value="1"/>
+</imgdir>
+<int name="consumeCount" value="5"/>
+<string name="consumeCountMessage" value="需連續五天每天灑成長粉。"/>
+</imgdir>
+<string name="name" value="雞蛋"/>
+<int name="hybrid" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220111">
+<imgdir name="info">
+<canvas name="icon" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="910000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+<string name="questId" value="8252"/>
+<int name="grade" value="3"/>
+<string name="uiData" value="UI/UIWindow/raise/10"/>
+<imgdir name="message">
+<string name="0" value="尚未孵化的雞蛋。"/>
+<string name="1" value="蛋殼有了小小的裂痕。"/>
+<string name="2" value="長出了小雞。"/>
+<string name="3" value="成長為一隻鴨子了！"/>
+</imgdir>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032135"/>
+<int name="1" value="1"/>
+</imgdir>
+<int name="consumeCount" value="5"/>
+<string name="consumeCountMessage" value="需連續五天每天灑成長粉。"/>
+</imgdir>
+<string name="name" value="雞蛋"/>
+<int name="hybrid" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220112">
+<imgdir name="info">
+<canvas name="icon" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="2000000"/>
+<int name="slotMax" value="1"/>
+<string name="questId" value="8252"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="3"/>
+<string name="uiData" value="UI/UIWindow/raise/10"/>
+<imgdir name="message">
+<string name="0" value="尚未孵化的雞蛋。"/>
+<string name="1" value="蛋殼有了小小的裂痕。"/>
+<string name="2" value="長出了小雞。"/>
+<string name="3" value="成長為一隻鴨子了！"/>
+</imgdir>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032135"/>
+<int name="1" value="1"/>
+</imgdir>
+<int name="consumeCount" value="5"/>
+<string name="consumeCountMessage" value="需連續五天每天灑成長粉。"/>
+</imgdir>
+<string name="name" value="雞蛋"/>
+<int name="hybrid" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220113">
+<imgdir name="info">
+<canvas name="icon" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<string name="questId" value="8252"/>
+<int name="only" value="1"/>
+<int name="exp" value="1000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="3"/>
+<string name="uiData" value="UI/UIWindow/raise/11"/>
+<imgdir name="message">
+<string name="0" value="尚未孵化的雞蛋。"/>
+<string name="1" value="蛋殼有了小小的裂痕。"/>
+<string name="2" value="長出了小雞。"/>
+<string name="3" value="成長為一隻黃金雞了！"/>
+</imgdir>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032135"/>
+<int name="1" value="1"/>
+</imgdir>
+<int name="consumeCount" value="5"/>
+<string name="consumeCountMessage" value="需連續五天每天灑成長粉。"/>
+</imgdir>
+<string name="name" value="雞蛋"/>
+<int name="hybrid" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220114">
+<imgdir name="info">
+<canvas name="icon" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<string name="questId" value="8252"/>
+<int name="only" value="1"/>
+<int name="exp" value="3300"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="3"/>
+<string name="uiData" value="UI/UIWindow/raise/11"/>
+<imgdir name="message">
+<string name="0" value="尚未孵化的雞蛋。"/>
+<string name="1" value="蛋殼有了小小的裂痕。"/>
+<string name="2" value="長出了小雞。"/>
+<string name="3" value="成長為一隻黃金雞了！"/>
+</imgdir>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032135"/>
+<int name="1" value="1"/>
+</imgdir>
+<int name="consumeCount" value="5"/>
+<string name="consumeCountMessage" value="需連續五天每天灑成長粉。"/>
+</imgdir>
+<string name="name" value="雞蛋"/>
+<int name="hybrid" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220115">
+<imgdir name="info">
+<canvas name="icon" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="7000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="3"/>
+<string name="uiData" value="UI/UIWindow/raise/11"/>
+<imgdir name="message">
+<string name="0" value="尚未孵化的雞蛋。"/>
+<string name="1" value="蛋殼有了小小的裂痕。"/>
+<string name="2" value="長出了小雞。"/>
+<string name="3" value="成長為一隻黃金雞了！"/>
+</imgdir>
+<string name="questId" value="8252"/>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032135"/>
+<int name="1" value="1"/>
+</imgdir>
+<int name="consumeCount" value="5"/>
+<string name="consumeCountMessage" value="需連續五天每天灑成長粉。"/>
+</imgdir>
+<string name="name" value="雞蛋"/>
+<int name="hybrid" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220116">
+<imgdir name="info">
+<canvas name="icon" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="13000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="3"/>
+<string name="uiData" value="UI/UIWindow/raise/11"/>
+<imgdir name="message">
+<string name="0" value="尚未孵化的雞蛋。"/>
+<string name="1" value="蛋殼有了小小的裂痕。"/>
+<string name="2" value="長出了小雞。"/>
+<string name="3" value="成長為一隻黃金雞了！"/>
+</imgdir>
+<string name="questId" value="8252"/>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032135"/>
+<int name="1" value="1"/>
+</imgdir>
+<int name="consumeCount" value="5"/>
+<string name="consumeCountMessage" value="需連續五天每天灑成長粉。"/>
+</imgdir>
+<string name="name" value="雞蛋"/>
+<int name="hybrid" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220117">
+<imgdir name="info">
+<canvas name="icon" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="30000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="3"/>
+<string name="uiData" value="UI/UIWindow/raise/11"/>
+<imgdir name="message">
+<string name="0" value="尚未孵化的雞蛋。"/>
+<string name="1" value="蛋殼有了小小的裂痕。"/>
+<string name="2" value="長出了小雞。"/>
+<string name="3" value="成長為一隻黃金雞了！"/>
+</imgdir>
+<string name="questId" value="8252"/>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032135"/>
+<int name="1" value="1"/>
+</imgdir>
+<int name="consumeCount" value="5"/>
+<string name="consumeCountMessage" value="需連續五天每天灑成長粉。"/>
+</imgdir>
+<string name="name" value="雞蛋"/>
+<int name="hybrid" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220118">
+<imgdir name="info">
+<canvas name="icon" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="70000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="3"/>
+<string name="uiData" value="UI/UIWindow/raise/11"/>
+<imgdir name="message">
+<string name="0" value="尚未孵化的雞蛋。"/>
+<string name="1" value="蛋殼有了小小的裂痕。"/>
+<string name="2" value="長出了小雞。"/>
+<string name="3" value="成長為一隻黃金雞了！"/>
+</imgdir>
+<string name="questId" value="8252"/>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032135"/>
+<int name="1" value="1"/>
+</imgdir>
+<int name="consumeCount" value="5"/>
+<string name="consumeCountMessage" value="需連續五天每天灑成長粉。"/>
+</imgdir>
+<string name="name" value="雞蛋"/>
+<int name="hybrid" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220119">
+<imgdir name="info">
+<canvas name="icon" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="110000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="3"/>
+<string name="uiData" value="UI/UIWindow/raise/11"/>
+<imgdir name="message">
+<string name="0" value="尚未孵化的雞蛋。"/>
+<string name="1" value="蛋殼有了小小的裂痕。"/>
+<string name="2" value="長出了小雞。"/>
+<string name="3" value="成長為一隻黃金雞了！"/>
+</imgdir>
+<string name="questId" value="8252"/>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032135"/>
+<int name="1" value="1"/>
+</imgdir>
+<int name="consumeCount" value="5"/>
+<string name="consumeCountMessage" value="需連續五天每天灑成長粉。"/>
+</imgdir>
+<string name="name" value="雞蛋"/>
+<int name="hybrid" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220120">
+<imgdir name="info">
+<canvas name="icon" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="190000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="3"/>
+<string name="uiData" value="UI/UIWindow/raise/11"/>
+<imgdir name="message">
+<string name="0" value="尚未孵化的雞蛋。"/>
+<string name="1" value="蛋殼有了小小的裂痕。"/>
+<string name="2" value="長出了小雞。"/>
+<string name="3" value="成長為一隻黃金雞了！"/>
+</imgdir>
+<string name="questId" value="8252"/>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032135"/>
+<int name="1" value="1"/>
+</imgdir>
+<int name="consumeCount" value="5"/>
+<string name="consumeCountMessage" value="需連續五天每天灑成長粉。"/>
+</imgdir>
+<string name="name" value="雞蛋"/>
+<int name="hybrid" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220121">
+<imgdir name="info">
+<canvas name="icon" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="350000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="3"/>
+<string name="uiData" value="UI/UIWindow/raise/11"/>
+<imgdir name="message">
+<string name="0" value="尚未孵化的雞蛋。"/>
+<string name="1" value="蛋殼有了小小的裂痕。"/>
+<string name="2" value="長出了小雞。"/>
+<string name="3" value="成長為一隻黃金雞了！"/>
+</imgdir>
+<string name="questId" value="8252"/>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032135"/>
+<int name="1" value="1"/>
+</imgdir>
+<int name="consumeCount" value="5"/>
+<string name="consumeCountMessage" value="需連續五天每天灑成長粉。"/>
+</imgdir>
+<string name="name" value="雞蛋"/>
+<int name="hybrid" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220122">
+<imgdir name="info">
+<canvas name="icon" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="550000"/>
+<string name="questId" value="8252"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="3"/>
+<string name="uiData" value="UI/UIWindow/raise/11"/>
+<imgdir name="message">
+<string name="0" value="尚未孵化的雞蛋。"/>
+<string name="1" value="蛋殼有了小小的裂痕。"/>
+<string name="2" value="長出了小雞。"/>
+<string name="3" value="成長為一隻黃金雞了！"/>
+</imgdir>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032135"/>
+<int name="1" value="1"/>
+</imgdir>
+<int name="consumeCount" value="5"/>
+<string name="consumeCountMessage" value="需連續五天每天灑成長粉。"/>
+</imgdir>
+<string name="name" value="雞蛋"/>
+<int name="hybrid" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220123">
+<imgdir name="info">
+<canvas name="icon" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="910000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+<string name="questId" value="8252"/>
+<int name="grade" value="3"/>
+<string name="uiData" value="UI/UIWindow/raise/11"/>
+<imgdir name="message">
+<string name="0" value="尚未孵化的雞蛋。"/>
+<string name="1" value="蛋殼有了小小的裂痕。"/>
+<string name="2" value="長出了小雞。"/>
+<string name="3" value="成長為一隻黃金雞了！"/>
+</imgdir>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032135"/>
+<int name="1" value="1"/>
+</imgdir>
+<int name="consumeCount" value="5"/>
+<string name="consumeCountMessage" value="需連續五天每天灑成長粉。"/>
+</imgdir>
+<string name="name" value="雞蛋"/>
+<int name="hybrid" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220124">
+<imgdir name="info">
+<canvas name="icon" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="31">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="2000000"/>
+<int name="slotMax" value="1"/>
+<string name="questId" value="8252"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="3"/>
+<string name="uiData" value="UI/UIWindow/raise/11"/>
+<imgdir name="message">
+<string name="0" value="尚未孵化的雞蛋。"/>
+<string name="1" value="蛋殼有了小小的裂痕。"/>
+<string name="2" value="長出了小雞。"/>
+<string name="3" value="成長為一隻黃金雞了！"/>
+</imgdir>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032135"/>
+<int name="1" value="1"/>
+</imgdir>
+<int name="consumeCount" value="5"/>
+<string name="consumeCountMessage" value="需連續五天每天灑成長粉。"/>
+</imgdir>
+<string name="name" value="雞蛋"/>
+<int name="hybrid" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220125">
+<imgdir name="info">
+<canvas name="icon" width="34" height="30">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="30">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<string name="questId" value="8252"/>
+<int name="only" value="1"/>
+<int name="exp" value="1000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="3"/>
+<string name="uiData" value="UI/UIWindow/raise/12"/>
+<imgdir name="message">
+<string name="0" value="尚未孵化的黃金蛋。"/>
+<string name="1" value="蛋殼有了小小的裂痕。"/>
+<string name="2" value="長出了小雞。"/>
+<string name="3" value="成長為一隻黃金雞了！"/>
+</imgdir>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032135"/>
+<int name="1" value="1"/>
+</imgdir>
+<int name="consumeCount" value="5"/>
+<string name="consumeCountMessage" value="需連續五天每天灑成長粉。"/>
+</imgdir>
+<string name="name" value="黃金蛋"/>
+<int name="hybrid" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220126">
+<imgdir name="info">
+<canvas name="icon" width="34" height="30">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="30">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<string name="questId" value="8252"/>
+<int name="only" value="1"/>
+<int name="exp" value="3300"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="3"/>
+<string name="uiData" value="UI/UIWindow/raise/12"/>
+<imgdir name="message">
+<string name="0" value="尚未孵化的黃金蛋。"/>
+<string name="1" value="蛋殼有了小小的裂痕。"/>
+<string name="2" value="長出了小雞。"/>
+<string name="3" value="成長為一隻黃金雞了！"/>
+</imgdir>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032135"/>
+<int name="1" value="1"/>
+</imgdir>
+<int name="consumeCount" value="5"/>
+<string name="consumeCountMessage" value="需連續五天每天灑成長粉。"/>
+</imgdir>
+<string name="name" value="黃金蛋"/>
+<int name="hybrid" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220127">
+<imgdir name="info">
+<canvas name="icon" width="34" height="30">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="30">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="7000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="3"/>
+<string name="uiData" value="UI/UIWindow/raise/12"/>
+<imgdir name="message">
+<string name="0" value="尚未孵化的黃金蛋。"/>
+<string name="1" value="蛋殼有了小小的裂痕。"/>
+<string name="2" value="長出了小雞。"/>
+<string name="3" value="成長為一隻黃金雞了！"/>
+</imgdir>
+<string name="questId" value="8252"/>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032135"/>
+<int name="1" value="1"/>
+</imgdir>
+<int name="consumeCount" value="5"/>
+<string name="consumeCountMessage" value="需連續五天每天灑成長粉。"/>
+</imgdir>
+<string name="name" value="黃金蛋"/>
+<int name="hybrid" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220128">
+<imgdir name="info">
+<canvas name="icon" width="34" height="30">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="30">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="13000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="3"/>
+<string name="uiData" value="UI/UIWindow/raise/12"/>
+<imgdir name="message">
+<string name="0" value="尚未孵化的黃金蛋。"/>
+<string name="1" value="蛋殼有了小小的裂痕。"/>
+<string name="2" value="長出了小雞。"/>
+<string name="3" value="成長為一隻黃金雞了！"/>
+</imgdir>
+<string name="questId" value="8252"/>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032135"/>
+<int name="1" value="1"/>
+</imgdir>
+<int name="consumeCount" value="5"/>
+<string name="consumeCountMessage" value="需連續五天每天灑成長粉。"/>
+</imgdir>
+<string name="name" value="黃金蛋"/>
+<int name="hybrid" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220129">
+<imgdir name="info">
+<canvas name="icon" width="34" height="30">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="30">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="30000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="3"/>
+<string name="uiData" value="UI/UIWindow/raise/12"/>
+<imgdir name="message">
+<string name="0" value="尚未孵化的黃金蛋。"/>
+<string name="1" value="蛋殼有了小小的裂痕。"/>
+<string name="2" value="長出了小雞。"/>
+<string name="3" value="成長為一隻黃金雞了！"/>
+</imgdir>
+<string name="questId" value="8252"/>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032135"/>
+<int name="1" value="1"/>
+</imgdir>
+<int name="consumeCount" value="5"/>
+<string name="consumeCountMessage" value="需連續五天每天灑成長粉。"/>
+</imgdir>
+<string name="name" value="黃金蛋"/>
+<int name="hybrid" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220130">
+<imgdir name="info">
+<canvas name="icon" width="34" height="30">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="30">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="70000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="3"/>
+<string name="uiData" value="UI/UIWindow/raise/12"/>
+<imgdir name="message">
+<string name="0" value="尚未孵化的黃金蛋。"/>
+<string name="1" value="蛋殼有了小小的裂痕。"/>
+<string name="2" value="長出了小雞。"/>
+<string name="3" value="成長為一隻黃金雞了！"/>
+</imgdir>
+<string name="questId" value="8252"/>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032135"/>
+<int name="1" value="1"/>
+</imgdir>
+<int name="consumeCount" value="5"/>
+<string name="consumeCountMessage" value="需連續五天每天灑成長粉。"/>
+</imgdir>
+<string name="name" value="黃金蛋"/>
+<int name="hybrid" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220131">
+<imgdir name="info">
+<canvas name="icon" width="34" height="30">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="30">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="110000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="3"/>
+<string name="uiData" value="UI/UIWindow/raise/12"/>
+<imgdir name="message">
+<string name="0" value="尚未孵化的黃金蛋。"/>
+<string name="1" value="蛋殼有了小小的裂痕。"/>
+<string name="2" value="長出了小雞。"/>
+<string name="3" value="成長為一隻黃金雞了！"/>
+</imgdir>
+<string name="questId" value="8252"/>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032135"/>
+<int name="1" value="1"/>
+</imgdir>
+<int name="consumeCount" value="5"/>
+<string name="consumeCountMessage" value="需連續五天每天灑成長粉。"/>
+</imgdir>
+<string name="name" value="黃金蛋"/>
+<int name="hybrid" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220132">
+<imgdir name="info">
+<canvas name="icon" width="34" height="30">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="30">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="190000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="3"/>
+<string name="uiData" value="UI/UIWindow/raise/12"/>
+<imgdir name="message">
+<string name="0" value="尚未孵化的黃金蛋。"/>
+<string name="1" value="蛋殼有了小小的裂痕。"/>
+<string name="2" value="長出了小雞。"/>
+<string name="3" value="成長為一隻黃金雞了！"/>
+</imgdir>
+<string name="questId" value="8252"/>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032135"/>
+<int name="1" value="1"/>
+</imgdir>
+<int name="consumeCount" value="5"/>
+<string name="consumeCountMessage" value="需連續五天每天灑成長粉。"/>
+</imgdir>
+<string name="name" value="黃金蛋"/>
+<int name="hybrid" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220133">
+<imgdir name="info">
+<canvas name="icon" width="34" height="30">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="30">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="350000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="3"/>
+<string name="uiData" value="UI/UIWindow/raise/12"/>
+<imgdir name="message">
+<string name="0" value="尚未孵化的黃金蛋。"/>
+<string name="1" value="蛋殼有了小小的裂痕。"/>
+<string name="2" value="長出了小雞。"/>
+<string name="3" value="成長為一隻黃金雞了！"/>
+</imgdir>
+<string name="questId" value="8252"/>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032135"/>
+<int name="1" value="1"/>
+</imgdir>
+<int name="consumeCount" value="5"/>
+<string name="consumeCountMessage" value="需連續五天每天灑成長粉。"/>
+</imgdir>
+<string name="name" value="黃金蛋"/>
+<int name="hybrid" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220134">
+<imgdir name="info">
+<canvas name="icon" width="34" height="30">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="30">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="550000"/>
+<string name="questId" value="8252"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="3"/>
+<string name="uiData" value="UI/UIWindow/raise/12"/>
+<imgdir name="message">
+<string name="0" value="尚未孵化的黃金蛋。"/>
+<string name="1" value="蛋殼有了小小的裂痕。"/>
+<string name="2" value="長出了小雞。"/>
+<string name="3" value="成長為一隻黃金雞了！"/>
+</imgdir>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032135"/>
+<int name="1" value="1"/>
+</imgdir>
+<int name="consumeCount" value="5"/>
+<string name="consumeCountMessage" value="需連續五天每天灑成長粉。"/>
+</imgdir>
+<string name="name" value="黃金蛋"/>
+<int name="hybrid" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220135">
+<imgdir name="info">
+<canvas name="icon" width="34" height="30">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="30">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="910000"/>
+<int name="slotMax" value="1"/>
+<int name="timeLimited" value="1"/>
+<string name="questId" value="8252"/>
+<int name="grade" value="3"/>
+<string name="uiData" value="UI/UIWindow/raise/12"/>
+<imgdir name="message">
+<string name="0" value="尚未孵化的黃金蛋。"/>
+<string name="1" value="蛋殼有了小小的裂痕。"/>
+<string name="2" value="長出了小雞。"/>
+<string name="3" value="成長為一隻黃金雞了！"/>
+</imgdir>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032135"/>
+<int name="1" value="1"/>
+</imgdir>
+<int name="consumeCount" value="5"/>
+<string name="consumeCountMessage" value="需連續五天每天灑成長粉。"/>
+</imgdir>
+<string name="name" value="黃金蛋"/>
+<int name="hybrid" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220136">
+<imgdir name="info">
+<canvas name="icon" width="34" height="30">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="34" height="30">
+<vector name="origin" x="1" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="2000000"/>
+<int name="slotMax" value="1"/>
+<string name="questId" value="8252"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="3"/>
+<string name="uiData" value="UI/UIWindow/raise/12"/>
+<imgdir name="message">
+<string name="0" value="尚未孵化的黃金蛋。"/>
+<string name="1" value="蛋殼有了小小的裂痕。"/>
+<string name="2" value="長出了小雞。"/>
+<string name="3" value="成長為一隻黃金雞了！"/>
+</imgdir>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032135"/>
+<int name="1" value="1"/>
+</imgdir>
+<int name="consumeCount" value="5"/>
+<string name="consumeCountMessage" value="需連續五天每天灑成長粉。"/>
+</imgdir>
+<string name="name" value="黃金蛋"/>
+<int name="hybrid" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220137">
+<imgdir name="info">
+<canvas name="icon" width="32" height="29">
+<vector name="origin" x="0" y="29"/>
+</canvas>
+<canvas name="iconRaw" width="32" height="29">
+<vector name="origin" x="0" y="29"/>
+</canvas>
+<int name="price" value="100"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="170000"/>
+<int name="grade" value="3"/>
+<int name="questId" value="20514"/>
+<string name="name" value="提提阿那的蛋"/>
+<int name="notSale" value="1"/>
+<string name="uiData" value="UI/UIWindow/raise/18"/>
+<int name="slotMax" value="1"/>
+<imgdir name="message">
+<string name="0" value="是提提阿那的蛋。"/>
+<string name="1" value="看到提提阿那的腳。"/>
+<string name="2" value="看到提提阿那的頭。"/>
+<string name="3" value="提提阿那出生了.請交給騎乘教官奇里督。"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04220138">
+<imgdir name="info">
+<canvas name="icon" width="31" height="31">
+<vector name="origin" x="0" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="31" height="31">
+<vector name="origin" x="0" y="30"/>
+</canvas>
+<int name="price" value="100"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="300"/>
+<int name="grade" value="3"/>
+<int name="questId" value="20516"/>
+<string name="name" value="티티아나의 유리온실"/>
+<int name="notSale" value="1"/>
+<string name="uiData" value="UI/UIWindow/raise/19"/>
+<int name="slotMax" value="1"/>
+<imgdir name="message">
+<string name="0" value="유리온실에 담긴 티티아나이다."/>
+<string name="1" value="티티아나의 털 색이 조금 변했다."/>
+<string name="2" value="티티아나의 털 색이 조금 더 변하고 이마에 문양이 선명해졌다."/>
+<string name="3" value="티티아나의 털 색이 완전히 변하고 눈매가 날카로워졌다. 다 자란 것 같다. 이제 켄타에게 영양제를 넣어달라고 하자."/>
+</imgdir>
+<imgdir name="consumeItem">
+<int name="0" value="4032196"/>
+<int name="1" value="4032197"/>
+<int name="2" value="4032198"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04220139">
+<imgdir name="info">
+<canvas name="icon" width="32" height="29">
+<vector name="origin" x="0" y="29"/>
+</canvas>
+<canvas name="iconRaw" width="32" height="29">
+<vector name="origin" x="0" y="29"/>
+</canvas>
+<int name="price" value="100"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="250000"/>
+<int name="grade" value="3"/>
+<int name="questId" value="20515"/>
+<string name="name" value="提提阿那的蛋"/>
+<int name="notSale" value="1"/>
+<string name="uiData" value="UI/UIWindow/raise/18"/>
+<int name="slotMax" value="1"/>
+<imgdir name="message">
+<string name="0" value="新獲得的提提阿那的蛋。"/>
+<string name="1" value="看到提提阿那的腳。"/>
+<string name="2" value="看到提提阿那的頭。"/>
+<string name="3" value="提提阿那出生了.請交給騎乘教官奇里督。"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04220140">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="0" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="30">
+<vector name="origin" x="0" y="30"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="1000"/>
+<int name="slotMax" value="1"/>
+<string name="questId" value="4716"/>
+<int name="timeLimited" value="1"/>
+<int name="grade" value="3"/>
+<string name="uiData" value="UI/UIWindow/raise/13"/>
+<string name="name" value="楓葉之心"/>
+<imgdir name="message">
+<string name="0" value="沒有鑲嵌勇氣之心 "/>
+<string name="1" value="鑲嵌了一個勇氣之心，封印的楓葉之心項鍊發出了微微的光芒。 "/>
+<string name="2" value="鑲嵌了兩個勇氣之心，甦醒的楓葉之心項鍊發出了閃亮的光芒。 "/>
+<string name="3" value="鑲嵌了三個勇氣之心，覺醒的楓葉之心項鍊發出了耀眼的光芒。"/>
+</imgdir>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4001226"/>
+<int name="1" value="1000"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04220141">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="0" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="30">
+<vector name="origin" x="0" y="30"/>
+</canvas>
+<int name="only" value="1"/>
+<int name="questId" value="4716"/>
+<string name="name" value="楓葉之心"/>
+<int name="exp" value="1000"/>
+<int name="notSale" value="1"/>
+<string name="uiData" value="UI/UIWindow/raise/14"/>
+<int name="price" value="100"/>
+<int name="slotMax" value="1"/>
+<int name="quest" value="1"/>
+<int name="grade" value="3"/>
+<int name="timeLimited" value="1"/>
+<imgdir name="message">
+<string name="0" value="沒有鑲嵌智慧之心"/>
+<string name="1" value="鑲嵌了一個智慧之心，封印的楓葉之心項鍊發出了微微的光芒。"/>
+<string name="2" value="鑲嵌了兩個智慧之心，甦醒的楓葉之心項鍊發出了閃亮的光芒。 "/>
+<string name="3" value="鑲嵌了三個智慧之心，覺醒的楓葉之心項鍊發出了耀眼的光芒。"/>
+</imgdir>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4001227"/>
+<int name="1" value="1000"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04220142">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="0" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="30">
+<vector name="origin" x="0" y="30"/>
+</canvas>
+<int name="only" value="1"/>
+<int name="questId" value="4716"/>
+<string name="name" value="楓葉之心"/>
+<int name="exp" value="1000"/>
+<int name="notSale" value="1"/>
+<string name="uiData" value="UI/UIWindow/raise/15"/>
+<int name="price" value="100"/>
+<int name="slotMax" value="1"/>
+<int name="quest" value="1"/>
+<int name="grade" value="3"/>
+<int name="timeLimited" value="1"/>
+<imgdir name="message">
+<string name="0" value="沒有鑲嵌命中之心"/>
+<string name="1" value="鑲嵌了一個命中之心，封印的楓葉之心項鍊發出了微微的光芒。 "/>
+<string name="2" value="鑲嵌了兩個命中之心，甦醒的楓葉之心項鍊發出了閃亮的光芒。 "/>
+<string name="3" value="鑲嵌了三個命中之心，覺醒的楓葉之心項鍊發出了耀眼的光芒。"/>
+</imgdir>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4001228"/>
+<int name="1" value="1000"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04220143">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="0" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="30">
+<vector name="origin" x="0" y="30"/>
+</canvas>
+<int name="only" value="1"/>
+<int name="questId" value="4716"/>
+<string name="name" value="楓葉之心"/>
+<int name="exp" value="1000"/>
+<int name="notSale" value="1"/>
+<string name="uiData" value="UI/UIWindow/raise/16"/>
+<int name="price" value="100"/>
+<int name="slotMax" value="1"/>
+<int name="quest" value="1"/>
+<int name="grade" value="3"/>
+<int name="timeLimited" value="1"/>
+<imgdir name="message">
+<string name="0" value="沒有鑲嵌敏捷之心"/>
+<string name="1" value="鑲嵌了一個敏捷之心，封印的楓葉之心項鍊發出了微微的光芒。 "/>
+<string name="2" value="鑲嵌了兩個敏捷之心，甦醒的楓葉之心項鍊發出了閃亮的光芒。 "/>
+<string name="3" value="鑲嵌了三個敏捷之心，覺醒的楓葉之心項鍊發出了耀眼的光芒。"/>
+</imgdir>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4001229"/>
+<int name="1" value="1000"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04220144">
+<imgdir name="info">
+<canvas name="icon" width="29" height="30">
+<vector name="origin" x="0" y="30"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="30">
+<vector name="origin" x="0" y="30"/>
+</canvas>
+<int name="only" value="1"/>
+<int name="questId" value="4716"/>
+<string name="name" value="楓葉之心"/>
+<int name="exp" value="1000"/>
+<int name="notSale" value="1"/>
+<string name="uiData" value="UI/UIWindow/raise/17"/>
+<int name="price" value="100"/>
+<int name="slotMax" value="1"/>
+<int name="quest" value="1"/>
+<int name="grade" value="3"/>
+<int name="timeLimited" value="1"/>
+<imgdir name="message">
+<string name="0" value="沒有鑲嵌自由之心"/>
+<string name="1" value="鑲嵌了一個自由之心，封印的楓葉之心項鍊發出了微微的光芒。 "/>
+<string name="2" value="鑲嵌了兩個自由之心，甦醒的楓葉之心項鍊發出了閃亮的光芒。 "/>
+<string name="3" value="鑲嵌了三個自由之心，覺醒的楓葉之心項鍊發出了耀眼的光芒。"/>
+</imgdir>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4001230"/>
+<int name="1" value="1000"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04220145">
+<imgdir name="info">
+<canvas name="icon" width="32" height="29">
+<vector name="origin" x="0" y="29"/>
+</canvas>
+<canvas name="iconRaw" width="32" height="29">
+<vector name="origin" x="0" y="29"/>
+</canvas>
+<int name="price" value="100"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="30000"/>
+<int name="grade" value="3"/>
+<int name="questId" value="20529"/>
+<string name="name" value="提提阿那的蛋"/>
+<int name="notSale" value="1"/>
+<string name="uiData" value="UI/UIWindow/raise/18"/>
+<int name="slotMax" value="1"/>
+<imgdir name="message">
+<string name="0" value="是提提阿那的蛋。"/>
+<string name="1" value="看到提提阿那的腳。"/>
+<string name="2" value="看到提提阿那的頭。"/>
+<string name="3" value="提提阿那出生了.請交給騎乘教官奇里督。"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04220146">
+<imgdir name="info">
+<canvas name="icon" width="32" height="29">
+<vector name="origin" x="0" y="29"/>
+</canvas>
+<canvas name="iconRaw" width="32" height="29">
+<vector name="origin" x="0" y="29"/>
+</canvas>
+<int name="price" value="100"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="40000"/>
+<int name="grade" value="3"/>
+<int name="questId" value="20530"/>
+<string name="name" value="提提阿那的蛋"/>
+<int name="notSale" value="1"/>
+<string name="uiData" value="UI/UIWindow/raise/18"/>
+<int name="slotMax" value="1"/>
+<imgdir name="message">
+<string name="0" value="新獲得的提提阿那的蛋。"/>
+<string name="1" value="看到提提阿那的腳。"/>
+<string name="2" value="看到提提阿那的頭。"/>
+<string name="3" value="提提阿那出生了.請交給騎乘教官奇里督。"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04220148">
+<imgdir name="info">
+<canvas name="icon" width="30" height="31">
+<vector name="origin" x="-1" y="31"/>
+</canvas>
+<canvas name="iconRaw" width="30" height="29">
+<vector name="origin" x="-1" y="31"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="500"/>
+<int name="slotMax" value="1"/>
+<int name="grade" value="4"/>
+<int name="questId" value="10288"/>
+<string name="name" value="菇菇寶貝的肖像畫"/>
+<string name="uiData" value="UI/UIWindow/raise/20"/>
+<int name="timeLimited" value="1"/>
+<imgdir name="message">
+<string name="0" value="沒有任何圖案的乾淨的圖畫紙"/>
+<string name="1" value="模糊的可以看出菇菇寶貝的輪廓"/>
+<string name="2" value="可以看出菇菇寶貝形體的程度"/>
+<string name="3" value="幾乎完成菇菇寶貝的形體"/>
+<string name="4" value="完成菇菇寶貝的肖像畫"/>
+</imgdir>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032302"/>
+<int name="1" value="100"/>
+</imgdir>
+<imgdir name="1">
+<int name="0" value="4032303"/>
+<int name="1" value="100"/>
+</imgdir>
+<imgdir name="2">
+<int name="0" value="4032304"/>
+<int name="1" value="100"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04220149">
+<imgdir name="info">
+<canvas name="icon" width="30" height="31">
+<vector name="origin" x="-1" y="31"/>
+</canvas>
+<canvas name="iconRaw" width="30" height="29">
+<vector name="origin" x="-1" y="31"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="1000"/>
+<int name="slotMax" value="1"/>
+<int name="grade" value="4"/>
+<int name="questId" value="10289"/>
+<string name="name" value="三眼章魚的肖像畫"/>
+<string name="uiData" value="UI/UIWindow/raise/21"/>
+<int name="timeLimited" value="1"/>
+<imgdir name="message">
+<string name="0" value="沒有任何圖案的乾淨的圖畫紙"/>
+<string name="1" value="模糊的可以看出三眼章魚的輪廓"/>
+<string name="2" value="可以看出三眼章魚形體的程度"/>
+<string name="3" value="幾乎完成三眼章魚的形體"/>
+<string name="4" value="完成三眼章魚的肖像畫"/>
+</imgdir>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032302"/>
+<int name="1" value="100"/>
+</imgdir>
+<imgdir name="1">
+<int name="0" value="4032303"/>
+<int name="1" value="100"/>
+</imgdir>
+<imgdir name="2">
+<int name="0" value="4032304"/>
+<int name="1" value="100"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04220150">
+<imgdir name="info">
+<canvas name="icon" width="30" height="31">
+<vector name="origin" x="-1" y="31"/>
+</canvas>
+<canvas name="iconRaw" width="30" height="29">
+<vector name="origin" x="-1" y="31"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="2000"/>
+<int name="slotMax" value="1"/>
+<int name="grade" value="4"/>
+<int name="questId" value="10290"/>
+<string name="name" value="雪吉拉的肖像畫"/>
+<string name="uiData" value="UI/UIWindow/raise/22"/>
+<int name="timeLimited" value="1"/>
+<imgdir name="message">
+<string name="0" value="沒有任何圖案的乾淨的圖畫紙"/>
+<string name="1" value="模糊的可以看出雪吉拉的輪廓"/>
+<string name="2" value="可以看出雪吉拉形體的程度"/>
+<string name="3" value="幾乎完成雪吉拉的形體"/>
+<string name="4" value="完成雪吉拉的肖像畫"/>
+</imgdir>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032302"/>
+<int name="1" value="100"/>
+</imgdir>
+<imgdir name="1">
+<int name="0" value="4032303"/>
+<int name="1" value="100"/>
+</imgdir>
+<imgdir name="2">
+<int name="0" value="4032304"/>
+<int name="1" value="100"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04220151">
+<imgdir name="info">
+<canvas name="icon" width="28" height="31">
+<vector name="origin" x="-2" y="31"/>
+</canvas>
+<canvas name="iconRaw" width="28" height="30">
+<vector name="origin" x="-2" y="31"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="exp" value="200"/>
+<int name="slotMax" value="1"/>
+<int name="grade" value="4"/>
+<int name="questId" value="21763"/>
+<string name="name" value="卷軸"/>
+<string name="uiData" value="UI/UIWindow/raise/27"/>
+<imgdir name="message">
+<string name="0" value="什麼內容都看不出來的卷軸。"/>
+<string name="1" value="出現了一點點內容的卷軸。"/>
+<string name="2" value="模糊的看得出來內容的卷軸。"/>
+<string name="3" value="大略可以看出內容的卷軸。"/>
+<string name="4" value="卷軸內容完全復原。但是內容很難理解。 趕快拿去給桃醫仙看。"/>
+</imgdir>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032342"/>
+<int name="1" value="100"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04220152">
+<imgdir name="info">
+<canvas name="icon" width="30" height="31">
+<vector name="origin" x="-1" y="31"/>
+</canvas>
+<canvas name="iconRaw" width="30" height="29">
+<vector name="origin" x="-1" y="31"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="slotMax" value="1"/>
+<int name="questId" value="10430"/>
+<string name="name" value="彩虹的圖畫"/>
+<string name="uiData" value="UI/UIWindow/raise/24"/>
+<int name="timeLimited" value="1"/>
+<imgdir name="message">
+<string name="0" value="畫有草稿的圖畫紙。"/>
+<string name="1" value="畫有草稿的圖畫紙。"/>
+<string name="2" value="以彩色蠟筆上色。"/>
+<string name="3" value="以彩色蠟筆上色。"/>
+<string name="4" value="以彩色蠟筆上色。"/>
+<string name="5" value="以彩色蠟筆上色。"/>
+<string name="6" value="以彩色蠟筆上色。"/>
+<string name="7" value="以彩色蠟筆上色。"/>
+<string name="8" value="圖畫完成。"/>
+</imgdir>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4000000"/>
+</imgdir>
+<imgdir name="1">
+<int name="0" value="4001326"/>
+</imgdir>
+<imgdir name="2">
+<int name="0" value="4001327"/>
+</imgdir>
+<imgdir name="3">
+<int name="0" value="4001328"/>
+</imgdir>
+<imgdir name="4">
+<int name="0" value="4001329"/>
+</imgdir>
+<imgdir name="5">
+<int name="0" value="4001330"/>
+</imgdir>
+<imgdir name="6">
+<int name="0" value="4001331"/>
+</imgdir>
+<imgdir name="7">
+<int name="0" value="4001332"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04220153">
+<imgdir name="info">
+<canvas name="icon" width="32" height="29">
+<vector name="origin" x="0" y="29"/>
+</canvas>
+<canvas name="iconRaw" width="32" height="29">
+<vector name="origin" x="0" y="29"/>
+</canvas>
+<int name="only" value="1"/>
+<int name="exp" value="100"/>
+<int name="slotMax" value="1"/>
+<int name="grade" value="3"/>
+<string name="name" value="骯髒的藏寶圖"/>
+<string name="uiData" value="UI/UIWindow/raise/25"/>
+<int name="quest" value="1"/>
+<int name="questId" value="28325"/>
+<int name="tradeBlock" value="1"/>
+<imgdir name="message">
+<string name="0" value="這張地圖上覆蓋著綠色、紅色和白色。"/>
+<string name="1" value="看！綠水靈清潔劑將綠色區域清除掉了！"/>
+<string name="2" value="紅色區域被清除後，使的圖案外觀微微顯現出來。"/>
+<string name="3" value="倒上了墨水後，一副完整的圖案清楚的顯現出來。"/>
+</imgdir>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032486"/>
+<int name="1" value="100"/>
+</imgdir>
+<imgdir name="1">
+<int name="0" value="4032488"/>
+<int name="1" value="100"/>
+</imgdir>
+<imgdir name="2">
+<int name="0" value="4032489"/>
+<int name="1" value="100"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04220154">
+<imgdir name="info">
+<canvas name="icon" width="33" height="32">
+<vector name="origin" x="1" y="31"/>
+</canvas>
+<canvas name="iconRaw" width="33" height="32">
+<vector name="origin" x="1" y="31"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="slotMax" value="1"/>
+<int name="questId" value="10546"/>
+<string name="name" value="溫度計"/>
+<string name="uiData" value="UI/UIWindow/raise/26"/>
+<int name="timeLimited" value="1"/>
+<imgdir name="message">
+<string name="0" value="0℃"/>
+<string name="1" value="1℃"/>
+<string name="2" value="2℃"/>
+<string name="3" value="3℃"/>
+<string name="4" value="4℃"/>
+<string name="5" value="5℃"/>
+<string name="6" value="6℃"/>
+<string name="7" value="7℃"/>
+<string name="8" value="8℃"/>
+<string name="9" value="9℃"/>
+<string name="10" value="10℃"/>
+<string name="11" value="11℃"/>
+<string name="12" value="12℃"/>
+<string name="13" value="13℃"/>
+<string name="14" value="14℃"/>
+<string name="15" value="15℃"/>
+</imgdir>
+<imgdir name="consumeItem">
+<imgdir name="0">
+<int name="0" value="4032575"/>
+<int name="1" value="100"/>
+</imgdir>
+</imgdir>
+<int name="grade" value="15"/>
+<int name="exp" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="04220175">
+<imgdir name="info">
+<canvas name="icon" width="29" height="31">
+<vector name="origin" x="-2" y="31"/>
+</canvas>
+<canvas name="iconRaw" width="29" height="31">
+<vector name="origin" x="-2" y="31"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="slotMax" value="1"/>
+<int name="questId" value="10670"/>
+<string name="name" value="7주년 직소퍼즐"/>
+<string name="uiData" value="UI/UIWindow/raise/29"/>
+<int name="timeLimited" value="1"/>
+<imgdir name="message">
+<string name="0" value="7주년 직소퍼즐판이다."/>
+<string name="1" value="7주년 직소퍼즐판이다."/>
+<string name="2" value="꼭 맞는 조각이다."/>
+<string name="3" value="꼭 맞는 조각이다."/>
+<string name="4" value="꼭 맞는 조각이다."/>
+<string name="5" value="꼭 맞는 조각이다."/>
+<string name="6" value="꼭 맞는 조각이다."/>
+<string name="7" value="꼭 맞는 조각이다."/>
+<string name="8" value="퍼즐을 완성했다."/>
+</imgdir>
+<imgdir name="consumeItem">
+<int name="0" value="4000000"/>
+<int name="1" value="4001440"/>
+<int name="2" value="4001441"/>
+<int name="3" value="4001442"/>
+<int name="4" value="4001443"/>
+<int name="5" value="4001444"/>
+<int name="6" value="4001445"/>
+<int name="7" value="4001446"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04220178">
+<imgdir name="info">
+<canvas name="icon" width="31" height="32">
+<vector name="origin" x="0" y="32"/>
+</canvas>
+<canvas name="iconRaw" width="31" height="32">
+<vector name="origin" x="0" y="32"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="slotMax" value="1"/>
+<int name="exp" value="125000"/>
+<int name="grade" value="4"/>
+<int name="questId" value="23980"/>
+<string name="name" value="能量箱"/>
+<string name="uiData" value="UI/UIWindow/raise/30"/>
+<imgdir name="message">
+<string name="0" value="能源匣。"/>
+<string name="1" value="能源稍微增加了。"/>
+<string name="2" value="能源填滿了一半左右。"/>
+<string name="3" value="能源快充滿了。"/>
+<string name="4" value="能源已充滿了。"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="04220179">
+<imgdir name="info">
+<canvas name="icon" width="31" height="32">
+<vector name="origin" x="0" y="32"/>
+</canvas>
+<canvas name="iconRaw" width="31" height="32">
+<vector name="origin" x="0" y="32"/>
+</canvas>
+<int name="price" value="1"/>
+<int name="quest" value="1"/>
+<int name="only" value="1"/>
+<int name="slotMax" value="1"/>
+<int name="exp" value="250000"/>
+<int name="grade" value="4"/>
+<int name="questId" value="23981"/>
+<string name="name" value="機械式心臟的一部分"/>
+<string name="uiData" value="UI/UIWindow/raise/31"/>
+<imgdir name="message">
+<string name="0" value="機械式心臟的一部分。"/>
+<string name="1" value="能源稍微增加了。"/>
+<string name="2" value="能源填滿了一半左右。"/>
+<string name="3" value="能源快充滿了。"/>
+<string name="4" value="能源已充滿了。"/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>

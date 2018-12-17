@@ -1,0 +1,35 @@
+public void equipPendantOfSpirit() {
+        if (pendantOfSpirit == null) {
+            pendantOfSpirit = TimerManager.getInstance().register(new Runnable() {
+
+                @Override
+                public void run() {
+                    pendantExp = Server.getInstance().getWorld().getPendantOfSpirit(id).getRight();
+                    if (pendantExp == -1) {
+                        Server.getInstance().getWorld().addPendantOfSpirit(id, getClient().getChannel(), 0);
+                        pendantExp = 0;
+                        message("Pendant of the Spirit has just been equipped, you will gain bonus exp as you play longer.");
+                    } else {
+                        int channel = Server.getInstance().getWorld().getPendantOfSpirit(id).getLeft();
+                        if (channel == getClient().getChannel()) {
+                            pendantExp++;
+                        }
+                        Server.getInstance().getWorld().addPendantOfSpirit(id, getClient().getChannel(), pendantExp);
+                        if (pendantExp != 0) {
+                            message("Pendant of the Spirit has been equipped for " + pendantExp + " hour(s), you will now receive " + (pendantExp > 3 ? 3 : pendantExp) + "0% bonus exp.");
+                        } else {
+                            message("Pendant of Spirit has just been equipped, you will gain bonus exp as you play longer.");
+                        }
+                    }
+                }
+            }, 3600000); //1 hour
+        }
+    }
+
+    public void unequipPendantOfSpirit() {
+        if (pendantOfSpirit != null) {
+            pendantOfSpirit.cancel(false);
+            pendantOfSpirit = null;
+        }
+        Server.getInstance().getWorld().removePendantOfSpirit(id);
+    }

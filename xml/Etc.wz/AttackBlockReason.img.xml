@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="AttackBlockReason.img">
+<imgdir name="1">
+<string name="type" value="hack"/>
+<string name="msg" value="您因不當行為，而遭遊戲管理員禁止攻擊、禁止交易、禁止丟棄道具、禁止開啟個人商店與精靈商人、禁止組隊、禁止使用拍賣系統、強制傳回村莊，處罰期間將無法離開指定村莊，並無法使用各種傳送工具進行移動。"/>
+</imgdir>
+</imgdir>

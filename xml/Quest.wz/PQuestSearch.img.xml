@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="PQuestSearch.img">
+<imgdir name="party">
+<imgdir name="0">
+<string name="name" value="首次同行"/>
+<string name="mark" value="Map/MapHelper/mark/KerningParty"/>
+<int name="levelMin" value="20"/>
+<int name="levelMax" value="200"/>
+<int name="count" value="10"/>
+<int name="periodMin" value="5"/>
+<imgdir name="title">
+<string name="0" value="參加首次同行的人~"/>
+<string name="1" value="優先招募參加墮落城市組隊任務的人"/>
+<string name="2" value="想要盡快繞一圈的人請馬上申請！"/>
+</imgdir>
+<int name="price" value="0"/>
+</imgdir>
+<imgdir name="1">
+<string name="name" value="時空的裂縫"/>
+<string name="mark" value="Map/MapHelper/mark/AbandonTower"/>
+<int name="levelMin" value="30"/>
+<int name="levelMax" value="200"/>
+<int name="count" value="10"/>
+<int name="periodMin" value="5"/>
+<imgdir name="title">
+<string name="0" value="參加時空的裂縫的人～"/>
+<string name="1" value="歡迎持有碎片的人！！"/>
+<string name="2" value="想要盡快繞一圈的人請馬上申請！"/>
+</imgdir>
+<int name="price" value="0"/>
+</imgdir>
+<imgdir name="2">
+<string name="name" value="女神的痕跡"/>
+<string name="mark" value="Map/MapHelper/mark/GoddessTower"/>
+<int name="levelMin" value="50"/>
+<int name="levelMax" value="200"/>
+<int name="count" value="10"/>
+<int name="periodMin" value="5"/>
+<imgdir name="title">
+<string name="0" value="參加女神的痕跡的人～"/>
+<string name="1" value="優先招募參加天空之城組隊任務的人"/>
+<string name="2" value="想要盡快繞一圈的人請馬上申請！"/>
+</imgdir>
+<int name="price" value="0"/>
+</imgdir>
+<imgdir name="3">
+<string name="name" value="海賊王"/>
+<string name="mark" value="Map/MapHelper/mark/DevijonParty"/>
+<int name="levelMin" value="60"/>
+<int name="levelMax" value="200"/>
+<int name="count" value="10"/>
+<int name="periodMin" value="5"/>
+<imgdir name="title">
+<string name="0" value="參加海賊王的人～"/>
+<string name="1" value="優先招募願意幫助邱翁的人"/>
+<string name="2" value="想要盡快繞一圈的人請馬上申請！"/>
+</imgdir>
+<int name="price" value="0"/>
+</imgdir>
+<imgdir name="4">
+<string name="name" value="羅密歐和茱麗葉"/>
+<string name="mark" value="Map/MapHelper/mark/RomioJuliet"/>
+<int name="levelMin" value="70"/>
+<int name="levelMax" value="200"/>
+<int name="count" value="10"/>
+<int name="periodMin" value="5"/>
+<imgdir name="title">
+<string name="0" value="參加羅密歐的人請申請。"/>
+<string name="1" value="參加茱麗葉的人請申請 。"/>
+<string name="2" value="想要盡快繞一圈的人請馬上申請！"/>
+</imgdir>
+<int name="price" value="0"/>
+</imgdir>
+<imgdir name="5">
+<string name="name" value="毒霧森林"/>
+<string name="mark" value="Map/MapHelper/mark/EilnForest"/>
+<int name="levelMin" value="40"/>
+<int name="levelMax" value="200"/>
+<int name="count" value="10"/>
+<int name="periodMin" value="5"/>
+<imgdir name="title">
+<string name="0" value="參加毒霧森林的人～"/>
+<string name="1" value="優先招募參加艾靈森林組隊任務的人"/>
+<string name="2" value="想要盡快繞一圈的人請馬上申請！"/>
+</imgdir>
+<int name="price" value="0"/>
+</imgdir>
+<imgdir name="6">
+<string name="name" value="怪物擂臺賽"/>
+<string name="mark" value="Map/MapHelper/mark/Carnival"/>
+<int name="levelMin" value="30"/>
+<int name="levelMax" value="50"/>
+<int name="count" value="10"/>
+<int name="periodMin" value="5"/>
+<imgdir name="title">
+<string name="0" value="參加怪物擂臺賽的人～"/>
+<string name="1" value="怪物擂臺賽規矩～"/>
+<string name="2" value="想要盡快繞一圈的人請馬上申請！"/>
+</imgdir>
+<int name="price" value="0"/>
+</imgdir>
+<imgdir name="7">
+<string name="name" value="第二次怪物擂臺賽"/>
+<string name="mark" value="Map/MapHelper/mark/Carnival"/>
+<int name="levelMin" value="51"/>
+<int name="levelMax" value="70"/>
+<int name="count" value="10"/>
+<int name="periodMin" value="5"/>
+<imgdir name="title">
+<string name="0" value="參加第二次怪物擂臺賽的人～"/>
+<string name="1" value="第二次怪物擂臺賽規矩~"/>
+<string name="2" value="想要盡快繞一圈的人請馬上申請！"/>
+</imgdir>
+<int name="price" value="0"/>
+</imgdir>
+<imgdir name="8">
+<string name="name" value="霧之海的幽靈船"/>
+<string name="mark" value="Map/MapHelper/mark/GhostShip2"/>
+<int name="levelMin" value="60"/>
+<int name="levelMax" value="80"/>
+<int name="count" value="10"/>
+<int name="periodMin" value="5"/>
+<imgdir name="title">
+<string name="0" value="參加霧之海的幽靈船的人～"/>
+<string name="1" value="參加雙重突襲的人！"/>
+<string name="2" value="想要盡快繞一圈的人請馬上申請！"/>
+</imgdir>
+<int name="price" value="0"/>
+</imgdir>
+<imgdir name="9">
+<string name="name" value="奈特的金字塔"/>
+<string name="mark" value="Map/MapHelper/mark/Pyramid"/>
+<int name="levelMin" value="40"/>
+<int name="levelMax" value="200"/>
+<int name="count" value="10"/>
+<int name="periodMin" value="5"/>
+<imgdir name="title">
+<string name="0" value="參加普通金字塔的人～"/>
+<string name="1" value="參加進階金字塔的人～"/>
+<string name="2" value="參加簡易版金字塔的人～"/>
+</imgdir>
+<int name="price" value="0"/>
+</imgdir>
+<imgdir name="10">
+<string name="name" value="龍騎士"/>
+<string name="mark" value="Map/MapHelper/mark/Dragonrider"/>
+<int name="levelMin" value="100"/>
+<int name="levelMax" value="200"/>
+<int name="count" value="10"/>
+<int name="price" value="0"/>
+<int name="periodMin" value="5"/>
+<imgdir name="title">
+<string name="0" value="對飛行有信心的人請申請。"/>
+<string name="1" value="想要成為龍騎士的人~"/>
+<string name="2" value="想要迅速繞一圈的人請馬上申請吧！"/>
+</imgdir>
+</imgdir>
+<imgdir name="11">
+<string name="name" value="侏儒帝王雷克斯的復活 "/>
+<string name="mark" value="Map/MapHelper/mark/Lex"/>
+<int name="levelMin" value="80"/>
+<int name="levelMax" value="200"/>
+<int name="count" value="10"/>
+<int name="price" value="0"/>
+<int name="periodMin" value="5"/>
+<imgdir name="title">
+<string name="0" value="想要一起護衛邪摩斯的玩家~"/>
+<string name="1" value="擁有萬年冰河水的玩家請申請!!"/>
+<string name="2" value="想去獲取雷克斯的耳環的玩家~"/>
+</imgdir>
+</imgdir>
+<imgdir name="12">
+<string name="name" value="月妙的年糕"/>
+<string name="mark" value="Map/MapHelper/mark/MoonRabbitParty"/>
+<int name="levelMin" value="10"/>
+<int name="levelMax" value="200"/>
+<int name="count" value="10"/>
+<int name="price" value="0"/>
+<int name="periodMin" value="5"/>
+<imgdir name="title">
+<string name="0" value="大家一起來加入月妙的年糕活動吧！"/>
+<string name="1" value="誰想要去尋找月妙~"/>
+<string name="2" value="去找頭頂上的一個年糕！"/>
+</imgdir>
+</imgdir>
+<imgdir name="13">
+<string name="name" value="武陵道場"/>
+<string name="mark" value="Map/MapHelper/mark/MuruengRaid"/>
+<int name="levelMin" value="25"/>
+<int name="levelMax" value="200"/>
+<int name="count" value="10"/>
+<int name="price" value="0"/>
+<int name="periodMin" value="5"/>
+<imgdir name="title">
+<string name="0" value="一起挑戰武陵道場吧！"/>
+<string name="1" value="想要測試自己力量的人快組隊來！"/>
+<string name="2" value="一起尋找不同顏色的腰帶吧！"/>
+</imgdir>
+</imgdir>
+</imgdir>
+<imgdir name="expedition">
+<imgdir name="0">
+<string name="name" value="巴洛古遠征隊 [簡易版]"/>
+<string name="mark" value="Map/MapHelper/mark/Balog"/>
+<int name="levelMin" value="50"/>
+<int name="levelMax" value="70"/>
+<int name="count" value="10"/>
+<int name="periodMin" value="20"/>
+<int name="userCount" value="6"/>
+<imgdir name="title">
+<string name="0" value="參加簡易版巴洛古的人～"/>
+<string name="1" value="獵捕巴洛古的人～"/>
+<string name="2" value="想要盡快繞一圈的人請馬上申請！"/>
+</imgdir>
+<int name="price" value="0"/>
+</imgdir>
+<imgdir name="1">
+<string name="name" value="巴洛古遠征隊 [普通]"/>
+<string name="mark" value="Map/MapHelper/mark/Balog"/>
+<int name="levelMin" value="50"/>
+<int name="levelMax" value="200"/>
+<int name="count" value="10"/>
+<int name="periodMin" value="20"/>
+<int name="userCount" value="15"/>
+<imgdir name="title">
+<string name="0" value="參加普通巴洛古的人～"/>
+<string name="1" value="請有信心的來申請。"/>
+<string name="2" value="想要盡快繞一圈的人請馬上申請！"/>
+</imgdir>
+<int name="price" value="0"/>
+</imgdir>
+<imgdir name="2">
+<string name="name" value="殘暴炎魔遠征隊"/>
+<string name="mark" value="Map/MapHelper/mark/Zakum"/>
+<int name="levelMin" value="50"/>
+<int name="levelMax" value="200"/>
+<int name="count" value="10"/>
+<int name="periodMin" value="20"/>
+<int name="userCount" value="30"/>
+<imgdir name="title">
+<string name="0" value="參加殘暴炎魔的人～"/>
+<string name="1" value="參加殘暴炎魔的人請申請遠征隊～"/>
+<string name="2" value="招募需要殘暴炎魔帽子的人～"/>
+</imgdir>
+<int name="price" value="0"/>
+</imgdir>
+<imgdir name="3">
+<string name="name" value="闇黑龍王遠征隊"/>
+<string name="mark" value="Map/MapHelper/mark/Hontale"/>
+<int name="levelMin" value="80"/>
+<int name="levelMax" value="200"/>
+<int name="count" value="10"/>
+<int name="periodMin" value="20"/>
+<int name="userCount" value="30"/>
+<imgdir name="title">
+<string name="0" value="招募闇黑龍王遠征隊。"/>
+<string name="1" value="獵捕闇黑龍王的人請申請～"/>
+<string name="2" value="請有信心的來申請。"/>
+</imgdir>
+<int name="price" value="0"/>
+</imgdir>
+<imgdir name="4">
+<string name="name" value="皮卡啾遠征隊"/>
+<string name="mark" value="Map/MapHelper/mark/PinkBean"/>
+<string name="levelMin" value="140"/>
+<string name="levelMax" value="200"/>
+<int name="count" value="10"/>
+<int name="periodMin" value="20"/>
+<int name="userCount" value="30"/>
+<imgdir name="title">
+<string name="0" value="招募皮卡啾遠征隊。"/>
+<string name="1" value="獵捕皮卡啾的人請申請。"/>
+<string name="2" value="請有信心的來申請。"/>
+</imgdir>
+<int name="price" value="0"/>
+</imgdir>
+<imgdir name="5">
+<string name="name" value="混沌殘暴炎魔遠征隊"/>
+<string name="mark" value="Map/MapHelper/mark/Zakum"/>
+<int name="levelMin" value="100"/>
+<int name="levelMax" value="200"/>
+<int name="count" value="10"/>
+<int name="price" value="0"/>
+<int name="periodMin" value="20"/>
+<int name="userCount" value="30"/>
+<imgdir name="title">
+<string name="0" value="想要挑戰混沌殘暴炎魔的玩家~"/>
+<string name="1" value="想要挑戰混沌殘暴炎魔的玩家請申請~"/>
+<string name="2" value="想要擁有混沌殘暴炎魔頭盔的玩家快來~"/>
+</imgdir>
+</imgdir>
+<imgdir name="6">
+<string name="name" value="混沌闇黑龍王遠征隊"/>
+<string name="mark" value="Map/MapHelper/mark/Hontale"/>
+<int name="levelMin" value="110"/>
+<int name="levelMax" value="200"/>
+<int name="count" value="10"/>
+<int name="price" value="0"/>
+<int name="periodMin" value="20"/>
+<int name="userCount" value="30"/>
+<imgdir name="title">
+<string name="0" value="募集混沌闇黑龍王遠征隊."/>
+<string name="1" value="想要挑戰混沌闇黑龍的玩家請申請~"/>
+<string name="2" value="有自信的玩家快申請吧."/>
+</imgdir>
+</imgdir>
+</imgdir>
+</imgdir>

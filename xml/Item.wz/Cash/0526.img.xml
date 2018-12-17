@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="0526.img">
+<imgdir name="05260000">
+<imgdir name="info">
+<canvas name="icon" width="27" height="27">
+<vector name="origin" x="-2" y="29"/>
+<int name="z" value="0"/>
+</canvas>
+<canvas name="iconRaw" width="27" height="30">
+<vector name="origin" x="-2" y="29"/>
+<int name="z" value="0"/>
+</canvas>
+<int name="cash" value="1"/>
+<int name="slotMax" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="05260001">
+<imgdir name="info">
+<canvas name="icon" width="27" height="30">
+<vector name="origin" x="-2" y="29"/>
+<int name="z" value="0"/>
+</canvas>
+<canvas name="iconRaw" width="27" height="27">
+<vector name="origin" x="-2" y="29"/>
+<int name="z" value="0"/>
+</canvas>
+<int name="cash" value="1"/>
+<int name="slotMax" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="05260002">
+<imgdir name="info">
+<canvas name="icon" width="27" height="30">
+<vector name="origin" x="-2" y="29"/>
+<int name="z" value="0"/>
+</canvas>
+<canvas name="iconRaw" width="27" height="27">
+<vector name="origin" x="-2" y="29"/>
+<int name="z" value="0"/>
+</canvas>
+<int name="cash" value="1"/>
+<int name="slotMax" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="05260003">
+<imgdir name="info">
+<canvas name="icon" width="27" height="30">
+<vector name="origin" x="-2" y="29"/>
+<int name="z" value="0"/>
+</canvas>
+<canvas name="iconRaw" width="27" height="27">
+<vector name="origin" x="-2" y="29"/>
+<int name="z" value="0"/>
+</canvas>
+<int name="cash" value="1"/>
+<int name="slotMax" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="05260004">
+<imgdir name="info">
+<canvas name="icon" width="27" height="30">
+<vector name="origin" x="-2" y="29"/>
+<int name="z" value="0"/>
+</canvas>
+<canvas name="iconRaw" width="27" height="27">
+<vector name="origin" x="-2" y="29"/>
+<int name="z" value="0"/>
+</canvas>
+<int name="cash" value="1"/>
+<int name="slotMax" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="05260005">
+<imgdir name="info">
+<canvas name="icon" width="27" height="30">
+<vector name="origin" x="-2" y="29"/>
+</canvas>
+<canvas name="iconRaw" width="27" height="27">
+<vector name="origin" x="-2" y="29"/>
+<int name="z" value="0"/>
+</canvas>
+<int name="cash" value="1"/>
+<int name="slotMax" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="05260006">
+<imgdir name="info">
+<canvas name="icon" width="27" height="30">
+<vector name="origin" x="-2" y="29"/>
+</canvas>
+<canvas name="iconRaw" width="27" height="27">
+<vector name="origin" x="-2" y="29"/>
+<int name="z" value="0"/>
+</canvas>
+<int name="cash" value="1"/>
+<int name="slotMax" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="05260007">
+<imgdir name="info">
+<canvas name="icon" width="27" height="30">
+<vector name="origin" x="-2" y="29"/>
+</canvas>
+<canvas name="iconRaw" width="27" height="27">
+<vector name="origin" x="-2" y="29"/>
+<int name="z" value="0"/>
+</canvas>
+<int name="cash" value="1"/>
+<int name="slotMax" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="05260008">
+<imgdir name="info">
+<canvas name="icon" width="27" height="30">
+<vector name="origin" x="-2" y="29"/>
+</canvas>
+<canvas name="iconRaw" width="27" height="27">
+<vector name="origin" x="-2" y="29"/>
+<int name="z" value="0"/>
+</canvas>
+<int name="cash" value="1"/>
+<int name="slotMax" value="1"/>
+</imgdir>
+</imgdir>
+<imgdir name="05260009">
+<imgdir name="info">
+<canvas name="icon" width="27" height="30">
+<vector name="origin" x="-2" y="29"/>
+</canvas>
+<canvas name="iconRaw" width="27" height="27">
+<vector name="origin" x="-2" y="29"/>
+<int name="z" value="0"/>
+</canvas>
+<int name="cash" value="1"/>
+<int name="slotMax" value="1"/>
+</imgdir>
+</imgdir>
+</imgdir>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="NameChange.img">
+<imgdir name="NameChange">
+<string name="Text00" value="#e角色名稱變更#n\r\n\r\n\r\n\r\n\r\n你可以在符合下列的規則情況下，變更你的角色名稱 : \r\n\r\n"/>
+<string name="Text01" value="1. 如果角色名稱變更時，你有任何的道具或裝備放置在拍賣系統上的未完成交易、轉移、或在等待販售或拍賣倉庫的欄位上，將有可能會消失。\r\n，如果您在拍賣出價或登記了項目的情況下進行了申請角色名稱的作業，預先支付的金額是不會被退還。 \r\n請注意！若您在拍賣系統上有尚未完成的作業，請您在進行角色名稱變更前，先完成相關作業，若您尚未完成拍賣系統相關作業造成任何的損失，將不給予補償。\r\n\r\n"/>
+<string name="Text02" value="2. 要進行角色名稱變更的角色等級必須在10級以上。\r\n\r\n"/>
+<string name="Text03" value="3. 在角色名稱變更後，您的角色名稱需符合下列規則 : \r\n\r\n"/>
+<string name="Text04" value="4. 創立新角色名稱的規則需符合楓之谷網路遊戲之角色名稱創立的規則進行。\r\n\r\n"/>
+<string name="Text05" value="5. 角色名稱不可使用特殊符號。\r\n\r\n"/>
+<string name="Text06" value="6. 您有進行刻名的道具，將不會跟著變更被刻上的名稱。\r\n\r\n"/>
+<string name="Text07" value="7. 在每次的伺服器維護時間，將完成申請的角色名稱變更作業。若伺服器維護時間有所變動，請玩家注意官網的公告內容查詢維護時間的調整。\r\n\r\n"/>
+<string name="Text08" value="8. 您在遊戲中的結婚狀態，並不會因為進行角色名稱變更而受到影響。\r\n\r\n"/>
+<string name="Text09" value="9. 所有公會紀錄及相關訊息，將不會受到角色名稱變更的影響。\r\n\r\n"/>
+<string name="Text10" value="10. 黑名單將會在角色名稱變更後刪除。\r\n\r\n"/>
+<string name="Text11" value="角色名稱變更的限制 : \r\n\r\n\r\n"/>
+<string name="Text12" value="1. 若您角色所屬之帳號，顯示過去曾有被鎖定的紀錄，遊戲橘子將保留您進行角色名稱變更的權利。\r\n\r\n"/>
+<string name="Text13" value="2. 若遊戲橘子取消您角色名稱變更的資格，消耗的費用將全部退還。\r\n\r\n"/>
+<string name="Text14" value="3. 角色名稱變更限制每個角色一個月僅能進行一次。\r\n\r\n"/>
+<string name="Text15" value="4. 遊戲橘子保留拒絕單一申請或全部申請作業的權利--在特殊的情況下--。\r\n\r\n"/>
+<string name="Text16" value="5. 即使您完成角色名稱變更的申請作業，仍有可能因為變更的作業在處理期間被判定為不可完成申請的情況，並會重新要求您變更申請的角色名稱。若遇到這樣的情況，遊戲橘子將會另行通知您，並重新請您提供一個新的角色名稱進行變更的作業。\r\n\r\n"/>
+<string name="Text17" value="6. 若您希望針對不同的遊戲帳號的角色進行角色名稱的作業，您必須另外針對不同的帳號下的角色提出新的申請作業。\r\n\r\n"/>
+<string name="Text18" value="7. 申請角色名稱變更作業，一但提出申請完成，將被列入下次維護中進行作業處理。在完成申請作業後，若您自行放棄或終止這樣的作業申請，將不另行退費。\r\n\r\n"/>
+<string name="Text19" value="8. 所有的申請作業，將在下次的維護處理完成。如遇特殊狀況無法進行完成，將另行公告通知。\r\n\r\n"/>
+<string name="Text20" value="收費 : \r\n\r\n"/>
+<string name="Text21" value="目前角色名稱變更僅開放於香港玩家，完成移民後申請使用。\r\n\r\n"/>
+<string name="Text22" value="角色名稱變更規範\r\n\r\n\r\n"/>
+<string name="Text23" value="下方所列的角色名稱樣式是不適當的：\r\n\r\n"/>
+<string name="Text24" value="1.內含辱罵、宗教、猥褻、種族相關等惡意字眼、性別歧視字眼、惡意字詞同音同義字..等。\r\n\r\n"/>
+<string name="Text25" value="2.會讓人感到不舒服的組合詞彙 (e.g. 大象比較懶)\r\n\r\n"/>
+<string name="Text26" value="3.Nexon與Gamania所屬的各項專有名稱 (如：Wizet)，這包括任何與Nexon或Gamania相關的特殊的NPC名稱。\r\n\r\n"/>
+<string name="Text27" value="4.意圖假冒官方人員名義（例如：GM、客服人員、遊戲橘子…等）的字詞，包含使用同音義字，妨礙其他玩家正常進行遊戲或造成Nexon與Gamania的損失。\r\n\r\n"/>
+<string name="Text28" value="通過點擊下方“我接受”按鈕，您即承認（ 1 ）您已經閱讀並審查同意書的全部內容， （ 2 ）您同意接受本同意書的約束， （ 3 ）您擁有自主權和法律權利簽訂確認同意書內容， （ 4 ）本同意書構成了具有約束力和可執行性協議， （ 5 ）不限制同意書內的條文範圍與條文內容，您完全同意並願意遵守同意書全部內容。\r\n\r\n"/>
+</imgdir>
+<imgdir name="Version">
+<int name="Number" value="1"/>
+</imgdir>
+<imgdir name="ForcedNameChange">
+<string name="Text00" value="#e角色名稱強制修正說明#n\r\n\r\n\r\n目前您創立的角色名稱超過6個字因此必須要改角色名稱。\r\n楓之谷不支援超過6個字的角色名稱，並為了要修正角色名稱超過6個字所產生的異常，將進行角色名稱改為6個字的作業。\r\n\n煩請仔細確認一下如下內容，並依照系統訊息操作變更相關作業，完成後將於下次維護進行修正作業，謝謝您的配合！\r\n\r\n"/>
+<string name="Text01" value="1. 如果角色名稱變更時，你有任何的道具或裝備放置在拍賣系統上的未完成交易、轉移、或在等待販售或拍賣倉庫的欄位上，將有可能會消失。\r\n，如果您在拍賣出價或登記了項目的情況下進行了申請角色名稱的作業，預先支付的金額是不會被退還。 \r\n請注意！若您在拍賣系統上有尚未完成的作業，請您在進行角色名稱變更前，先完成相關作業，若您尚未完成拍賣系統相關作業造成任何的損失，將不給予補償。\r\n\r\n"/>
+<string name="Text03" value="2. 在角色名稱變更後，您的角色名稱需符合下列規則 : \r\n\r\n"/>
+<string name="Text04" value="3. 創立新角色名稱的規則需符合楓之谷網路遊戲之角色名稱創立的規則進行。\r\n\r\n"/>
+<string name="Text05" value="4. 角色名稱不可使用特殊符號。\r\n\r\n"/>
+<string name="Text06" value="5. 您有進行刻名的道具，將不會跟著變更被刻上的名稱。\r\n\r\n"/>
+<string name="Text07" value="6. 在每次的伺服器維護時間，將完成申請的角色名稱變更作業。若伺服器維護時間有所變動，請玩家注意官網的公告內容查詢維護時間的調整。\r\n\r\n"/>
+<string name="Text08" value="7. 您在遊戲中的結婚狀態，並不會因為進行角色名稱變更而受到影響。\r\n\r\n"/>
+<string name="Text09" value="8. 所有公會紀錄及相關訊息，將不會受到角色名稱變更的影響。\r\n\r\n"/>
+<string name="Text10" value="9. 黑名單將會在角色名稱變更後刪除。\r\n\r\n"/>
+<string name="Text11" value="角色名稱變更的限制 : \r\n\r\n\r\n"/>
+<string name="Text12" value="1. 若遊戲橘子取消您角色名稱變更的資格，消耗的費用將全部退還。\r\n\r\n"/>
+<string name="Text13" value="2. 遊戲橘子保留拒絕單一申請或全部申請作業的權利--在特殊的情況下--。\r\n\r\n"/>
+<string name="Text14" value="3. 即使您完成角色名稱變更的申請作業，仍有可能因為變更的作業在處理期間被判定為不可完成申請的情況，並會重新要求您變更申請的角色名稱。若遇到這樣的情況，遊戲橘子將會另行通知您，並重新請您提供一個新的角色名稱進行變更的作業。\r\n\r\n"/>
+<string name="Text15" value="4. 所有的申請作業，將在下次的維護處理完成。如遇特殊狀況無法進行完成，將另行公告通知。\r\n\r\n"/>
+<string name="Text16" value="角色名稱變更規範\r\n\r\n\r\n"/>
+<string name="Text17" value="下方所列的角色名稱樣式是不適當的：\r\n\r\n"/>
+<string name="Text18" value="1.內含辱罵、宗教、猥褻、種族相關等惡意字眼、性別歧視字眼、惡意字詞同音同義字..等。\r\n\r\n"/>
+<string name="Text19" value="2.會讓人感到不舒服的組合詞彙 (e.g. 大象比較懶)\r\n\r\n"/>
+<string name="Text20" value="3.Nexon與Gamania所屬的各項專有名稱 (如：Wizet)，這包括任何與Nexon或Gamania相關的特殊的NPC名稱。\r\n\r\n"/>
+<string name="Text21" value="4.意圖假冒官方人員名義（例如：GM、客服人員、遊戲橘子…等）的字詞，包含使用同音義字，妨礙其他玩家正常進行遊戲或造成Nexon與Gamania的損失。\r\n\r\n"/>
+<string name="Text22" value="通過點擊下方“我接受”按鈕，您即承認（ 1 ）您已經閱讀並審查同意書的全部內容， （ 2 ）您同意接受本同意書的約束， （ 3 ）您擁有自主權和法律權利簽訂確認同意書內容， （ 4 ）本同意書構成了具有約束力和可執行性協議， （ 5 ）不限制同意書內的條文範圍與條文內容，您完全同意並願意遵守同意書全部內容。\r\n\r\n"/>
+</imgdir>
+</imgdir>

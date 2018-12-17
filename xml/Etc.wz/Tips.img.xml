@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="Tips.img">
+<imgdir name="info">
+<imgdir name="0">
+<int name="levelMin" value="1"/>
+<int name="levelMax" value="5"/>
+<int name="interval" value="30000"/>
+<int name="all" value="20"/>
+<string name="tip" value="novice"/>
+</imgdir>
+<imgdir name="1">
+<int name="levelMin" value="6"/>
+<int name="levelMax" value="10"/>
+<int name="interval" value="60000"/>
+<int name="all" value="40"/>
+<string name="tip" value="novice"/>
+</imgdir>
+<imgdir name="2">
+<int name="levelMin" value="11"/>
+<int name="levelMax" value="20"/>
+<int name="interval" value="300000"/>
+<int name="all" value="50"/>
+<string name="tip" value="novice2"/>
+<int name="job" value="15"/>
+</imgdir>
+<imgdir name="3">
+<int name="levelMin" value="21"/>
+<int name="levelMax" value="30"/>
+<int name="interval" value="600000"/>
+<int name="all" value="60"/>
+<string name="tip" value="novice3"/>
+<int name="job" value="15"/>
+</imgdir>
+<imgdir name="4">
+<int name="levelMin" value="31"/>
+<int name="levelMax" value="70"/>
+<int name="interval" value="600000"/>
+<int name="all" value="70"/>
+<string name="tip" value="novice4"/>
+<int name="job" value="15"/>
+</imgdir>
+<imgdir name="5">
+<int name="levelMin" value="71"/>
+<int name="levelMax" value="120"/>
+<int name="interval" value="600000"/>
+<int name="all" value="80"/>
+<string name="tip" value="novice5"/>
+<int name="job" value="15"/>
+</imgdir>
+<imgdir name="6">
+<int name="levelMin" value="121"/>
+<int name="levelMax" value="200"/>
+<int name="interval" value="600000"/>
+<int name="all" value="90"/>
+<string name="tip" value="novice6"/>
+</imgdir>
+<imgdir name="7">
+<int name="levelMin" value="11"/>
+<int name="levelMax" value="30"/>
+<int name="interval" value="300000"/>
+<int name="all" value="20"/>
+<string name="tip" value="novice7"/>
+<int name="job" value="16"/>
+</imgdir>
+<imgdir name="8">
+<int name="levelMin" value="31"/>
+<int name="levelMax" value="70"/>
+<int name="interval" value="600000"/>
+<int name="all" value="70"/>
+<string name="tip" value="novice8"/>
+<int name="job" value="16"/>
+</imgdir>
+<imgdir name="9">
+<int name="levelMin" value="71"/>
+<int name="levelMax" value="120"/>
+<int name="interval" value="600000"/>
+<int name="all" value="80"/>
+<string name="tip" value="novice9"/>
+<int name="job" value="16"/>
+</imgdir>
+</imgdir>
+<imgdir name="all">
+<string name="0" value="請多加留意發言內容及用語。"/>
+<string name="1" value="官方人員不會向玩家索取帳號、密碼等個人資料。"/>
+<string name="2" value="請不要向別人透露您的遊戲帳號及密碼。"/>
+<string name="3" value="若遊戲中發生錯誤或有不明白的地方，請至楓之谷官方網站查詢答案或來信反應您的問題。"/>
+<string name="4" value="請不要在遊戲中進行非法或現金交易的行為，以免遊戲帳號遭鎖定。"/>
+<string name="5" value="請不要使用任何外掛或其他破壞遊戲平衡性程式，以免遊戲帳號遭鎖定。"/>
+<string name="6" value="在遊戲畫面右下方目錄圖示中的系統選項，可以調整遊戲內的畫面及音樂效果。"/>
+<string name="7" value="楓之谷客戶中心服務電話：02-8024-2002"/>
+<string name="8" value="遊戲中設有聊天、交易、悄悄話等功能。"/>
+<string name="9" value="在聊天視窗中輸入「/?」，可以查看所有使用「/」的指令及說明。"/>
+<string name="10" value="在購物商場購買的加值道具，可以跟一般裝備一起使用。"/>
+<string name="11" value="加值道具和一般裝備一起使用時，角色將以加值道具的造型呈現，而裝備的屬性將是一般道具的。"/>
+<string name="12" value="加值道具不能交易，並且無法丟棄在地上。"/>
+<string name="13" value="若想贈送加值道具，請在購物商場裡選定道具後，使用送禮的功能。"/>
+<string name="14" value="為了保護電腦，請不要任意開啟他人發送的檔案或執行可疑的程式。"/>
+<string name="15" value="現金並不能交換楓之谷金幣，請提防欺詐行為。"/>
+<string name="16" value="在購物商場購買的道具，須以左鍵雙擊該物品，將物品移至道具欄內才可以使用。"/>
+<string name="17" value="官方人員會穿著固定服裝在線上巡視，但並沒有固定的名稱。"/>
+<string name="18" value="宅配系統道具運送時間在12小時內送達，保管箱內最多可放5樣道具。"/>
+<string name="19" value="宅配系統物品運送過程中一旦刪除，系統將回收物品。"/>
+<string name="20" value="倉庫及角色身上需沒有任何被封印的道具，將可在例行維護後進行角色刪除。"/>
+<string name="21" value="精靈商人經24小時內需於不同位置重新開啟"/>
+<string name="22" value="15級以上角色才能使用加減名聲的功能，一天僅能使用一次。"/>
+<string name="23" value="如果使用公用電腦，請確認安全軟體。請使用後記得進行個人遊戲更新密碼。"/>
+<string name="24" value="楓幣或道具無法複製。請注意欺騙行為。"/>
+<string name="25" value="請注意在官網之外的網站不要隨意輸入您個人的帳號及密碼。"/>
+<string name="26" value="過度玩遊戲會傷害身體，請注意。"/>
+<string name="27" value="做假的回報，會被制裁。"/>
+<string name="28" value="對使用非法軟體被制裁不會有任何補償。"/>
+<string name="29" value="使用非法程式或進入非驗證的網頁有駭客危險。"/>
+<string name="30" value="請使用不容易猜的文字及數字組合的密碼，並週期要更換密碼。"/>
+<string name="31" value="使用NPC篤伊的配送系統可以送給別人道具或楓幣。"/>
+<string name="41" value="測謊機持續揭發時，有可能受到處罰。"/>
+</imgdir>
+<imgdir name="novice">
+<string name="0" value="使用快捷鍵（I,E,S,K,W,M,R,H)能快速的打開視窗欄。"/>
+<string name="1" value="為消耗品設置快捷鍵時，滑鼠左鍵單擊該物品，再至欲設定的熱鍵中單擊滑鼠左鍵即可。"/>
+<string name="2" value="地圖中到處都有隱藏的秘密通道，仔細找一找就會有意外發現哦。"/>
+<string name="3" value="F1~F7鍵有多種人物表情可選擇。"/>
+<string name="4" value="若想到達下一張地圖，請使用目前所在地圖上的傳送點。"/>
+<string name="5" value="小地圖上的藍色亮點代表可到達下一張地圖的傳送點。"/>
+<string name="6" value="角色一旦離開了楓之島，就無法再回去了哦。"/>
+<string name="7" value="按下&apos;角色資料&apos;視窗中右下角的&apos;詳細說明&apos;，可以更仔細的查看角色能力值。"/>
+<string name="8" value="小地圖上的紅色亮點代表同地圖中的其他玩家。"/>
+<string name="9" value="角色在非攻擊狀態時站著不動，將可逐漸恢復生命值。"/>
+<string name="10" value="按下Z鍵或數字0鍵就可以撿取物品。"/>
+<string name="11" value="預設的按鍵中，Ctrl的作用為-攻擊，Alt的作用為-跳躍。"/>
+<string name="12" value="在遊戲內各式商店中能買到冒險時需要的裝備、藥水等物品。"/>
+<string name="13" value="您可以在&apos;角色資料&apos;視窗中分配升級時得到的升級點數。"/>
+<string name="14" value="轉職成功後就無法再選擇其它的職業。"/>
+<string name="15" value="在道具欄的裝備視窗中，以滑鼠左鍵雙擊道具，就可以裝備該道具。"/>
+<string name="16" value="W的作用為-查看大地圖。"/>
+<string name="17" value="E的作用為-打開裝備欄。"/>
+<string name="18" value="I的作用為-查看背包裡的物品。"/>
+<string name="19" value="M的作用為-查看小地圖。"/>
+<string name="20" value="K的作用為-打開技能視窗。"/>
+<string name="21" value="S的作用為-查看角色能力值。"/>
+<string name="22" value="在聊天視窗欄中輸入「/組隊開啟」將開啟組隊功能。"/>
+<string name="23" value="在聊天視窗欄中輸入「/組隊邀請 角色名稱」，可邀請玩家加入組隊，只有隊長才能邀請。"/>
+<string name="24" value="在聊天視窗欄中輸入「/組隊退出 角色名稱」，可踼除隊友，只有隊長才能踢除。"/>
+<string name="25" value="在聊天視窗欄中輸入「/組隊離開」，隊伍成員將可自行脫離目前所屬隊伍。"/>
+<string name="26" value="在聊天視窗欄中輸入「/組隊狀況」，可以查看目前的組隊情況。"/>
+<string name="27" value="隊長以滑鼠右鍵單擊其它玩家時，就會出現&apos;組隊邀請&apos;的選項。"/>
+<string name="28" value="用滑鼠右鍵單擊其它玩家時，在角色資料的「名聲+/-」選項，可以增加或降低該角色的名聲。"/>
+<string name="29" value="每個角色一天內只能執行一次增減名聲的動作。"/>
+<string name="30" value="增減名聲的功能，在一個月內只能對同一個玩家使用一次。"/>
+<string name="31" value="若要確認好友、組隊、公會、黑名單相關資訊，請按&quot;R&quot;鍵。"/>
+<string name="32" value="若要退出公會，請在聊天視窗輸入&quot;/退出公會&quot;。"/>
+</imgdir>
+<imgdir name="novice2">
+<string name="0" value="在各村莊內有各式商店，能買到冒險時需要的裝備、藥水等物品。"/>
+<string name="1" value="有些道具會有性別或職業的限制。購買時請注意。"/>
+<string name="2" value="第一次轉職成功後就無法再選擇其它的職業。"/>
+<string name="3" value="每次戰鬥犧牲都可能會減少一定經驗值。"/>
+<string name="4" value="完成任務後將有機會得到商店中購買不到的物品哦。"/>
+<string name="5" value="轉職後會依照職業不同而可能增加各種道具欄位的空間。"/>
+<string name="6" value="達到可以轉職的等級卻未完成轉職時，即使角色升級也不會得到技能點數。"/>
+<string name="7" value="在聊天視窗欄中輸入「/交易 角色名」，當對方同意交易後，就可開啟交易視窗。"/>
+<string name="8" value="冒險者法師職業在8級就可以進行轉職，其他的職業在10級時可以進行轉職。"/>
+<string name="9" value="在聊天視窗欄中輸入「/組隊開啟」將開啟組隊功能。"/>
+<string name="10" value="在聊天視窗欄中輸入「/組隊邀請 角色名稱」，可邀請玩家加入組隊，只有隊長才能邀請。"/>
+<string name="11" value="在聊天視窗欄中輸入「/組隊退出 角色名稱」，可踼除隊友，只有隊長才能踢除。"/>
+<string name="12" value="在聊天視窗欄中輸入「/組隊離開」，隊伍成員將可自行脫離目前所屬隊伍。"/>
+<string name="13" value="在聊天視窗欄中輸入「/組隊狀況」，可以查看目前的組隊情況。"/>
+<string name="14" value="隊長以滑鼠右鍵單擊其它玩家時，就會出現&apos;組隊邀請&apos;的選項。"/>
+<string name="15" value="用滑鼠右鍵單擊其它玩家時，在角色資料的「名聲+/-」選項，可以增加或降低該角色的名聲。"/>
+<string name="16" value="一天只能對名聲值進行一次提升或下降的動作！"/>
+<string name="17" value="對同一角色，一個月只能進行一次名聲值提升或下降的動作。"/>
+<string name="18" value="創立騎士團角色會在耶雷弗。"/>
+</imgdir>
+<imgdir name="novice3">
+<string name="0" value="在各職業對應的轉殖NPC處中可以完成轉職。"/>
+<string name="1" value="已學習的被動技能，將自動應用在角色身上。"/>
+<string name="2" value="替主動技能設定快捷鍵，使用上將會更方便。"/>
+<string name="3" value="各村落中都能買到該村落所特有的道具。"/>
+<string name="4" value="達到可以轉職的等級卻未完成轉職時，即使角色升級也不會得到技能點數。"/>
+<string name="5" value="完成轉職後再升級，才會獲得技能點數哦。"/>
+<string name="6" value="在技能視窗欄中可以分配技能點數。"/>
+<string name="7" value="地下迷宮裡的怪物更加的兇猛，勇者們請多加小心。"/>
+<string name="8" value="若是打死強大的怪物，將有機會獲得在商店中買不到的珍貴物品哦。"/>
+<string name="9" value="血量(HP)、魔力(MP)將會隨著時間逐漸恢復。"/>
+<string name="10" value="若角色的MP量不足，將無法使用消耗魔法的技能。"/>
+<string name="11" value="在聊天視窗欄中輸入「/交易 角色名」，當對方同意交易後，就可開啟交易視窗。"/>
+<string name="12" value="使用回城卷軸可以快速地回到村落中。"/>
+<string name="13" value="飛鏢使用完後，並不會從道具欄消失。"/>
+<string name="14" value="飛鏢可以在各村落的商店以儲值的方式進行補充。"/>
+</imgdir>
+<imgdir name="novice4">
+<string name="0" value="角色完成一轉之後，才可在之後升級達指定等級後進行第二次轉職。"/>
+<string name="1" value="冒險者職業30級以後取得的技能點數可以在二轉之後再做分配。"/>
+<string name="2" value="必須將轉職前所獲得的技能點數使用完畢，才可進行下一次的轉職。"/>
+<string name="3" value="有些技能不能與其他技能一起使用。"/>
+<string name="4" value="使用卷軸將能製造更好的武器和防具。"/>
+<string name="5" value="在2轉時，劍士可選擇狂戰士、見習騎士、槍騎兵中的一個。"/>
+<string name="6" value="在2轉時，弓箭手可選擇獵人、弩弓手中的一個。"/>
+<string name="7" value="在2轉時，法師可選擇巫師、僧侶中的一個。"/>
+<string name="8" value="在2轉時，盜賊可選擇刺客、俠盜中的一個。"/>
+<string name="9" value="在2轉時，海賊可選擇打手、槍手中的一個。"/>
+<string name="10" value="一部分任務與道具皆有名聲限制。"/>
+<string name="11" value="部份任務與道具會有名聲值的條件限制。"/>
+<string name="12" value="全新職業-龍魔導士、影武者登場！歡迎您來體驗全新的楓之谷冒險旅程！"/>
+</imgdir>
+<imgdir name="novice5">
+<string name="0" value="冒險者職業完成二轉之後，在70級時便可進行第三次轉職。"/>
+<string name="1" value="冒險者職業70級以後取得的技能點數可以在三轉之後再做分配。"/>
+<string name="2" value="冒險者職業必須將70級以前所獲得的技能點數使用完畢，才可進行第三次轉職。"/>
+<string name="3" value="有些任務是可以重複挑戰的哦。"/>
+<string name="4" value="奇幻村旅館的桑拿房可以更快速的恢復HP和MP。"/>
+<string name="5" value="法師的技能中，有屬性的攻擊魔法，其攻擊力會受到怪物的屬性所影響。"/>
+<string name="6" value="透過任務，可學習怪物騎乘技能！"/>
+<string name="7" value="全新職業-龍魔導士、影武者登場！歡迎您來體驗全新的楓之谷冒險旅程！"/>
+</imgdir>
+<imgdir name="novice6">
+<string name="0" value="冒險者職業完成三轉之後，在120級時便可進行第四次轉職。"/>
+<string name="1" value="冒險者職業120級以後取得的技能點數可以在四轉之後再做分配。"/>
+<string name="2" value="冒險者職業必須將120級以前所獲得的技能點數使用完畢，才可進行第四次轉職。"/>
+<string name="3" value="透過任務，可學習怪物騎乘技能！"/>
+<string name="4" value="各職業別可騎乘的怪物可能會有不同。"/>
+<string name="5" value="部分技能，須取得技能書才能進行升級。"/>
+<string name="6" value="部分技能需進行任務才能取得。"/>
+<string name="7" value="部分技能任務，須符合任務條件才能進行！"/>
+<string name="8" value="全新職業-龍魔導士、影武者登場！歡迎您來體驗全新的楓之谷冒險旅程！"/>
+</imgdir>
+<imgdir name="novice7">
+<string name="0" value="各村莊內有販售裝備、藥水等的商店。"/>
+<string name="1" value="部分道具有性別、職業的條件限制！購買前請務必確認相關條件。"/>
+<string name="2" value="一旦進行轉職，便無法再進行其他職業的一轉。"/>
+<string name="3" value="當角色死亡後復活時，將會受到經驗值的損失。請務必多加注意！"/>
+<string name="4" value="執行任務後，可獲得無法在商店購得的道具喔！"/>
+<string name="5" value="轉職後會依照職業不同而可能增加各種道具欄位的空間。"/>
+<string name="6" value="若已超過可轉職等級的狀況下進行轉職，只要是角色等級落差在一定等級內，便可得到技能點數(SP)的補償喔！"/>
+<string name="7" value="在聊天視窗輸入&quot;/交易 對方角色名稱&quot;，便會開啟與該角色的交換視窗。"/>
+<string name="8" value="全新職業-龍魔導士、影武者登場！歡迎您來體驗全新的楓之谷冒險旅程！"/>
+<string name="9" value="若想要使用隊伍頻道，請在聊天視窗上輸入&quot;/組隊&quot;即可切換到隊伍頻道。"/>
+<string name="10" value="若隊長想要邀請其他角色加入隊伍，只需在聊天視窗輸入&quot;/組隊邀請 對方角色名稱&quot;即可。"/>
+<string name="11" value="若隊長想要強制踢出某各隊員，只需在聊天視窗輸入&quot;/組隊退出 角色名稱&quot;即可。"/>
+<string name="12" value="若要退出所屬隊伍，只需在聊天視窗輸入&quot;/組隊離開&quot;即可。"/>
+<string name="13" value="若要確認所屬隊伍的資料，只需在聊天視窗內輸入&quot;/組隊狀況&quot;即可。"/>
+<string name="14" value="若隊長想要邀請其他角色加入隊伍，可將滑鼠指向該角色後按下右鍵，便會出現組隊邀請功能。"/>
+<string name="15" value="若想要提升/下降名聲值，可將滑鼠指向該角色後按下右鍵，便會出現名聲值+/-功能。"/>
+<string name="16" value="一天只能對名聲值進行一次提升或下降的動作！"/>
+<string name="17" value="對同一角色，一個月只能進行一次名聲值提升或下降的動作。"/>
+<string name="18" value="全新職業-龍魔導士、影武者登場！歡迎您來體驗全新的楓之谷冒險旅程！"/>
+<string name="19" value="若學會被動技能，便會自動施展。"/>
+<string name="20" value="若要使用主動技能，可將該技能圖示從技能視窗拖曳到快捷鍵，完成快捷鍵設定後即可使用。"/>
+<string name="21" value="各村莊的商人會販售該村莊專屬的裝備與武器。"/>
+<string name="22" value="部分技能，須取得技能書才能進行升級。"/>
+<string name="23" value="部分技能需進行任務才能取得。"/>
+<string name="24" value="部分技能任務，須符合任務條件才能進行！"/>
+<string name="25" value="全新職業-龍魔導士、影武者登場！歡迎您來體驗全新的楓之谷冒險旅程！"/>
+<string name="26" value="當打倒高等怪物，便有機會得到商店內未販售的珍貴道具喔！"/>
+<string name="27" value="經過一定時間，魔法能量(MP)便會逐漸削減。"/>
+<string name="28" value="在魔法能量(MP)不足的情況下，是無法使用消耗MP的技能！"/>
+<string name="29" value="在聊天視窗輸入&quot;/交易 對方角色名稱&quot;，便會開啟與該角色的交換視窗。"/>
+<string name="30" value="只要使用傳送卷軸，就可以更快速地回到村莊喔！"/>
+<string name="31" value="就算將飛鏢與子彈使用完畢，數量呈現0的狀態下，飛鏢和子彈是不會消失。"/>
+<string name="32" value="您可在各村莊的武器/雜貨商店補充飛鏢和子彈來使用。"/>
+<string name="33" value="狂郎勇士可利用方向鍵→→或←←來施展衝鋒。"/>
+<string name="34" value="進行第二次轉職時，海盜可從打手或槍手中擇一進行轉職。"/>
+<string name="35" value="創立騎士團角色會在耶雷弗。"/>
+</imgdir>
+<imgdir name="novice8">
+<string name="0" value="使用變身技能的狀態下，只能使用部分專屬技能。"/>
+<string name="1" value="部分技能，須取得技能書才能進行升級。"/>
+<string name="2" value="部分技能需進行任務才能取得。"/>
+<string name="3" value="部分技能任務，須符合任務條件才能進行！"/>
+<string name="4" value="全新職業-龍魔導士、影武者登場！歡迎您來體驗全新的楓之谷冒險旅程！"/>
+<string name="5" value="在2轉時，海賊可選擇打手、槍手中的一個。"/>
+<string name="6" value="一部分任務與道具皆有名聲限制。"/>
+<string name="7" value="使用屬性彈丸可施展比普通彈丸更加強烈的屬性攻擊。"/>
+<string name="8" value="屬性專用彈丸只能用於進行屬性攻擊。"/>
+<string name="9" value="屬性專用子彈只能進行屬性攻擊。"/>
+</imgdir>
+<imgdir name="novice9">
+<string name="0" value="轉職後會依照職業不同而可能增加各種道具欄位的空間。"/>
+<string name="1" value="若已超過可轉職等級的狀況下進行轉職，只要是角色等級落差在一定等級內，便可得到技能點數(SP)的補償喔！"/>
+<string name="2" value="當角色死亡後復活時，將會受到經驗值的損失。請務必多加注意！"/>
+<string name="3" value="任務中有些是可以解完後再次重複接取。"/>
+<string name="4" value="使用奇幻村的桑那房，便可更快速地恢復HP和MP。"/>
+<string name="5" value="法師二轉技能中，屬性魔法攻擊的殺傷力會根據怪物的屬性而有所不同。"/>
+<string name="6" value="透過任務，可學習怪物騎乘技能！"/>
+<string name="7" value="使用變身技能的狀態下，只能使用部分專屬技能。"/>
+</imgdir>
+</imgdir>

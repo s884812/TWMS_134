@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="9209102.img">
+<imgdir name="info">
+<canvas name="default" width="207" height="127">
+<vector name="origin" x="99" y="106"/>
+</canvas>
+<imgdir name="script">
+<imgdir name="0">
+<string name="script" value="88event"/>
+</imgdir>
+</imgdir>
+<int name="dcLeft" value="-140"/>
+<int name="dcTop" value="-110"/>
+<int name="dcRight" value="140"/>
+<int name="dcBottom" value="0"/>
+</imgdir>
+<imgdir name="stand">
+<canvas name="0" width="286" height="118">
+<vector name="origin" x="144" y="118"/>
+<int name="delay" value="100"/>
+</canvas>
+<canvas name="1" width="286" height="130">
+<vector name="origin" x="144" y="130"/>
+<int name="delay" value="100"/>
+</canvas>
+<canvas name="2" width="286" height="210">
+<vector name="origin" x="144" y="210"/>
+<int name="delay" value="100"/>
+</canvas>
+<canvas name="3" width="286" height="200">
+<vector name="origin" x="144" y="200"/>
+<int name="delay" value="300"/>
+</canvas>
+<canvas name="4" width="286" height="200">
+<vector name="origin" x="144" y="200"/>
+<int name="delay" value="300"/>
+</canvas>
+<canvas name="5" width="286" height="200">
+<vector name="origin" x="144" y="200"/>
+<int name="delay" value="300"/>
+</canvas>
+<canvas name="6" width="286" height="200">
+<vector name="origin" x="144" y="200"/>
+<int name="delay" value="300"/>
+</canvas>
+<canvas name="7" width="286" height="200">
+<vector name="origin" x="144" y="200"/>
+<int name="delay" value="300"/>
+</canvas>
+<canvas name="8" width="286" height="200">
+<vector name="origin" x="144" y="200"/>
+<int name="z" value="0"/>
+</canvas>
+<canvas name="9" width="286" height="200">
+<vector name="origin" x="144" y="200"/>
+<int name="z" value="0"/>
+</canvas>
+<canvas name="10" width="286" height="200">
+<vector name="origin" x="144" y="200"/>
+<int name="z" value="0"/>
+</canvas>
+<canvas name="11" width="286" height="200">
+<vector name="origin" x="144" y="200"/>
+<int name="z" value="0"/>
+</canvas>
+<canvas name="12" width="286" height="200">
+<vector name="origin" x="144" y="200"/>
+<int name="z" value="0"/>
+</canvas>
+<canvas name="13" width="286" height="200">
+<vector name="origin" x="144" y="200"/>
+<int name="z" value="0"/>
+</canvas>
+<canvas name="14" width="286" height="200">
+<vector name="origin" x="144" y="200"/>
+<int name="z" value="0"/>
+</canvas>
+<canvas name="15" width="286" height="200">
+<vector name="origin" x="144" y="200"/>
+<int name="z" value="0"/>
+</canvas>
+</imgdir>
+</imgdir>

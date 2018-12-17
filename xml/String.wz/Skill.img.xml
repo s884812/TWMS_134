@@ -1,0 +1,4908 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="Skill.img">
+<imgdir name="000">
+<string name="bookName" value="冒險之技"/>
+</imgdir>
+<imgdir name="0000008">
+<string name="name" value="寵物達人"/>
+<string name="desc" value="[最高等級：1]可攜帶多隻寵物，最多攜帶3隻"/>
+</imgdir>
+<imgdir name="0000012">
+<string name="name" value="精靈的祝福"/>
+<string name="desc" value="[等級上限：12]\n利用精靈之力使角色得到強化。聯繫之角色等級每提高10級增加1點技能點數。"/>
+<string name="h" value="物理攻擊力 #x、魔法攻擊力 #y、命中率、迴避率 #z 上升。"/>
+</imgdir>
+<imgdir name="100">
+<string name="bookName" value="劍士入門"/>
+</imgdir>
+<imgdir name="110">
+<string name="bookName" value="狂戰士之路"/>
+</imgdir>
+<imgdir name="111">
+<string name="bookName" value="十字軍之路"/>
+</imgdir>
+<imgdir name="112">
+<string name="bookName" value="終極英雄"/>
+</imgdir>
+<imgdir name="120">
+<string name="bookName" value="見習騎士之路"/>
+</imgdir>
+<imgdir name="121">
+<string name="bookName" value="騎士之路"/>
+</imgdir>
+<imgdir name="122">
+<string name="bookName" value="光之聖騎士"/>
+</imgdir>
+<imgdir name="130">
+<string name="bookName" value="槍騎兵之路"/>
+</imgdir>
+<imgdir name="131">
+<string name="bookName" value="龍騎士之路"/>
+</imgdir>
+<imgdir name="132">
+<string name="bookName" value="黑暗力量的黑騎士"/>
+</imgdir>
+<imgdir name="200">
+<string name="bookName" value="法師入門"/>
+</imgdir>
+<imgdir name="210">
+<string name="bookName" value="火/毒魔法指南"/>
+</imgdir>
+<imgdir name="211">
+<string name="bookName" value="魔導士之路(火毒)"/>
+</imgdir>
+<imgdir name="212">
+<string name="bookName" value="最頂級火毒魔法"/>
+</imgdir>
+<imgdir name="220">
+<string name="bookName" value="冰/雷魔法指南"/>
+</imgdir>
+<imgdir name="221">
+<string name="bookName" value="魔導士之路(冰雷)"/>
+</imgdir>
+<imgdir name="222">
+<string name="bookName" value="最頂級冰雷魔法"/>
+</imgdir>
+<imgdir name="230">
+<string name="bookName" value="僧侶指南"/>
+</imgdir>
+<imgdir name="231">
+<string name="bookName" value="祭司之路"/>
+</imgdir>
+<imgdir name="232">
+<string name="bookName" value="最頂級神聖魔法"/>
+</imgdir>
+<imgdir name="300">
+<string name="bookName" value="弓箭手入門"/>
+</imgdir>
+<imgdir name="310">
+<string name="bookName" value="獵人指南"/>
+</imgdir>
+<imgdir name="311">
+<string name="bookName" value="遊俠之路"/>
+</imgdir>
+<imgdir name="312">
+<string name="bookName" value="弓箭達人"/>
+</imgdir>
+<imgdir name="320">
+<string name="bookName" value="弩弓手指南"/>
+</imgdir>
+<imgdir name="321">
+<string name="bookName" value="狙擊手之路"/>
+</imgdir>
+<imgdir name="322">
+<string name="bookName" value="弩弓的達人"/>
+</imgdir>
+<imgdir name="400">
+<string name="bookName" value="盜賊入門"/>
+</imgdir>
+<imgdir name="410">
+<string name="bookName" value="刺客指南"/>
+</imgdir>
+<imgdir name="411">
+<string name="bookName" value="暗殺者之路"/>
+</imgdir>
+<imgdir name="412">
+<string name="bookName" value="夜使者的秘笈"/>
+</imgdir>
+<imgdir name="420">
+<string name="bookName" value="俠盜指南"/>
+</imgdir>
+<imgdir name="421">
+<string name="bookName" value="神偷之路"/>
+</imgdir>
+<imgdir name="422">
+<string name="bookName" value="暗影神偷密技"/>
+</imgdir>
+<imgdir name="430">
+<string name="bookName" value="下忍的基本"/>
+</imgdir>
+<imgdir name="431">
+<string name="bookName" value="中忍指南"/>
+</imgdir>
+<imgdir name="432">
+<string name="bookName" value="上忍精通之路"/>
+</imgdir>
+<imgdir name="433">
+<string name="bookName" value="隱忍之路"/>
+</imgdir>
+<imgdir name="434">
+<string name="bookName" value="影武者的秘笈"/>
+</imgdir>
+<imgdir name="500">
+<string name="bookName" value="海盜入門"/>
+</imgdir>
+<imgdir name="510">
+<string name="bookName" value="打手指南"/>
+</imgdir>
+<imgdir name="511">
+<string name="bookName" value="格鬥家之路"/>
+</imgdir>
+<imgdir name="512">
+<string name="bookName" value="拳霸的終點"/>
+</imgdir>
+<imgdir name="520">
+<string name="bookName" value="槍手指南"/>
+</imgdir>
+<imgdir name="521">
+<string name="bookName" value="神槍手之路"/>
+</imgdir>
+<imgdir name="522">
+<string name="bookName" value="槍神的終點"/>
+</imgdir>
+<imgdir name="800">
+<string name="bookName" value="技能書管理"/>
+</imgdir>
+<imgdir name="900">
+<string name="bookName" value="GM技能書"/>
+</imgdir>
+<imgdir name="0001000">
+<string name="name" value="嫩寶丟擲術"/>
+<string name="desc" value="[最高等級 : 3] 丟嫩寶殼來攻擊遠距離的怪物。"/>
+<string name="h1" value="MP 3後，殺傷力10"/>
+<string name="h2" value="MP 5後，殺傷力25"/>
+<string name="h3" value="MP 7後，殺傷力40"/>
+</imgdir>
+<imgdir name="1000">
+<string name="bookName" value="貴族技術"/>
+</imgdir>
+<imgdir name="0001001">
+<string name="name" value="治癒"/>
+<string name="desc" value="[最高等級 : 3] 30秒之間持續的恢復自己的 HP。 #c再使用等待時間 : 2分#"/>
+<string name="h1" value="消耗MP 5，30秒恢復 HP 24"/>
+<string name="h2" value="消耗MP 10，30秒恢復HP 48"/>
+<string name="h3" value="消耗MP 15，30秒恢復HP 72"/>
+</imgdir>
+<imgdir name="0001002">
+<string name="name" value="疾風之步"/>
+<string name="desc" value="[最高等級 : 3] 瞬間迅速的移動。 #c再使用等待時間 : 1分#"/>
+<string name="h1" value="MP 4 消耗後 4秒之間增加10的移動速度"/>
+<string name="h2" value="MP 7 消耗後 8秒之間增加15 的移動速度"/>
+<string name="h3" value="MP 10 消耗後 12秒之間增加20 的移動速度"/>
+</imgdir>
+<imgdir name="0001003">
+<string name="name" value="神匠之魂"/>
+<string name="desc" value="[最高等級：1] 藉由神匠之魂，可將卷軸用到無法裝備的道具上。"/>
+</imgdir>
+<imgdir name="0001004">
+<string name="name" value="怪物騎乘"/>
+<string name="desc" value="[最高等級 : 1] 可騎乘被馴服的怪物。"/>
+</imgdir>
+<imgdir name="0001005">
+<string name="name" value="英雄的回響"/>
+<string name="desc" value="[最高等級：1]\n提升週邊所有角色的物理攻擊力與魔法攻擊力。\n#c在使用等待時間：2小時#"/>
+<string name="h1" value="消耗MP 30，在40分鐘內提升物理攻擊力與魔法攻擊力4%"/>
+</imgdir>
+<imgdir name="0001006">
+<string name="name" value="向下跳躍"/>
+<string name="desc" value="[等級上限 : 1]\n往向下方跳躍。"/>
+<string name="h1" value="向下跳躍"/>
+</imgdir>
+<imgdir name="0001007">
+<string name="name" value="強化合成"/>
+<string name="desc" value="[最高等級 : 3]\n利用煉金術可以強化合成物品。自身角色的等級不同，能強化合成的物品也不同。"/>
+<string name="h1" value="可以強化合成75 級以下的物品"/>
+<string name="h2" value="可以強化合成105 級以下的物品"/>
+<string name="h3" value="可以強化合成135 級以下的物品"/>
+</imgdir>
+<imgdir name="0001009">
+<string name="name" value="竹竿天擊"/>
+<string name="desc" value="利用竹子發動攻擊。"/>
+<string name="h1" value="武陵道場對戰怪物的生命力降低30%"/>
+</imgdir>
+<imgdir name="0001010">
+<string name="name" value="金剛不壞"/>
+<string name="desc" value="短時間內成為無敵狀態不受攻擊。"/>
+<string name="h1" value="30秒內呈無敵狀態"/>
+</imgdir>
+<imgdir name="0001011">
+<string name="name" value="地火天爆"/>
+<string name="desc" value="一定時間內增加殺傷力。"/>
+<string name="h1" value="30秒內殺傷力增加100%"/>
+</imgdir>
+<imgdir name="0001013">
+<string name="name" value="宇宙船"/>
+<string name="desc" value="[等級上限 : 2]\n乘坐宇宙船。#c有效期限：2010年8月11日12點#"/>
+<string name="h1" value="消耗MP10，增加物理、魔法防禦力10、移動速度150、彈跳力120"/>
+<string name="h2" value="消耗MP10，增加物理、魔法防禦力20、移動速度170、彈跳力120"/>
+</imgdir>
+<imgdir name="0001014">
+<string name="name" value="宇宙衝鋒"/>
+<string name="desc" value="雙擊左右方向鍵中的一個，瞬間提高移動速度和彈跳力。#c有效期限：2010年8月11日12點#"/>
+</imgdir>
+<imgdir name="0001015">
+<string name="name" value="宇宙光束"/>
+<string name="desc" value="可改變宇宙礦山裡的樹叢形態。#c有效期限：2010年8月11日12點#"/>
+</imgdir>
+<imgdir name="0001016">
+<string name="name" value="低等級怪物騎乘"/>
+<string name="desc" value="[最高等級 : 1]擁有低等級騎寵時，可以進行低等級寵物的騎乘。"/>
+</imgdir>
+<imgdir name="0001017">
+<string name="name" value="雪吉拉騎士"/>
+<string name="desc" value="[等級上限 : 1]\n可以騎雪吉拉移動。\n#c有效期間：2010年8月18日12點#"/>
+<string name="h1" value="消耗MP10，物理，魔法防禦增加10，移動速度120，跳躍力120"/>
+</imgdir>
+<imgdir name="0001018">
+<string name="name" value="雪吉拉騎士"/>
+<string name="desc" value="[精通等級：1]\n可騎乘雪吉拉移動。"/>
+<string name="h1" value="消耗MP10，物理及魔法防禦力增加10，移動速度增加120，跳躍力增加 120"/>
+</imgdir>
+<imgdir name="0001019">
+<string name="name" value="魔女掃把"/>
+<string name="desc" value="[精通等級：1]\n可騎乘魔女掃把移動。"/>
+<string name="h1" value="消耗MP10，物理及魔法防禦力增加10，移動速度增加120，躍力增加 120"/>
+</imgdir>
+<imgdir name="0001020">
+<string name="name" value="法老的憤怒攻擊"/>
+<string name="desc" value="[等級上限 : 1]\n使用法老的憤怒攻擊。"/>
+<string name="h1" value="一擊清除在金字塔內所有怪物"/>
+</imgdir>
+<imgdir name="0001025">
+<string name="name" value="突擊！木馬"/>
+<string name="desc" value="[精通等級：1]\n可騎乘木馬移動。"/>
+<string name="h1" value="消耗MP10，物理及魔法防禦力增加10，移動速度增加120，躍力增加 120"/>
+</imgdir>
+<imgdir name="0001026">
+<string name="name" value="飛翔"/>
+<string name="desc" value="[等級上限 : 1]\n使用龍族的神秘的力量可以飛上天空。但是墜落時受到的降落傷害相當大。\n發動時消耗MP 90，維持飛翔狀態時每秒消耗1 MP。"/>
+<string name="h1" value="消耗MP 90，使用飛翔技能。每1秒消耗1 MP "/>
+</imgdir>
+<imgdir name="0001027">
+<string name="name" value="黑鱷魚"/>
+<string name="desc" value="[精通等級：1]\n可騎乘黑鱷魚移動。"/>
+<string name="h1" value="消耗MP10，物理及魔法防禦力增加10，移動速度增加140，躍力增加 120"/>
+</imgdir>
+<imgdir name="0001028">
+<string name="name" value="街車"/>
+<string name="desc" value="[精通等級：1]\n可騎乘街車移動。"/>
+<string name="h1" value="消耗MP10，物理及魔法防禦力增加10，移動速度增加140，躍力增加 120"/>
+</imgdir>
+<imgdir name="0001029">
+<string name="name" value="粉紅速克達"/>
+<string name="desc" value="[精通等級：1]\n可騎乘粉紅速克達移動。"/>
+<string name="h1" value="消耗MP10，物理及魔法防禦力增加10，移動速度增加140，躍力增加 120"/>
+</imgdir>
+<imgdir name="0001030">
+<string name="name" value="筋斗雲"/>
+<string name="desc" value="[精通等級：1]\n可騎乘筋斗雲移動。"/>
+<string name="h1" value="消耗MP10，物理及魔法防禦力增加10，移動速度增加140，躍力增加 120"/>
+</imgdir>
+<imgdir name="0001031">
+<string name="name" value="巴洛古"/>
+<string name="desc" value="[精通等級：1]\n可騎乘巴洛古移動。"/>
+<string name="h1" value="消耗MP10，物理及魔法防禦力增加10，移動速度增加140，躍力增加 120"/>
+</imgdir>
+<imgdir name="0001033">
+<string name="name" value="경주용 카트"/>
+<string name="desc" value="[마스터 레벨 : 1]\n경주용 카트를 타고 이동할 수 있다."/>
+<string name="h1" value="MP 10 소비, 물리, 마법 방어력 10 증가, 이동속도 140, 점프력 120"/>
+</imgdir>
+<imgdir name="0001034">
+<string name="name" value="ZD 타이거"/>
+<string name="desc" value="[마스터 레벨 : 1]\nZD 타이거를 타고 이동할 수 있다."/>
+<string name="h1" value="MP 10 소비, 물리, 마법 방어력 10 증가, 이동속도 140, 점프력 120"/>
+</imgdir>
+<imgdir name="0001035">
+<string name="name" value="미스트 발록"/>
+<string name="desc" value="[마스터 레벨 : 1]\n미스트 발록을 타고 이동할 수 있다."/>
+<string name="h1" value="MP 10 소비, 물리, 마법 방어력 10 증가, 이동속도 140, 점프력 120"/>
+</imgdir>
+<imgdir name="0001042">
+<string name="name" value="神鳥"/>
+<string name="desc" value="[等級上限: 1]\n可騎乘神鳥移動。"/>
+<string name="h1" value="使用時消耗MP10，同時增加物理、魔法防禦力10，變更移動速度為140%，跳躍力為120%。"/>
+</imgdir>
+<imgdir name="0001044">
+<string name="name" value="菇菇寶貝"/>
+<string name="desc" value="[等級上限 : 1]\n可騎菇菇寶貝移動"/>
+<string name="h1" value="消耗MP 10 ，物理、魔法防禦力 10 增加，移動速度 140、 跳躍力 120"/>
+</imgdir>
+<imgdir name="0001049">
+<string name="name" value="나이트메어"/>
+<string name="desc" value="[마스터 레벨 : 1]\n밤의 악몽, 나이트메어를 타고 이동할 수 있다."/>
+<string name="h1" value="MP 10 소비, 물리, 마법 방어력 10 증가, 이동속도 170, 점프력 120"/>
+</imgdir>
+<imgdir name="0001050">
+<string name="name" value="예티"/>
+<string name="desc" value="[마스터 레벨 : 1]\n예티를 타고 이동할 수 있다."/>
+<string name="h1" value="MP 10 소비, 물리, 마법 방어력 10 증가, 이동속도 170, 점프력 120"/>
+</imgdir>
+<imgdir name="0001051">
+<string name="name" value="타조"/>
+<string name="desc" value="[마스터 레벨 : 1]\n가장 빨리 뛰는 새, 타조를 타고 이동할 수 있다."/>
+<string name="h1" value="MP 10 소비, 물리, 마법 방어력 10 증가, 이동속도 170, 점프력 120"/>
+</imgdir>
+<imgdir name="0001052">
+<string name="name" value="핑크곰 열기구"/>
+<string name="desc" value="[마스터 레벨 : 1]\n핑크곰 열기구를 타고 이동할 수 있다."/>
+<string name="h1" value="MP 10 소비, 물리, 마법 방어력 10 증가, 이동속도 170, 점프력 120"/>
+</imgdir>
+<imgdir name="0001053">
+<string name="name" value="트랜스폼 로봇"/>
+<string name="desc" value="[마스터 레벨 : 1]\n트랜스폼 로봇을 타고 이동할 수 있다."/>
+<string name="h1" value="MP 10 소비, 물리, 마법 방어력 10 증가, 이동속도 170, 점프력 120"/>
+</imgdir>
+<imgdir name="0001063">
+<string name="name" value="摩托車騎士"/>
+<string name="desc" value="[等級上限 : 1]\n可騎摩托車移動。"/>
+<string name="h1" value="消耗MP10，物理、魔法防禦力10增加、移動速度140、跳躍力120。"/>
+</imgdir>
+<imgdir name="0001064">
+<string name="name" value="力量套裝"/>
+<string name="desc" value="[等級上限 : 1]\n穿上力量套裝可移動。"/>
+<string name="h1" value="消耗MP10，物理、魔法防禦力10增加、移動速度140、跳躍力120。"/>
+</imgdir>
+<imgdir name="0001069">
+<string name="name" value="貓頭鷹"/>
+<string name="desc" value="[等級上限 : 1]\n可以騎乘貓頭鷹移動"/>
+<string name="h1" value="消耗MP 10，物理、魔法防禦力各加 10，移動速度 140，跳躍力 120"/>
+</imgdir>
+<imgdir name="1100">
+<string name="bookName" value="聖魂劍士入門"/>
+</imgdir>
+<imgdir name="1110">
+<string name="bookName" value="聖魂劍士嚮導"/>
+</imgdir>
+<imgdir name="1111">
+<string name="bookName" value="聖魂劍士之路"/>
+</imgdir>
+<imgdir name="1112">
+<string name="bookName" value="靈魂大師的完成"/>
+</imgdir>
+<imgdir name="1200">
+<string name="bookName" value="烈焰巫師入門"/>
+</imgdir>
+<imgdir name="1210">
+<string name="bookName" value="烈焰巫師嚮導"/>
+</imgdir>
+<imgdir name="1211">
+<string name="bookName" value="烈焰巫師魔法書"/>
+</imgdir>
+<imgdir name="1212">
+<string name="bookName" value="最頂級火牢術魔法"/>
+</imgdir>
+<imgdir name="1300">
+<string name="bookName" value="破風使者入門"/>
+</imgdir>
+<imgdir name="1310">
+<string name="bookName" value="破風使者嚮導"/>
+</imgdir>
+<imgdir name="1311">
+<string name="bookName" value="破風使者之路"/>
+</imgdir>
+<imgdir name="1312">
+<string name="bookName" value="破風使者秘笈"/>
+</imgdir>
+<imgdir name="1400">
+<string name="bookName" value="暗夜行者入門"/>
+</imgdir>
+<imgdir name="1410">
+<string name="bookName" value="暗夜行者嚮導"/>
+</imgdir>
+<imgdir name="1411">
+<string name="bookName" value="暗夜行者之路"/>
+</imgdir>
+<imgdir name="1412">
+<string name="bookName" value="暗夜行者的秘笈"/>
+</imgdir>
+<imgdir name="1500">
+<string name="bookName" value="閃雷悍將入門"/>
+</imgdir>
+<imgdir name="1510">
+<string name="bookName" value="閃雷悍將嚮導"/>
+</imgdir>
+<imgdir name="1511">
+<string name="bookName" value="閃雷悍將之路"/>
+</imgdir>
+<imgdir name="1512">
+<string name="bookName" value="反叛者的完成"/>
+</imgdir>
+<imgdir name="2000">
+<string name="bookName" value="傳說中的技術"/>
+</imgdir>
+<imgdir name="2001">
+<string name="bookName" value="精通新手"/>
+</imgdir>
+<imgdir name="2100">
+<string name="bookName" value="狂狼勇士"/>
+</imgdir>
+<imgdir name="2110">
+<string name="bookName" value="狂狼勇士"/>
+</imgdir>
+<imgdir name="2111">
+<string name="bookName" value="狂狼勇士"/>
+</imgdir>
+<imgdir name="2112">
+<string name="bookName" value="狂狼勇士"/>
+</imgdir>
+<imgdir name="2200">
+<string name="bookName" value="精通1次"/>
+</imgdir>
+<imgdir name="2210">
+<string name="bookName" value="精通2次"/>
+</imgdir>
+<imgdir name="2211">
+<string name="bookName" value="精通3次"/>
+</imgdir>
+<imgdir name="2212">
+<string name="bookName" value="精通4次"/>
+</imgdir>
+<imgdir name="2213">
+<string name="bookName" value="精通5次"/>
+</imgdir>
+<imgdir name="2214">
+<string name="bookName" value="精通6次"/>
+</imgdir>
+<imgdir name="2215">
+<string name="bookName" value="精通7次"/>
+</imgdir>
+<imgdir name="2216">
+<string name="bookName" value="精通8次"/>
+</imgdir>
+<imgdir name="2217">
+<string name="bookName" value="精通9次"/>
+</imgdir>
+<imgdir name="2218">
+<string name="bookName" value="精通10次"/>
+</imgdir>
+<imgdir name="3500">
+<string name="bookName" value="機甲戰神一轉"/>
+</imgdir>
+<imgdir name="3510">
+<string name="bookName" value="機甲戰神二轉"/>
+</imgdir>
+<imgdir name="3511">
+<string name="bookName" value="機甲戰神三轉"/>
+</imgdir>
+<imgdir name="3512">
+<string name="bookName" value="機甲戰神四轉"/>
+</imgdir>
+<imgdir name="0008000">
+<string name="name" value="쓸만한 헤이스트"/>
+<string name="desc" value="[아이템 잠재스킬]\n일정 시간동안 자신의 이동 속도와 점프력을 증가시켜 준다."/>
+<string name="h1" value="MP 50 소비하여 200초간 이동속도 20, 점프력 10 향상"/>
+</imgdir>
+<imgdir name="0008001">
+<string name="name" value="實用的時空門"/>
+<string name="desc" value="[道具潛在技能]]\ 可製造通往最近的村莊傳送點。只有隊員才能在門消失之前多次進出。 #c在傳送點上按下↑鍵#即可移動。"/>
+<string name="h1" value="MP 120, 消耗魔法石 2個, 120秒持續開啟傳送點."/>
+</imgdir>
+<imgdir name="0008002">
+<string name="name" value="實用的會心之眼"/>
+<string name="desc" value="[道具潛在技能]\n找尋敵人弱點，賦予可以給予致命傷的能力。"/>
+<string name="h1" value="消耗MP80，持續時間240秒、10%的會心一擊的機率，最大傷害增加15%。"/>
+</imgdir>
+<imgdir name="0008003">
+<string name="name" value="實用的神聖之火"/>
+<string name="desc" value="[道具潛在技能]\n最大 HP、最大 MP的量增加。"/>
+<string name="h1" value="消耗 MP 80, 240秒內 Max HP, Max MP 增加 40%."/>
+</imgdir>
+<imgdir name="0009000">
+<string name="name" value="肥肥的弱點攻擊"/>
+<string name="desc" value="[等級上限 : 1]\n給予肥肥150%的傷害。"/>
+</imgdir>
+<imgdir name="9000">
+<string name="bookName" value="addition"/>
+</imgdir>
+<imgdir name="0009001">
+<string name="name" value="木妖的弱點攻擊"/>
+<string name="desc" value="[等級上限 : 1]\n 給予木妖150%的傷害。"/>
+</imgdir>
+<imgdir name="0009002">
+<string name="name" value="綠水靈的弱點攻擊"/>
+<string name="desc" value="[等級上限 : 1]\n 給予綠水靈 150%的傷害。"/>
+</imgdir>
+<imgdir name="1000006">
+<string name="name" value="HP增加"/>
+<string name="desc" value="最大 HP永久增加"/>
+<string name="h" value="最大 HP #mhpR% 增加"/>
+</imgdir>
+<imgdir name="1001003">
+<string name="name" value="自身強化"/>
+<string name="desc" value="在一定時間內增加自己的物理防禦力。"/>
+<string name="h" value="MP #mpCon 消耗，增加#time秒的物理防禦力 #pdd"/>
+</imgdir>
+<imgdir name="1001004">
+<string name="name" value="魔天一擊"/>
+<string name="desc" value="消耗MP給予敵人一擊"/>
+<string name="h" value="消耗MP #mpCon，#damage% 傷害"/>
+</imgdir>
+<imgdir name="1001005">
+<string name="name" value="劍氣縱橫"/>
+<string name="desc" value="消耗MP，周圍的敵人最多可同時攻擊6位。\n必要技能 : #c魔天一擊1等級以上#"/>
+<string name="h" value=" 消耗MP #mpCon，用#damage% 傷害最多攻擊#mobCount位敵人 "/>
+</imgdir>
+<imgdir name="1100000">
+<string name="name" value="武器精通"/>
+<string name="desc" value="劍和斧頭系列武器的熟練度和命中率提升 "/>
+<string name="h" value="劍和斧頭系列武器的熟練度#mastery%、命中率#x 上升"/>
+</imgdir>
+<imgdir name="1100002">
+<string name="name" value="終極攻擊"/>
+<string name="desc" value="以一定機率使用攻擊技能後追加傷害。 但是一定要手持劍和斧頭才能發動。\n必要技能 : #c武器精通3等級以上#"/>
+<string name="h" value="以#prop% 機率發動 #damage% 傷害的終極攻擊"/>
+</imgdir>
+<imgdir name="1100009">
+<string name="name" value="提升基本技能"/>
+<string name="desc" value="磨練劍士的基本技能魔天一擊和劍氣縱橫。"/>
+<string name="h" value="魔天一擊傷害 +#x%、劍氣縱橫傷害 +#y%"/>
+</imgdir>
+<imgdir name="1101004">
+<string name="name" value="極速武器"/>
+<string name="desc" value="消耗MP，在一定時間內讓武器的攻擊速度上升 2階段。但是一定要手持劍或斧頭才能發動 。\n必要技能 : #c武器精通5等級以上#"/>
+<string name="h" value="MP #mpCon 消耗， #time秒內提升武器的攻擊速度 "/>
+</imgdir>
+<imgdir name="1101006">
+<string name="name" value="激勵"/>
+<string name="desc" value="在一定時間內提升我軍的物理攻擊力。"/>
+<string name="h" value="MP #mpCon 消耗， #time秒內物理攻擊力 +#pad"/>
+</imgdir>
+<imgdir name="1101007">
+<string name="name" value="反射之盾"/>
+<string name="desc" value="在一定時間內吸收部分從敵人那裡受到的傷害，將吸收的傷害還給敵人。但是一次無法給予對象最大HP的一半以上。\n必要技能 : #c憤怒3等級以上#"/>
+<string name="h" value="消耗MP #mpCon，吸收#time秒內受到的傷害的 #x%還給敵人。"/>
+</imgdir>
+<imgdir name="1101008">
+<string name="name" value="地面潰擊"/>
+<string name="desc" value="朝著前方擲出強大的衝擊波。 最大可攻擊3位敵人"/>
+<string name="h" value="消耗MP #mpCon，以#damage% 傷害最多攻擊#mobCount位 "/>
+</imgdir>
+<imgdir name="1110000">
+<string name="name" value="魔力恢復"/>
+<string name="desc" value="可每4秒恢復 MP，戰鬥中也可恢復。"/>
+<string name="h" value="每4秒追加恢復MP #mp "/>
+</imgdir>
+<imgdir name="1110009">
+<string name="name" value="伺機攻擊"/>
+<string name="desc" value="攻擊昏迷、暗黑、結冰狀態的敵人時可給予更強大的傷害。"/>
+<string name="h" value="攻擊昏迷、暗黑、結冰狀態的敵人#damage% 傷害。"/>
+</imgdir>
+<imgdir name="1111002">
+<string name="name" value="鬥氣集中"/>
+<string name="desc" value="一定時間內攻擊時累積鬥氣量。最大鬥氣量為5，鬥氣量累積得越多傷害越大"/>
+<string name="h" value="消耗MP #mpCon，持續#time秒，最大鬥氣量#x個，1個鬥氣量增加傷害 #damR% "/>
+</imgdir>
+<imgdir name="1111003">
+<string name="name" value="黑暗之劍"/>
+<string name="desc" value="攻擊一名敵人給予重傷，會以一定機率得到暗黑效果減少命中率。但是僅在鬥氣量補充狀態下才能使用，根據累積鬥氣量的數量適用追加傷害。\n必要技能 : #c鬥氣集中1等級以上#"/>
+<string name="h" value="MP #mpCon和鬥氣量全部使用，以#damage% 傷害， #prop% 機率發動暗黑攻擊，暗黑效果時 #time秒內的對象命中率 #x%"/>
+</imgdir>
+<imgdir name="1111005">
+<string name="name" value="昏迷之劍"/>
+<string name="desc" value="同時攻擊周圍敵人給予傷害，會以一定機率昏迷。但是只能在鬥氣量補充狀態下使用，根據累積鬥氣量的數量給予追加傷害。\n必要技能 : #c鬥氣集中1等級以上#"/>
+<string name="h" value="MP #mpCon和鬥氣量全部使用，給予最多 #mobCount 對象#damage% 傷害，以 #prop% 機率昏迷攻擊，昏迷持續時間 #time秒"/>
+</imgdir>
+<imgdir name="1111007">
+<string name="name" value="防禦消除"/>
+<string name="desc" value="一定機率適用於周圍敵人，解除所有加持，指定的時間內無法使用加持效果。 [再次使用等待時間: 1分鐘]\n必要技能 : #c虎咆哮3等級以上#"/>
+<string name="h" value="消耗MP #mpCon，以#prop% 機率解除所有加持， #time秒內加持效果限制"/>
+</imgdir>
+<imgdir name="1111008">
+<string name="name" value="虎咆哮"/>
+<string name="desc" value="對周圍的敵人大聲叫喊給予傷害，會以一定機率昏迷。"/>
+<string name="h" value="消耗 MP #mpCon，最多給予 #mobCount位敵人#damage% 傷害，以#prop% 機率在 #time秒內昏迷"/>
+</imgdir>
+<imgdir name="1111010">
+<string name="name" value="雙連斬"/>
+<string name="desc" value="兩次連續攻擊多位眼前的敵人。"/>
+<string name="h" value="消耗MP #mpCon，用 #damage% 傷害2次攻擊#mobCount位敵人"/>
+</imgdir>
+<imgdir name="1120003">
+<string name="name" value="進階鬥氣"/>
+<string name="desc" value="增加每個鬥氣量傷害和最大鬥氣量數。還有鬥氣量會一定機率補充 2個。\n必要技能 : #c鬥氣集中20等級以上#"/>
+<string name="h" value="每個鬥氣量傷害 #v%，最大鬥氣量#x個，以 #prop% 機率補充2個鬥氣量"/>
+</imgdir>
+<imgdir name="1120004">
+<string name="name" value="武神防禦"/>
+<string name="desc" value="永久性的強化身體，減少敵人造成的傷害。"/>
+<string name="h" value="減少敵人造成的傷害 #t% "/>
+</imgdir>
+<imgdir name="1120012">
+<string name="name" value="戰鬥精通"/>
+<string name="desc" value="攻擊時一定水準無視對象的物理防禦力"/>
+<string name="h" value="無視對象的物理防禦力 #ignoreMobpdpR%"/>
+</imgdir>
+<imgdir name="1121000">
+<string name="name" value="楓葉祝福"/>
+<string name="desc" value="在一定時間內將組隊成員的所有狀態屬性提升一定百分比。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內的所有狀態屬性 #x% 提升"/>
+</imgdir>
+<imgdir name="1121001">
+<string name="name" value="絕對引力"/>
+<string name="desc" value="將前方的敵人最多6位移到自己的前方攻擊。 對象在一定時間內陷入暈眩狀態。"/>
+<string name="h" value="消耗MP #mpCon，給予#damage%的傷害， 最多可將 #mobCount位敵人拉到自己面前，#time秒內暈眩"/>
+</imgdir>
+<imgdir name="1121002">
+<string name="name" value="格擋"/>
+<string name="desc" value="一定時間內即使敵人攻擊也不會退縮。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內以#prop% 機率不會震退。"/>
+</imgdir>
+<imgdir name="1121006">
+<string name="name" value="究極突刺"/>
+<string name="desc" value="猛烈的向前方突擊，衝撞最多15位自己面前的敵人。"/>
+<string name="h" value="消耗MP #mpCon，以#damage% 傷害最多攻擊#mobCount位敵人並移動 "/>
+</imgdir>
+<imgdir name="1121008">
+<string name="name" value="無雙劍舞"/>
+<string name="desc" value="三次連續攻擊前方的多數敵人。"/>
+<string name="h" value="消耗MP #mpCon，最多以 #damage% 傷害3次攻擊 #mobCount位敵人。"/>
+</imgdir>
+<imgdir name="1121009">
+<string name="name" value="降魔斬"/>
+<string name="desc" value="用閃光的斧頭砍敵人3次。最多能用於3隻怪物身上。"/>
+<string name="h1" value="消耗MP 22，傷害72%"/>
+<string name="h2" value="消耗MP 24，傷害74%"/>
+<string name="h3" value="消耗MP 26，傷害76%"/>
+<string name="h4" value="消耗MP 28，傷害78%"/>
+<string name="h5" value="消耗MP 30，傷害80%"/>
+<string name="h6" value="消耗MP 32，傷害82%"/>
+<string name="h7" value="消耗MP 34，傷害84%"/>
+<string name="h8" value="消耗MP 36，傷害86%"/>
+<string name="h9" value="消耗MP 38，傷害88%"/>
+<string name="h10" value="消耗MP 40，傷害90%"/>
+<string name="h11" value="消耗MP 42，傷害92%"/>
+<string name="h12" value="消耗MP 44，傷害94%"/>
+<string name="h13" value="消耗MP 46，傷害96%"/>
+<string name="h14" value="消耗MP 48，傷害98%"/>
+<string name="h15" value="消耗MP 50，傷害100%"/>
+<string name="h16" value="消耗MP 52，傷害102%"/>
+<string name="h17" value="消耗MP 54，傷害104%"/>
+<string name="h18" value="消耗MP 56，傷害106%"/>
+<string name="h19" value="消耗MP 58，傷害108%"/>
+<string name="h20" value="消耗MP 60，傷害110%"/>
+<string name="h21" value="消耗MP 59，傷害112%"/>
+<string name="h22" value="消耗MP 58，傷害114%"/>
+<string name="h23" value="消耗MP 57，傷害116%"/>
+<string name="h24" value="消耗MP 56，傷害118%"/>
+<string name="h25" value="消耗MP 55，傷害120%"/>
+<string name="h26" value="消耗MP 54，傷害122%"/>
+<string name="h27" value="消耗MP 53，傷害124%"/>
+<string name="h28" value="消耗MP 52，傷害126%"/>
+<string name="h29" value="消耗MP 51，傷害128%"/>
+<string name="h30" value="消耗MP 50，傷害130%"/>
+</imgdir>
+<imgdir name="1121010">
+<string name="name" value="鬥氣爆發"/>
+<string name="desc" value="補充鬥氣量的力量被激發。 一定時間內進入集中攻擊一個敵人的狀態， 傷害快速上升。 消耗鬥氣量10個。\n必要技能 : #c進階鬥氣 30等級以上#"/>
+<string name="h" value="消耗MP #mpCon和 10個的鬥氣量， #time秒內增加傷害 #x%，所有攻擊技能的最大目標限制為#mobCount名"/>
+</imgdir>
+<imgdir name="1121011">
+<string name="name" value="楓葉淨化　"/>
+<string name="desc" value="解除迷惑異常狀態。等級越高再次使用等待時間越短。"/>
+<string name="h" value="消耗MP #mpCon，再次使用等待時間#cooltime秒"/>
+</imgdir>
+<imgdir name="1200000">
+<string name="name" value="武器精通"/>
+<string name="desc" value="提升劍和棍系列武器的熟練度和命中率。 "/>
+<string name="h" value="劍和棍系列武器的熟練度#mastery%，命中率#x 上升"/>
+</imgdir>
+<imgdir name="1200002">
+<string name="name" value="終極之劍"/>
+<string name="desc" value="以一定機率使用攻擊技能後追加傷害。但是一定要手持劍和棍才能發動。\n必要技能 : #c武器精通3等級以上#"/>
+<string name="h" value="以#prop% 機率發動 #damage% 傷害的終極攻擊"/>
+</imgdir>
+<imgdir name="1200009">
+<string name="name" value="提升基本技能"/>
+<string name="desc" value="磨練劍士的基本技能魔天一擊和劍氣縱橫。"/>
+<string name="h" value="魔天一擊傷害 +#x%、劍氣縱橫傷害 +#y%"/>
+</imgdir>
+<imgdir name="1201004">
+<string name="name" value="極速武器"/>
+<string name="desc" value="消耗MP，一定時間內武器的攻擊速度上升 2階段。但是務必要手持劍或棍才能發動。\n必要技能 : #c武器精通5等級以上#"/>
+<string name="h" value="MP #mpCon 消耗， #time秒內提升武器的攻擊速度 "/>
+</imgdir>
+<imgdir name="1201006">
+<string name="name" value="降魔咒"/>
+<string name="desc" value="被多個敵人威脅時，在一定時間內減少攻擊力、防禦力、 命中率。"/>
+<string name="h" value="消耗MP #mpCon，在#time秒內敵人的攻擊力、防禦力 #x%，#subTime秒內命中率 -#z%"/>
+</imgdir>
+<imgdir name="1201007">
+<string name="name" value="反射之盾"/>
+<string name="desc" value="一定時間內吸收部分從敵人那裡得到的傷害。吸收的傷害直接還給敵人。但是一次無法退還一半以上對象的最大 HP。\n必要技能 : #c威脅3等級以上#"/>
+<string name="h" value="消耗MP #mpCon，吸收#time秒內受到的傷害的 #x%還給敵人。"/>
+</imgdir>
+<imgdir name="1201008">
+<string name="name" value="地面潰擊"/>
+<string name="desc" value="朝著前方擲出強大的衝擊波。 最大可攻擊3位敵人"/>
+<string name="h" value="消耗MP #mpCon，以#damage% 傷害最多攻擊#mobCount位 "/>
+</imgdir>
+<imgdir name="1210001">
+<string name="name" value="盾防精通"/>
+<string name="desc" value="配戴盾牌時物理防禦力和魔法防禦力追加上升"/>
+<string name="h" value="物理防禦力和魔法防禦力 #x% 追加上升"/>
+</imgdir>
+<imgdir name="1211002">
+<string name="name" value="屬性攻擊"/>
+<string name="desc" value="以武器賦予的屬性同時攻擊多個敵人。僅能在屬性狀態下使用，一定機率讓對象昏迷。還有即使使用屬性攻擊屬性狀態也不會解除。"/>
+<string name="h" value="消耗MP #mpCon，以#damage% 傷害最多攻擊#mobCount位敵人，以 #prop% 機率在 #time秒 內昏迷"/>
+</imgdir>
+<imgdir name="1211004">
+<string name="name" value="烈焰之棍"/>
+<string name="desc" value="在一定時間內賦予武器火焰屬性，增加傷害。屬性時間結束前使用屬性攻擊的情況則會解除。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內賦予鈍器火焰屬性，#damage% 傷害"/>
+</imgdir>
+<imgdir name="1211006">
+<string name="name" value="寒冰之棍"/>
+<string name="desc" value="一定時間內賦予武器冰屬性增加傷害。屬性時間結束前使用屬性攻擊的情況則會解除"/>
+<string name="h" value="消耗MP #mpCon，#time秒內賦予鈍器冰屬性， #damage% 傷害，#y秒內結冰"/>
+</imgdir>
+<imgdir name="1211008">
+<string name="name" value="雷鳴之棍"/>
+<string name="desc" value="一定時間內賦予武器閃電屬性，增加傷害。可和其他屬性的屬性技能重覆使用。屬性時間到了或使用屬性攻擊時解除。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內賦予鈍器閃電屬性， #damage% 傷害"/>
+</imgdir>
+<imgdir name="1211009">
+<string name="name" value="魔防消除"/>
+<string name="desc" value="以一定機率使用於周圍敵人，解除所有加持。指定的時間內限制無法使用加持效果。 [再次使用等待時間: 1分鐘]\n必要技能 : #c屬性攻擊 3等級以上#"/>
+<string name="h" value="消耗MP #mpCon，以#prop% 機率解除所有加持， #time秒內限制加持效果"/>
+</imgdir>
+<imgdir name="1211010">
+<string name="name" value="復原"/>
+<string name="desc" value="立即恢復自己的體力"/>
+<string name="h" value="消耗MP #mpCon，最大HP的 #x% 立即恢復，再次使用等待時間#cooltime秒"/>
+</imgdir>
+<imgdir name="1211011">
+<string name="name" value="戰鬥命令"/>
+<string name="desc" value="一定時間內讓包含自己的全體組隊成員的所有技能等級上升。讓各職業群的 #c最終次數技能增加至等級上限以上#，其餘技能只能上升至等級上限。\n新手技能和戰鬥命令的技能等級則無法提升。\n必要技能 : #c復原 5等級以上#"/>
+<string name="h" value="消耗MP #mpCon，#time秒內所有技能等級 #x 上升"/>
+</imgdir>
+<imgdir name="1220005">
+<string name="name" value="武神防禦"/>
+<string name="desc" value="永久性的強化身體，減少敵人造成的傷害。 "/>
+<string name="h" value="減少敵人造成的傷害 #t% "/>
+</imgdir>
+<imgdir name="1220006">
+<string name="name" value="究極神盾"/>
+<string name="desc" value="強化自己的所有屬性耐性和狀態異常耐性。 #c配戴盾牌時# 會一定機率阻止敵人的攻擊。 阻擋近距離攻擊成功後，攻擊者將在一定時間內昏迷。"/>
+<string name="h" value="所有屬性耐性增加#terR%，狀態異常耐性增加#asrR%，以 #prop% 機率阻止敵人的攻擊，阻止近距離攻擊時，對象會在#time秒內昏迷。"/>
+</imgdir>
+<imgdir name="1220010">
+<string name="name" value="屬性強化"/>
+<string name="desc" value="屬性攻擊的傷害和最大目標數增加，提升屬性狀態內的武器熟練度。\n必要技能 : #c屬性攻擊 30等級#"/>
+<string name="h" value="屬性攻擊的傷害 #damage%，最大目標 #mobCount，屬性狀態時武器熟練度增加至#mastery%。 "/>
+</imgdir>
+<imgdir name="1220013">
+<string name="name" value="祝福護甲"/>
+<string name="desc" value="被擊時一定機率生成個人防護膜， #c最多可大吸收5次的傷害，提升角色的物理攻擊力#。防護膜最多可維持 60秒，發動一次後一定時間內不會再生成。"/>
+<string name="h" value="被擊時以 #prop% 機率生成個人防護膜，防護膜維持期間物理攻擊力增加 #epad，最多吸收 #x次的傷害，發動時#cooltime秒內不可再生成防護膜。"/>
+</imgdir>
+<imgdir name="1221000">
+<string name="name" value="楓葉祝福"/>
+<string name="desc" value="在一定時間內將組隊成員的所有狀態屬性提升一定百分比。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內的所有狀態屬性 #x% 提升"/>
+</imgdir>
+<imgdir name="1221002">
+<string name="name" value="格擋"/>
+<string name="desc" value="一定時間內即使敵人攻擊也不會退縮。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內以#prop% 機率不會震退。"/>
+</imgdir>
+<imgdir name="1221004">
+<string name="name" value="聖靈之棍"/>
+<string name="desc" value="一定時間內賦予武器聖屬性增加傷害。屬性時間結束或使用屬性攻擊時則會解除"/>
+<string name="h" value="消耗MP #mpCon，#time秒內賦予鈍器聖屬性， #damage% 傷害"/>
+</imgdir>
+<imgdir name="1221007">
+<string name="name" value="究極突刺"/>
+<string name="desc" value="猛烈的向前方突擊，衝撞最多15位自己面前的敵人。"/>
+<string name="h" value=" 消耗MP #mpCon，用#damage% 傷害最多攻擊#mobCount位敵人並移動"/>
+</imgdir>
+<imgdir name="1221009">
+<string name="name" value="騎士衝擊波"/>
+<string name="desc" value="給予一名敵人強力的多次攻擊。衝擊波使用防禦力無視效果和追加會心一擊機率，以一定機率將對象秒殺。"/>
+<string name="h" value="消耗MP #mpCon，以#damage% 傷害 #attackCount次攻擊，無視對象的防禦力 #ignoreMobpdpR%，追加會心一擊機率 #cr%，以 #prop% 機率秒殺"/>
+</imgdir>
+<imgdir name="1221011">
+<string name="name" value="鬼神之擊"/>
+<string name="desc" value="用巨大的槌子敲擊地面，同時攻擊15位以下多個敵人。遭受攻擊的對象體力剩下1，全部消失。"/>
+<string name="h" value="消耗MP #mpCon，以#damage% 傷害最多攻擊#mobCount位敵人，再次使用等待時間#cooltime秒"/>
+</imgdir>
+<imgdir name="1221012">
+<string name="name" value="楓葉淨化　"/>
+<string name="desc" value="解除迷惑異常狀態。等級越高再次使用等待時間越短。"/>
+<string name="h" value="消耗MP #mpCon，再次使用等待時間#cooltime秒"/>
+</imgdir>
+<imgdir name="1300000">
+<string name="name" value="武器精通"/>
+<string name="desc" value="提升槍和矛系列武器的熟練度和命中率 "/>
+<string name="h" value="槍和矛系列武器的熟練度#mastery%、命中率#x 上升"/>
+</imgdir>
+<imgdir name="1300002">
+<string name="name" value="終極之槍"/>
+<string name="desc" value="以一定機率使用攻擊技能後追加傷害。但是，一定要手持槍和矛才能發動。\n必要技能 : #c武器精通3等級以上#"/>
+<string name="h" value="以#prop% 機率發動 #damage% 傷害的終極攻擊"/>
+</imgdir>
+<imgdir name="1300009">
+<string name="name" value="提升基本技能"/>
+<string name="desc" value="磨練劍士的基本技能魔天一擊和劍氣縱橫。"/>
+<string name="h" value="魔天一擊傷害 +#x%、劍氣縱橫傷害 +#y%"/>
+</imgdir>
+<imgdir name="1301004">
+<string name="name" value="極速武器"/>
+<string name="desc" value="消耗MP，在一定時間內讓武器的攻擊速度上升2階段。但是唯有手持槍或矛時才能發動。\n必要技能 : #c武器精通5等級以上#"/>
+<string name="h" value="MP #mpCon 消耗， #time秒內提升武器的攻擊速度 "/>
+</imgdir>
+<imgdir name="1301006">
+<string name="name" value="禦魔陣"/>
+<string name="desc" value="一定時間內提升組隊成員的物理防禦力和魔法防禦力。"/>
+<string name="h" value="MP #mpCon 消耗，#time秒內組隊成員的物理防禦力增加#pdd、魔法防禦力增加#mdd "/>
+</imgdir>
+<imgdir name="1301007">
+<string name="name" value="神聖之火"/>
+<string name="desc" value="一定時間內增加組隊成員的最大 HP、最大 MP。\n必要技能 : #c禦魔陣3等級以上#"/>
+<string name="h" value="消耗MP #mpCon，#time秒內增加組隊成員的最大 HP、最大 MP #x% "/>
+</imgdir>
+<imgdir name="1301008">
+<string name="name" value="地面潰擊"/>
+<string name="desc" value="朝前射出強大的衝擊波。最多可攻擊3位敵人。"/>
+<string name="h" value="消耗MP #mpCon，以#damage% 傷害最多攻擊#mobCount位最多可攻擊#mobCount人"/>
+</imgdir>
+<imgdir name="1310000">
+<string name="name" value="魔法抵抗"/>
+<string name="desc" value="培養對所有屬性攻擊的耐性， 減少魔法傷害。"/>
+<string name="h" value="所有屬性的耐性增加 #x% "/>
+</imgdir>
+<imgdir name="1310009">
+<string name="name" value="龍審判"/>
+<string name="desc" value="使用龍技能時，會心一擊機率和會心一擊最小傷害增加，會以一定機率用體力轉換部分的傷害。但是不可能達最大HP的一半。\n[龍技能 : 龍咆哮、龍無雙、 龍暴擊、龍之獻祭]"/>
+<string name="h" value="使用龍技能時，會心一擊機率 #cr%，會心一擊 最小傷害 #criticaldamageMin% 增加，會以 #prop% 機率用體力轉換傷害的 #x%。"/>
+</imgdir>
+<imgdir name="1311001">
+<string name="name" value="龍暴擊　"/>
+<string name="desc" value="連續刺殺前方的多數敵人。"/>
+<string name="h" value="消耗MP #mpCon，最多可用 #damage%傷害攻擊3位敵人#attackCount次 "/>
+</imgdir>
+<imgdir name="1311003">
+<string name="name" value="龍無雙"/>
+<string name="desc" value="大範圍揮動武器同時攻擊。一次最多可攻擊6位敵人。"/>
+<string name="h" value="消耗MP #mpCon，以#damage% 傷害最多攻擊6位敵人 "/>
+</imgdir>
+<imgdir name="1311005">
+<string name="name" value="龍之獻祭"/>
+<string name="desc" value="讓潛在龍的力量暴走，對於一位敵人，可無視防禦力進行攻擊，自己的體力也會消失一定量。 防禦力無視效果可用於包含頭目的所有怪物。HP20%以上時才可使用。"/>
+<string name="h" value="消耗MP #mpCon和 HP #x%， 視對象的防禦力，以 #damage%的傷害攻擊。"/>
+</imgdir>
+<imgdir name="1311006">
+<string name="name" value="龍咆哮"/>
+<string name="desc" value="以龐大的龍的咆嘯攻擊15位以下的多個敵人。HP剩一半以上時才能使用。\n必要技能 : #c龍之獻祭 3等級以上#"/>
+<string name="h" value="消耗MP #mpCon和 HP #x%， #damage% 傷害，再次使用等待時間#cooltime秒"/>
+</imgdir>
+<imgdir name="1311007">
+<string name="name" value="防禦消除"/>
+<string name="desc" value="以一定機率消除敵人使用的所有加持，在指定的時間內限制無法使用加持效果。[再次使用等待時間: 1分鐘]\n必要技能 : #c龍之魂 3等級以上#"/>
+<string name="h" value="消耗MP #mpCon，以#prop% 機率解除所有加持，#time秒內限制加持效果"/>
+</imgdir>
+<imgdir name="1311008">
+<string name="name" value="龍之魂"/>
+<string name="desc" value="一定時間內物理攻擊力上升，然而HP卻持續的消失。剩餘的HP小於每4秒的HP減少量時才能解除技能。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內物理攻擊力 #pad 上升，每4秒消耗HP #x "/>
+</imgdir>
+<imgdir name="1320005">
+<string name="name" value="武神防禦"/>
+<string name="desc" value="永久性的強化身體，減少敵人造成的傷害。 "/>
+<string name="h" value="減少敵人造成的傷害 #t% "/>
+</imgdir>
+<imgdir name="1320006">
+<string name="name" value="黑暗力量"/>
+<string name="desc" value="HP在一定水準以上時，喚醒黑騎士內心潛在的靈魂提升傷害，龍暴擊的攻擊次數增加 1次。"/>
+<string name="h" value="HP #x% 以上時，傷害增加+#damage%，龍暴擊的攻擊次數增加 #y "/>
+</imgdir>
+<imgdir name="1320008">
+<string name="name" value="闇靈治癒"/>
+<string name="desc" value="追隨者每隔一段時間恢復黑騎士的 HP。 技能等級上升越高恢復量就越大。\n必要技能 : #c暗之靈魂1等級以上#"/>
+<string name="h" value="每#x秒恢復HP #hp "/>
+</imgdir>
+<imgdir name="1320009">
+<string name="name" value="黑暗守護"/>
+<string name="desc" value="暗之靈魂每隔一段時間使用加持。\n必要技能 : #c暗之靈魂1等級以上#"/>
+<string name="h" value="每#x秒持續時間 #time秒物理攻擊力 +#epad、物理防禦力 +#epdd、魔法防禦力 +#emdd、命中率+#acc、迴避 +#eva加持"/>
+</imgdir>
+<imgdir name="1320011">
+<string name="name" value="暗之靈魂的復仇"/>
+<string name="desc" value="被擊時暗之靈魂會一定機率對攻擊者進行反擊。\n必要技能 : #c暗之靈魂1等級以上#"/>
+<string name="h" value="被擊時以 #prop% 機率反擊，#damage% 傷害，再反擊等待時間#cooltime秒"/>
+</imgdir>
+<imgdir name="1321000">
+<string name="name" value="楓葉祝福"/>
+<string name="desc" value="在一定時間內將組隊成員的所有狀態屬性提升一定百分比。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內的所有狀態屬性 #x% 提升"/>
+</imgdir>
+<imgdir name="1321001">
+<string name="name" value="絕對引力"/>
+<string name="desc" value="將前方的敵人最多6位移到自己的前方攻擊。 對象在一定時間內陷入暈眩狀態。"/>
+<string name="h" value="消耗MP #mpCon，給予#damage%的傷害， 最多可將 #mobCount位敵人拉到自己面前，#time秒內暈眩"/>
+</imgdir>
+<imgdir name="1321002">
+<string name="name" value="格擋"/>
+<string name="desc" value="一定時間內即使敵人攻擊也不會退縮。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內以#prop% 機率不會震退。"/>
+</imgdir>
+<imgdir name="1321003">
+<string name="name" value="究極突刺"/>
+<string name="desc" value="猛烈的向前方突擊，衝撞最多15位自己面前的敵人。"/>
+<string name="h" value="消耗MP #mpCon，以#damage% 傷害最多攻擊#mobCount位敵人。"/>
+</imgdir>
+<imgdir name="1321007">
+<string name="name" value="暗之靈魂"/>
+<string name="desc" value="召喚暗之靈魂。用暗之靈魂的力量提升武器熟練度。"/>
+<string name="h" value="消耗MP #mpCon，#x分鐘內召喚暗之靈魂，武器熟練度增加#mastery% "/>
+</imgdir>
+<imgdir name="1321010">
+<string name="name" value="楓葉淨化　"/>
+<string name="desc" value="解除迷惑異常狀態。等級越高再次使用等待時間越短。"/>
+<string name="h" value="消耗MP #mpCon，再次使用等待時間#cooltime秒"/>
+</imgdir>
+<imgdir name="2000006">
+<string name="name" value="MP 增加"/>
+<string name="desc" value="最大MP永久增加。"/>
+<string name="h" value="最大MP #mmpR%增加。"/>
+</imgdir>
+<imgdir name="2001002">
+<string name="name" value="魔心防禦"/>
+<string name="desc" value="一定時間內用MP代替受到的部分傷害。但是， MP為0時會消耗 HP。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內受到傷害的 #x%由MP代替"/>
+</imgdir>
+<imgdir name="2001003">
+<string name="name" value="魔力之盾"/>
+<string name="desc" value="一定時間魔力凝聚在盔甲上，物理防禦力上升。\n必要技能 : #c魔心防禦3等級以上#"/>
+<string name="h" value="消耗MP #mpCon ，#time秒內物理防禦力 #pdd、魔法防禦力 #mdd 增加"/>
+</imgdir>
+<imgdir name="2001004">
+<string name="name" value="魔靈彈"/>
+<string name="desc" value="消耗MP攻擊一位敵人"/>
+<string name="h" value="消耗MP #mpCon，#damage% 傷害"/>
+</imgdir>
+<imgdir name="2001005">
+<string name="name" value="魔力爪"/>
+<string name="desc" value="消耗MP，2次連續攻擊2位前方的敵人。\n必要技能 : #c魔靈彈1等級以上#"/>
+<string name="h" value="消耗MP #mpCon，用#damage% 傷害最多攻擊 2次2位敵人"/>
+</imgdir>
+<imgdir name="2100000">
+<string name="name" value="魔力吸收"/>
+<string name="desc" value="魔法攻擊時以一定機率吸收對象的 MP。但是對象的MP為 0時，無法再吸收。\n必要技能 : #c咒語精通5等級以上#"/>
+<string name="h" value="魔法攻擊時以#prop% 機率吸收敵人最大 MP的 #x% "/>
+</imgdir>
+<imgdir name="2100006">
+<string name="name" value="咒語精通"/>
+<string name="desc" value="提升魔法熟練度和魔力 "/>
+<string name="h" value="增加魔法熟練度#mastery%、魔力 #x "/>
+</imgdir>
+<imgdir name="2101001">
+<string name="name" value="精神強化"/>
+<string name="desc" value="透過短時間的冥想強化內在的集中力，使全體組隊成員的魔力暫時增加。\n必要技能 : #c魔力吸收3等級以上#"/>
+<string name="h" value="消耗MP #mpCon，#time秒內提升組隊成員的魔力 #mad "/>
+</imgdir>
+<imgdir name="2101002">
+<string name="name" value="瞬間移動"/>
+<string name="desc" value="一定距離瞬間移動。同時按下上、下、左、右方向鍵，就能朝該方向移動。 "/>
+<string name="h" value="消耗MP #mpCon，移動距離 #range的瞬間移動 "/>
+</imgdir>
+<imgdir name="2101003">
+<string name="name" value="緩速術"/>
+<string name="desc" value="一定時間內減緩周圍敵人的移動速度。 最多可使用6位。減速效果不重覆。\n必要技能 : #c瞬間移動5等級以上#"/>
+<string name="h" value="消耗MP #mpCon，#time秒內對象的移動速度 #x"/>
+</imgdir>
+<imgdir name="2101004">
+<string name="name" value="火焰箭"/>
+<string name="desc" value="用魔法的力量製造火焰箭， 最多可朝 3位敵人發射。對冰屬性的敵人可造成更大傷害"/>
+<string name="h" value="消耗MP #mpCon，最多可對3位敵人造成 #damage% 傷害。"/>
+</imgdir>
+<imgdir name="2101005">
+<string name="name" value="毒霧"/>
+<string name="desc" value="製造劇毒的霧朝一位敵人噴灑。對象在一定時間內中毒受到持續傷害。"/>
+<string name="h" value="消耗MP #mpCon，#damage% 傷害，#dotTime秒內每 #dotInterval秒#dot%的持續傷害。"/>
+</imgdir>
+<imgdir name="2110000">
+<string name="name" value="火毒抵抗"/>
+<string name="desc" value="培養對火、毒屬性攻擊的耐性，減少該屬性魔法的傷害。"/>
+<string name="h" value="火、毒屬性的耐性增加#x% "/>
+</imgdir>
+<imgdir name="2110001">
+<string name="name" value="魔力激發"/>
+<string name="desc" value="消耗更多的MP，相對的所有攻擊魔法的傷害增加威力。"/>
+<string name="h" value="增加消耗 MP #x%，攻擊魔法傷害#y% 增加"/>
+</imgdir>
+<imgdir name="2111002">
+<string name="name" value="末日烈焰"/>
+<string name="desc" value="在自己的周圍引發大爆炸，最多可同時攻擊6位敵人。火屬性的攻擊。"/>
+<string name="h" value="消耗MP #mpCon，最多可給6位敵人#damage% 傷害"/>
+</imgdir>
+<imgdir name="2111003">
+<string name="name" value="致命毒霧"/>
+<string name="desc" value="一定時間內在自己的周圍產生致命的毒霧，讓所有敵人中毒。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內產生#damage% 傷害的毒霧，中毒時 #dotTime秒內，每 #dotInterval秒  #dot%的持續傷害"/>
+</imgdir>
+<imgdir name="2111004">
+<string name="name" value="魔法封印"/>
+<string name="desc" value="一定時間內讓周圍的多數敵人進入封印狀態。 最多可使用6位。\n必要技能 : #c魔力激發 3等級以上#"/>
+<string name="h" value="消耗MP #mpCon，#time秒內以#prop% 機率封印"/>
+</imgdir>
+<imgdir name="2111005">
+<string name="name" value="極速詠唱"/>
+<string name="desc" value="消耗MP，在一定時間內讓魔法攻擊速度上升 2階段。\n必要技能 : #c魔力激發 3等級以上#"/>
+<string name="h" value="消耗MP #mpCon， #time秒內提升魔法攻擊速度 "/>
+</imgdir>
+<imgdir name="2111006">
+<string name="name" value="火毒合擊"/>
+<string name="desc" value="用火和毒屬性合成的魔法攻擊一位敵人。 可給予火或毒屬性弱的敵人極大的傷害，並以一定機率讓對象中毒。"/>
+<string name="h" value="消耗MP #mpCon，#damage% 傷害，以#prop% 機率中毒，中毒時 #dotTime秒內，每 #dotInterval秒#dot%的持續傷害"/>
+</imgdir>
+<imgdir name="2111007">
+<string name="name" value="瞬間移動精通"/>
+<string name="desc" value="使用技能時追加消耗MP，另外也可對瞬間移動地點的敵人造成傷害並使用昏迷效果。瞬間移動移動距離會永久性的增加。\n使用技能效果啟動再次使用時關閉的 #c開關技能#\n必要技能 : #c瞬間移動20等級以上#"/>
+<string name="h" value="追加 MP 消耗 #y，最多可對 #mobCount位敵人造成 #damage% 傷害，以#subProp% 機率在 #time秒內昏迷，永久的增加瞬間移動移動距離 #x "/>
+</imgdir>
+<imgdir name="2111008">
+<string name="name" value="自然力重置"/>
+<string name="desc" value="一定時間內減少自己使用的所有攻擊魔法屬性 "/>
+<string name="h" value="消耗MP #mpCon，#time秒內減少攻擊屬性 #x% "/>
+</imgdir>
+<imgdir name="2120009">
+<string name="name" value="大師魔法"/>
+<string name="desc" value="永久的增加魔力，增加自己使用的所有加持的持續時間。"/>
+<string name="h" value="魔力 #madX 增加，加持持續時間增加#x% "/>
+</imgdir>
+<imgdir name="2121000">
+<string name="name" value="楓葉祝福"/>
+<string name="desc" value="在一定時間內將組隊成員的所有狀態屬性提升一定百分比。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內的所有狀態屬性 #x% 提升"/>
+</imgdir>
+<imgdir name="2121001">
+<string name="name" value="核爆術"/>
+<string name="desc" value="在一定時間內將身邊周圍的微小粒子聚集在一起，在一瞬間引出強大的爆炸。#c火屬性#，最多可同時攻擊6位敵人。"/>
+<string name="h" value="消耗MP #mpCon，以最大 #damage% 傷害進行#attackCount次攻擊"/>
+</imgdir>
+<imgdir name="2121002">
+<string name="name" value="魔法反射"/>
+<string name="desc" value="以內在的力量改變魔法值的流動，將魔法傷害還給敵人。但是一次無法歸還對象最大HP的20% 以上。"/>
+<string name="h" value="消耗MP #mpCon，在 #time秒內歸還以#prop% 機率受到魔法傷害的 #x%。"/>
+</imgdir>
+<imgdir name="2121003">
+<string name="name" value="炎靈地獄"/>
+<string name="desc" value="用召喚火炎神的火球同時攻擊多個敵人。對象在一定時間內遭受持續傷害，效果持續的期間，火屬性攻擊會得到更多傷害。"/>
+<string name="h" value="消耗MP #mpCon，最多可對#mobCount位敵人造成 #damage% 傷害， #dotTime秒內每#dotInterval秒#dot%的持續傷害，#time秒內火屬性魔法造成更多傷害。"/>
+</imgdir>
+<imgdir name="2121004">
+<string name="name" value="魔力無限"/>
+<string name="desc" value="一定時間內無需消耗魔法值即可使用技能， 持續恢復自己的HP和MP，增加所有攻擊魔法的傷害。[再次使用等待時間: 3分鐘]"/>
+<string name="h" value="MP #mpCon 消耗，每4秒恢復HP和MP #y%，每4秒增加所有攻擊魔法的傷害 #damage%，持續#time秒 "/>
+</imgdir>
+<imgdir name="2121005">
+<string name="name" value="召喚火炎神"/>
+<string name="desc" value="一定時間內召喚具有冰屬性的召喚火炎神。 召喚火炎神最多可同時攻擊3位敵人。\n必要技能 : #c冰魔5等級以上#"/>
+<string name="h" value="消耗MP #mpCon，#time秒內召喚召喚火炎神。以#damage% 傷害最多可同時攻擊3位敵人， #x秒內結冰"/>
+</imgdir>
+<imgdir name="2121006">
+<string name="name" value="劇毒麻痺"/>
+<string name="desc" value="在一定時間內最多可麻痺6位敵人給予強大的傷害。目標的數越多，傷害會減少，麻痺的對象會持續得到傷害。"/>
+<string name="h" value="消耗MP #mpCon，最大 #damage% 傷害，#time秒內麻痺，#持續性(DOT)Interval秒 #持續性(DOT)%的 持續性(DOT)傷害"/>
+</imgdir>
+<imgdir name="2121007">
+<string name="name" value="火流星"/>
+<string name="desc" value="從天空召喚隕石，給予15名以下多個敵人強力的火焰攻擊。對象在一定時間內會受到持續性的持續性(DOT)傷害。"/>
+<string name="h" value="消耗MP #mpCon，最多給予15位敵人 #damage% 傷害，#持續性(DOT)Time秒內 #持續性(DOT)Interval秒每 #持續性(DOT)%的持續性(DOT)傷害，再次使用等待時間#cooltime秒"/>
+</imgdir>
+<imgdir name="2121008">
+<string name="name" value="楓葉淨化　"/>
+<string name="desc" value="解除迷惑異常狀態。等級越高再次使用等待時間越短。"/>
+<string name="h" value="消耗MP #mpCon，再次使用等待時間#cooltime秒"/>
+</imgdir>
+<imgdir name="2200000">
+<string name="name" value="魔力吸收"/>
+<string name="desc" value="魔法攻擊時以一定機率吸收對象的 MP。但是對象的MP為 0時，無法再吸收。\n必要技能 : #c咒語精通5等級以上#"/>
+<string name="h" value="魔法攻擊時以#prop% 機率吸收敵人最大 MP的 #x%"/>
+</imgdir>
+<imgdir name="2200006">
+<string name="name" value="咒語精通"/>
+<string name="desc" value="提升魔法熟練度和魔力 "/>
+<string name="h" value="增加魔法熟練度#mastery%、魔力 #x "/>
+</imgdir>
+<imgdir name="2201001">
+<string name="name" value="精神強化"/>
+<string name="desc" value="透過短時間的冥想強化內在的集中力，使全體組隊成員的魔力暫時增加。\n必要技能 : #c魔力吸收3等級以上#"/>
+<string name="h" value="消耗MP #mpCon， #time秒內組隊成員的魔力提升#mad "/>
+</imgdir>
+<imgdir name="2201002">
+<string name="name" value="瞬間移動"/>
+<string name="desc" value="一定距離瞬間移動。同時按下上、下、左、右方向鍵，就能朝該方向移動。 "/>
+<string name="h" value="消耗MP #mpCon，移動距離 #range的瞬間移動 "/>
+</imgdir>
+<imgdir name="2201003">
+<string name="name" value="緩速術"/>
+<string name="desc" value="一定時間內減緩周圍敵人的移動速度。最多可使用6位。減速效果不重覆。\n必要技能 : #c瞬間移動5等級以上#"/>
+<string name="h" value="消耗MP #mpCon，#time秒 內對象的移動速度 #x"/>
+</imgdir>
+<imgdir name="2201004">
+<string name="name" value="冰錐術"/>
+<string name="desc" value="用魔法的力量製造鋒利的冰塊，朝著一名敵人發射。命中率的敵人變成結冰狀態，對火屬性的敵人可造成更大傷害。"/>
+<string name="h" value="消耗MP #mpCon，#damage% 傷害，#time秒內結冰"/>
+</imgdir>
+<imgdir name="2201005">
+<string name="name" value="電閃雷鳴"/>
+<string name="desc" value="在自己的周圍產生強力的磁場，最多可對6位敵人降下閃電 "/>
+<string name="h" value="消耗MP #mpCon，可以 #damage% 傷害最多對6位敵人攻擊3次"/>
+</imgdir>
+<imgdir name="2210000">
+<string name="name" value="冰雷抵抗"/>
+<string name="desc" value="培養對冰雷屬性攻擊的耐性，減少對該屬性魔法的傷害。"/>
+<string name="h" value="冰雷屬性的耐性 #x% 增加"/>
+</imgdir>
+<imgdir name="2210001">
+<string name="name" value="魔力激發"/>
+<string name="desc" value="消耗更大量的MP，然而所有攻擊魔法的傷害增加威力。"/>
+<string name="h" value="消耗 MP #x% 增加，攻擊魔法傷害增加#y% "/>
+</imgdir>
+<imgdir name="2211002">
+<string name="name" value="冰風暴"/>
+<string name="desc" value="製作鋒利冰塊最多丟擲給6位敵人。命中的敵人呈現結冰狀態。"/>
+<string name="h" value="消耗MP #mpCon，最多可對6位敵人造成#damage% 傷害， #time秒內結冰"/>
+</imgdir>
+<imgdir name="2211003">
+<string name="name" value="落雷凝聚"/>
+<string name="desc" value="製作出蘊含閃電力量的槍向一位敵人丟擲。槍以急速的速度攻擊對象，並以一定機率讓對象陷入昏迷狀態。"/>
+<string name="h" value="消耗MP #mpCon，以#damage% 傷害攻擊5次，以#prop% 機率在#time秒內昏迷。"/>
+</imgdir>
+<imgdir name="2211004">
+<string name="name" value="魔法封印"/>
+<string name="desc" value="一定時間內讓多數的周圍敵人陷入封印狀態。最多可使用至6位。\n必要技能 : #c魔力激發3等級以上#"/>
+<string name="h" value="消耗MP #mpCon，#time秒內以#prop% 機率封印。"/>
+</imgdir>
+<imgdir name="2211005">
+<string name="name" value="極速詠唱"/>
+<string name="desc" value="消耗MP，在一定時間內讓魔法攻擊速度上升 2階段。\n必要技能 : #c自然力增幅 3等級以上#"/>
+<string name="h" value="消耗MP #mpCon， #time秒內提升魔法攻擊速度 "/>
+</imgdir>
+<imgdir name="2211006">
+<string name="name" value="冰雷合擊"/>
+<string name="desc" value="採用合成冰雷屬性的魔法攻擊一位。會給予對冰雷屬性弱的敵人強大的傷害，並以一定機率讓對象結冰。"/>
+<string name="h" value="消耗MP #mpCon，以#damage% 傷害最多攻擊#mobCount位 , #time秒內結冰"/>
+</imgdir>
+<imgdir name="2211007">
+<string name="name" value="瞬間移動精通"/>
+<string name="desc" value="使用技能時追加消耗MP，另外也可對瞬間移動地點的敵人造成傷害並使用昏迷效果。瞬間移動移動距離會永久性的增加。\n使用技能效果啟動再次使用時關閉的 #c開關技能#\n必要技能 : #c瞬間移動20等級以上#"/>
+<string name="h" value="追加 MP 消耗 #y，最多可對 #mobCount位敵人造成 #damage% 傷害，以#subProp% 機率在 #time秒內昏迷，永久的增加瞬間移動移動距離 #x"/>
+</imgdir>
+<imgdir name="2211008">
+<string name="name" value="自然力重置"/>
+<string name="desc" value="一定時間內減少自己使用的所有攻擊魔法屬性 "/>
+<string name="h" value="消耗MP #mpCon，#time秒內減少攻擊屬性 #x% "/>
+</imgdir>
+<imgdir name="2220009">
+<string name="name" value="大師魔法"/>
+<string name="desc" value="永久的增加魔力，增加自己使用的所有加持的持續時間。"/>
+<string name="h" value="魔力增加#madX，增加加持持續時間 #x% "/>
+</imgdir>
+<imgdir name="2221000">
+<string name="name" value="楓葉祝福"/>
+<string name="desc" value="在一定時間內將組隊成員的所有狀態屬性提升一定百分比。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內的所有狀態屬性 #x% 提升"/>
+</imgdir>
+<imgdir name="2221001">
+<string name="name" value="核爆術"/>
+<string name="desc" value="在一定時間內將身邊周圍的微小粒子聚集在一起，在一瞬間引出強大的爆炸。#c閃電屬性#，最多可同時攻擊6位敵人。"/>
+<string name="h" value="消耗MP #mpCon，以最大 #damage% 傷害進行#attackCount次攻擊。"/>
+</imgdir>
+<imgdir name="2221002">
+<string name="name" value="魔法反射"/>
+<string name="desc" value="以內在的力量改變魔法值的流動，將魔法傷害還給敵人。但是一次無法歸還對象最大HP的20% 以上"/>
+<string name="h" value="消耗MP #mpCon，#time秒內歸還#x%以#prop%機率得到的魔法傷害。"/>
+</imgdir>
+<imgdir name="2221003">
+<string name="name" value="寒冰地獄"/>
+<string name="desc" value="用冰魔的冰塊同時攻擊多個敵人。 對象在一定時間內得到持續傷害，效果持續的期間內對於冰屬性攻擊會得到更多的傷害。"/>
+<string name="h" value="消耗MP #mpCon，最多可對#mobCount位敵人造成#damage% 傷害， #dotTime秒內每 #dotInterval秒#dot%的 持續傷害， #time秒內對於冰屬性魔法會得到更多的傷害。"/>
+</imgdir>
+<imgdir name="2221004">
+<string name="name" value="魔力無限"/>
+<string name="desc" value="一定時間內可無需消耗魔法值可使用技能， 持續恢復自己的HP和MP，增加所有攻擊魔法的傷害。[再次使用等待時間: 3分鐘]"/>
+<string name="h" value="消耗MP #mpCon，每4秒恢復HP和 MP #y%，每4秒所有 攻擊魔法的傷害增加#damage%，持續#time秒"/>
+</imgdir>
+<imgdir name="2221005">
+<string name="name" value="召喚冰魔"/>
+<string name="desc" value="一定時間內召喚火屬性的冰系惡魔。冰系惡魔最多可同時攻擊3位敵人。\n必要技能 : #c火魔5等級以上#"/>
+<string name="h" value="MP #mpCon 消耗，#time秒內召喚冰魔。以#damage% 傷害最大多同時攻擊3位敵人"/>
+</imgdir>
+<imgdir name="2221006">
+<string name="name" value="閃電連擊"/>
+<string name="desc" value="向對象發射高壓電。閃電連擊使用追加會心一擊機率，對象周圍有其他敵人時，最多可追加傷害2位，然而傷害會減少。 "/>
+<string name="h" value="消耗MP #mpCon，最大 #damage% 傷害，追加會心一擊機率 #cr%"/>
+</imgdir>
+<imgdir name="2221007">
+<string name="name" value="暴風雪"/>
+<string name="desc" value="從天空掉落冰槍，對於15名以下的多個敵人進行強力的冰屬性攻擊。 對象在一定時間內持續的受到持續性(DOT)傷害。"/>
+<string name="h" value="消耗MP #mpCon，最多可給予15位敵人#damage% 傷害， #持續性(DOT)Time秒內每#持續性(DOT)Interval秒#持續性(DOT)%的 持續性(DOT)傷害，再次使用等待時間#cooltime秒"/>
+</imgdir>
+<imgdir name="2221008">
+<string name="name" value="楓葉淨化　"/>
+<string name="desc" value="解除迷惑異常狀態。等級越高再次使用等待時間越短。"/>
+<string name="h" value="消耗MP #mpCon，再次使用等待時間#cooltime秒"/>
+</imgdir>
+<imgdir name="2300000">
+<string name="name" value="魔力吸收"/>
+<string name="desc" value="魔法攻擊時以一定機率吸收對象的MP。但是對象的 MP為0 時無法吸收。\n必要技能 : #c咒語精通5等級以上#"/>
+<string name="h" value="魔法攻擊時以#prop% 機率吸收敵人最大MP的 #x% 。"/>
+</imgdir>
+<imgdir name="2300006">
+<string name="name" value="咒語精通"/>
+<string name="desc" value="提升魔法熟練度和魔力。"/>
+<string name="h" value="增加魔法熟練度#mastery%、魔力 #x "/>
+</imgdir>
+<imgdir name="2301001">
+<string name="name" value="瞬間移動"/>
+<string name="desc" value="一定距離瞬間移動。同時按下上、下、左、右方向鍵，就能朝該方向移動。 "/>
+<string name="h" value="消耗MP #mpCon，移動距離 #range的瞬間移動 "/>
+</imgdir>
+<imgdir name="2301002">
+<string name="name" value="群體治癒"/>
+<string name="desc" value="恢復周圍組隊成員全員的HP。 傷害技能範圍內的不死怪物。"/>
+<string name="h" value="消耗MP #mpCon，恢復力 #hp%，給予最大 #u隻的不死怪物#damage% 傷害"/>
+</imgdir>
+<imgdir name="2301003">
+<string name="name" value="神聖之光"/>
+<string name="desc" value="一定時間內減少自己受到的物理攻擊傷害。無法減少魔法攻擊傷害。\n必要技能 : #c群體治癒 5等級以上#"/>
+<string name="h" value="消耗MP #mpCon， #time秒內物理攻擊傷害減少#x% "/>
+</imgdir>
+<imgdir name="2301004">
+<string name="name" value="天使祝福"/>
+<string name="desc" value="一定時間內提升周圍組隊成員的攻擊力、魔力、防禦力、命中率、迴避。\n必要技能 : #c神聖之光5等級以上#"/>
+<string name="h" value="消耗MP #mpCon， #time秒內增加物理攻擊力 #pad、魔力 #mad、物理防禦力 #pdd、魔法防禦力 #mdd、命中率#acc、迴避 #eva。 "/>
+</imgdir>
+<imgdir name="2301005">
+<string name="name" value="神聖之箭"/>
+<string name="desc" value="召喚神聖的弓箭向敵人發射。可給予不死或惡魔系列的怪物重大傷害。"/>
+<string name="h" value="消耗MP #mpCon，以#damage% 傷害最多攻擊1位敵人。"/>
+</imgdir>
+<imgdir name="2310000">
+<string name="name" value="魔法抵抗"/>
+<string name="desc" value="培養對所有屬性攻擊的耐性，減少魔法的傷害。"/>
+<string name="h" value="增加對所有屬性的耐性 #x% "/>
+</imgdir>
+<imgdir name="2310008">
+<string name="name" value="神聖集中術"/>
+<string name="desc" value="透過和聖靈性的交流永久增加聖屬性攻擊魔法和群體治癒技能的會心一擊機率。"/>
+<string name="h" value="增加聖屬性攻擊魔法和群體治癒技能的會心一擊機率 #cr% "/>
+</imgdir>
+<imgdir name="2311001">
+<string name="name" value="淨化"/>
+<string name="desc" value="在判定範圍內讓敵人的魔法效果無效化，同時治療包含自己的周圍組隊成員的狀態異常。"/>
+<string name="h" value="消耗MP #mpCon，以#prop% 機率治療魔法無效化和狀態異常 "/>
+</imgdir>
+<imgdir name="2311002">
+<string name="name" value="時空門"/>
+<string name="desc" value="製作通往最近村莊的傳送點。組隊成員在門消失前可進出多次。 #c在傳送點上方按下↑鍵#移動。\n必要技能 : #c淨化3等級以上#"/>
+<string name="h" value="MP #mpCon，消耗1個魔法石，#time秒內傳送點持續"/>
+</imgdir>
+<imgdir name="2311003">
+<string name="name" value="神聖祈禱"/>
+<string name="desc" value="一定時間內周圍組隊成員狩獵怪物時，可取得更多經驗值。2人以上的組隊狀態才能使用完整的效果。\n必要技能 : #c淨化3等級以上#"/>
+<string name="h" value="消耗MP #mpCon，#time秒內增加組隊全員的取得經驗值 #x% "/>
+</imgdir>
+<imgdir name="2311004">
+<string name="name" value="聖光"/>
+<string name="desc" value="用神聖之光給予多數敵人傷害，並一定機率昏迷。可給予不死或魔族系列怪物重大傷害。"/>
+<string name="h" value="消耗MP #mpCon，最多給6位敵人 #damage% 傷害，以#prop% 機率在#time秒內昏迷。"/>
+</imgdir>
+<imgdir name="2311005">
+<string name="name" value="喚化術"/>
+<string name="desc" value="將多個敵人變身為嫩寶。 雖然改變外型、攻擊力、移動速度等，然而對Boss怪物無效。"/>
+<string name="h" value="MP #mpCon，消耗1個魔法石頭， #time秒內以#prop% 機率變身"/>
+</imgdir>
+<imgdir name="2311006">
+<string name="name" value="聖龍召喚"/>
+<string name="desc" value="一定時間內召喚神聖的龍。 "/>
+<string name="h" value="MP #mpCon，消耗1個召喚的石頭，#time秒內召喚#damage% 傷害的龍 "/>
+</imgdir>
+<imgdir name="2311007">
+<string name="name" value="瞬間移動精通"/>
+<string name="desc" value="使用技能時追加消耗MP，另外也可對瞬間移動地點的敵人造成傷害並使用昏迷效果。瞬間移動移動距離會永久性的增加。\n使用技能效果啟動再次使用時關閉的 #c開關技能#\n必要技能 : #c瞬間移動20等級以上#"/>
+<string name="h" value="追加 MP 消耗 #y，最多可對 #mobCount位敵人造成 #damage% 傷害，以#subProp% 機率在 #time秒內昏迷，永久的增加瞬間移動移動距離 #x"/>
+</imgdir>
+<imgdir name="2320010">
+<string name="name" value="大師魔法"/>
+<string name="desc" value="永久的增加魔力，增加自己使用的所有加持的持續時間。"/>
+<string name="h" value="魔力 #madX 增加，加持持續時間 #x% 增加"/>
+</imgdir>
+<imgdir name="2321000">
+<string name="name" value="楓葉祝福"/>
+<string name="desc" value="在一定時間內將組隊成員的所有狀態屬性提升一定百分比。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內的所有狀態屬性 #x% 提升"/>
+</imgdir>
+<imgdir name="2321001">
+<string name="name" value="核爆術"/>
+<string name="desc" value="在一定時間內將身邊周圍的微小粒子聚集在一起，在一瞬間引出強大的爆炸。#c神聖屬性#，最多可同時攻擊6位敵人。"/>
+<string name="h" value="消耗MP #mpCon，以最大 #damage% 傷害進行#attackCount次攻擊"/>
+</imgdir>
+<imgdir name="2321002">
+<string name="name" value="魔法反射"/>
+<string name="desc" value="以內在的力量改變魔法值的流動，將魔法傷害還給敵人。但是一次無法歸還對象最大HP的20% 以上"/>
+<string name="h" value="MP #mpCon 消耗，#time秒內以#prop%的機率歸還受到的魔法傷害的 #x%。"/>
+</imgdir>
+<imgdir name="2321003">
+<string name="name" value="召喚神龍"/>
+<string name="desc" value="一定時間內召喚神聖最強的的聖龍精通。 聖龍精通最多可同時攻擊3位敵人。\n必要技能 : #c聖龍召喚 15等級以上#"/>
+<string name="h" value="消耗MP #mpCon，#time秒內召喚聖龍精通。以#damage% 傷害最多可同時攻擊3位敵人。 "/>
+</imgdir>
+<imgdir name="2321004">
+<string name="name" value="魔力無限"/>
+<string name="desc" value="一定時間內可無需消耗魔法值可使用技能，持續恢復自己的HP和MP，增加所有攻擊魔法的傷害。[再次使用等待時間: 3分鐘]"/>
+<string name="h" value="MP #mpCon 消耗，每4秒恢復HP和 MP #y%，每4秒增加所有攻擊魔法的傷害 #damage%，持續#time秒"/>
+</imgdir>
+<imgdir name="2321005">
+<string name="name" value="聖盾護鎧"/>
+<string name="desc" value="一定時間內施展加持組隊成員的狀態異常。 永久增加自己的狀態異常耐性。[ 再次使用等待時間: 140秒]"/>
+<string name="h" value="活性效果 : 消耗MP #mpCon， #time秒內施展可阻止狀態異常的加持。\n被動效果 : 增加狀態異常耐性 #asrR% "/>
+</imgdir>
+<imgdir name="2321006">
+<string name="name" value="復甦之光"/>
+<string name="desc" value="用神聖的之光喚醒組隊成員。"/>
+<string name="h" value="消耗MP #mpCon，再次使用等待時間#x分鐘"/>
+</imgdir>
+<imgdir name="2321007">
+<string name="name" value="天使之箭"/>
+<string name="desc" value="召喚充滿聖靈氣息的弓箭，向多個敵人發射。可給予不死或惡魔系列的怪物重大傷害。"/>
+<string name="h" value="消耗MP #mpCon，最多給#mobCount位#damage% 傷害"/>
+</imgdir>
+<imgdir name="2321008">
+<string name="name" value="天怒"/>
+<string name="desc" value="從天空落下神聖光之柱， 給予15名以下多個敵人強力的神聖屬性攻擊。使用追加會心一擊機率。"/>
+<string name="h" value="MP #mpCon 消耗，最多給予 15位敵人#damage% 傷害，追加會心一擊機率 #cr%，再次使用等待時間#cooltime秒"/>
+</imgdir>
+<imgdir name="2321009">
+<string name="name" value="楓葉淨化　"/>
+<string name="desc" value="解除迷惑異常狀態。等級越高再次使用等待時間越短。"/>
+<string name="h" value="消耗MP #mpCon，再次使用等待時間#cooltime秒"/>
+</imgdir>
+<imgdir name="3000001">
+<string name="name" value="霸王箭"/>
+<string name="desc" value="增加會心一擊攻擊機率。"/>
+<string name="h" value="增加會心一擊攻擊機率 #prop% "/>
+</imgdir>
+<imgdir name="3000002">
+<string name="name" value="百步穿楊"/>
+<string name="desc" value="增加弓與弩的射程距離。"/>
+<string name="h" value="增加弓與弩的射程距離 #range "/>
+</imgdir>
+<imgdir name="3001003">
+<string name="name" value="集中術"/>
+<string name="desc" value="透過精神集中在一定時間內讓命中率和迴避上升"/>
+<string name="h" value="消耗MP #mpCon，#time秒內命中率#acc，迴避 #eva "/>
+</imgdir>
+<imgdir name="3001004">
+<string name="name" value="斷魂箭"/>
+<string name="desc" value="最多可朝3位敵人發射弓箭。弓箭只能消耗1個。"/>
+<string name="h" value="消耗MP #mpCon，最多可給3位敵人#damage% 傷害。"/>
+</imgdir>
+<imgdir name="3001005">
+<string name="name" value="二連箭"/>
+<string name="desc" value="向一個敵人發射2枝弓箭。"/>
+<string name="h" value="消耗MP #mpCon，發射2支#damage% 傷害的弓箭 "/>
+</imgdir>
+<imgdir name="3100000">
+<string name="name" value="精準之弓"/>
+<string name="desc" value="提升弓系列武器的熟練度和命中率 "/>
+<string name="h" value="弓系列武器的熟練度#mastery%，命中率#x上升"/>
+</imgdir>
+<imgdir name="3100001">
+<string name="name" value="終極之弓"/>
+<string name="desc" value="以一定機率使用攻擊技能後追加傷害。 但是一定要手持弓系列武器才能發動。\n必要技能 : #c精準之弓3等級以上#"/>
+<string name="h" value="以#prop% 機率發動 #damage% 傷害的終極攻擊"/>
+</imgdir>
+<imgdir name="3100006">
+<string name="name" value="提升基本技能"/>
+<string name="desc" value="磨練弓箭手的基本技能斷魂箭和二連箭。"/>
+<string name="h" value="斷魂箭傷害 +#x%、二連箭傷害 +#y% "/>
+</imgdir>
+<imgdir name="3101002">
+<string name="name" value="快速之弓"/>
+<string name="desc" value="消耗MP，一定時間內弓的攻擊速度上升2階段。\n必要技能 : #c精準之弓5等級以上#"/>
+<string name="h" value="消耗MP #mpCon，#time秒內提升弓的攻擊速度 "/>
+</imgdir>
+<imgdir name="3101003">
+<string name="name" value="強弓"/>
+<string name="desc" value="給予近距離敵人傷害，並一定機率出現強弓。"/>
+<string name="h" value="消耗MP #mpCon，#damage% 傷害，以#prop% 機率最多推開 #mobCount位敵人#x。"/>
+</imgdir>
+<imgdir name="3101004">
+<string name="name" value="無形之箭"/>
+<string name="desc" value="一定時間內射箭時無需消耗弓箭。\n必要技能 : #c快速之箭 5等級以上#"/>
+<string name="h" value="消耗MP #mpCon， #time秒內無需弓箭消耗攻擊"/>
+</imgdir>
+<imgdir name="3101005">
+<string name="name" value="炸彈箭"/>
+<string name="desc" value="發射安裝炸彈的弓箭，讓對象和周圍的敵人在一定時間內昏迷。"/>
+<string name="h" value="消耗MP #mpCon，最多給予6位敵人 #x% 傷害，以#prop% 機率在 #time秒內昏迷"/>
+</imgdir>
+<imgdir name="3110000">
+<string name="name" value="疾風步"/>
+<string name="desc" value="移動速度永久增加"/>
+<string name="h" value="移動速度 #speed 增加"/>
+</imgdir>
+<imgdir name="3110001">
+<string name="name" value="致命箭"/>
+<string name="desc" value="以一定機率一擊敵人後秒殺"/>
+<string name="h" value="敵人的 HP在 #x% 以下時以#y% 機率秒殺"/>
+</imgdir>
+<imgdir name="3110007">
+<string name="name" value="躲避"/>
+<string name="desc" value="可以一定機率迴避敵人的攻擊，迴避成功時下一個攻擊一定會用會心一擊命中。"/>
+<string name="h" value="以#er% 機率迴避"/>
+</imgdir>
+<imgdir name="3111002">
+<string name="name" value="替身術"/>
+<string name="desc" value="一定時間內召喚出替身(自己的分身)。召喚替身時，怪物會優先攻擊替身。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內召喚HP #x替身 "/>
+</imgdir>
+<imgdir name="3111003">
+<string name="name" value="烈火箭"/>
+<string name="desc" value="發射具有火焰力量的弓箭，最多攻擊6位敵人。 對象在一定時間內受到持續傷害。"/>
+<string name="h" value="消耗MP #mpCon，#damage% 傷害，#dotTime秒內， #dotInterval秒 #dot%的持續傷害"/>
+</imgdir>
+<imgdir name="3111004">
+<string name="name" value="箭雨"/>
+<string name="desc" value="向天空射出許多弓箭攻擊周圍的多數敵人。\n必要技能 : #c致命箭5等級以上#"/>
+<string name="h" value="消耗MP #mpCon，最多給予 #mobCount位敵人#damage% 傷害"/>
+</imgdir>
+<imgdir name="3111005">
+<string name="name" value="銀鷹召喚"/>
+<string name="desc" value="一定時間內召喚銀鷹，銀鷹會自動攻擊周圍的敵人，有一定機率造成昏迷。\n必要技能 : #c替身術 5等級以上#"/>
+<string name="h" value="MP #mpCon，消耗1個召喚的石頭，#time秒內召喚#damage% 傷害的鞭，以#prop% 機率昏迷"/>
+</imgdir>
+<imgdir name="3111006">
+<string name="name" value="四連箭"/>
+<string name="desc" value="向一個敵人發射4發弓箭"/>
+<string name="h" value="消耗MP #mpCon，發射4支#damage%傷害的弓箭"/>
+</imgdir>
+<imgdir name="3120005">
+<string name="name" value="弓術精通"/>
+<string name="desc" value="弓系列武器的熟練度和物理攻擊力，增加會心一擊最小傷害，\n必要技能 : #c精準之弓20等級以上#"/>
+<string name="h" value="弓系列武器的熟練度上升至#mastery%，物理攻擊力 #x、會心一擊最小傷害增加#criticaldamageMin%"/>
+</imgdir>
+<imgdir name="3120010">
+<string name="name" value="復仇"/>
+<string name="desc" value="被擊時以一定機率給予周圍敵人傷害，並一定時間內昏迷。"/>
+<string name="h" value="被擊時以 #prop% 機率最多給予 #mobCount位敵人#damage% 傷害，攻擊者強弓+ #time秒內昏迷"/>
+</imgdir>
+<imgdir name="3120011">
+<string name="name" value="射擊術"/>
+<string name="desc" value="攻擊時可無視對象物理防禦力的一定水準無視，永久的增加最大 HP。"/>
+<string name="h" value="攻擊時無視對象的物理防禦力 #ignoreMobpdpR%最大 HP #mhpR%增加"/>
+</imgdir>
+<imgdir name="3121000">
+<string name="name" value="楓葉祝福"/>
+<string name="desc" value="在一定時間內將組隊成員的所有狀態屬性提升一定百分比。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內的所有狀態屬性 #x% 提升"/>
+</imgdir>
+<imgdir name="3121002">
+<string name="name" value="會心之眼"/>
+<string name="desc" value="在一定時間內賦予全體組隊成員找出敵人的弱點造成致命傷的能力。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內增加會心一擊機率 #x%，會心一擊最大傷害 #criticaldamageMax% "/>
+</imgdir>
+<imgdir name="3121003">
+<string name="name" value="龍魂之箭"/>
+<string name="desc" value="在弓箭上裝載龍的靈魂後發射。對象可被弓箭射至遠距離。"/>
+<string name="h" value="消耗MP #mpCon，以#damage% 傷害最多攻擊#mobCount位 "/>
+</imgdir>
+<imgdir name="3121004">
+<string name="name" value="暴風神射"/>
+<string name="desc" value="以暴風雨般的快速發射弓箭。按住技能鍵可持續射箭。"/>
+<string name="h" value="消耗MP #mpCon，每發有 #damage% 傷害"/>
+</imgdir>
+<imgdir name="3121006">
+<string name="name" value="召喚鳳凰"/>
+<string name="desc" value="一定時間內召喚出具有火屬性的鳳凰。最多能同時攻擊4個敵人，並一定機率昏迷。\n必要技能 : #c銀鷹召喚15等級以上#"/>
+<string name="h" value="消耗MP #mpCon， #time秒內召喚鳳凰。以#damage% 傷害最多可同時攻擊4位敵人 ，以 #prop% 機率昏迷"/>
+</imgdir>
+<imgdir name="3121007">
+<string name="name" value="牽制射擊"/>
+<string name="desc" value="一定時間內瞄準對象的腳射，攻擊可以一定機率降低對象的移動速度。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內啟動加持，以#prop% 機率在 #y秒內讓對象的移動速度 #x"/>
+</imgdir>
+<imgdir name="3121008">
+<string name="name" value="念力集中"/>
+<string name="desc" value="一定時間內物理攻擊力上升，技能使用時消耗的MP減少。 [再次使用等待時間: 5分鐘]"/>
+<string name="h" value="消耗MP #mpCon，#time秒內物理攻擊力上升#epad，消耗 MP減少#x% "/>
+</imgdir>
+<imgdir name="3121009">
+<string name="name" value="楓葉淨化　"/>
+<string name="desc" value="解除迷惑異常狀態。等級越高再次使用等待時間越短。"/>
+<string name="h" value="消耗MP #mpCon，再次使用等待時間#cooltime秒"/>
+</imgdir>
+<imgdir name="3200000">
+<string name="name" value="精準之弩"/>
+<string name="desc" value="提升弩系列武器的熟練度和命中率。 "/>
+<string name="h" value="弩系列武器的熟練度#mastery%、命中率#x 上升"/>
+</imgdir>
+<imgdir name="3200001">
+<string name="name" value="終極之弩"/>
+<string name="desc" value="以一定機率使用攻擊技能後追加傷害。 但是一定要手持弩系列武器才能發動。\n必要技能 : #c精準之弩3等級以上#"/>
+<string name="h" value="以#prop% 機率發動 #damage% 傷害的終極攻擊"/>
+</imgdir>
+<imgdir name="3200006">
+<string name="name" value="提升基本技能"/>
+<string name="desc" value="磨練弓箭手的基本技能斷魂箭和二連箭。"/>
+<string name="h" value="斷魂箭傷害 +#x%、二連箭傷害 +#y% "/>
+</imgdir>
+<imgdir name="3201002">
+<string name="name" value="快速之弩"/>
+<string name="desc" value="消耗MP一定時間內讓弩的攻擊速度上升2階段。\n必要技能 : #c精準之弩5等級以上#"/>
+<string name="h" value="消耗MP #mpCon，#time秒內提升弩的攻擊速度 "/>
+</imgdir>
+<imgdir name="3201003">
+<string name="name" value="強弩"/>
+<string name="desc" value="給予近距離的敵人傷害，並一定機率出現強弓。"/>
+<string name="h" value="消耗MP #mpCon，#damage% 傷害 ，以#prop% 機率最多推開 #mobCount位敵人#x。"/>
+</imgdir>
+<imgdir name="3201004">
+<string name="name" value="無形之箭"/>
+<string name="desc" value="一定時間內不消耗弓箭也能射弩。\n必要技能 : #c快速之弩 5等級以上#"/>
+<string name="h" value="消耗MP #mpCon，#time秒內無需弓箭消耗攻擊"/>
+</imgdir>
+<imgdir name="3201005">
+<string name="name" value="穿透之箭"/>
+<string name="desc" value="發射可刺穿敵人的鋼鐵弓箭。 最多可攻擊 6位，然而穿刺一位敵人時傷害會逐漸減少。"/>
+<string name="h" value="消耗MP #mpCon，以#damage% 傷害最多刺穿 6位"/>
+</imgdir>
+<imgdir name="3210000">
+<string name="name" value="疾風步"/>
+<string name="desc" value="移動速度永久的增加"/>
+<string name="h" value="移動速度 #speed 增加"/>
+</imgdir>
+<imgdir name="3210001">
+<string name="name" value="致命箭"/>
+<string name="desc" value="以一定機率對敵人一擊後秒殺敵人。"/>
+<string name="h" value="敵人的HP在 #x% 以下時，以 #y% 機率秒殺。"/>
+</imgdir>
+<imgdir name="3210007">
+<string name="name" value="躲避"/>
+<string name="desc" value="可一定機率迴避敵人的攻擊，迴避成功時下次攻擊一定會用會心一擊命中。"/>
+<string name="h" value="以#er% 機率迴避"/>
+</imgdir>
+<imgdir name="3211002">
+<string name="name" value="替身術"/>
+<string name="desc" value="一定時間內召喚出替身(自己的分身)。召喚替身時，怪物會優先攻擊替身。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內召喚HP #x替身 "/>
+</imgdir>
+<imgdir name="3211003">
+<string name="name" value="寒冰箭"/>
+<string name="desc" value="發射凍氣屬性的弓箭，攻擊多數敵人。對象在一定時間內結冰。"/>
+<string name="h" value="消耗MP #mpCon，最多給予6位敵人#damage% 傷害，#time秒內結冰"/>
+</imgdir>
+<imgdir name="3211004">
+<string name="name" value="升龍弩"/>
+<string name="desc" value="弓箭穿透地面攻擊周圍的多數敵人。\n必要技能 : #c致命箭 5等級以上#"/>
+<string name="h" value="消耗MP #mpCon，最多給予#mobCount位敵人#damage% 傷害"/>
+</imgdir>
+<imgdir name="3211005">
+<string name="name" value="金鷹召喚"/>
+<string name="desc" value="一定時間內召喚銀光的巨鷹。巨鷹會自動攻擊周圍的敵人，並一定機率昏迷。\n必要技能 : #c替身術5等級以上#"/>
+<string name="h" value="MP #mpCon，消耗1個召喚的石頭， #time秒內召喚#damage% 傷害的巨鷹，以#prop% 機率昏迷"/>
+</imgdir>
+<imgdir name="3211006">
+<string name="name" value="四連箭"/>
+<string name="desc" value="向一位敵人發射4支弓箭。"/>
+<string name="h" value="消耗MP #mpCon，發射4支#damage%傷害的弓箭"/>
+</imgdir>
+<imgdir name="3220004">
+<string name="name" value="弩術精通"/>
+<string name="desc" value="增加弩系列武器的熟練度和物理攻擊力、會心一擊最小傷害。\n必要技能 : #c精準之弩20等級以上#"/>
+<string name="h" value="弩系列武器的熟練度上升至#mastery%，物理攻擊力 #x、會心一擊 最小傷害 #criticaldamageMin% 增加"/>
+</imgdir>
+<imgdir name="3220009">
+<string name="name" value="射擊術"/>
+<string name="desc" value="攻擊時可無視對象一定水準的物理防禦力， 最大HP永久增加。"/>
+<string name="h" value="攻擊時無視對象的物理防禦力 #ignoreMobpdpR%，最大 HP #mhpR% 增加"/>
+</imgdir>
+<imgdir name="3220010">
+<string name="name" value="終極四連箭"/>
+<string name="desc" value="將四連箭強化為終極的型態。\n必要技能 : #c四連箭30等級以上#"/>
+<string name="h" value="消耗MP #mpCon，發射#damage% 傷害的弓箭#bulletCount發。"/>
+</imgdir>
+<imgdir name="3221000">
+<string name="name" value="楓葉祝福"/>
+<string name="desc" value="在一定時間內將組隊成員的所有狀態屬性提升一定百分比。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內的所有狀態屬性 #x% 提升"/>
+</imgdir>
+<imgdir name="3221001">
+<string name="name" value="光速神弩"/>
+<string name="desc" value="發射出穿刺敵人傷害增加威力的穿刺弓箭。"/>
+<string name="h" value="消耗MP #mpCon，最多以#damage% 傷害刺穿 #mobCount位 。"/>
+</imgdir>
+<imgdir name="3221002">
+<string name="name" value="會心之眼"/>
+<string name="desc" value="在一定時間內賦予全體組隊成員找出敵人的弱點造成致命傷的能力。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內會心一擊機率 #x%、會心一擊最大傷害增加#criticaldamageMax% "/>
+</imgdir>
+<imgdir name="3221003">
+<string name="name" value="龍魂之箭"/>
+<string name="desc" value="在弓箭上載有龍的靈魂發射。對象可被弓箭射至遠距離。"/>
+<string name="h" value="消耗MP #mpCon，以#damage% 傷害最多攻擊#mobCount位 "/>
+</imgdir>
+<imgdir name="3221005">
+<string name="name" value="召喚銀隼"/>
+<string name="desc" value="一定時間內召喚具備凍氣屬性的召喚銀隼。召喚銀隼最多可同時攻擊4位敵人。\n必要技能 : #c金鷹召喚15等級以上#"/>
+<string name="h" value="消耗MP #mpCon，#time秒內召喚召喚銀隼。以 #damage% 傷害最多同時攻擊4位敵人 "/>
+</imgdir>
+<imgdir name="3221006">
+<string name="name" value="黑暗狙擊"/>
+<string name="desc" value="一定時間內瞄準對象的眼睛射擊。 攻擊時以一定機率讓對象的視線受阻，讓命中率變低。"/>
+<string name="h" value="消耗MP #mpCon， #time秒內啟動加持，以 #prop% 機率在 #y秒內讓 對象的命中率減少 #x%。"/>
+</imgdir>
+<imgdir name="3221007">
+<string name="name" value="必殺狙擊"/>
+<string name="desc" value="準確瞄準敵人的要害，一招打倒敵人。"/>
+<string name="h" value="消耗MP #mpCon，再次使用等待時間#cooltime秒"/>
+</imgdir>
+<imgdir name="3221008">
+<string name="name" value="楓葉淨化　"/>
+<string name="desc" value="解除迷惑異常狀態。等級越高再次使用等待時間越短。"/>
+<string name="h" value="消耗MP #mpCon，再次使用等待時間#cooltime秒"/>
+</imgdir>
+<imgdir name="4000000">
+<string name="name" value="幻化術"/>
+<string name="desc" value="修煉盜賊的秘笈，命中率迴避永久性的增加"/>
+<string name="h" value="命中率#x、迴避 #y 增加"/>
+</imgdir>
+<imgdir name="4000001">
+<string name="name" value="鷹之眼"/>
+<string name="desc" value="增加鏢、飛鏢等投擲武器的射程距離，\n必要技能 : #c幻體功3級以上#"/>
+<string name="h" value="增加投擲武器的射程#range "/>
+</imgdir>
+<imgdir name="4001002">
+<string name="name" value="詛咒術"/>
+<string name="desc" value="在一定時間內，敵人的物理防禦力、攻擊力降低，並陷入無法攻擊自己的狀態。但是不可對同一敵人重復使用。"/>
+<string name="h" value="消耗MP #mpCon ，#time秒內敵人的攻擊力 #x、防禦力 #y%，變成無法攻擊自己的狀態。"/>
+</imgdir>
+<imgdir name="4001003">
+<string name="name" value="隱身術"/>
+<string name="desc" value="在一定時間內隱藏到影子中。隱身術狀態下雖然不會被敵人攻擊，然而也不能攻擊敵人。\n必要技能 : #c詛咒術3級以上#"/>
+<string name="h" value="MP #mpCon 消耗，#time秒內隱身，移動速度減少 #y "/>
+</imgdir>
+<imgdir name="4001334">
+<string name="name" value="劈空斬"/>
+<string name="desc" value="快速刺殺敵人2次。"/>
+<string name="h" value="消耗MP #mpCon，以#damage% 傷害攻擊2次 "/>
+</imgdir>
+<imgdir name="4001344">
+<string name="name" value="雙飛斬"/>
+<string name="desc" value="向敵人連續丢擲幸運的2個飛鏢。與精準暗器無關，是根據幸運值進行攻擊"/>
+<string name="h" value="消耗MP #mpCon，以#damage% 傷害攻擊2次 "/>
+</imgdir>
+<imgdir name="4100000">
+<string name="name" value="精準暗器"/>
+<string name="desc" value="提升拳套系列武器的熟練度和命中率，並增加所持有的飛鏢最高裝填數量。"/>
+<string name="h" value="拳套系列武器的熟練度#mastery%，命中率上升#x、飛鏢數 #y 上升"/>
+</imgdir>
+<imgdir name="4100001">
+<string name="name" value="強力投擲"/>
+<string name="desc" value="增加會心一擊攻擊機率和會心一擊最小傷害。\n必要技能 : #c精準暗器3級以上#"/>
+<string name="h" value="會心一擊攻擊機率#prop%、會心一擊最小傷害 #criticaldamageMin% 增加"/>
+</imgdir>
+<imgdir name="4100006">
+<string name="name" value="影之抵抗"/>
+<string name="desc" value="利用黑暗的親和，永久增加最大 HP、狀態異常耐性、所有屬性耐性。"/>
+<string name="h" value="增加最大HP #mhpR%、狀態異常耐性#asrR%、所有屬性耐性#terR% "/>
+</imgdir>
+<imgdir name="4101003">
+<string name="name" value="極速暗殺"/>
+<string name="desc" value="消耗MP，且在一定時間內使拳套的攻擊速度提升2階段。\n必要技能 : #c精準暗器5級以上#"/>
+<string name="h" value="消耗MP #mpCon，#time秒內提升拳套的攻擊速度"/>
+</imgdir>
+<imgdir name="4101004">
+<string name="name" value="速度激發"/>
+<string name="desc" value="一定時間內增加組隊成員全員的移動速度和跳躍力"/>
+<string name="h" value="消耗MP #mpCon，#time秒內增加移動速度 #speed、增加跳躍力#jump "/>
+</imgdir>
+<imgdir name="4101005">
+<string name="name" value="吸血術"/>
+<string name="desc" value="吸收一部分敵人給的傷害，並恢復HP。一次會減少角色最大HP的一半以上，無法吸收超過怪物最大的HP。"/>
+<string name="h" value="消耗MP #mpCon，傷害#damage%，用HP吸收傷害的 #x%。"/>
+</imgdir>
+<imgdir name="4110000">
+<string name="name" value="藥劑精通"/>
+<string name="desc" value="藥水等恢復道具的效果上升或狀態變化道具的使用時間增加。但是特殊藥水等恢復至%的道具不可使用"/>
+<string name="h" value="恢復量增加#x%，使用時間增加#y% "/>
+</imgdir>
+<imgdir name="4111001">
+<string name="name" value="幸運術"/>
+<string name="desc" value="在一定時間內增加包含自己周圍組隊成員楓幣的獲得量。 但增加效果只限於從敵人掉下的楓幣。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內楓幣獲得量 +#x%"/>
+</imgdir>
+<imgdir name="4111002">
+<string name="name" value="影分身"/>
+<string name="desc" value="一定時間內召喚和自己作相同行動的影子同伴。沒有額外的的體力，召喚時間過了就會消失。"/>
+<string name="h" value="MP #mpCon，消耗1個召喚石， #time秒內召喚攻擊力 #x%的影子同伴 "/>
+</imgdir>
+<imgdir name="4111003">
+<string name="name" value="影網術"/>
+<string name="desc" value="將自己的影子化爲蜘蛛網，使6名以下多數敵人無法動彈。"/>
+<string name="h" value="消耗MP #mpCon， #time秒內以#prop% 機率束縛"/>
+</imgdir>
+<imgdir name="4111004">
+<string name="name" value="楓幣攻擊"/>
+<string name="desc" value="投擲楓幣不消耗MP，用與楓幣量相同的傷害攻擊敵人。不用在意怪物的物理防禦和魔心防禦的效果。\n必要技能 : #c幸運術5級以上#"/>
+<string name="h" value="消耗最小 #y，最大 #z的楓幣攻擊，以#prop% 機率增加傷害 #x%"/>
+</imgdir>
+<imgdir name="4111005">
+<string name="name" value="風魔手裏劍"/>
+<string name="desc" value="擲出風魔手裏劍。風魔手裏劍可貫穿多個敵人攻擊。"/>
+<string name="h" value="MP #mpCon，飛鏢消耗#bulletConsume個，以#damage% 傷害最多攻擊#mobCount位 "/>
+</imgdir>
+<imgdir name="4111006">
+<string name="name" value="二段跳"/>
+<string name="desc" value="跳躍到空中後再次使用，可以向前進方向再一次跳躍。隨著技能級的提高，跳躍距離也會增加。\n必要技能 : #c風魔手裏劍5級以上#"/>
+<string name="h" value="消耗MP #mpCon，一定距離跳躍"/>
+</imgdir>
+<imgdir name="4111007">
+<string name="name" value="黑暗殺"/>
+<string name="desc" value="在一定時間內召喚否定所有東西的達克魯的風魔手裏劍。風魔手裏劍在領域內，如有敵人試圖傷害自己和組隊成員，將會反射受到傷害。但敵人最大HP有一半以上的話無法反射。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內召喚達克魯的風魔手裏劍，反射傷害 #x%，再次使用的等待時間#cooltime秒"/>
+</imgdir>
+<imgdir name="4120002">
+<string name="name" value="瞬身迴避"/>
+<string name="desc" value="有一定機率可變身為木頭人，迴避敵人的攻擊。"/>
+<string name="h" value="#prop%迴避機率"/>
+</imgdir>
+<imgdir name="4120005">
+<string name="name" value="飛毒殺"/>
+<string name="desc" value="在拳套上永久的塗毒。對象會以一定機率陷入中毒狀態，得到持續的傷害。毒無法重覆，對象的 HP也無法降至1 以下。"/>
+<string name="h" value="攻擊時以#prop% 的機率，在#dotTime秒內，每 #dotInterval秒追加#dot% 傷害的持續傷害 "/>
+</imgdir>
+<imgdir name="4120010">
+<string name="name" value="熟練的飛鏢術"/>
+<string name="desc" value="雙飛斬、吸血術、風魔手裏劍、楓幣攻擊的#c總傷害上升#\n另外攻擊時以一定機率不會消耗飛鏢，現在使用中的#c飛鏢會多補充1個 #\n（但無法補充飛鏢最大個數以上，並限制無形鏢補充效果）\n如追加發動熟練的飛鏢術效果#c下次攻擊一定會用會心一擊命中。#\n必要技能 : #c無形鏢5級以上#"/>
+<string name="h" value="雙飛斬、吸血術、風魔手裏劍、楓幣攻擊的總傷害增加#damR%，攻擊時#prop%機率補充1個飛鏢"/>
+</imgdir>
+<imgdir name="4121000">
+<string name="name" value="楓葉祝福"/>
+<string name="desc" value="在一定時間內將組隊成員的所有狀態屬性提升一定百分比。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內的所有狀態屬性 #x% 提升"/>
+</imgdir>
+<imgdir name="4121003">
+<string name="name" value="挑釁"/>
+<string name="desc" value="最多對付6位敵人，並且敵人的防禦力上升和經驗值獲得量或道具掉落率增加。\n必要技能 : #c僞裝10級以上#"/>
+<string name="h" value="消耗MP #mpCon、敵人的防禦力、獲得經驗值、道具掉落率上升#x%"/>
+</imgdir>
+<imgdir name="4121004">
+<string name="name" value="忍影瞬殺"/>
+<string name="desc" value="叫出躲藏中的同伴，並讓同伴在一定時間內持續攻擊敵人。敵人的HP不會降至1以下，\n必要技能 :#c僞裝5級以上#"/>
+<string name="h" value="消耗MP #mpCon，傷害#damage%、持續時間#time秒"/>
+</imgdir>
+<imgdir name="4121006">
+<string name="name" value="無形鏢"/>
+<string name="desc" value="一次消耗飛鏢200個之後 ，在一定時間內攻擊可不消耗飛鏢。"/>
+<string name="h" value="消耗MP #mpCon，持續#time秒"/>
+</imgdir>
+<imgdir name="4121007">
+<string name="name" value="三飛閃"/>
+<string name="desc" value="無視敵人的物理防禦力連續丢擲3個飛鏢。 "/>
+<string name="h" value="消耗MP #mpCon，以#damage% 傷害攻擊3次，無視敵人的物理防禦力 #ignoreMobpdpR%"/>
+</imgdir>
+<imgdir name="4121008">
+<string name="name" value="忍術風影"/>
+<string name="desc" value="躲藏中的忍者同伴出現，如旋風般快速地移動，忽左忽右攻擊周圍的敵人。"/>
+<string name="h" value="消耗MP #mpCon、傷害#damage%、#prop% 機率擊退敵人 #range"/>
+</imgdir>
+<imgdir name="4121009">
+<string name="name" value="楓葉淨化　"/>
+<string name="desc" value="解除迷惑異常狀態。等級越高再次使用等待時間越短。"/>
+<string name="h" value="消耗MP #mpCon，再次使用等待時間#cooltime秒"/>
+</imgdir>
+<imgdir name="4200000">
+<string name="name" value="精準之刀"/>
+<string name="desc" value="提升短劍系列武器的熟練度和命中率"/>
+<string name="h" value="短劍系列武器的熟練度#mastery%、命中率#x上升"/>
+</imgdir>
+<imgdir name="4200006">
+<string name="name" value="影之抵抗"/>
+<string name="desc" value="利用黑暗的親和，永久增加最大 HP、狀態異常耐性、所有屬性耐性。"/>
+<string name="h" value="增加最大HP #mhpR%、狀態異常耐性#asrR%、所有屬性耐性#terR% "/>
+</imgdir>
+<imgdir name="4201002">
+<string name="name" value="快速之刀"/>
+<string name="desc" value="消耗MP且在一定時間內短劍的攻擊速度上升2階段。\n必要技能 : #c精準之刀5級以上#"/>
+<string name="h" value="消耗MP #mpCon，#time秒內短劍的攻擊速度提升"/>
+</imgdir>
+<imgdir name="4201003">
+<string name="name" value="速度激發"/>
+<string name="desc" value="一定時間內增加組隊成員全員的移動速度和跳躍力"/>
+<string name="h" value="消耗MP #mpCon，#time秒內增加移動速度 #speed、增加跳躍力#jump "/>
+</imgdir>
+<imgdir name="4201004">
+<string name="name" value="妙手術"/>
+<string name="desc" value="以一定機率偷取敵人擁有的道具之一，並快速攻擊多個敵人。如對一個敵人曾偷取成功，可一直嘗試直到成功為止。\n必要技能 : #c速度激發5級以上#"/>
+<string name="h" value="消耗MP #mpCon，妙手術#prop% 機率、最大對#mobCount名#damage%傷害、昏迷#time秒"/>
+</imgdir>
+<imgdir name="4201005">
+<string name="name" value="迴旋斬"/>
+<string name="desc" value="以非常快的速度連續攻擊敵人。"/>
+<string name="h" value="消耗MP #mpCon，以#damage% 傷害攻擊#attackCount次 "/>
+</imgdir>
+<imgdir name="4210000">
+<string name="name" value="強化盾"/>
+<string name="desc" value="配戴盾牌時物理防禦力和魔法防禦力追加上升 "/>
+<string name="h" value="物理防禦力和魔法防禦力 #x% 追加上升"/>
+</imgdir>
+<imgdir name="4211001">
+<string name="name" value="血魔轉換"/>
+<string name="desc" value="消耗MP消耗，恢復HP。在 HP不到一半時方可使用。"/>
+<string name="h" value="消耗MP #mpCon、恢復力#y%、恢復中敵人造成傷害#x%"/>
+</imgdir>
+<imgdir name="4211002">
+<string name="name" value="落葉斬"/>
+<string name="desc" value="瞬間接近一名敵人，並且快速度攻擊。敵人以一定機率昏迷。 "/>
+<string name="h" value="消耗MP #mpCon、以傷害#damage%攻擊#attackCount、以#prop%機率昏迷#time秒"/>
+</imgdir>
+<imgdir name="4211003">
+<string name="name" value="勇者掠奪術"/>
+<string name="desc" value="一定時間內攻擊敵人時，會減少楓幣。技能級越高會掉越多楓幣。\n必要技能 : #c楓幣炸彈3級以上#"/>
+<string name="h" value="消耗MP #mpCon，勇者掠奪術#time秒，攻擊時掉落楓幣的機率#prop%"/>
+</imgdir>
+<imgdir name="4211004">
+<string name="name" value="分身術"/>
+<string name="desc" value="動員隱身中的盜賊同伴，同時攻擊周圍的多數敵人。"/>
+<string name="h" value="消耗MP #mpCon，最多對 #mobCount位敵人造成傷害#damage% "/>
+</imgdir>
+<imgdir name="4211005">
+<string name="name" value="楓幣護盾"/>
+<string name="desc" value="在一定時間內消耗楓幣，防止傷害50%。楓幣消耗量依照技能級和傷害還原比例不同而有不同。\n必要技能 : #c血魔轉換3級以上#"/>
+<string name="h" value="消耗MP #mpCon、用楓幣防禦，在#time秒內會造成防禦傷害#x%"/>
+</imgdir>
+<imgdir name="4211006">
+<string name="name" value="楓幣炸彈"/>
+<string name="desc" value="讓掉落在周圍的楓幣爆炸，傷害敵人。只是無法引爆其他人有優先權的楓幣，一般怪物最多用10個，Boss怪物最多用15個可造成傷害。"/>
+<string name="h" value="消耗MP #mpCon、楓幣 1個可造成 #damage%爆炸傷害，最多可攻擊#mobCount位敵人，可以#attackCount個爆炸"/>
+</imgdir>
+<imgdir name="4211007">
+<string name="name" value="黑暗殺"/>
+<string name="desc" value="在一定時間內召喚否定所有東西的達克魯的風魔手裏劍。風魔手裏劍在領域內，如有敵人試圖傷害自己和組隊成員，將會反射受到傷害。但敵人最大HP有一半以上的話無法反射。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內召喚達克魯的風魔手裏劍，反射傷害 #x%，再次使用的等待時間#cooltime秒"/>
+</imgdir>
+<imgdir name="4211008">
+<string name="name" value="影分身"/>
+<string name="desc" value="一定時間內召喚和自己作相同行動的影子同伴。沒有額外的的體力，召喚時間過了就會消失。"/>
+<string name="h" value="MP #mpCon，消耗1個召喚石，#time秒內召喚攻擊力 #x%的影子同伴 "/>
+</imgdir>
+<imgdir name="4211009">
+<string name="name" value="二段跳"/>
+<string name="desc" value="跳躍中使用時，可朝著前進方向多跳一次。技能等級上升，會增加跳躍距離。\n必要技能 : #c落葉斬5等級以上#"/>
+<string name="h" value="消耗MP #mpCon，一定距離跳躍"/>
+</imgdir>
+<imgdir name="4220002">
+<string name="name" value="瞬身迴避"/>
+<string name="desc" value="有一定機率可變身為木頭人，迴避敵人的攻擊。"/>
+<string name="h" value="#prop%迴避機率"/>
+</imgdir>
+<imgdir name="4220005">
+<string name="name" value="飛毒殺"/>
+<string name="desc" value="短劍上塗永久的毒。敵人以一定機率陷入中毒狀態，持續造成傷害。毒無法重覆使用，敵人的HP不會降至1以下。"/>
+<string name="h" value="攻擊時以#prop% 的機率，在#dotTime秒內，每 #dotInterval秒追加#dot% 傷害的持續傷害 "/>
+</imgdir>
+<imgdir name="4220009">
+<string name="name" value="格雷德"/>
+<string name="desc" value="修煉盜賊的秘笈，可增加楓幣獲得量。另外可快速提升活用楓幣所有技能的效率。"/>
+<string name="h" value="楓幣獲得量（怪物掉落） #mesoR%、勇者掠奪術楓幣掉落機率 #u%、楓幣護盾的傷害防禦比率#v%，依照楓幣護盾的傷害防禦、楓幣消耗率減少#w%、楓幣末日烈燄爆炸1個、傷害增加 #x%"/>
+</imgdir>
+<imgdir name="4221000">
+<string name="name" value="楓葉祝福"/>
+<string name="desc" value="在一定時間內將組隊成員的所有狀態屬性提升一定百分比。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內的所有狀態屬性 #x% 提升"/>
+</imgdir>
+<imgdir name="4221001">
+<string name="name" value="致命暗殺"/>
+<string name="desc" value="在隱身術狀態連續攻擊敵人要害4次，讓敵人造成傷害。最後一擊一定要造成致命攻擊，隱身時間越長，暗殺的傷害增加越多。"/>
+<string name="h" value="消耗MP #mpCon ，連續攻擊4次造成 #damage%，隱身術中#time秒可累積傷害"/>
+</imgdir>
+<imgdir name="4221003">
+<string name="name" value="挑釁"/>
+<string name="desc" value="最多對付6位敵人，並且敵人的防禦力上升和經驗值獲得量或道具掉落率增加。\n必要技能 : #c僞裝10級以上#"/>
+<string name="h" value="消耗MP #mpCon、敵人的防禦力、獲得經驗值、道具掉落率上升#x%"/>
+</imgdir>
+<imgdir name="4221004">
+<string name="name" value="忍影瞬殺"/>
+<string name="desc" value="叫出躲藏中的同伴，並讓同伴在一定時間內持續攻擊敵人。敵人的HP不會降至1以下，\n必要技能 :#c偽裝5級以上#"/>
+<string name="h" value="消耗MP #mpCon，以#damage% 傷害最多攻擊#mobCount位，持續時間 #time秒。"/>
+</imgdir>
+<imgdir name="4221006">
+<string name="name" value="煙幕彈"/>
+<string name="desc" value="在自己的周圍丟煙霧彈，在煙霧彈範圍內，所有組隊成員在一定時間內不會造成傷害。[再次使用等待時間: 6分鐘]"/>
+<string name="h" value="消耗MP #mpCon，持續#time秒"/>
+</imgdir>
+<imgdir name="4221007">
+<string name="name" value="瞬步連擊"/>
+<string name="desc" value="使用技能時，用快速度攻擊多個敵人兩次，以一定的機率讓他們昏迷。 可永久強化追加的瞬加連擊3次以下的所有攻擊技能。"/>
+<string name="h" value="活性效果 : 消耗MP #mpCon，對#mobCount名攻擊2次造成#damage%傷害， #prop% 機率會昏迷#time秒\n 被動效果 : 迴旋斬、鋼鐵、落葉斬、分身術的傷害會增加#damR%"/>
+</imgdir>
+<imgdir name="4221008">
+<string name="name" value="楓葉淨化　"/>
+<string name="desc" value="解除迷惑異常狀態。等級越高再次使用等待時間越短。"/>
+<string name="h" value="消耗MP #mpCon，再次使用等待時間#cooltime秒"/>
+</imgdir>
+<imgdir name="4300000">
+<string name="name" value="精準雙刀"/>
+<string name="desc" value="短劍和短刀系列武器的熟練度和命中率提升"/>
+<string name="h" value="短劍和短刀系列武器的熟練度#mastery%和命中率#x上升"/>
+</imgdir>
+<imgdir name="4301001">
+<string name="name" value="三重斬"/>
+<string name="desc" value="最多可快速攻擊2位敵人3次。\n必要技能 : #c劈空斬 10級以上#"/>
+<string name="h" value="消耗MP #mpCon，最多攻擊2位敵人3次，傷害#damage%"/>
+</imgdir>
+<imgdir name="4301002">
+<string name="name" value="神速雙刀"/>
+<string name="desc" value="消耗MP，在一定時間內攻擊速度上升2階段。\n必要技能 : #c精准雙刀5級以上#"/>
+<string name="h" value="消耗MP #mpCon，#time秒內攻擊速度提升"/>
+</imgdir>
+<imgdir name="4310004">
+<string name="name" value="影之抵抗"/>
+<string name="desc" value="利用黑暗的親和，永久增加最大 HP、狀態異常耐性、所有屬性耐性。"/>
+<string name="h" value="增加最大HP #mhpR%、狀態異常耐性#asrR%、所有屬性耐性#terR% "/>
+</imgdir>
+<imgdir name="4311001">
+<string name="name" value="自我速度激發"/>
+<string name="desc" value="在一定時間內使自己的移動速度和跳躍力增加。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內增加移動速度 #speed、增加跳躍力#jump "/>
+</imgdir>
+<imgdir name="4311002">
+<string name="name" value="分身斬"/>
+<string name="desc" value="以非常快的速度連續攻擊敵人。"/>
+<string name="h" value="消耗MP #mpCon，#damage% 傷害 #attackCount次攻擊"/>
+</imgdir>
+<imgdir name="4311003">
+<string name="name" value="狂刃風暴"/>
+<string name="desc" value="往前方移動，攻擊多數敵人。\n#c6級以上 :需要精通秘笈 #\n20級 效果 : #cⅢ+ 可熟練血雨暴風狂斬#"/>
+<string name="h" value="消耗MP #mpCon，以#damage% 傷害最多攻擊#mobCount名敵人2次"/>
+</imgdir>
+<imgdir name="4321000">
+<string name="name" value="雙刃旋"/>
+<string name="desc" value="快速衝鋒並以強力的迴旋攻擊，攻擊前方多個敵人。\n[瞬影衝擊: 方向鍵 #c→→# 或 #c←←#，迴旋攻擊 : #c衝鋒中攻擊鍵# 輸入]\n20級 效果 : 10級以上的飛翔落葉斬和連續技方可使用\n#c6級以上 : 需要精通秘笈#"/>
+<string name="h" value="消耗MP #mpCon，用 #x% 速度衝鋒，用迴旋攻擊對多可對 #v名敵人造成#u% 傷害"/>
+</imgdir>
+<imgdir name="4321001">
+<string name="name" value="瞬影衝擊"/>
+<string name="desc" value="快速衝鋒並以強力的迴旋攻擊，攻擊前方多個敵人。\n[瞬影衝擊: 方向鍵 #c→→# 或 #c←←#，迴旋攻擊 : #c衝鋒中攻擊鍵# 輸入]\n20級 效果 : 10級以上的飛翔落葉斬和連續技方可使用\n#c6級以上 : 需要精通秘笈#"/>
+<string name="h" value="消耗MP #mpCon，#d# 速度衝鋒，用迴旋攻擊最多可對 #mobCount名敵人造成#damage%傷害"/>
+</imgdir>
+<imgdir name="4321002">
+<string name="name" value="閃光彈"/>
+<string name="desc" value="丟閃光彈在一定時間內可阻擋多名敵人的視線，能減少敵人的命中率。"/>
+<string name="h" value="消耗MP #mpCon，傷害#damage%， #prop% 的機率#time秒內命中率減少 #x%，再次使用等待時間#cooltime秒"/>
+</imgdir>
+<imgdir name="4321003">
+<string name="name" value="二段跳"/>
+<string name="desc" value="跳躍中使用時，可朝著前進方向多跳一次。技能等級上升，會增加跳躍距離"/>
+<string name="h" value="消耗MP #mpCon，一定距離跳躍"/>
+</imgdir>
+<imgdir name="4330001">
+<string name="name" value="進階隱身術"/>
+<string name="desc" value="磨練隱身技術，讓自己在隱身狀態中也能攻擊，此時用一定機率讓自己在隱身下不要解除隱身技術。\n必要技能 : #c隱身術10級以上#"/>
+<string name="h" value="隱身術中攻擊時 #prop% 機率不解除隱身"/>
+</imgdir>
+<imgdir name="4331000">
+<string name="name" value="血雨暴風狂斬"/>
+<string name="desc" value="狂刃風暴的進階版本，能以更帥的動作，快速攻擊前方多個敵人。\n10級效果 : 10級飛翔落葉斬和連續技方可使用\n必要技能 : #c狂刃風暴20級以上#"/>
+<string name="h" value="消耗MP #mpCon，以#damage% 傷害最多攻擊#mobCount名敵人2次"/>
+</imgdir>
+<imgdir name="4331002">
+<string name="name" value="替身術"/>
+<string name="desc" value="在一定時間內召喚和自己相同樣子的分身，無需另外的體力，且會變成輔助攻擊的機能。在一部分技能中會限制效果。\n#c11級以上 : 需要精通秘笈#"/>
+<string name="h" value="消耗MP #mpCon，#time秒內召喚分身攻擊力#x%"/>
+</imgdir>
+<imgdir name="4331003">
+<string name="name" value="貓頭鷹召喚"/>
+<string name="desc" value="召喚貓頭鷹的精靈，試著秒殺敵人1名。秒殺敵人會隨一定攻擊次數，攻擊力會上升。只是在一部分技能當中，攻擊力上升效果會被限制。"/>
+<string name="h" value="消耗MP #mpCon，秒殺機率#prop%，秒殺時傷害 #y%獎勵 #x次，再次使用等待時間#cooltime秒"/>
+</imgdir>
+<imgdir name="4331004">
+<string name="name" value="躍空斬"/>
+<string name="desc" value="發動強力的劍氣，讓多個敵人飛向空中。如再攻擊在空中的敵人，可以追加傷害。 "/>
+<string name="h" value="消耗MP #mpCon ，最多讓 #mobCount名敵人傷害 #damage% 可攻擊#attackCount次，在空中狀態攻擊時追加傷害#x%"/>
+</imgdir>
+<imgdir name="4331005">
+<string name="name" value="翔空落葉斬"/>
+<string name="desc" value="在空中以對角線方式降落，可攻擊在範圍內的多個敵人，讓敵人以一定機率變成昏迷狀態。為了使用技能，需要120以上的跳躍力\n10級效果 : 20級雙刃旋，10級血雨暴風狂斬和連續技方可使用\n#c6級以上 : 需要精通秘笈#\n必要技能 : #自我速度激發20級以上#"/>
+<string name="h" value="消耗MP #mpCon，最多攻擊#mobCount位敵人2次傷害 #damage%，#prop% 機率在#time秒內昏迷"/>
+</imgdir>
+<imgdir name="4340001">
+<string name="name" value="飛毒殺-改"/>
+<string name="desc" value="短劍上擦永久的毒。敵人以一定機率陷入中毒狀態，持續造成傷害。毒無法重覆使用，敵人的HP不會降至1以下。\n#c11級以上 : 需要精通秘笈#"/>
+<string name="h" value="攻擊時以#prop% 的機率，在#dotTime秒內，每 #dotInterval秒追加#dot% 的持續傷害"/>
+</imgdir>
+<imgdir name="4341000">
+<string name="name" value="楓葉祝福"/>
+<string name="desc" value="在一定時間內將組隊成員的所有狀態屬性提升一定百分比。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內的所有狀態屬性 #x% 提升"/>
+</imgdir>
+<imgdir name="4341002">
+<string name="name" value="絕殺刃"/>
+<string name="desc" value="暫時會消耗大量的HP，可對多個敵人進行攻擊。技能級越高一部分攻擊技能的永久傷害增加越多，對敵人使用絕殺刃的話，在一定時間內，一部分攻擊技能的傷害會增加。"/>
+<string name="h" value="活性效果 : MP #mpCon，消耗HP #x%，傷害#damage%，最多 攻擊#mobCount名，#time秒內攻擊力增加#y%，再次使用等待時間#cooltime秒\n被動效果 : 永久的分身斬、狂刃風暴、雙刃旋、血雨暴風狂斬、躍空斬、翔空落葉斬的傷害增加 #damR%"/>
+</imgdir>
+<imgdir name="4341003">
+<string name="name" value="怪物大爆炸"/>
+<string name="desc" value="在1隻怪物上面貼啟爆符，並引發強力爆炸。啟爆符貼上後，過了一定時間後會爆炸，此時周圍怪物和施展者都會受到傷害。\n#c11級以上 : 需要精通秘笈#"/>
+<string name="h" value="消耗MP #mpCon，#time秒爆炸會傷害 #damage% ，再次使用等待時間#cooltime秒"/>
+</imgdir>
+<imgdir name="4341004">
+<string name="name" value="穢土轉生"/>
+<string name="desc" value="召喚前代隱忍殺手們的靈魂，15隻怪物以下可對敵人進行強力的攻擊。敵人在一定時間內持續會受到持續性(DOT)傷害。\n#c11級以上 : 需要精通秘笈#"/>
+<string name="h" value="消耗MP #mpCon，傷害#damage%，在#持續性(DOT)Time秒內每 #持續性(DOT)Interval秒有 #持續性(DOT)%的持續性(DOT)傷害，再次使用等待時間#cooltime秒"/>
+</imgdir>
+<imgdir name="4341005">
+<string name="name" value="隱．鎖煉地獄"/>
+<string name="desc" value="在隱身術中狀態引近1隻怪物，進行10連擊的攻擊。可追加會心一擊機率的使用，固定型的怪物，有使用範圍的限制。\n#c11級以上 : 需要精通秘笈#"/>
+<string name="h" value="消耗MP #mpCon，傷害#damage% 攻擊#attackCount次，追加會心一擊機率 #cr%"/>
+</imgdir>
+<imgdir name="4341006">
+<string name="name" value="幻影替身"/>
+<string name="desc" value="永久增加隱忍殺手的防禦力和迴避率。 另外使用技能時，以替身術召喚的分身作為替身。替身會集中攻擊敵人，並且抵擋敵人攻擊、保護本尊。替身術技能使用時才可用。\n#c11級以上 : 需要精通秘笈#\n必要技能 : #c替身術30級以上#"/>
+<string name="h" value="活性 效果 : 消耗MP #mpCon，#time秒內召喚HP #x的替身\n被動效果 : #er% 的機率能迴避敵人攻擊，增加物理防禦力 #pddR%，增加魔法防禦力 #mddR% "/>
+</imgdir>
+<imgdir name="4341007">
+<string name="name" value="荊棘特效"/>
+<string name="desc" value="在一定時間內賦予全體組隊成員找出敵人的弱點造成致命傷的能力。\n#c11級以上 :需要精通秘笈#"/>
+<string name="h" value="消耗MP #mpCon，#time秒內會心一擊機率 #x%，增加會心一擊最小傷害 #criticaldamageMin% "/>
+</imgdir>
+<imgdir name="4341008">
+<string name="name" value="楓葉淨化 "/>
+<string name="desc" value="解除迷惑異常狀態。等級越高再次使用等待時間越短。"/>
+<string name="h" value="消耗MP #mpCon，再次使用等待時間#cooltime秒"/>
+</imgdir>
+<imgdir name="5000000">
+<string name="name" value="極限迴避"/>
+<string name="desc" value="修煉盜賊的秘笈，命中率迴避永久性的增加"/>
+<string name="h" value="命中率#x、迴避 #y 增加"/>
+</imgdir>
+<imgdir name="5001000">
+<string name="name" value="終極祝福"/>
+<string name="desc" value="[最終等級:1]怪物的魔法效果無效，恢復包括自身在內周邊所有角色的狀態異常和HP。"/>
+<string name="h1" value="周邊角色狀態異常恢復，且HP恢復"/>
+</imgdir>
+<imgdir name="5001001">
+<string name="name" value="衝擊拳"/>
+<string name="desc" value="拳頭快速攻擊敵人。"/>
+<string name="h" value="消耗MP #mpCon，以#damage% 傷害最多攻擊#mobCount位 "/>
+</imgdir>
+<imgdir name="5001002">
+<string name="name" value="旋風斬"/>
+<string name="desc" value="跳躍後向後轉一圈，用腿攻擊多數的近距離敵人。"/>
+<string name="h" value="消耗MP #mpCon，#damage% 最大攻擊 #mobCount名"/>
+</imgdir>
+<imgdir name="5001003">
+<string name="name" value="雙子星攻擊　"/>
+<string name="desc" value="連續對敵人發射2發子彈。技能級越大，射程越遠。"/>
+<string name="h" value="消耗MP #mpCon，2次攻擊傷害#damage%，最大時距離 #range"/>
+</imgdir>
+<imgdir name="5001004">
+<string name="name" value="終極隱藏"/>
+<string name="desc" value="[最終等級:1]能隱藏自己，以免被別人看見。"/>
+<string name="h1" value="變成隱身狀態"/>
+</imgdir>
+<imgdir name="5001005">
+<string name="name" value="衝鋒"/>
+<string name="desc" value="連按兩下左右方向鍵中的一個，瞬間提升移動速度和跳躍力。[瞬影衝擊: 方向鍵 →→ 或 ←←] "/>
+<string name="h" value="消耗MP #mpCon，#time秒內移動速度 #x、跳躍力增加#y "/>
+</imgdir>
+<imgdir name="5001006">
+<string name="name" value="終極龍咆哮"/>
+<string name="desc" value="[最終等級:1]用巨大的龍的咆哮，攻擊15個以下的敵人。"/>
+<string name="h1" value="攻擊力1000%，攻擊範圍全屏"/>
+</imgdir>
+<imgdir name="5001007">
+<string name="name" value="終極瞬移"/>
+<string name="desc" value="[最終等級:1]使用方向鍵可以向各個方向做瞬間移動。"/>
+<string name="h1" value="空間移動，移動距離150"/>
+</imgdir>
+<imgdir name="5100001">
+<string name="name" value="精通指虎"/>
+<string name="desc" value="提升指虎系列武器的熟練度和命中率"/>
+<string name="h" value="指虎系列武器的熟練度#mastery%、命中率上升#x"/>
+</imgdir>
+<imgdir name="5100008">
+<string name="name" value="衝壓暴擊"/>
+<string name="desc" value="增加會心一擊機率和會心一擊 最小傷害"/>
+<string name="h" value="增加會心一擊攻擊機率 #cr% 和會心一擊最小傷害 #criticaldamageMin% "/>
+</imgdir>
+<imgdir name="5100009">
+<string name="name" value="HP增加"/>
+<string name="desc" value="透過鍛鍊身體永久的增加最大HP。"/>
+<string name="h" value="最大 HP #mhpR% 增加"/>
+</imgdir>
+<imgdir name="5101002">
+<string name="name" value="迴旋肘擊"/>
+<string name="desc" value="以滑動方式向後方移動，用手肘攻擊多數敵人，讓敵人呈現昏迷狀態。"/>
+<string name="h" value="消耗MP #mpCon，以 #damage% 傷害最多攻擊#mobCount位敵人"/>
+</imgdir>
+<imgdir name="5101003">
+<string name="name" value="昇龍拳"/>
+<string name="desc" value="用躍空剪對敵人連續攻擊兩次，讓敵人受到傷害，並且昏迷。"/>
+<string name="h" value="消耗MP #mpCon，以#damage% 傷害攻擊2次 "/>
+</imgdir>
+<imgdir name="5101004">
+<string name="name" value="狂暴衝擊　"/>
+<string name="desc" value="往前方大步突進，用充滿氣的拳頭攻擊多數敵人。"/>
+<string name="h" value="消耗MP #mpCon，用#damage% 傷害最多攻擊 #mobCount名敵人"/>
+</imgdir>
+<imgdir name="5101005">
+<string name="name" value="魔力再生"/>
+<string name="desc" value="消耗HP恢復MP。"/>
+<string name="h" value="消耗最大HP的 #x%，消耗HP#y%讓MP恢復，再次使用等待時間#cooltime秒"/>
+</imgdir>
+<imgdir name="5101006">
+<string name="name" value="致命快打"/>
+<string name="desc" value="消耗MP，在一定時間內指虎的攻擊速度上升2階段\n必要技能 : #c精通指虎5級以上#"/>
+<string name="h" value="消耗MP #mpCon，#time秒內指虎的攻擊速度提升"/>
+</imgdir>
+<imgdir name="5101007">
+<string name="name" value="偽裝術"/>
+<string name="desc" value="利用偽裝術偽裝。雖然可以移動，不被怪物攻擊，但偶爾會被發現。趴在地上的話，與真的偽裝術一樣，可減少被發現的機率。"/>
+<string name="h" value="消耗MP #mpCon ，#time秒內用偽裝術偽裝。#prop% 機率會被發現，再次使用等待時間#cooltime秒"/>
+</imgdir>
+<imgdir name="5110000">
+<string name="name" value="致命暗襲"/>
+<string name="desc" value="攻擊昏迷狀態的敵人時，能增加會心一擊的攻擊機率。"/>
+<string name="h" value="攻擊昏迷狀態的敵人時，能增加會心一擊機率 #prop%。"/>
+</imgdir>
+<imgdir name="5110001">
+<string name="name" value="蓄能激發"/>
+<string name="desc" value="每次攻擊的時候都累積一定量的能量。能量累積完畢後，以一定機率發動強化攻擊效果和格檔效果，並可以使用消耗能量的技能。"/>
+<string name="h" value="攻擊時補充#x的能量，蓄能激發發動時 #time秒內命中率#acc、迴避 #eva、物理攻擊力增加 #pad、強化攻擊#damage%的傷害、#prop% 機率不會震退。"/>
+</imgdir>
+<imgdir name="5110008">
+<string name="name" value="精通近身戰"/>
+<string name="desc" value="增加迴旋肘擊、昇龍拳、狂暴衝擊的傷害。"/>
+<string name="h" value="迴旋肘擊的傷害 +#x%、昇龍拳一拳傷害+#y%、狂暴衝擊的傷害+#z%"/>
+</imgdir>
+<imgdir name="5111002">
+<string name="name" value="能量暴擊　"/>
+<string name="desc" value="使能量爆炸，攻擊附近多數的敵人。 #c能量蓄滿#的狀態中方可使用，能讓敵人在一定機率昏迷。\n必要技能 : #c蓄能激發 1級以上#"/>
+<string name="h" value=" 消耗MP #mpCon，用#damage% 傷害最多攻擊#mobCount位敵人，#prop%機率#timee秒內昏迷"/>
+</imgdir>
+<imgdir name="5111004">
+<string name="name" value="損人利己"/>
+<string name="desc" value="能量爆炸攻擊附近的多數敵人。 #c能量蓄滿#的狀態才能使用。\n必要技能 : #c蓄能激發 1等級以上#"/>
+<string name="h" value="傷害#damage% ，傷害的 #x%用HP吸收"/>
+</imgdir>
+<imgdir name="5111005">
+<string name="name" value="鬥神附體"/>
+<string name="desc" value="變身成鬥神狀態180秒，變成鬥神狀態時，一部分技能無法使用。\n[使用限制技能 : 雙子星攻擊、偽裝術、閃‧爆破，閃‧索命]"/>
+<string name="h" value="消耗MP #mpCon，#time秒內變身為鬥神，物理攻擊力 #epad、物理防禦力 #epdd、魔法防禦力 #emdd、移動速度 #speed、跳躍力#jump 增加，再次使用等待時間#cooltime秒"/>
+</imgdir>
+<imgdir name="5111006">
+<string name="name" value="衝擊波"/>
+<string name="desc" value="以強大力量敲擊地面，利用衝擊波對多數敵人造成傷害。#c但只在鬥神附體、鬥神降世# 狀態時方可使用。\n必要技能 : #c鬥神附體 1級以上#"/>
+<string name="h" value=" 消耗MP #mpCon，用#damage% 傷害最多攻擊#mobCount位敵人 "/>
+</imgdir>
+<imgdir name="5111007">
+<string name="name" value="幸運骰子"/>
+<string name="desc" value="擲骰子試試自己的運氣。隨著骰子點數的不同，可在一定時間內獲得隨機的加持，但出現1點的時候，不會有任何東西。"/>
+<string name="h" value="消耗MP #mpCon，骰子加持時間 #time持續秒，再次使用等待時間#cooltime秒"/>
+</imgdir>
+<imgdir name="5120011">
+<string name="name" value="反擊"/>
+<string name="desc" value="被攻擊時瞬間傷害會上升。技能級越高，持續時間增加越多。反擊效果50秒只能發動1次。"/>
+<string name="h" value="被攻擊時#prop% 機率在 #time秒內傷害增加 #damR%"/>
+</imgdir>
+<imgdir name="5121000">
+<string name="name" value="楓葉祝福"/>
+<string name="desc" value="在一定時間內將組隊成員的所有狀態屬性提升一定百分比。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內的所有狀態屬性 #x% 提升"/>
+</imgdir>
+<imgdir name="5121001">
+<string name="name" value="魔龍降臨"/>
+<string name="desc" value="喚醒睡在大地懷中的魔龍魂，讓多名敵人受到傷害。"/>
+<string name="h" value=" 消耗MP #mpCon，用#damage% 傷害最多攻擊#mobCount位敵人 "/>
+</imgdir>
+<imgdir name="5121002">
+<string name="name" value="元氣彈"/>
+<string name="desc" value="將蓄滿的能量一部分釋放出來攻擊敵人。用元氣彈攻擊周圍的敵人，追加他們受到傷害。 #c能量蓄滿的#狀態時才能使用。\n必要技能 : #c蓄能激發1級以上#"/>
+<string name="h" value=" #damage% 傷害，最多攻擊 #mobCount名敵人"/>
+</imgdir>
+<imgdir name="5121003">
+<string name="name" value="鬥神降世"/>
+<string name="desc" value="180秒內完全變身為鬥神狀態。在完全的鬥神狀態時，有一部分技能無法使用。\n[使用限制技能 : 雙子星攻擊、偽裝術]\n必要技能 : #c鬥神附體20級以上#"/>
+<string name="h" value="消耗MP #mpCon，#time秒內變身為完全的鬥神，物理攻擊力 #epad、物理防禦力 #epdd、魔法防禦力 #emdd、移動速度 #speed、跳躍力#jump 增加、 再次使用等待時間#cooltime秒"/>
+</imgdir>
+<imgdir name="5121004">
+<string name="name" value="閃．爆破"/>
+<string name="desc" value="以看不見的快速度連續攻擊敵人。不要太在意敵人的物理防禦力#c鬥神降世# 狀態時方可使用。\n必要技能 : #c鬥神降世1級以上#"/>
+<string name="h" value="消耗MP #mpCon ，#damage% 傷害，攻擊#attackCount次，不要在意敵人的物理防禦力 #ignoreMobpdpR%"/>
+</imgdir>
+<imgdir name="5121005">
+<string name="name" value="閃．索命"/>
+<string name="desc" value="把遠方的敵人引來自己的面前加以傷害。只有在#c鬥神降世# 狀態時方可使用。\n必要技能 : #c鬥神降世1級以上#"/>
+<string name="h" value="消耗MP #mpCon，#damage% 傷害，最多攻擊 #mobCount名敵人，#time秒內昏迷"/>
+</imgdir>
+<imgdir name="5121007">
+<string name="name" value="閃．連殺"/>
+<string name="desc" value="快速攻擊敵人6次，攻擊完敵人會呈現昏迷狀態。"/>
+<string name="h" value="消耗MP #mpCon，#damage% 傷害，攻擊#attackCount次"/>
+</imgdir>
+<imgdir name="5121008">
+<string name="name" value="楓葉淨化　"/>
+<string name="desc" value="解除迷惑異常狀態。等級越高再次使用等待時間越短。"/>
+<string name="h" value="消耗MP #mpCon，再次使用等待時間#cooltime秒"/>
+</imgdir>
+<imgdir name="5121009">
+<string name="name" value="最終極速"/>
+<string name="desc" value="消耗HP、MP，一定時間內組隊成員全員的攻擊速度會上升2階段。可與已有的重覆使用。\n必要技能 : #c致命快打20級以上#"/>
+<string name="h" value="消耗HP #hpCon、MP #mpCon，#time秒內攻擊速度提升"/>
+</imgdir>
+<imgdir name="5121010">
+<string name="name" value="時間置換"/>
+<string name="desc" value="包含自己的全部隊員使用的所有技能的再次使用等待時間初始化。但時間置換技能的再次使用等待時間無法初始化。"/>
+<string name="h" value="消耗MP #mpCon ，再次使用等待時間#x分"/>
+</imgdir>
+<imgdir name="5200000">
+<string name="name" value="精通槍法"/>
+<string name="desc" value="增加槍系列武器的熟練度和命中率，還有子彈數量。"/>
+<string name="h" value="槍系列武器的熟練度增加#mastery%、命中率#x上升、子彈數 #y 增加"/>
+</imgdir>
+<imgdir name="5200007">
+<string name="name" value="會心一擊-改"/>
+<string name="desc" value="增加會心一擊機率和會心一擊最小傷害"/>
+<string name="h" value="增加會心一擊攻擊機率 #cr% 和會心一擊最小傷害 #criticaldamageMin% "/>
+</imgdir>
+<imgdir name="5201001">
+<string name="name" value="散射"/>
+<string name="desc" value="以眼睛看不見的速度向3名敵人開槍。"/>
+<string name="h" value="消耗MP #mpCon，攻擊3名敵人，傷害#damage% "/>
+</imgdir>
+<imgdir name="5201002">
+<string name="name" value="炸彈投擲"/>
+<string name="desc" value="集中一次攻擊多個敵人，投擲炸彈讓敵人持續受到傷害。按下技能鍵，在一定時間內，射程距離會比例式增加。"/>
+<string name="h" value="消耗MP #mpCon，#damage% 傷害，最多攻擊#mobCount名敵人，#dotTime秒內每 #dotInterval秒持續傷害#dot%"/>
+</imgdir>
+<imgdir name="5201003">
+<string name="name" value="迅雷再起"/>
+<string name="desc" value="消耗MP，在一定時間內槍的攻擊速度上升2階段。\n必要技能 : #c槍精通5級以上#"/>
+<string name="h" value="消耗MP #mpCon，#time秒內槍的攻擊速度提升"/>
+</imgdir>
+<imgdir name="5201004">
+<string name="name" value="偽裝射擊"/>
+<string name="desc" value="假裝開槍然後發射旗子，讓多名敵人慌張無法動彈。"/>
+<string name="h" value="消耗MP #mpCon，#damage% 傷害，最多攻擊 #mobCount名敵人， #prop% 機率在 #time秒內昏迷"/>
+</imgdir>
+<imgdir name="5201005">
+<string name="name" value="緩降術"/>
+<string name="desc" value="比起基本跳躍，來個待在空中較長時間的長跳躍。"/>
+<string name="h" value="消耗MP #mpCon，掉下速度 #x"/>
+</imgdir>
+<imgdir name="5201006">
+<string name="name" value="脫離戰場"/>
+<string name="desc" value="緊急朝後迴避後開槍。\n必要技能 : #c緩降術5級以上#"/>
+<string name="h" value="消耗MP #mpCon，以#damage% 傷害最多攻擊#mobCount位 "/>
+</imgdir>
+<imgdir name="5210000">
+<string name="name" value="3連發"/>
+<string name="desc" value="使用2連發時，子彈的數目會增加1個，攻擊力會上升。\n必要技能 : #c雙子星攻擊20級#"/>
+<string name="h" value="消耗MP #mpCon，攻擊3次#damage% 傷害，最大時距離 350"/>
+</imgdir>
+<imgdir name="5211001">
+<string name="name" value="章魚砲台"/>
+<string name="desc" value="召喚攻擊支援用的章魚狙擊手。召喚的章魚不會移動，會在原地攻擊敵人。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內召喚#damage% 攻擊力的章魚，再次使用等待時間#cooltime秒"/>
+</imgdir>
+<imgdir name="5211002">
+<string name="name" value="海鷗突擊隊"/>
+<string name="desc" value="召喚訓練過的海鷗突擊隊向敵人丟炸彈。海鷗突擊隊發現敵人丟出炸彈後就會消失。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內召喚 #damage% 攻擊力的海鷗突擊隊，再次使用等待時間#cooltime秒"/>
+</imgdir>
+<imgdir name="5211004">
+<string name="name" value="火焰噴射"/>
+<string name="desc" value="向前方的敵人噴出火燄。敵人在一定時間內會持續受到持續性(DOT)傷害。"/>
+<string name="h" value="消耗MP #mpCon，#damage% 傷害，最多攻擊#mobCount名， #dotTime秒內每 #dotInterval秒持續 #dot%的傷害"/>
+</imgdir>
+<imgdir name="5211005">
+<string name="name" value="寒霜噴射"/>
+<string name="desc" value="向前方的敵人發射凍氣，敵人在一定時間內會結冰。"/>
+<string name="h" value="消耗MP #mpCon ，#damage% 傷害，最多攻擊 #mobCount， #time秒內結冰"/>
+</imgdir>
+<imgdir name="5211006">
+<string name="name" value="指定攻擊"/>
+<string name="desc" value="為了能夠集中射擊，鸚鵡會飛向敵人，之後自己所有的攻擊，會集中在鸚鵡飛向的敵人身上。"/>
+<string name="h" value="消耗MP #mpCon，以#damage% 傷害最多攻擊#mobCount位 "/>
+</imgdir>
+<imgdir name="5211007">
+<string name="name" value="幸運骰子"/>
+<string name="desc" value="擲骰子試試自己的運氣。隨著骰子點數的不同，可在一定時間內獲得隨機的加持，但出現1點的時候，不會有任何東西。"/>
+<string name="h" value="消耗MP #mpCon，骰子加持時間 #time持續秒，再次使用等待時間#cooltime秒"/>
+</imgdir>
+<imgdir name="5220001">
+<string name="name" value="瞬‧冰火連擊"/>
+<string name="desc" value="火燄噴射和寒霜噴射的傷害和各種效果提升。"/>
+<string name="h" value="消耗MP #mpCon，火燄噴射和寒霜噴射的傷害增加 #damage% ，火燄噴射 持續性(DOT)傷害增加 #x%，寒霜噴射結冰持續時間增加 #y秒"/>
+</imgdir>
+<imgdir name="5220002">
+<string name="name" value="砲台章魚王"/>
+<string name="desc" value="追加召喚1隻三眼章魚，全部的火力會上升。\n必要技能 : #c章魚砲台30級#"/>
+<string name="h" value="消耗MP #mpCon， #time秒內召喚#damage% 攻擊力的章魚，再次使用等待時間#cooltime秒"/>
+</imgdir>
+<imgdir name="5220011">
+<string name="name" value="精準砲擊"/>
+<string name="desc" value="增加指定攻擊的傷害。另外指定攻擊中的怪物攻擊時，能夠增加更大的傷害。\n必要技能 : #c指定攻擊20級#"/>
+<string name="h" value="消耗MP #mpCon ，#damage% 傷害，指定攻擊中的怪物攻擊時 傷害增加 #x%"/>
+</imgdir>
+<imgdir name="5220012">
+<string name="name" value="反擊"/>
+<string name="desc" value="被攻擊時瞬間傷害會上升。技能級越高，持續時間增加越多。反擊效果50秒只能發動1次。"/>
+<string name="h" value="被攻擊時#prop% 機率在 #time秒內傷害增加 #damR%"/>
+</imgdir>
+<imgdir name="5221000">
+<string name="name" value="楓葉祝福"/>
+<string name="desc" value="在一定時間內將組隊成員的所有狀態屬性提升一定百分比。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內的所有狀態屬性 #x% 提升"/>
+</imgdir>
+<imgdir name="5221003">
+<string name="name" value="海鷗特戰隊"/>
+<string name="desc" value="向海鷗突擊隊多個敵人丟炸彈。\n必要技能 : #c海鷗突擊隊15級以上#"/>
+<string name="h" value="消耗MP #mpCon，#damage% 傷害，最多攻擊10隻怪物。再次使用等待時間#cooltime秒"/>
+</imgdir>
+<imgdir name="5221004">
+<string name="name" value="瞬‧迅雷"/>
+<string name="desc" value="用快速度開槍，按住技能鍵能夠連發。\n必要技能 : #c3連發20級以上#"/>
+<string name="h" value="消耗MP #mpCon ，1發傷害 #damage% "/>
+</imgdir>
+<imgdir name="5221006">
+<string name="name" value="海盜船"/>
+<string name="desc" value="搭海盜船，搭船時能使用的技能受到限制，受到傷害的耐久度減少。耐久度為0時，在一定時間內無法搭乘。\n[使用技能 : 海盜船專用技能、炸彈投擲、迅雷再起、火燄噴射、寒霜噴射、海鷗突擊隊、三眼章魚、楓葉祝福、楓葉淨化]"/>
+<string name="h" value="消耗MP #mpCon，物理攻擊力 #epad、最大HP #emhp、最大 MP #emmp、物理防禦力 #epdd、魔法防禦力 #emdd 增加、耐久度全部消失時，再次使用等待時間#cooltime秒"/>
+</imgdir>
+<imgdir name="5221007">
+<string name="name" value="海盜加農炮"/>
+<string name="desc" value="連續發射炸彈。只有在搭海盜船時方可使用的技能，追加會心一擊的機率。\n必要技能 : #c海盜船 1級以上#"/>
+<string name="h" value="消耗MP #mpCon，#damage% 傷害，攻擊#bulletCount次，追加會心一擊機率 #cr%"/>
+</imgdir>
+<imgdir name="5221008">
+<string name="name" value="海盜魚雷"/>
+<string name="desc" value="發射能攻擊多名敵人的強化炸彈。只有在搭海盜船時方可使用的技能。\n必要技能 : #c海盜船 1級以上#"/>
+<string name="h" value=" 消耗MP #mpCon，用#damage% 傷害最多攻擊#mobCount位敵人 "/>
+</imgdir>
+<imgdir name="5221009">
+<string name="name" value="心靈控制"/>
+<string name="desc" value="支配敵人的精神，在一定時間內無法攻擊自己，而會攻擊其他敵人。"/>
+<string name="h" value="消耗MP #mpCon，#prop% 機率在 #time秒內心靈控制"/>
+</imgdir>
+<imgdir name="5221010">
+<string name="name" value="楓葉淨化　"/>
+<string name="desc" value="解除媚惑異常狀態。等級越高再次使用等待時間越短。"/>
+<string name="h" value="消耗MP #mpCon，再次使用等待時間#cooltime秒"/>
+</imgdir>
+<imgdir name="8001000">
+<string name="name" value="測謊機"/>
+<string name="desc" value="[等級上限：1]\n對懷疑?使用不當程式進行遊戲的角色執行測謊機。"/>
+<string name="h1" value="逮個正著！"/>
+</imgdir>
+<imgdir name="8001001">
+<string name="name" value="瞬間移動"/>
+<string name="desc" value="[等級上限：1]\n利用上、下、左、右方向鍵可以移動到同一地圖上一定間隔的位置上。"/>
+<string name="h1" value="瞬間移動，移動距離150"/>
+</imgdir>
+<imgdir name="9001000">
+<string name="name" value="終極祝福"/>
+<string name="desc" value="[最終等級:1]怪物的魔法效果無效，恢復包括自身在內周邊所有角色的狀態異常和HP。"/>
+<string name="h1" value="周邊角色狀態異常恢復，且HP恢復"/>
+</imgdir>
+<imgdir name="9001001">
+<string name="name" value="終極輕功"/>
+<string name="desc" value="[最終等級:1]一定時間內增加周邊角色的移動力和彈跳力。"/>
+<string name="h1" value="持續30分鐘，增加移動速度40， 彈跳力20"/>
+</imgdir>
+<imgdir name="9001002">
+<string name="name" value="終極祈禱"/>
+<string name="desc" value="[最終等級:1]一定時間內大幅增加周邊角色的打怪經驗值。"/>
+<string name="h1" value="持續30分鐘，獲得經驗值提高到原來的150%"/>
+</imgdir>
+<imgdir name="9001003">
+<string name="name" value="終極祝福"/>
+<string name="desc" value="[最終等級:1]一定時間內大幅增加周邊角色的各項能力值。"/>
+<string name="h1" value="持續30分鐘，攻擊力和魔力 +20, 其餘能力值 +100"/>
+</imgdir>
+<imgdir name="9001004">
+<string name="name" value="終極隱藏"/>
+<string name="desc" value="[最終等級:1]能隱藏自己，以免被別人看見。"/>
+<string name="h1" value="變成隱身狀態"/>
+</imgdir>
+<imgdir name="9001005">
+<string name="name" value="復活"/>
+<string name="desc" value="[最終等級:1]復活周邊已經死亡的角色。"/>
+<string name="h1" value="復活周邊死亡的角色"/>
+</imgdir>
+<imgdir name="9001006">
+<string name="name" value="終極龍咆哮"/>
+<string name="desc" value="[最終等級:1]用巨大的龍的咆哮，攻擊15個以下的敵人。"/>
+<string name="h1" value="攻擊力1000%，攻擊範圍全屏"/>
+</imgdir>
+<imgdir name="9001007">
+<string name="name" value="終極瞬移"/>
+<string name="desc" value="[最終等級:1]使用方向鍵可以向各個方向做瞬間移動。"/>
+<string name="h1" value="空間移動，移動距離150"/>
+</imgdir>
+<imgdir name="9001008">
+<string name="name" value="hyper body"/>
+<string name="desc" value="[最終等級:1]\n15min Max HP, Max MP增加."/>
+<string name="h1" value="Max HP, Max MP 60% 增加."/>
+</imgdir>
+<imgdir name="9001009">
+<string name="name" value="測謊機"/>
+<string name="desc" value="[等級上限：1]\n對懷疑?使用不當程式進行遊戲的角色執行測謊機。"/>
+<string name="h1" value="逮個正著！"/>
+</imgdir>
+<imgdir name="10000012">
+<string name="name" value="精靈的祝福"/>
+<string name="desc" value="聯繫之角色等級每提高10級增加1點技能點數。"/>
+<string name="h" value="物理攻擊力 #x、魔法攻擊力 #y、命中率、迴避率 #z 上升。"/>
+</imgdir>
+<imgdir name="10000013">
+<string name="name" value="額外的幫手"/>
+<string name="desc" value="在一定時間內增加傷害。"/>
+<string name="h1" value="幫手"/>
+</imgdir>
+<imgdir name="10000018">
+<string name="name" value="寵物達人"/>
+<string name="desc" value="[最高等級：1]可攜帶多隻寵物，最多攜帶3隻"/>
+</imgdir>
+<imgdir name="10001000">
+<string name="name" value="嫩寶丟擲術"/>
+<string name="desc" value="[等級上限：3]\n投擲蝸牛殼攻擊遠距離敵人。"/>
+<string name="h1" value="消耗MP3，傷害10"/>
+<string name="h2" value="消耗MP5，傷害25"/>
+<string name="h3" value="消耗MP7，傷害40"/>
+</imgdir>
+<imgdir name="10001001">
+<string name="name" value="恢復"/>
+<string name="desc" value="[等級上限：3]\n在30秒內，持續恢復自身HP。\n#c再次使用等待時間：2分鐘#"/>
+<string name="h1" value="消耗MP5，30秒內恢復HP24"/>
+<string name="h2" value="消耗MP10，30秒內恢復HP48"/>
+<string name="h3" value="消耗MP15，30秒內恢復HP72"/>
+</imgdir>
+<imgdir name="10001002">
+<string name="name" value="疾風之步"/>
+<string name="desc" value="[等級上限：3]\n瞬間內快速移動。\n#c再次使用等待時間：1分鐘#"/>
+<string name="h1" value="消耗MP4，4秒內提升移動速度10"/>
+<string name="h2" value="消耗MP7，8秒內提升移動速度15"/>
+<string name="h3" value="消耗MP10，12秒內提升移動速度20"/>
+</imgdir>
+<imgdir name="10001003">
+<string name="name" value="神匠之魂"/>
+<string name="desc" value="[等級上限：1]\n借助神匠之魂，在無法裝備的道具上也能使用卷軸。"/>
+</imgdir>
+<imgdir name="10001004">
+<string name="name" value="怪物騎乘"/>
+<string name="desc" value="[等級上限：1]\n可騎乘馴養的怪物進行移動。"/>
+</imgdir>
+<imgdir name="10001005">
+<string name="name" value="英雄的回響"/>
+<string name="desc" value="[等級上限：1]\n使周圍所有玩家的物理攻擊力與魔法攻擊力得到增加。\n#c再次使用等待時間：2小時#"/>
+<string name="h1" value="消耗MP30，40分鐘內提升物理攻擊力、魔法攻擊力2%"/>
+</imgdir>
+<imgdir name="10001006">
+<string name="name" value="向下跳躍"/>
+<string name="desc" value="[等級上限：1]\n往向下方跳躍。"/>
+<string name="h1" value="向下跳躍"/>
+</imgdir>
+<imgdir name="10001007">
+<string name="name" value="強化合成"/>
+<string name="desc" value="[等級上限：3]\n利用煉金術可以製作物品。根據自身等級不同，能夠製作的物品也不同。"/>
+<string name="h1" value="可以製作75級以下物品"/>
+<string name="h2" value="可以製作105級以下物品"/>
+<string name="h3" value="可以製作135級以下物品"/>
+</imgdir>
+<imgdir name="10001009">
+<string name="name" value="竹竿天擊"/>
+<string name="desc" value="使用青竹進行攻擊"/>
+<string name="h1" value="怪物的體力減少30%"/>
+</imgdir>
+<imgdir name="10001010">
+<string name="name" value="金剛不壞"/>
+<string name="desc" value="一定時間內處於無敵狀態"/>
+<string name="h1" value="30秒內無敵"/>
+</imgdir>
+<imgdir name="10001011">
+<string name="name" value="地火天爆"/>
+<string name="desc" value="一定時間內增加傷害"/>
+<string name="h1" value="30秒內傷害100%增加"/>
+</imgdir>
+<imgdir name="10001014">
+<string name="name" value="宇宙船"/>
+<string name="desc" value="[等級上限 : 2]\n乘坐宇宙船。#c有效期限：2010年8月11日12點#"/>
+<string name="h1" value="消耗MP10，增加物理、魔法防禦力10、移動速度150、彈跳力120"/>
+<string name="h2" value="消耗MP10，增加物理、魔法防禦力20、移動速度170、彈跳力120"/>
+</imgdir>
+<imgdir name="10001015">
+<string name="name" value="宇宙衝鋒"/>
+<string name="desc" value="[最高等級:10]\n雙擊左右方向鍵中的一個，瞬間提高移動速度和彈跳力。#c有效期限：2009年X月X日XX點#"/>
+</imgdir>
+<imgdir name="10001016">
+<string name="name" value="宇宙光束"/>
+<string name="desc" value="可改變宇宙礦山裡的樹叢形態。#c有效期限：2009年X月X日XX點#"/>
+</imgdir>
+<imgdir name="10001017">
+<string name="name" value="低等級怪物騎乘"/>
+<string name="desc" value="[最高等級 : 1]擁有低等級騎寵時，可以進行低等級寵物的騎乘。"/>
+</imgdir>
+<imgdir name="10001019">
+<string name="name" value="雪吉拉騎士"/>
+<string name="desc" value="[等級上限 : 1]\n可以騎雪吉拉移動。\n#c有效期間：2010年8月18日12點#"/>
+<string name="h1" value="消耗MP10，物理，魔法防禦增加10，移動速度120，跳躍力120"/>
+</imgdir>
+<imgdir name="10001020">
+<string name="name" value="法老的憤怒攻擊"/>
+<string name="desc" value="[等級上限 : 1]\n使用法老的憤怒攻擊。"/>
+<string name="h1" value="一擊清除在金字塔內所有怪物攻擊"/>
+</imgdir>
+<imgdir name="10001022">
+<string name="name" value="雪吉拉騎士"/>
+<string name="desc" value="[精通等級：1]\n可騎乘雪吉拉移動。"/>
+<string name="h1" value="消耗MP10，物理及魔法防禦力增加10，移動速度增加120，躍力增加 120"/>
+</imgdir>
+<imgdir name="10001023">
+<string name="name" value="魔女的掃把"/>
+<string name="desc" value="[精通等級：1]\n可騎乘魔女掃把移動。"/>
+<string name="h1" value="消耗MP10，物理及魔法防禦力增加10，移動速度增加120，躍力增加 120"/>
+</imgdir>
+<imgdir name="10001025">
+<string name="name" value="突擊！木馬"/>
+<string name="desc" value="[精通等級：1]\n可騎乘木馬移動。"/>
+<string name="h1" value="消耗MP10，物理及魔法防禦力增加10，移動速度增加120，躍力增加 120"/>
+</imgdir>
+<imgdir name="10001026">
+<string name="name" value="飛翔"/>
+<string name="desc" value="[等級上限 : 1]\n使用龍族的神秘的力量可以飛上天空。但是墜落時受到的降落傷害相當大。\n發動時消耗MP 90，維持飛翔狀態時每秒消耗1 MP。"/>
+<string name="h1" value="消耗MP 90，使用飛翔技能。每1秒消耗1 MP "/>
+</imgdir>
+<imgdir name="10001027">
+<string name="name" value="黑鱷魚"/>
+<string name="desc" value="[精通等級：1]\n可騎乘黑鱷魚移動。"/>
+<string name="h1" value="消耗MP10，物理及魔法防禦力增加10，移動速度增加140，躍力增加 120"/>
+</imgdir>
+<imgdir name="10001028">
+<string name="name" value="街車"/>
+<string name="desc" value="[精通等級：1]\n可騎乘街車移動。"/>
+<string name="h1" value="消耗MP10，物理及魔法防禦力增加10，移動速度增加140，躍力增加 120"/>
+</imgdir>
+<imgdir name="10001029">
+<string name="name" value="粉紅速克達"/>
+<string name="desc" value="[精通等級：1]\n可騎乘粉紅速克達移動。"/>
+<string name="h1" value="消耗MP10，物理及魔法防禦力增加10，移動速度增加140，躍力增加 120"/>
+</imgdir>
+<imgdir name="10001030">
+<string name="name" value="筋斗雲"/>
+<string name="desc" value="[精通等級：1]\n可騎乘筋斗雲移動。"/>
+<string name="h1" value="消耗MP10，物理及魔法防禦力增加10，移動速度增加140，躍力增加 120"/>
+</imgdir>
+<imgdir name="10001031">
+<string name="name" value="巴洛古"/>
+<string name="desc" value="[精通等級：1]\n可騎乘巴洛古移動。"/>
+<string name="h1" value="消耗MP10，物理及魔法防禦力增加10，移動速度增加140，躍力增加 120"/>
+</imgdir>
+<imgdir name="10001033">
+<string name="name" value="경주용 카트"/>
+<string name="desc" value="[마스터 레벨 : 1]\n경주용 카트를 타고 이동할 수 있다."/>
+<string name="h1" value="MP 10 소비, 물리, 마법 방어력 10 증가, 이동속도 140, 점프력 120"/>
+</imgdir>
+<imgdir name="10001034">
+<string name="name" value="ZD 타이거"/>
+<string name="desc" value="[마스터 레벨 : 1]\nZD 타이거를 타고 이동할 수 있다."/>
+<string name="h1" value="MP 10 소비, 물리, 마법 방어력 10 증가, 이동속도 140, 점프력 120"/>
+</imgdir>
+<imgdir name="10001035">
+<string name="name" value="미스트 발록"/>
+<string name="desc" value="[마스터 레벨 : 1]\n미스트 발록을 타고 이동할 수 있다."/>
+<string name="h1" value="MP 10 소비, 물리, 마법 방어력 10 증가, 이동속도 140, 점프력 120"/>
+</imgdir>
+<imgdir name="10001042">
+<string name="name" value="神鳥"/>
+<string name="desc" value="[等級上限: 1]\n可騎乘神鳥移動。"/>
+<string name="h1" value="使用時消耗MP10，同時增加物理、魔法防禦力10，變更移動速度為140%，跳躍力為120%。"/>
+</imgdir>
+<imgdir name="10001044">
+<string name="name" value="菇菇寶貝"/>
+<string name="desc" value="[等級上限 : 1]\n可騎菇菇寶貝移動"/>
+<string name="h1" value="消耗MP 10 ，物理、魔法防禦力 10 增加，移動速度 140、 跳躍力 120"/>
+</imgdir>
+<imgdir name="10001049">
+<string name="name" value="夢魘"/>
+<string name="desc" value="[等級上限 : 1]\n出現在地獄中的夢魘；可騎乘夢魘移動。"/>
+<string name="h1" value="消耗MP 10，物理、魔法防禦力增加10、移動速度 170、跳躍力120"/>
+</imgdir>
+<imgdir name="10001050">
+<string name="name" value="雪吉拉"/>
+<string name="desc" value="[等級上限 : 1]\n可騎雪吉拉移動。"/>
+<string name="h1" value="消耗MP 10，物理、魔法防禦力增加10、移動速度 170、跳躍力120"/>
+</imgdir>
+<imgdir name="10001051">
+<string name="name" value="鴕鳥"/>
+<string name="desc" value="[等級上限 : 1]\n跑得最快的鳥，可騎鴕鳥移動。"/>
+<string name="h1" value="消耗MP 10，物理、魔法防禦力增加10、移動速度 170、跳躍力120"/>
+</imgdir>
+<imgdir name="10001052">
+<string name="name" value="粉紅熊熱氣球"/>
+<string name="desc" value="[等級上限 : 1]\n可搭乘粉紅熊熱氣球移動。"/>
+<string name="h1" value="消耗MP 10，物理、魔法防禦力增加10、移動速度 170、跳躍力120"/>
+</imgdir>
+<imgdir name="10001053">
+<string name="name" value="鬥神機器人"/>
+<string name="desc" value="[等級上限 : 1]\n可騎鬥神機器人移動。"/>
+<string name="h1" value="消耗MP 10，物理、魔法防禦力增加10、移動速度 170、跳躍力120"/>
+</imgdir>
+<imgdir name="10001063">
+<string name="name" value="摩托車騎士"/>
+<string name="desc" value="[等級上限 : 1]\n可騎摩托車移動。"/>
+<string name="h1" value="消耗MP10，物理、魔法防禦力10增加、移動速度140、跳躍力120。"/>
+</imgdir>
+<imgdir name="10001064">
+<string name="name" value="力量套裝"/>
+<string name="desc" value="[等級上限 : 1]\n穿上力量套裝可移動。"/>
+<string name="h1" value="消耗MP10，物理、魔法防禦力10增加、移動速度140、跳躍力120。"/>
+</imgdir>
+<imgdir name="10001069">
+<string name="name" value="貓頭鷹"/>
+<string name="desc" value="[等級上限 : 1]\n可以騎乘貓頭鷹移動"/>
+<string name="h1" value="消耗MP 10，物理、魔法防禦力各加 10，移動速度 140，跳躍力 120"/>
+</imgdir>
+<imgdir name="10008000">
+<string name="name" value="쓸만한 헤이스트"/>
+<string name="desc" value="[아이템 잠재스킬]\n일정 시간동안 자신의 이동 속도와 점프력을 증가시켜 준다."/>
+<string name="h1" value="MP 50 소비하여 200초간 이동속도 20, 점프력 10 향상"/>
+</imgdir>
+<imgdir name="10008001">
+<string name="name" value="實用的時空門"/>
+<string name="desc" value="[道具潛在技能]\n產生可通往最近村莊的傳送點. 在門消失前只有使用者可以重覆進出, 在傳送點上面按 ↑ 就會移動."/>
+<string name="h1" value="MP 120, 消耗魔法石 2個, 120秒持續開啟傳送點."/>
+</imgdir>
+<imgdir name="10008002">
+<string name="name" value="實用的會心之眼"/>
+<string name="desc" value="[道具潛在技能]\n對自己賦予可找出敵人弱點, 並造成致命傷的能力."/>
+<string name="h1" value="消耗MP80，持續時間240秒、10%的會心一擊的機率，最大傷害增加15%。"/>
+</imgdir>
+<imgdir name="10008003">
+<string name="name" value="實用的神聖之火"/>
+<string name="desc" value="[道具潛在技能]\n自己的 Max HP, Max MP的量會增加."/>
+<string name="h1" value="消耗 MP 80, 240秒內 Max HP, Max MP 增加 40%."/>
+</imgdir>
+<imgdir name="10009000">
+<string name="name" value="肥肥的弱點攻擊"/>
+<string name="desc" value="[等級上限 : 1]\n給予肥肥150%的傷害。"/>
+</imgdir>
+<imgdir name="10009001">
+<string name="name" value="木妖的弱點攻擊"/>
+<string name="desc" value="[等級上限 : 1]\n 給予木妖150%的傷害。"/>
+</imgdir>
+<imgdir name="10009002">
+<string name="name" value="綠水靈的弱點攻擊"/>
+<string name="desc" value="[等級上限 : 1]\n 給予綠水靈 150%的傷害。"/>
+</imgdir>
+<imgdir name="11000005">
+<string name="name" value="HP增加"/>
+<string name="desc" value="最大 HP永久增加"/>
+<string name="h" value="最大 HP #mhpR% 增加"/>
+</imgdir>
+<imgdir name="11001001">
+<string name="name" value="自身強化"/>
+<string name="desc" value="在一定時間內增加自己的物理防禦力。"/>
+<string name="h" value="MP #mpCon 消耗，增加#time秒的物理防禦力 #pdd"/>
+</imgdir>
+<imgdir name="11001002">
+<string name="name" value="魔天一擊"/>
+<string name="desc" value="消耗MP給予敵人一擊"/>
+<string name="h" value="消耗MP #mpCon，#damage% 傷害"/>
+</imgdir>
+<imgdir name="11001003">
+<string name="name" value="劍氣縱橫"/>
+<string name="desc" value="消耗MP，周圍的敵人最多可同時攻擊 6名。\n必要技能 : #c魔天一擊 1等級以上#"/>
+<string name="h" value=" 消耗MP #mpCon，用#damage% 傷害最多攻擊#mobCount位敵人 "/>
+</imgdir>
+<imgdir name="11001004">
+<string name="name" value="靈魂"/>
+<string name="desc" value="召喚出守護自己的精靈。自動攻擊接近周圍的敵人。"/>
+<string name="h" value="MP #mpCon 消耗，#time秒內召喚攻擊力 #damage%的靈魂"/>
+</imgdir>
+<imgdir name="11100000">
+<string name="name" value="精準之劍"/>
+<string name="desc" value="提升劍系列武器的熟練度和命中率。"/>
+<string name="h" value="劍系列武器的熟練度#mastery%、命中率#x上升"/>
+</imgdir>
+<imgdir name="11101001">
+<string name="name" value="快速之劍"/>
+<string name="desc" value="消耗MP在一定時間內武器的攻擊速度上升 2階段。但是一定要手持劍系列武器才能發動。\n必要技能 : #c精準之劍5等級以上#"/>
+<string name="h" value="MP #mpCon 消耗， #time秒內提升武器的攻擊速度 "/>
+</imgdir>
+<imgdir name="11101002">
+<string name="name" value="終極攻擊"/>
+<string name="desc" value="以一定機率使用攻擊技能後追加傷害。 但是一定要手持劍系列武器才能發動。\n必要技能 : #c精準之劍3等級以上#"/>
+<string name="h" value="消耗MP #mpCon，#time秒內持續加持，以#prop%機率發動 #damage% 傷害的終極攻擊"/>
+</imgdir>
+<imgdir name="11101003">
+<string name="name" value="憤怒"/>
+<string name="desc" value="在一定時間內提升我軍的物理攻擊力。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內增加物理攻擊力 #pad "/>
+</imgdir>
+<imgdir name="11101004">
+<string name="name" value="靈魂之刃"/>
+<string name="desc" value="以肉眼看不見的靈魂飛向敵人進行攻擊。技能等級越高一次可攻擊對象的人數就越多 。"/>
+<string name="h" value="消耗MP #mpCon， #damage% 傷害，最多攻擊#mobCount位 "/>
+</imgdir>
+<imgdir name="11101005">
+<string name="name" value="靈魂迅移"/>
+<string name="desc" value="接收靈魂的力量， 瞬間快速移動"/>
+<string name="h" value="消耗 MP #mpCon ，一定距離移動"/>
+</imgdir>
+<imgdir name="11110000">
+<string name="name" value="魔力恢復"/>
+<string name="desc" value="可每4秒恢復 MP，戰鬥中也可恢復。"/>
+<string name="h" value="每4秒追加恢復MP #mp "/>
+</imgdir>
+<imgdir name="11110005">
+<string name="name" value="進階鬥氣"/>
+<string name="desc" value="增加每個鬥氣量傷害和最大鬥氣量數。還有鬥氣量會一定機率補充 2個。\n必要技能 : #c鬥氣集中20等級以上#"/>
+<string name="h" value="鬥氣量傷害增加#v%， 最大鬥氣量增加#x個，會以#prop% 機率補充2個鬥氣量"/>
+</imgdir>
+<imgdir name="11111001">
+<string name="name" value="鬥氣集中"/>
+<string name="desc" value="一定時間內攻擊時累積鬥氣量。最大鬥氣量為5，鬥氣量累積得越多傷害越大"/>
+<string name="h" value="消耗MP #mpCon，持續#time秒，最大鬥氣量#x個，1個鬥氣量增加傷害 #damR% "/>
+</imgdir>
+<imgdir name="11111002">
+<string name="name" value="黑暗"/>
+<string name="desc" value="攻擊一名敵人給予重傷，會以一定機率得到暗黑效果減少命中率。但是僅在鬥氣量補充狀態下才能使用，根據累積鬥氣量的數量適用追加傷害。\n必要技能 : #c鬥氣集中1等級以上#"/>
+<string name="h" value="MP #mpCon和鬥氣量全部使用，以#damage% 傷害， #prop% 機率發動暗黑攻擊，暗黑效果時 #time秒內的對象命中率 #x%"/>
+</imgdir>
+<imgdir name="11111003">
+<string name="name" value="氣絕"/>
+<string name="desc" value="同時攻擊周圍敵人給予傷害，會以一定機率昏迷。但是只能在鬥氣量補充狀態下使用，根據累積鬥氣量的數量給予追加傷害。\n必要技能 : #c鬥氣集中1等級以上#"/>
+<string name="h" value="MP #mpCon和鬥氣量全部使用，給予最多 #mobCount 對象#damage% 傷害，以 #prop% 機率昏迷攻擊，昏迷持續時間 #time秒"/>
+</imgdir>
+<imgdir name="11111004">
+<string name="name" value="雙連斬"/>
+<string name="desc" value="兩次連續攻擊多位眼前的敵人。"/>
+<string name="h" value="消耗MP #mpCon，用 #damage% 傷害2次攻擊#mobCount位敵人"/>
+</imgdir>
+<imgdir name="11111006">
+<string name="name" value="靈魂突刺"/>
+<string name="desc" value="靈魂的力量融入大地，連續攻擊多個敵人4次。"/>
+<string name="h" value="消耗MP #mpCon，用#damage% 傷害4次攻擊，最多可達#mobCount位敵人"/>
+</imgdir>
+<imgdir name="11111007">
+<string name="name" value="靈魂屬性"/>
+<string name="desc" value="持續一定時間賦予劍－聖屬性，增加傷害。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內賦予劍－聖屬性， #damage% 傷害"/>
+</imgdir>
+<imgdir name="12000005">
+<string name="name" value="MP 增加"/>
+<string name="desc" value="最大MP永久增加。"/>
+<string name="h" value="最大MP #mmpR%增加。"/>
+</imgdir>
+<imgdir name="12001001">
+<string name="name" value="魔心防禦"/>
+<string name="desc" value="一定時間內用MP替代部分的傷害。 但是 MP為0的情況會直接消耗HP。"/>
+<string name="h" value="消耗MP #mpCon， #time秒內以MP代替受到傷害的 #x%。"/>
+</imgdir>
+<imgdir name="12001002">
+<string name="name" value="魔力之盾"/>
+<string name="desc" value="一定時間魔力凝聚在盔甲上，物理防禦力上升。\n必要技能 : #c魔心防禦 3等級以上#"/>
+<string name="h" value="消耗MP #mpCon ，#time秒內物理防禦力 #pdd、魔法防禦力 #mdd 增加"/>
+</imgdir>
+<imgdir name="12001003">
+<string name="name" value="魔力爪"/>
+<string name="desc" value="消耗MP2次連續攻擊2位前方的敵人。"/>
+<string name="h" value="消耗MP #mpCon，以#damage% 傷害2次攻擊，最多可達2位敵人"/>
+</imgdir>
+<imgdir name="12001004">
+<string name="name" value="火牢術"/>
+<string name="desc" value="召喚出守護自己的精靈。自動攻擊接近火牢術周圍的敵人。"/>
+<string name="h" value="消耗MP #mpCon， #time秒內召喚攻擊力 #damage%的火牢術 "/>
+</imgdir>
+<imgdir name="12100007">
+<string name="name" value="咒語精通"/>
+<string name="desc" value="提升魔法熟練度和魔力。"/>
+<string name="h" value="增加魔法熟練度#mastery%、魔力 #x"/>
+</imgdir>
+<imgdir name="12101000">
+<string name="name" value="精神強力"/>
+<string name="desc" value="透過短時間的冥想強化內在的集中力，使全體組隊成員的魔力得到暫時提升。"/>
+<string name="h" value="消耗MP #mpCon， #time秒內提升組隊成員的魔力 #mad "/>
+</imgdir>
+<imgdir name="12101001">
+<string name="name" value="緩速術"/>
+<string name="desc" value="一定時間內降低周圍敵人的移動速度。最多可適用至6位。減速效果不重覆。\n必要技能 : #c瞬間移動5等級以上#"/>
+<string name="h" value="消耗MP #mpCon，#time秒內對象的移動速度 #x"/>
+</imgdir>
+<imgdir name="12101002">
+<string name="name" value="火焰箭"/>
+<string name="desc" value="用魔法的力量生成火焰箭，朝著一名敵人發射。對冰屬性的敵人可造成更大傷害。"/>
+<string name="h" value="消耗MP #mpCon，以#damage% 傷害最多攻擊#mobCount位 "/>
+</imgdir>
+<imgdir name="12101003">
+<string name="name" value="瞬間移動"/>
+<string name="desc" value="一定距離瞬間移動。同時按下上、下、左、右方向鍵，就能朝該方向移動。"/>
+<string name="h" value="消耗MP #mpCon，移動距離 #range的瞬間移動"/>
+</imgdir>
+<imgdir name="12101004">
+<string name="name" value="極速詠唱"/>
+<string name="desc" value="消耗MP，一定時間內魔法攻擊速度上升2階段。"/>
+<string name="h" value="消耗MP #mpCon， #time秒內提升魔法攻擊速度 "/>
+</imgdir>
+<imgdir name="12101005">
+<string name="name" value="自然力重置"/>
+<string name="desc" value="一定時間內減少自己使用的所有攻擊魔法屬性"/>
+<string name="h" value="消耗MP #mpCon，#time秒內減少攻擊屬性 #x% "/>
+</imgdir>
+<imgdir name="12101006">
+<string name="name" value="火柱"/>
+<string name="desc" value="在自己的周圍引發連鎖爆炸，最多可同時攻擊6位敵人 "/>
+<string name="h" value="消耗MP #mpCon，最多給予6位敵人#damage% 傷害"/>
+</imgdir>
+<imgdir name="12110000">
+<string name="name" value="魔法抵抗"/>
+<string name="desc" value="培養對所有屬性攻擊的耐性，減少魔法傷害。"/>
+<string name="h" value="對所有屬性的耐性增加 #x% "/>
+<string name="h1" value="對所有屬性的耐性增加12%"/>
+<string name="h2" value="對所有屬性的耐性增加14%"/>
+<string name="h3" value="對所有屬性的耐性增加16%"/>
+<string name="h4" value="對所有屬性的耐性增加18%"/>
+<string name="h5" value="對所有屬性的耐性增加20%"/>
+<string name="h6" value="對所有屬性的耐性增加22%"/>
+<string name="h7" value="對所有屬性的耐性增加24%"/>
+<string name="h8" value="對所有屬性的耐性增加26%"/>
+<string name="h9" value="對所有屬性的耐性增加28%"/>
+<string name="h10" value="對所有屬性的耐性增加30%"/>
+<string name="h11" value="對所有屬性的耐性增加31%"/>
+<string name="h12" value="對所有屬性的耐性增加32%"/>
+<string name="h13" value="對所有屬性的耐性增加33%"/>
+<string name="h14" value="對所有屬性的耐性增加34%"/>
+<string name="h15" value="對所有屬性的耐性增加35%"/>
+<string name="h16" value="對所有屬性的耐性增加36%"/>
+<string name="h17" value="對所有屬性的耐性增加37%"/>
+<string name="h18" value="對所有屬性的耐性增加38%"/>
+<string name="h19" value="對所有屬性的耐性增加39%"/>
+<string name="h20" value="對所有屬性的耐性增加40%"/>
+</imgdir>
+<imgdir name="12110001">
+<string name="name" value="魔力激發"/>
+<string name="desc" value="消耗更大量的MP，所有攻擊魔法的傷害增加威力。"/>
+<string name="h" value="增加消耗 MP #x%，增加攻擊魔法傷害 #y% "/>
+</imgdir>
+<imgdir name="12111002">
+<string name="name" value="魔法封印"/>
+<string name="desc" value="一定時間內讓多數的周圍敵人陷入封印狀態。最多可使用至6位。\n必要技能 : #c魔力激發 3等級以上#"/>
+<string name="h" value="消耗MP #mpCon，#time秒內以#prop% 機率陷入封印狀態"/>
+</imgdir>
+<imgdir name="12111003">
+<string name="name" value="火流星"/>
+<string name="desc" value="從天空召喚隕石，給予15名以下多個敵人強力的火焰攻擊。對象在一定時間內會受到持續性(DOT)傷害。"/>
+<string name="h" value="消耗MP #mpCon，最多給予15位敵人 #damage% 傷害，#持續性(DOT)Time秒內 #持續性(DOT)Interval秒每 #持續性(DOT)%的持續性(DOT)傷害，再次使用等待時間#cooltime秒"/>
+</imgdir>
+<imgdir name="12111004">
+<string name="name" value="召喚火炎神"/>
+<string name="desc" value="一定時間內召喚具有火屬性的冰系惡魔。召喚冰魔最多可同時攻擊3位敵人。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內召喚冰系惡魔。以 #damage% 傷害最多同時攻擊3位敵人 "/>
+</imgdir>
+<imgdir name="12111005">
+<string name="name" value="火牢術屏障"/>
+<string name="desc" value="在一定時間內自己的周圍架起火焰屏障。屏障內的怪物會以一定機率變成著火狀態，受到持續傷害。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內生成#damage% 傷害的火焰屏障，著火時#dotTime秒內，每 #dotInterval秒#dot%的持續傷害"/>
+</imgdir>
+<imgdir name="12111006">
+<string name="name" value="火風暴"/>
+<string name="desc" value="向前扔出巨大火球，最多對6位敵人造成傷害。"/>
+<string name="h" value="消耗MP #mpCon，最多對6位敵人造成 #damage% 傷害"/>
+</imgdir>
+<imgdir name="13000000">
+<string name="name" value="霸王箭"/>
+<string name="desc" value="會心一擊攻擊機率增加"/>
+<string name="h" value="會心一擊攻擊機率 #prop% 增加"/>
+</imgdir>
+<imgdir name="13000001">
+<string name="name" value="百步穿楊"/>
+<string name="desc" value="增加弓的射程距離"/>
+<string name="h" value="增加弓的射程距離 #range "/>
+</imgdir>
+<imgdir name="13001002">
+<string name="name" value="集中術"/>
+<string name="desc" value="透過精神集中在一定時間內讓命中率和迴避上升"/>
+<string name="h" value="消耗MP #mpCon，#time秒內命中率增加#acc，迴避增加#eva "/>
+</imgdir>
+<imgdir name="13001003">
+<string name="name" value="二連箭"/>
+<string name="desc" value="向一個敵人發射2發弓箭"/>
+<string name="h" value="消耗MP #mpCon，發射2支#damage% 傷害的弓箭 "/>
+</imgdir>
+<imgdir name="13001004">
+<string name="name" value="暴風"/>
+<string name="desc" value="召喚出守護自己的精靈。暴風會自動攻擊周圍近距離的敵人"/>
+<string name="h" value="消耗MP #mpCon，#time秒內召喚攻擊力 #damage%的暴風"/>
+</imgdir>
+<imgdir name="13100000">
+<string name="name" value="精準之弓"/>
+<string name="desc" value="提升弓系列武器的熟練度和命中率。 "/>
+<string name="h" value="弓系列武器的熟練度#mastery%、命中率#x上升"/>
+</imgdir>
+<imgdir name="13100004">
+<string name="name" value="疾風步"/>
+<string name="desc" value="移動速度永久增加"/>
+<string name="h" value="移動速度 #speed 增加"/>
+</imgdir>
+<imgdir name="13101001">
+<string name="name" value="快速之箭"/>
+<string name="desc" value="消耗MP，一定時間內弓的攻擊速度上升2階段。\n必要技能 : #c精準之弓5等級以上#"/>
+<string name="h" value="消耗MP #mpCon，#time秒內提升弓的攻擊速度 "/>
+</imgdir>
+<imgdir name="13101002">
+<string name="name" value="終極攻擊"/>
+<string name="desc" value="以一定機率使用攻擊技能後追加傷害。但是，一定要手持弓系列武器才能發動。\n必要技能 : #c精準之弓3等級以上#"/>
+<string name="h" value="消耗MP #mpCon，#time秒維持加特\n#prop%機率啟動#damage%傷害的終極攻擊"/>
+</imgdir>
+<imgdir name="13101003">
+<string name="name" value="無形之箭"/>
+<string name="desc" value="一定時間內無需消耗弓箭就能射箭。\n必要技能 : #c快速之箭 5等級以上#"/>
+<string name="h" value="消耗MP #mpCon ，#time秒內無需弓箭消耗就能攻擊"/>
+</imgdir>
+<imgdir name="13101005">
+<string name="name" value="暴風射擊"/>
+<string name="desc" value="給予近距離敵人傷害，並一定機率出現強弓。"/>
+<string name="h" value="消耗MP #mpCon，#damage% 傷害\n#prop% 機率最多達 #mobCount位敵人#x。"/>
+</imgdir>
+<imgdir name="13101006">
+<string name="name" value="風影漫步"/>
+<string name="desc" value="藉由風的力量暫時隱身。風影漫步狀態下攻擊，會解除隱身，並給予追加傷害。"/>
+<string name="h" value="消耗MP #mpCon， #time秒內維持風影漫步狀態，移動速度 #y 減少\n風影漫步狀態下攻擊時傷害 #damage%"/>
+</imgdir>
+<imgdir name="13110003">
+<string name="name" value="弓術精通"/>
+<string name="desc" value="增加弓系列武器的熟練度和物理攻擊力、會心一擊最小傷害。\n必要技能 : #c精準之弓20等級以上#"/>
+<string name="h" value="弓系列武器的熟練度上升至#mastery%，物理攻擊力 #x、會心一擊增加最小傷害#criticaldamageMin% "/>
+</imgdir>
+<imgdir name="13111000">
+<string name="name" value="箭雨"/>
+<string name="desc" value="向天空射出幾發弓箭，攻擊周圍的多數敵人。"/>
+<string name="h" value="消耗MP #mpCon，最多給予 #mobCount位敵人#damage%的傷害"/>
+</imgdir>
+<imgdir name="13111001">
+<string name="name" value="四連箭"/>
+<string name="desc" value="向一個敵人發射4發弓箭"/>
+<string name="h" value="消耗MP #mpCon，發射4支#damage%傷害的弓箭"/>
+</imgdir>
+<imgdir name="13111002">
+<string name="name" value="暴風神射"/>
+<string name="desc" value="以暴風雨般的快速射箭。按住技能鍵可持續射箭。"/>
+<string name="h" value="消耗MP #mpCon，每一發 #damage% 傷害"/>
+</imgdir>
+<imgdir name="13111004">
+<string name="name" value="替身術"/>
+<string name="desc" value="一定時間內召喚出替身(自己的分身)。替身存在的時間內，怪物會優先攻擊替身。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內召喚HP #x的替身 "/>
+</imgdir>
+<imgdir name="13111005">
+<string name="name" value="阿爾法"/>
+<string name="desc" value="120秒內變身為傳說的名弓手Albatross。Albatross 狀態下提升各種能力值，並可使用Albatross的專用技能。"/>
+<string name="h" value="消耗MP #mpCon， #time秒 內增加物理攻擊力 #epad、物理防禦力 #epdd、魔法防禦力 #emdd、移動速度 #speed、跳躍力#jump，再次使用等待時間#cooltime秒"/>
+</imgdir>
+<imgdir name="13111006">
+<string name="name" value="疾風光速神弩"/>
+<string name="desc" value="將暴風的氣韻蘊藏在弓箭上，朝前方發射。變身Albatross時才可使用。\n必要技能 : #cAlbatross 1等級以上#"/>
+<string name="h" value="消耗MP #mpCon，以#damage% 傷害最多貫穿 #mobCount位敵人。"/>
+</imgdir>
+<imgdir name="13111007">
+<string name="name" value="疾風掃射"/>
+<string name="desc" value="裝載風的氣韻向敵人發射3發弓箭。變身Albatross時才可使用。\n必要技能 : #cAlbatross 1等級以上#"/>
+<string name="h" value="消耗MP #mpCon，發射#damage% 傷害的箭3發"/>
+</imgdir>
+<imgdir name="14000000">
+<string name="name" value="幻體功"/>
+<string name="desc" value="修煉盜賊的秘笈，命中率迴避永久性的增加"/>
+<string name="h" value="命中率#x、迴避 #y 增加"/>
+</imgdir>
+<imgdir name="14000001">
+<string name="name" value="鷹之眼"/>
+<string name="desc" value="增加鏢、飛鏢等投擲武器的射程距離。"/>
+<string name="h" value="增加投擲武器的射程距離 #range "/>
+</imgdir>
+<imgdir name="14001002">
+<string name="name" value="詛咒術"/>
+<string name="desc" value="一定時間內減少對象的攻擊力和防禦力，變成不攻擊自己的狀態。但是不可對相同的敵人重覆使用。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內讓對象的攻擊力 #x、防禦力 #y%，變成無法攻擊自己的狀態。"/>
+</imgdir>
+<imgdir name="14001003">
+<string name="name" value="隱身術"/>
+<string name="desc" value="一定時間內隱身到影子中。隱身術狀態下雖然不會被敵人攻擊，然而也不能攻擊敵人。"/>
+<string name="h" value="消耗MP #mpCon， #time秒內隱身到影子中。移動速度 #y 減少"/>
+</imgdir>
+<imgdir name="14001004">
+<string name="name" value="雙飛斬"/>
+<string name="desc" value="向對象連續丢擲幸運的2個飛鏢。這和精準暗器無關，根據幸運數值攻擊。"/>
+<string name="h" value="消耗MP #mpCon，以#damage% 傷害攻擊2次 "/>
+</imgdir>
+<imgdir name="14001005">
+<string name="name" value="黑暗雷鳥"/>
+<string name="desc" value="召喚出守護自己的精靈。黑暗雷鳥自動攻擊周圍近距離的敵人。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內召喚攻擊力 #damage%的黑暗雷鳥"/>
+</imgdir>
+<imgdir name="14100000">
+<string name="name" value="精準暗器"/>
+<string name="desc" value="提升拳套系列武器的熟練度和命中率， 增加持有飛鏢的最大補充數"/>
+<string name="h" value="拳套系列武器的熟練度#mastery%，命中率#x 上升、飛鏢數 #y 上升"/>
+</imgdir>
+<imgdir name="14100001">
+<string name="name" value="強力投擲"/>
+<string name="desc" value="增加會心一擊機率和會心一擊最小傷害。"/>
+<string name="h" value="會心一擊攻擊機率增加#prop%，會心一擊最小傷害增加#criticaldamageMin% "/>
+</imgdir>
+<imgdir name="14100005">
+<string name="name" value="驅逐"/>
+<string name="desc" value="在隱身術的狀態下使用攻擊技能時給予追加傷害。 使用技能的瞬間隱身術解除。\n必要技能 : #c隱身術 10等級以上#"/>
+<string name="h" value="隱身術狀態下攻擊時傷害 #damage%"/>
+</imgdir>
+<imgdir name="14101002">
+<string name="name" value="極速暗殺"/>
+<string name="desc" value="消耗MP 一定時間內拳套的攻擊速度上升2階段。"/>
+<string name="h" value="消耗MP #mpCon， #time秒內提升拳套的攻擊速度"/>
+</imgdir>
+<imgdir name="14101003">
+<string name="name" value="速度激發"/>
+<string name="desc" value="一定時間內增加組隊成員全員的移動速度和跳躍力"/>
+<string name="h" value="消耗MP #mpCon，#time秒內增加移動速度 #speed、增加跳躍力#jump "/>
+</imgdir>
+<imgdir name="14101004">
+<string name="name" value="二段跳"/>
+<string name="desc" value="跳躍中使用時，可朝著前進方向多跳一次。技能等級上升，會增加跳躍距離"/>
+<string name="h" value="消耗MP #mpCon，一定距離跳躍"/>
+</imgdir>
+<imgdir name="14101006">
+<string name="name" value="吸血"/>
+<string name="desc" value="4次攻擊多位敵人，吸收部分的傷害恢復 HP。一次無法吸收角色的最大 HP 1/ 2 以上，怪物的最大HP 以上。"/>
+<string name="h" value="消耗MP #mpCon，#attackCount次攻擊最多給予 #mobCount位敵人#damage% 傷害，傷害的 #x%由HP吸收"/>
+</imgdir>
+<imgdir name="14110003">
+<string name="name" value="藥劑精通"/>
+<string name="desc" value="藥水等恢復道具的效果上升或狀態變化道具的使用時間增加。但是特殊藥水等恢復至%的道具不可使用。"/>
+<string name="h" value="恢復量增加#x%，使用時間增加#y% "/>
+</imgdir>
+<imgdir name="14110004">
+<string name="name" value="飛毒殺"/>
+<string name="desc" value="在拳套上永久的塗毒。對象會以一定機率陷入中毒狀態，得到持續的傷害。毒無法重覆，對象的 HP也無法降至1 以下。"/>
+<string name="h" value="攻擊時以#prop% 的機率，在#dotTime秒內，每 #dotInterval秒追加#dot% 傷害的持續傷害 "/>
+</imgdir>
+<imgdir name="14111000">
+<string name="name" value="影分身"/>
+<string name="desc" value="一定時間內召喚和自己作相同行動的影子同伴。沒有額外的的體力，召喚時間過了就會消失。"/>
+<string name="h" value="MP #mpCon，消耗1個召喚的石頭， #time秒內召喚攻擊力 #x%的影子同伴 "/>
+</imgdir>
+<imgdir name="14111001">
+<string name="name" value="影網術"/>
+<string name="desc" value="將自己的影子變成蜘蛛網，讓6位以下的多位敵人動彈不得"/>
+<string name="h" value="消耗MP #mpCon， #time秒內以#prop% 機率束縛"/>
+</imgdir>
+<imgdir name="14111002">
+<string name="name" value="風魔手裏劍"/>
+<string name="desc" value="擲出風魔手裏劍。 風魔手裏劍可貫穿多個敵人攻擊。"/>
+<string name="h" value="MP #mpCon，飛鏢消耗#bulletConsume個，以#damage% 傷害最多攻擊#mobCount位 "/>
+</imgdir>
+<imgdir name="14111005">
+<string name="name" value="三飛閃"/>
+<string name="desc" value="無視對象的物理防禦力連續丢擲3個飛鏢。 "/>
+<string name="h" value="消耗MP #mpCon， 以#damage% 傷害攻擊3次，無視對象的物理防禦力 #ignoreMobpdpR%"/>
+</imgdir>
+<imgdir name="14111006">
+<string name="name" value="毒炸彈"/>
+<string name="desc" value="扔出產生毒雲的至毒炸彈。毒雲範圍內的怪物持續受到毒傷害。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內生成 #damage% 傷害的毒雲，中毒時#dotTime秒內每 #dotInterval秒#dot%的持續傷害"/>
+</imgdir>
+<imgdir name="15000000">
+<string name="name" value="極限迴避"/>
+<string name="desc" value="命中率和迴避永久增加"/>
+<string name="h" value="命中率#x、迴避 #y 增加"/>
+</imgdir>
+<imgdir name="15001001">
+<string name="name" value="衝擊拳"/>
+<string name="desc" value="拳頭快速攻擊敵人。"/>
+<string name="h" value="消耗MP #mpCon，以#damage% 傷害最多攻擊#mobCount位 "/>
+</imgdir>
+<imgdir name="15001002">
+<string name="name" value="旋風斬"/>
+<string name="desc" value="跳躍後向後轉一圈，用腿攻擊多數的近距離敵人。"/>
+<string name="h" value="消耗MP #mpCon，用#damage%最多攻擊#mobCount位 "/>
+</imgdir>
+<imgdir name="15001003">
+<string name="name" value="衝鋒"/>
+<string name="desc" value="左右方向按鍵之一連按兩次，可瞬間提升移動速度和跳躍力。[瞬影衝擊: 方向鍵 →→ 以及 ←←] "/>
+<string name="h" value="消耗MP #mpCon， #time秒內增加移動速度 #x、跳躍力#y "/>
+</imgdir>
+<imgdir name="15001004">
+<string name="name" value="閃電"/>
+<string name="desc" value="召喚出守護自己的精靈。閃電會自動攻擊周圍近距離的敵人"/>
+<string name="h" value="消耗MP #mpCon，#time秒內召喚攻擊力 #damage%的閃電"/>
+</imgdir>
+<imgdir name="15100001">
+<string name="name" value="精通指虎"/>
+<string name="desc" value="提升指虎系列武器的熟練度和命中率。"/>
+<string name="h" value="指虎系列武器的熟練度#mastery%，命中率#x 上升"/>
+</imgdir>
+<imgdir name="15100004">
+<string name="name" value="蓄能激發"/>
+<string name="desc" value="攻擊時補充一定的能量。能量蓄滿後發動強化攻擊效果，並以一定的機率發動格檔效果，可使用能量專用技能。"/>
+<string name="h" value="攻擊時 #x的能量補充，蓄能激發發動時，#time秒內增加命中率#acc、迴避 #eva、物理攻擊力 #pad，以#damage%的傷害強化攻擊，#prop% 機率不會震退。"/>
+</imgdir>
+<imgdir name="15100007">
+<string name="name" value="HP增加"/>
+<string name="desc" value="透過鍛鍊身體永久的增加最大HP。"/>
+<string name="h" value="最大 HP #mhpR% 增加"/>
+</imgdir>
+<imgdir name="15101002">
+<string name="name" value="致命快打"/>
+<string name="desc" value="消耗MP，在一定時間內指虎的攻擊速度上升2階段。\n必要技能 : #c精通指虎5等級以上#"/>
+<string name="h" value="消耗MP #mpCon，#time秒內提升指虎的攻擊速度。 "/>
+</imgdir>
+<imgdir name="15101003">
+<string name="name" value="狂暴衝擊"/>
+<string name="desc" value="猛烈的向前方突進，用充滿氣的拳頭攻擊多名敵人。"/>
+<string name="h" value="消耗MP #mpCon，以 #damage% 傷害最多攻擊#mobCount位敵人"/>
+<string name="h1" value="消耗MP 20，傷害 135%，最多攻擊3隻"/>
+<string name="h2" value="消耗MP 20，傷害 150%，最多攻擊3隻"/>
+<string name="h3" value="消耗MP 20，傷害 165%，最多攻擊3隻"/>
+<string name="h4" value="消耗MP 20，傷害 180%，最多攻擊3隻"/>
+<string name="h5" value="消耗MP 24，傷害 195%，最多攻擊3隻"/>
+<string name="h6" value="消耗MP 24，傷害 210%，最多攻擊3隻"/>
+<string name="h7" value="消耗MP 24，傷害 225%，最多攻擊3隻"/>
+<string name="h8" value="消耗MP 24，傷害 240%，最多攻擊3隻"/>
+<string name="h9" value="消耗MP 28，傷害 255%，最多攻擊3隻"/>
+<string name="h10" value="消耗MP 28，傷害 270%，最多攻擊3隻"/>
+<string name="h11" value="消耗MP 28，傷害 285%，最多攻擊3隻"/>
+<string name="h12" value="消耗MP 28，傷害 300%，最多攻擊3隻"/>
+<string name="h13" value="消耗MP 32，傷害 315%，最多攻擊3隻"/>
+<string name="h14" value="消耗MP 32，傷害 330%，最多攻擊3隻"/>
+<string name="h15" value="消耗MP 32，傷害 345%，最多攻擊3隻"/>
+<string name="h16" value="消耗MP 32，傷害 360%，最多攻擊3隻"/>
+<string name="h17" value="消耗MP 36，傷害 375%，最多攻擊3隻"/>
+<string name="h18" value="消耗MP 36，傷害 390%，最多攻擊3隻"/>
+<string name="h19" value="消耗MP 36，傷害 405%，最多攻擊3隻"/>
+<string name="h20" value="消耗MP 36，傷害 420%，最多攻擊3隻"/>
+</imgdir>
+<imgdir name="15101005">
+<string name="name" value="能量暴擊"/>
+<string name="desc" value="能量爆炸攻擊附近的多數敵人。 #c能量蓄滿#的狀態才能使用。\n必要技能 : #c蓄能激發 1等級以上#"/>
+<string name="h" value=" 消耗MP #mpCon，用#damage% 傷害最多攻擊#mobCount位敵人 "/>
+</imgdir>
+<imgdir name="15101006">
+<string name="name" value="雷鳴"/>
+<string name="desc" value="一定時間內指虎賦予閃電屬性，增加傷害。"/>
+<string name="h" value="#time秒內#damage% 傷害，賦予閃電屬性 "/>
+</imgdir>
+<imgdir name="15110000">
+<string name="name" value="衝壓暴擊"/>
+<string name="desc" value="增加會心一擊機率和會心一擊最小傷害"/>
+<string name="h" value="增加會心一擊機率 #prop%，會心一擊最小傷害 #criticaldamageMin% "/>
+</imgdir>
+<imgdir name="15111001">
+<string name="name" value="損人利己"/>
+<string name="desc" value="將對象的部分 HP吸收成為自己的HP。 #c能量蓄滿# 狀態下才能使用。\n必要技能 : #c蓄能激發1等級以上#"/>
+<string name="h" value="#damage% 傷害，以H吸收傷害的 #x%"/>
+</imgdir>
+<imgdir name="15111002">
+<string name="name" value="鬥神附體"/>
+<string name="desc" value="180秒內變身鬥神附體。 鬥神附體下不可使用部分技能。\n[可使用技能 : 衝擊波、致命快打、能量暴擊、損人利己、最終極速]"/>
+<string name="h" value="消耗MP #mpCon，#time秒內變身為鬥神，物理攻擊力 #epad、物理防禦力 #epdd、魔法防禦力 #emdd、移動速度 #speed、跳躍力#jump 增加，再次使用等待時間#cooltime秒"/>
+</imgdir>
+<imgdir name="15111003">
+<string name="name" value="衝擊波"/>
+<string name="desc" value="強力打擊地面引發衝擊波衝擊波貫穿多個敵人攻擊。#c鬥神附體、鬥神降世# 狀態下才能 使用。\n必要技能 : #c鬥神附體1等級以上#"/>
+<string name="h" value=" 消耗MP #mpCon，用#damage% 傷害最多攻擊#mobCount位敵人 "/>
+</imgdir>
+<imgdir name="15111004">
+<string name="name" value="閃．連殺"/>
+<string name="desc" value="以飛快的速度速攻擊對象6次。攻擊結束前對象呈現昏迷狀態。"/>
+<string name="h" value="消耗MP #mpCon，以#damage% 傷害攻擊#attackCount次 "/>
+</imgdir>
+<imgdir name="15111005">
+<string name="name" value="最終極速"/>
+<string name="desc" value="消耗HP、MP，在一定時間內組隊成員全員的攻擊速度上升2階段。可和原有的極速重覆使用。\n必要技能 : #c致命快打20等級以上# "/>
+<string name="h" value="消耗HP #hpCon、MP #mpCon，#time秒內提升攻擊速度 "/>
+</imgdir>
+<imgdir name="15111006">
+<string name="name" value="閃光擊"/>
+<string name="desc" value="以閃電精靈之力進行追加攻擊。受到攻擊目標周圍的敵人也同時受到傷害。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內傷害 #damage%，追加 攻擊#mobCount隻 "/>
+</imgdir>
+<imgdir name="15111007">
+<string name="name" value="鯨噬"/>
+<string name="desc" value="向前方噴射，給予多位敵人傷害。"/>
+<string name="h" value=" 消耗MP #mpCon，用#damage% 傷害最多攻擊#mobCount位敵人 "/>
+</imgdir>
+<imgdir name="20000012">
+<string name="name" value="精靈的祝福"/>
+<string name="desc" value="聯繫之角色等級每提高10級增加1點技能點數。"/>
+<string name="h" value="物理攻擊力 #x、魔法攻擊力 #y、命中率、迴避率 #z 上升。"/>
+</imgdir>
+<imgdir name="20000014">
+<string name="name" value="新手區技能"/>
+<string name="desc" value="新手區技能"/>
+</imgdir>
+<imgdir name="20000015">
+<string name="name" value="新手區技能"/>
+<string name="desc" value="新手區技能"/>
+</imgdir>
+<imgdir name="20000016">
+<string name="name" value="新手區技能"/>
+<string name="desc" value="新手區技能"/>
+</imgdir>
+<imgdir name="20000017">
+<string name="name" value="新手區技能"/>
+<string name="desc" value="新手區技能"/>
+</imgdir>
+<imgdir name="20000018">
+<string name="name" value="新手區技能"/>
+<string name="desc" value="新手區技能"/>
+</imgdir>
+<imgdir name="20000024">
+<string name="name" value="寵物達人"/>
+<string name="desc" value="[最高等級：1]可攜帶多隻寵物，最多攜帶3隻"/>
+</imgdir>
+<imgdir name="20001000">
+<string name="name" value="嫩寶丟擲術"/>
+<string name="desc" value="[最高等級:3]丟嫩寶殼來攻擊遠距離的怪物。"/>
+<string name="h1" value="消耗MP3傷害10"/>
+<string name="h2" value="消耗MP5傷害25"/>
+<string name="h3" value="消耗MP7傷害40"/>
+</imgdir>
+<imgdir name="20001001">
+<string name="name" value="治癒"/>
+<string name="desc" value="[最高等級:3]30秒之間持續的恢復自己的HP。#c再使用等待時間:2分#"/>
+<string name="h1" value="消耗MP5，30秒內恢復HP24"/>
+<string name="h2" value="消耗MP10，30秒內恢復HP48"/>
+<string name="h3" value="消耗MP15，30秒內恢復HP72"/>
+</imgdir>
+<imgdir name="20001002">
+<string name="name" value="疾風之步"/>
+<string name="desc" value="[最高等級:3]瞬間迅速的移動。#c再使用等待時間:1分#"/>
+<string name="h1" value="消耗MP4，4秒內提升移動速度10"/>
+<string name="h2" value="消耗MP7，8秒內提升移動速度15"/>
+<string name="h3" value="消耗MP10，12秒內提升移動速度20"/>
+</imgdir>
+<imgdir name="20001003">
+<string name="name" value="神匠之魂"/>
+<string name="desc" value="[等級上限：1]\n借助神匠之魂，對無法裝備的道具也能使用卷軸。"/>
+</imgdir>
+<imgdir name="20001004">
+<string name="name" value="怪物騎乘"/>
+<string name="desc" value="[等級上限：1]\n可以騎乘被馴服的怪物。"/>
+</imgdir>
+<imgdir name="20001005">
+<string name="name" value="英雄的回響"/>
+<string name="desc" value="[等級上限：1]\n可增加周圍所有玩家的物理攻擊力和魔法攻擊力。\n#c再次使用等待時間：2小時#"/>
+<string name="h1" value="消耗MP30、40分鐘內提升物理攻擊力、魔法攻擊力4%"/>
+</imgdir>
+<imgdir name="20001006">
+<string name="name" value="向下跳躍"/>
+<string name="desc" value="[等級上限：1]\n向下跳躍。"/>
+<string name="h1" value="向下跳躍"/>
+</imgdir>
+<imgdir name="20001007">
+<string name="name" value="強化合成"/>
+<string name="desc" value="[最高等級:3]\n利用煉金術可以強化合成物品。自身角色的等級不同，能強化合成的物品也不同。"/>
+<string name="h1" value="可製作75級以下物品"/>
+<string name="h2" value="可製作105級以下物品"/>
+<string name="h3" value="可製作135級以下物品"/>
+</imgdir>
+<imgdir name="20001009">
+<string name="name" value="竹竿天擊"/>
+<string name="desc" value="利用竹子發動攻擊。"/>
+<string name="h1" value="武陵道場對戰怪物的生命力降低30%"/>
+</imgdir>
+<imgdir name="20001010">
+<string name="name" value="金剛不壞"/>
+<string name="desc" value="短時間內成為無敵狀態不受攻擊。"/>
+<string name="h1" value="30秒內呈無敵狀態"/>
+</imgdir>
+<imgdir name="20001011">
+<string name="name" value="地火天爆"/>
+<string name="desc" value="一定時間內增加殺傷力。"/>
+<string name="h1" value="30秒內殺傷力增加100%"/>
+</imgdir>
+<imgdir name="20001013">
+<string name="name" value="助手"/>
+<string name="desc" value="一定時間內提升傷害。"/>
+<string name="h1" value="狂狼勇士入門"/>
+</imgdir>
+<imgdir name="20001019">
+<string name="name" value="雪吉拉騎士"/>
+<string name="desc" value="[等級上限 : 1]\n可以騎雪吉拉移動。\n#c有效期間：2010年8月18日12點#"/>
+<string name="h1" value="消耗MP10，物理，魔法防禦增加10，移動速度120，跳躍力120"/>
+</imgdir>
+<imgdir name="20001020">
+<string name="name" value="法老的憤怒攻擊"/>
+<string name="desc" value="[等級上限 : 1]\n使用法老的憤怒攻擊。"/>
+<string name="h1" value="一擊清除在金字塔內所有怪物"/>
+</imgdir>
+<imgdir name="20001022">
+<string name="name" value="雪吉拉騎士"/>
+<string name="desc" value="[精通等級：1]\n可騎乘雪吉拉移動。"/>
+<string name="h1" value="消耗MP10，物理及魔法防禦力增加10，移動速度增加120，躍力增加 120"/>
+</imgdir>
+<imgdir name="20001023">
+<string name="name" value="魔女掃把"/>
+<string name="desc" value="[精通等級：1]\n可騎乘魔女掃把移動。"/>
+<string name="h1" value="消耗MP10，物理及魔法防禦力增加10，移動速度增加120，躍力增加 120"/>
+</imgdir>
+<imgdir name="20001025">
+<string name="name" value="突擊！木馬"/>
+<string name="desc" value="[精通等級：1]\n可騎乘木馬移動。"/>
+<string name="h1" value="消耗MP10，物理及魔法防禦力增加10，移動速度增加120，躍力增加 120"/>
+</imgdir>
+<imgdir name="20001026">
+<string name="name" value="飛翔"/>
+<string name="desc" value="[等級上限 : 1]\n使用龍族的神秘的力量可以飛上天空。但是墜落時受到的降落傷害相當大。\n發動時消耗MP 90，維持飛翔狀態時每秒消耗1 MP。"/>
+<string name="h1" value="消耗MP 90，使用飛翔技能。每1秒消耗1 MP "/>
+</imgdir>
+<imgdir name="20001027">
+<string name="name" value="黑鱷魚"/>
+<string name="desc" value="[精通等級：1]\n可騎乘黑鱷魚移動。"/>
+<string name="h1" value="消耗MP10，物理及魔法防禦力增加10，移動速度增加140，躍力增加 120"/>
+</imgdir>
+<imgdir name="20001028">
+<string name="name" value="街車"/>
+<string name="desc" value="[精通等級：1]\n可騎乘街車移動。"/>
+<string name="h1" value="消耗MP10，物理及魔法防禦力增加10，移動速度增加140，躍力增加 120"/>
+</imgdir>
+<imgdir name="20001029">
+<string name="name" value="粉紅速克達"/>
+<string name="desc" value="[精通等級：1]\n可騎乘粉紅速克達移動。"/>
+<string name="h1" value="消耗MP10，物理及魔法防禦力增加10，移動速度增加140，躍力增加 120"/>
+</imgdir>
+<imgdir name="20001030">
+<string name="name" value="筋斗雲"/>
+<string name="desc" value="[精通等級：1]\n可騎乘筋斗雲移動。"/>
+<string name="h1" value="消耗MP10，物理及魔法防禦力增加10，移動速度增加140，躍力增加 120"/>
+</imgdir>
+<imgdir name="20001031">
+<string name="name" value="巴洛古"/>
+<string name="desc" value="[精通等級：1]\n可騎乘巴洛古移動。"/>
+<string name="h1" value="消耗MP10，物理及魔法防禦力增加10，移動速度增加140，躍力增加 120"/>
+</imgdir>
+<imgdir name="20001033">
+<string name="name" value="경주용 카트"/>
+<string name="desc" value="[마스터 레벨 : 1]\n경주용 카트를 타고 이동할 수 있다."/>
+<string name="h1" value="MP 10 소비, 물리, 마법 방어력 10 증가, 이동속도 140, 점프력 120"/>
+</imgdir>
+<imgdir name="20001034">
+<string name="name" value="ZD 타이거"/>
+<string name="desc" value="[마스터 레벨 : 1]\nZD 타이거를 타고 이동할 수 있다."/>
+<string name="h1" value="MP 10 소비, 물리, 마법 방어력 10 증가, 이동속도 140, 점프력 120"/>
+</imgdir>
+<imgdir name="20001035">
+<string name="name" value="미스트 발록"/>
+<string name="desc" value="[마스터 레벨 : 1]\n미스트 발록을 타고 이동할 수 있다."/>
+<string name="h1" value="MP 10 소비, 물리, 마법 방어력 10 증가, 이동속도 140, 점프력 120"/>
+</imgdir>
+<imgdir name="20001041">
+<string name="name" value="低等級怪物騎乘"/>
+<string name="desc" value="[最高等級 : 1]擁有低等級騎寵時，可以進行低等級寵物的騎乘。"/>
+</imgdir>
+<imgdir name="20001042">
+<string name="name" value="神鳥"/>
+<string name="desc" value="[等級上限: 1]\n可騎乘神鳥移動。"/>
+<string name="h1" value="使用時消耗MP10，同時增加物理、魔法防禦力10，變更移動速度為140%，跳躍力為120%。"/>
+</imgdir>
+<imgdir name="20001044">
+<string name="name" value="菇菇寶貝"/>
+<string name="desc" value="[等級上限 : 1]\n可騎菇菇寶貝移動"/>
+<string name="h1" value="消耗MP 10 ，物理、魔法防禦力 10 增加，移動速度 140、 跳躍力 120"/>
+</imgdir>
+<imgdir name="20001046">
+<string name="name" value="宇宙船"/>
+<string name="desc" value="[等級上限 : 2]\n乘坐宇宙船。#c有效期限：2010年8月11日12點#"/>
+<string name="h1" value="消耗MP10，增加物理、魔法防禦力10、移動速度150、彈跳力120"/>
+<string name="h2" value="消耗MP10，增加物理、魔法防禦力20、移動速度170、彈跳力120"/>
+</imgdir>
+<imgdir name="20001049">
+<string name="name" value="夢魘"/>
+<string name="desc" value="[等級上限 : 1]\n晚上的夢魘，可騎夢魘移動。"/>
+<string name="h1" value="消耗MP 10，物理、魔法防禦力增加10、移動速度 170、跳躍力120"/>
+</imgdir>
+<imgdir name="20001050">
+<string name="name" value="雪吉拉"/>
+<string name="desc" value="[等級上限 : 1]\n可騎雪吉拉移動。"/>
+<string name="h1" value="消耗MP 10，物理、魔法防禦力增加10、移動速度 170、跳躍力120"/>
+</imgdir>
+<imgdir name="20001051">
+<string name="name" value="鴕鳥"/>
+<string name="desc" value="[等級上限 : 1]\n跑得最快的鳥，可騎鴕鳥移動。"/>
+<string name="h1" value="消耗MP 10，物理、魔法防禦力增加10、移動速度 170、跳躍力120"/>
+</imgdir>
+<imgdir name="20001052">
+<string name="name" value="粉紅熊熱氣球"/>
+<string name="desc" value="[等級上限 : 1]\n可搭乘粉紅熊熱氣球移動。"/>
+<string name="h1" value="消耗MP 10，物理、魔法防禦力增加10、移動速度 170、跳躍力120"/>
+</imgdir>
+<imgdir name="20001053">
+<string name="name" value="鬥神機器人"/>
+<string name="desc" value="[等級上限 : 1]\n可騎鬥神機器人移動。"/>
+<string name="h1" value="消耗MP 10，物理、魔法防禦力增加10、移動速度 170、跳躍力120"/>
+</imgdir>
+<imgdir name="20001063">
+<string name="name" value="摩托車騎士"/>
+<string name="desc" value="[等級上限 : 1]\n可騎摩托車移動。"/>
+<string name="h1" value="消耗MP10，物理、魔法防禦力10增加、移動速度140、跳躍力120。"/>
+</imgdir>
+<imgdir name="20001064">
+<string name="name" value="力量套裝"/>
+<string name="desc" value="[等級上限 : 1]\n穿上力量套裝可移動。"/>
+<string name="h1" value="消耗MP10，物理、魔法防禦力10增加、移動速度140、跳躍力120。"/>
+</imgdir>
+<imgdir name="20001069">
+<string name="name" value="貓頭鷹"/>
+<string name="desc" value="[等級上限 : 1]\n可以騎乘貓頭鷹移動"/>
+<string name="h1" value="消耗MP 10，物理、魔法防禦力各加 10，移動速度 140，跳躍力 120"/>
+</imgdir>
+<imgdir name="20008000">
+<string name="name" value="쓸만한 헤이스트"/>
+<string name="desc" value="[아이템 잠재스킬]\n일정 시간동안 자신의 이동 속도와 점프력을 증가시켜 준다."/>
+<string name="h1" value="MP 50 소비하여 200초간 이동속도 20, 점프력 10 향상"/>
+</imgdir>
+<imgdir name="20008001">
+<string name="name" value="實用的時空門"/>
+<string name="desc" value="[道具潛在技能]\n產生可通往最近村莊的傳送點. 在門消失前只有使用者可以重覆進出, 在傳送點上面按 ↑ 就會移動."/>
+<string name="h1" value="MP 120, 消耗魔法石 2個, 120秒持續開啟傳送點."/>
+</imgdir>
+<imgdir name="20008002">
+<string name="name" value="實用的會心之眼"/>
+<string name="desc" value="[道具潛在技能]\n對自己賦予可找出敵人弱點, 並造成致命傷的能力."/>
+<string name="h1" value="消耗MP80，持續時間240秒、10%的會心一擊的機率，最大傷害增加15%。"/>
+</imgdir>
+<imgdir name="20008003">
+<string name="name" value="實用的神聖之火"/>
+<string name="desc" value="[道具潛在技能]\n自己的 Max HP, Max MP的量會增加."/>
+<string name="h1" value="消耗 MP 80, 240秒內 Max HP, Max MP 增加 40%."/>
+</imgdir>
+<imgdir name="20009000">
+<string name="name" value="肥肥的弱點攻擊"/>
+<string name="desc" value="[等級上限 : 1]\n給予肥肥150%的傷害。"/>
+</imgdir>
+<imgdir name="20009001">
+<string name="name" value="木妖的弱點攻擊"/>
+<string name="desc" value="[等級上限 : 1]\n 給予木妖150%的傷害。"/>
+</imgdir>
+<imgdir name="20009002">
+<string name="name" value="綠水靈的弱點攻擊"/>
+<string name="desc" value="[等級上限 : 1]\n 給予綠水靈 150%的傷害。"/>
+</imgdir>
+<imgdir name="20010012">
+<string name="name" value="精靈的祝福"/>
+<string name="desc" value="聯繫之角色等級每提高10級增加1點技能點數。"/>
+<string name="h" value="物理攻擊力 #x、魔法攻擊力 #y、命中率、迴避率 #z 上升。"/>
+</imgdir>
+<imgdir name="20011000">
+<string name="name" value="嫩寶丟擲術 "/>
+<string name="desc" value="[精通等級：3]\n丟蝸牛殼攻擊遠距離的敵人 。"/>
+<string name="h1" value="消耗MP3，傷害 10"/>
+<string name="h2" value="消耗MP5，傷害 25"/>
+<string name="h3" value="消耗MP7，傷害 40"/>
+</imgdir>
+<imgdir name="20011001">
+<string name="name" value="恢復"/>
+<string name="desc" value="[強化等級：3]\n在30秒內持續的恢復自己的HP。 \n#c冷卻時間：2分鐘#"/>
+<string name="h1" value="消耗MP5，30秒內 HP恢復 24 "/>
+<string name="h2" value="消耗MP10，30秒內 HP恢復 48"/>
+<string name="h3" value="消耗MP15，30秒內 HP恢復 72"/>
+</imgdir>
+<imgdir name="20011002">
+<string name="name" value="疾風之步 "/>
+<string name="desc" value="[強化等級：3]\n瞬間快速移動 \n#c冷卻時間：1分鐘#"/>
+<string name="h1" value="消耗MP4，4秒內移動速度提升 10 "/>
+<string name="h2" value="消耗MP7，8秒內移動速度提升 15"/>
+<string name="h3" value="消耗MP10，12秒內移動速度提升 20"/>
+</imgdir>
+<imgdir name="20011003">
+<string name="name" value="神匠之魂"/>
+<string name="desc" value="[強化等級：1]\n神匠之魂祈求，連無法裝備的道具也能使用卷軸"/>
+</imgdir>
+<imgdir name="20011004">
+<string name="name" value="怪物騎乘"/>
+<string name="desc" value="[強化等級：1]\n可騎乘馴養怪物移動。"/>
+</imgdir>
+<imgdir name="20011005">
+<string name="name" value="英雄的回響"/>
+<string name="desc" value="[精通等級：1]\n增加周圍所有玩家的物理攻擊力和魔法攻擊力。 \n#c冷卻時間：2小時#"/>
+<string name="h1" value="消耗MP30，40分鐘內物理攻擊力及魔法攻擊力提升 4% "/>
+</imgdir>
+<imgdir name="20011006">
+<string name="name" value="向下跳躍"/>
+<string name="desc" value="[強化等級：1]\n往下方向跳躍"/>
+<string name="h1" value="向下跳躍"/>
+</imgdir>
+<imgdir name="20011007">
+<string name="name" value="強化合成"/>
+<string name="desc" value="[精通等級：3]\n可使用煉金術製作道具。根據自己的角色等級可製作的道具也不一樣。"/>
+<string name="h1" value="可製作75等級以下的道具"/>
+<string name="h2" value="可製作105等級以下的道具"/>
+<string name="h3" value="可製作135等級以下的道具"/>
+</imgdir>
+<imgdir name="20011009">
+<string name="name" value="竹竿千擊"/>
+<string name="desc" value="使用竹子攻擊"/>
+<string name="h1" value="魔王怪物的體力減少30% "/>
+</imgdir>
+<imgdir name="20011010">
+<string name="name" value="金剛不壞"/>
+<string name="desc" value="一定時間內成為無敵狀態"/>
+<string name="h1" value="30秒內無敵"/>
+</imgdir>
+<imgdir name="20011011">
+<string name="name" value="地火天爆"/>
+<string name="desc" value="在一定時間內增加傷害。"/>
+<string name="h1" value="30秒內傷害增加 100% "/>
+</imgdir>
+<imgdir name="20011018">
+<string name="name" value="雪吉拉騎士"/>
+<string name="desc" value="[精通等級：1]\n可以騎雪吉拉移動。\n#c有效期間：2010年8月18日12點#"/>
+<string name="h1" value="消耗MP10，物理及魔法防禦力增加10，移動速度增加120，躍力增加 120"/>
+</imgdir>
+<imgdir name="20011019">
+<string name="name" value="魔女掃把"/>
+<string name="desc" value="[精通等級：1]\n魔女掃把移動。"/>
+<string name="h1" value="消耗MP10，物理及魔法防禦力增加10，移動速度增加120，躍力增加 120"/>
+</imgdir>
+<imgdir name="20011020">
+<string name="name" value="法老的憤怒攻擊"/>
+<string name="desc" value="[精通等級：1]\n使用法老的憤怒攻擊。"/>
+<string name="h1" value="一擊清除在金字塔內所有怪物。"/>
+</imgdir>
+<imgdir name="20011024">
+<string name="name" value="寵物達人"/>
+<string name="desc" value="[最高等級：1]可攜帶多隻寵物，最多攜帶3隻"/>
+</imgdir>
+<imgdir name="20011025">
+<string name="name" value="突擊！木馬"/>
+<string name="desc" value="[精通等級：1]\n木馬移動。"/>
+<string name="h1" value="消耗MP10，物理及魔法防禦力增加10，移動速度增加120，躍力增加 120"/>
+</imgdir>
+<imgdir name="20011026">
+<string name="name" value="飛翔"/>
+<string name="desc" value="[等級上限 : 1]\n使用龍族的神秘的力量可以飛上天空。但是墜落時受到的降落傷害相當大。\n發動時消耗MP 90，維持飛翔狀態時每秒消耗1 MP。"/>
+<string name="h1" value="消耗MP 90，使用飛翔技能。每1秒消耗1 MP "/>
+</imgdir>
+<imgdir name="20011027">
+<string name="name" value="黑鱷魚"/>
+<string name="desc" value="[精通等級：1]\n黑鱷魚移動。"/>
+<string name="h1" value="消耗MP10，物理及魔法防禦力增加10，移動速度增加140，躍力增加 120"/>
+</imgdir>
+<imgdir name="20011028">
+<string name="name" value="街車"/>
+<string name="desc" value="[精通等級：1]\n街車移動。"/>
+<string name="h1" value="消耗MP10，物理及魔法防禦力增加10，移動速度增加140，躍力增加 120"/>
+</imgdir>
+<imgdir name="20011029">
+<string name="name" value="粉紅速克達"/>
+<string name="desc" value="[精通等級：1]\n粉紅速克達移動。"/>
+<string name="h1" value="消耗MP10，物理及魔法防禦力增加10，移動速度增加140，躍力增加 120"/>
+</imgdir>
+<imgdir name="20011030">
+<string name="name" value="筋斗雲"/>
+<string name="desc" value="[精通等級：1]\n筋斗雲移動。"/>
+<string name="h1" value="消耗MP10，物理及魔法防禦力增加10，移動速度增加140，躍力增加 120"/>
+</imgdir>
+<imgdir name="20011031">
+<string name="name" value="巴洛古"/>
+<string name="desc" value="[精通等級：1]\n巴洛古移動。"/>
+<string name="h1" value="消耗MP10，物理及魔法防禦力增加10，移動速度增加140，躍力增加 120"/>
+</imgdir>
+<imgdir name="20011033">
+<string name="name" value="경주용 카트"/>
+<string name="desc" value="[마스터 레벨 : 1]\n경주용 카트를 타고 이동할 수 있다."/>
+<string name="h1" value="MP 10 소비, 물리, 마법 방어력 10 증가, 이동속도 140, 점프력 120"/>
+</imgdir>
+<imgdir name="20011034">
+<string name="name" value="ZD 타이거"/>
+<string name="desc" value="[마스터 레벨 : 1]\nZD 타이거를 타고 이동할 수 있다."/>
+<string name="h1" value="MP 10 소비, 물리, 마법 방어력 10 증가, 이동속도 140, 점프력 120"/>
+</imgdir>
+<imgdir name="20011035">
+<string name="name" value="미스트 발록"/>
+<string name="desc" value="[마스터 레벨 : 1]\n미스트 발록을 타고 이동할 수 있다."/>
+<string name="h1" value="MP 10 소비, 물리, 마법 방어력 10 증가, 이동속도 140, 점프력 120"/>
+</imgdir>
+<imgdir name="20011042">
+<string name="name" value="神鳥"/>
+<string name="desc" value="[等級上限: 1]\n可騎乘神鳥移動。"/>
+<string name="h1" value="使用時消耗MP10，同時增加物理、魔法防禦力10，變更移動速度為140%，跳躍力為120%。"/>
+</imgdir>
+<imgdir name="20011044">
+<string name="name" value="菇菇寶貝"/>
+<string name="desc" value="[等級上限 : 1]\n可騎菇菇寶貝移動"/>
+<string name="h1" value="消耗MP 10 ，物理、魔法防禦力 10 增加，移動速度 140、 跳躍力 120"/>
+</imgdir>
+<imgdir name="20011046">
+<string name="name" value="宇宙船"/>
+<string name="desc" value="[等級上限 : 2]\n乘坐宇宙船。#c有效期限：2010年8月11日12點#"/>
+<string name="h1" value="消耗MP10，增加物理、魔法防禦力10、移動速度150、彈跳力120"/>
+<string name="h2" value="消耗MP10，增加物理、魔法防禦力20、移動速度170、彈跳力120"/>
+</imgdir>
+<imgdir name="20011049">
+<string name="name" value="夢魘"/>
+<string name="desc" value="[等級上限 : 1]\n晚上的夢魘，可騎夢魘移動。"/>
+<string name="h1" value="消耗MP 10，物理、魔法防禦力增加10、移動速度 170、跳躍力120"/>
+</imgdir>
+<imgdir name="20011050">
+<string name="name" value="雪吉拉"/>
+<string name="desc" value="[等級上限 : 1]\n可騎雪吉拉移動。"/>
+<string name="h1" value="消耗MP 10，物理、魔法防禦力增加10、移動速度 170、跳躍力120"/>
+</imgdir>
+<imgdir name="20011051">
+<string name="name" value="鴕鳥"/>
+<string name="desc" value="[等級上限 : 1]\n跑得最快的鳥，可騎鴕鳥移動。"/>
+<string name="h1" value="消耗MP 10，物理、魔法防禦力增加10、移動速度 170、跳躍力120"/>
+</imgdir>
+<imgdir name="20011052">
+<string name="name" value="粉紅熊熱氣球"/>
+<string name="desc" value="[等級上限 : 1]\n可搭乘粉紅熊熱氣球移動。"/>
+<string name="h1" value="消耗MP 10，物理、魔法防禦力增加10、移動速度 170、跳躍力120"/>
+</imgdir>
+<imgdir name="20011053">
+<string name="name" value="鬥神機器人"/>
+<string name="desc" value="[等級上限 : 1]\n可騎鬥神機器人移動。"/>
+<string name="h1" value="消耗MP 10，物理、魔法防禦力增加10、移動速度 170、跳躍力120"/>
+</imgdir>
+<imgdir name="20011063">
+<string name="name" value="摩托車騎士"/>
+<string name="desc" value="[等級上限 : 1]\n可騎摩托車移動。"/>
+<string name="h1" value="消耗MP10，物理、魔法防禦力10增加、移動速度140、跳躍力120。"/>
+</imgdir>
+<imgdir name="20011064">
+<string name="name" value="力量套裝"/>
+<string name="desc" value="[等級上限 : 1]\n穿上力量套裝可移動。"/>
+<string name="h1" value="消耗MP10，物理、魔法防禦力10增加、移動速度140、跳躍力120。"/>
+</imgdir>
+<imgdir name="20011069">
+<string name="name" value="貓頭鷹"/>
+<string name="desc" value="[等級上限 : 1]\n可以騎乘貓頭鷹移動"/>
+<string name="h1" value="消耗MP 10，物理、魔法防禦力各加 10，移動速度 140，跳躍力 120"/>
+</imgdir>
+<imgdir name="20018000">
+<string name="name" value="쓸만한 헤이스트"/>
+<string name="desc" value="[아이템 잠재스킬]\n일정 시간동안 자신의 이동 속도와 점프력을 증가시켜 준다."/>
+<string name="h1" value="MP 50 소비하여 200초간 이동속도 20, 점프력 10 향상"/>
+</imgdir>
+<imgdir name="20018001">
+<string name="name" value="實用的時空門"/>
+<string name="desc" value="[道具潛在技能]\n產生可通往最近村莊的傳送點. 在門消失前只有使用者可以重覆進出, 在傳送點上面按 ↑ 就會移動."/>
+<string name="h1" value="MP 120, 消耗魔法石 2個, 120秒持續開啟傳送點."/>
+</imgdir>
+<imgdir name="20018002">
+<string name="name" value="實用的會心之眼"/>
+<string name="desc" value="[道具潛在技能]\n對自己賦予可找出敵人弱點, 並造成致命傷的能力."/>
+<string name="h1" value="消耗MP80，持續時間240秒、10%的會心一擊的機率，最大傷害增加15%。"/>
+</imgdir>
+<imgdir name="20018003">
+<string name="name" value="實用的神聖之火"/>
+<string name="desc" value="[道具潛在技能]\n自己的 Max HP, Max MP的量會增加."/>
+<string name="h1" value="消耗 MP 80, 240秒內 Max HP, Max MP 增加 40%."/>
+</imgdir>
+<imgdir name="20019000">
+<string name="name" value="肥肥的弱點"/>
+<string name="desc" value="[精通等級：1]\n給予肥肥150%傷害。"/>
+</imgdir>
+<imgdir name="20019001">
+<string name="name" value="木妖的弱點"/>
+<string name="desc" value="[精通等級：1]\n給予木妖150%傷害。"/>
+</imgdir>
+<imgdir name="20019002">
+<string name="name" value="綠水靈的弱點"/>
+<string name="desc" value="[精通等級：1]\n給予綠水靈150%傷害。"/>
+</imgdir>
+<imgdir name="21000000">
+<string name="name" value="矛之鬥氣"/>
+<string name="desc" value="鬥氣量累積到10時，狀態屬性強化。\n必要技能 : #c雙重攻擊 10等級以上#"/>
+<string name="h" value="鬥氣量10的攻擊力 #y、物理防禦力 #z、魔法防禦力 #z 最多增加#x次 "/>
+</imgdir>
+<imgdir name="21000002">
+<string name="name" value="雙重攻擊"/>
+<string name="desc" value="連按兩次攻擊鍵，最多可向12隻敵人發動2次攻擊。"/>
+<string name="h" value="消耗MP #mpCon，以#damage% 傷害攻擊2次 "/>
+</imgdir>
+<imgdir name="21001001">
+<string name="name" value="戰鬥衝刺"/>
+<string name="desc" value="輸入兩次方向鍵，短距離迅速的移動。\n[使用命令 : #c→→#]\n必要技能 : #c雙重攻擊 5等級以上#"/>
+<string name="h" value="消耗MP #mpCon，短距離移動"/>
+</imgdir>
+<imgdir name="21001003">
+<string name="name" value="神速之矛"/>
+<string name="desc" value="消耗MP 一定時間內武器的攻擊速度最多上升至3階段。但是手持矛時才能發動。\n必要技能 : #c戰鬥斬5等級以上#"/>
+<string name="h" value="消耗MP #mpCon，#time秒內武器的攻擊速度提升#y階段。"/>
+</imgdir>
+<imgdir name="21100000">
+<string name="name" value="精準之矛"/>
+<string name="desc" value="矛系列武器的熟練度和命中率提升。\n必要技能 : #c三重攻擊3等級以上#"/>
+<string name="h" value="矛系列武器的熟練度#mastery%、命中率#x 上升"/>
+</imgdir>
+<imgdir name="21100001">
+<string name="name" value="三重攻擊"/>
+<string name="desc" value="攻擊鍵連按三次， 最多可向 12隻敵人進行3段攻擊。\n必要技能 : #c雙重攻擊20等級以上#"/>
+<string name="h" value="消耗MP #mpCon，以#damage% 傷害攻擊2次 "/>
+</imgdir>
+<imgdir name="21100002">
+<string name="name" value="突刺之矛"/>
+<string name="desc" value="推前方的敵人移動。 三重攻擊後才能發動。\n[使用命令 : 三重攻擊 + #c→ + 攻擊鍵#]\n必要技能 : #c三重攻擊20等級以上#"/>
+<string name="h" value="消耗MP #mpCon，以#damage% 傷害最多攻擊#mobCount位敵人並移動 "/>
+</imgdir>
+<imgdir name="21100004">
+<string name="name" value="猛擲之矛"/>
+<string name="desc" value="在矛上集鬥氣朝著前方的敵人丟擲。 #c鬥氣量蒐集至30 以上# 才可使用。\n[使用命令 : #c↓→ + 攻擊鍵#]\n必要技能 : #c矛之鬥氣1等級以上#"/>
+<string name="h" value="以#damage% 傷害最多攻擊#mobCount位敵人 "/>
+</imgdir>
+<imgdir name="21100005">
+<string name="name" value="連環吸血"/>
+<string name="desc" value="使用加持用HP吸收從敵人那裡受到的部分傷害。 不可恢復至角色最大HP的 10% 以上 ， #c鬥氣量蒐集至 30 以上# 時才可使用。\n[使用命令 : #c↓↓ + 攻擊鍵#]\n必要技能 : #c矛之鬥氣1等級以上#"/>
+<string name="h" value="#time秒內恢復相當於傷害#x% 的HP "/>
+</imgdir>
+<imgdir name="21101003">
+<string name="name" value="強化連擊"/>
+<string name="desc" value="在一定時間內可對怪物進行身體攻擊。還有攻擊時會以一定機率讓對象在5秒內無力化。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內可有 #damage% 傷害的強化攻擊，攻擊時會以#prop% 機率讓對象在5秒內無力化"/>
+</imgdir>
+<imgdir name="21110000">
+<string name="name" value="暴擊連擊"/>
+<string name="desc" value="會心一擊機率上升。 鬥氣量累積到10時，會心一擊機率追加上升。\n必要技能 : #c矛之鬥氣10等級以上#"/>
+<string name="h" value="會心一擊機率 #cr% 增加，鬥氣量10會追加會心一擊機率 #y%，最多增加#x次 "/>
+</imgdir>
+<imgdir name="21110002">
+<string name="name" value="伺機攻擊"/>
+<string name="desc" value="雙重攻擊採用連續攻擊升級。還有雙重攻擊和三重攻擊的傷害上升。\n必要技能 : #c三重攻擊 20等級以上#"/>
+<string name="h" value="雙重攻擊 : 消耗MP #v，以#w% 傷害攻擊2次，三重攻擊 : 消耗MP #x，#y% 傷害"/>
+</imgdir>
+<imgdir name="21110003">
+<string name="name" value="挑怪"/>
+<string name="desc" value="讓前方的多數敵人飄至空中。空中狀態的怪物受到攻擊時會得到更大傷害。用過三重攻擊之後才能使用。\n[使用命令 : 三重攻擊 + #c↑ + 攻擊鍵 #]\n必要技能 : #c三重攻擊 20等級以上#"/>
+<string name="h" value="消耗MP #mpCon，最多讓 #mobCount位敵人投至空中，#damage% 傷害，在空中狀態下攻擊時#x% 追加傷害"/>
+</imgdir>
+<imgdir name="21110004">
+<string name="name" value="狼魂衝擊"/>
+<string name="desc" value="發散潛藏著野狼之魂的劍氣，像正前方攻擊多位敵人2次。 #c鬥氣量凝聚至100 以上# 時才可使用。\n[使用命令 : #c↓→ + 攻擊鍵#]\n必要技能 : #c猛擲之矛 10等級以上#"/>
+<string name="h" value="用#damage% 傷害最多可攻擊#mobCount位敵人2次"/>
+</imgdir>
+<imgdir name="21110006">
+<string name="name" value="旋風斬"/>
+<string name="desc" value="跳躍和迴轉，大幅度揮矛。 將周圍的敵人推至左右。\n[使用命令 : #c↑↑ + 攻擊鍵#]"/>
+<string name="h" value="消耗MP #mpCon，#damage% 傷害，以#prop% 機率最多推開 #mobCount位敵人 #range。"/>
+</imgdir>
+<imgdir name="21110007">
+<string name="name" value="(hidden)伺機攻擊-雙重攻擊"/>
+<string name="desc" value="[等級上限：20]"/>
+</imgdir>
+<imgdir name="21110008">
+<string name="name" value="(hidden)伺機攻擊-三重攻擊"/>
+<string name="desc" value="[等級上限：20]"/>
+</imgdir>
+<imgdir name="21111001">
+<string name="name" value="精準擊退"/>
+<string name="desc" value="一定時間內敵人的傷害也可強弓對象。"/>
+<string name="h" value="MP #mpCon和 #time秒內強弓怪物必要的傷害減少至#x%。"/>
+</imgdir>
+<imgdir name="21111005">
+<string name="name" value="寒冰屬性"/>
+<string name="desc" value="一定時間內賦予矛冰屬性，並增加傷害。 "/>
+<string name="h" value="MP #mpCon和 #time秒內賦予武器冰屬性，#damage% 傷害，#y秒內敵人的移動速度 #x"/>
+</imgdir>
+<imgdir name="21120001">
+<string name="name" value="攻擊戰術"/>
+<string name="desc" value="矛系列武器的熟練度提升至極限，增加會心一擊最小傷害和物理攻擊力。\n必要技能 : #c精準之矛20等級以上#"/>
+<string name="h" value="矛系列武器的熟練度#mastery%，物理攻擊力 #x、會心一擊最小傷害 #criticaldamageMin% 上升"/>
+</imgdir>
+<imgdir name="21120002">
+<string name="name" value="終極攻擊"/>
+<string name="desc" value="雙重攻擊和三重攻擊全部升級為連擊攻擊。還有雙重攻擊和三重攻擊的傷害上升至極限。\n必要技能 : #c伺機攻擊 20等級以上#"/>
+<string name="h" value="雙重攻擊 : 消耗MP #v，以#w% 傷害攻擊2次，三重攻擊 : 消耗MP #x，以#y% 傷害攻擊2次"/>
+</imgdir>
+<imgdir name="21120004">
+<string name="name" value="防禦戰術"/>
+<string name="desc" value="取得更頂級的防禦技術，永久減少敵人造成的傷害。"/>
+<string name="h" value="減少敵人造成的傷害 #t% "/>
+</imgdir>
+<imgdir name="21120005">
+<string name="name" value="終極之矛"/>
+<string name="desc" value="大幅揮矛，最多可對12隻敵人進行強力的攻擊。 #c三重攻擊後#才能使用。\n[使用命令 : 三重攻擊 + #c↓ + 攻擊鍵#]\n必要技能 : #三重攻擊 20等級以上#"/>
+<string name="h" value=" 消耗MP #mpCon，用#damage% 傷害最多攻擊#mobCount位敵人 "/>
+</imgdir>
+<imgdir name="21120006">
+<string name="name" value="極冰暴風"/>
+<string name="desc" value="讓周圍多數的敵人變成只要少許的衝擊就會秒殺的極限結冰狀態，對Boss怪物發動四次連擊造成致命傷害。#c鬥氣量凝聚至200 以上# 時才能使用。\n[使用命令 : #c↓→ + 攻擊鍵#]\n必要技能 : #c幻影之刃10等級以上#"/>
+<string name="h" value="以 #damage% 傷害攻擊Boss怪物#attackCount次，一般怪物在#time秒內結冰"/>
+</imgdir>
+<imgdir name="21120007">
+<string name="name" value="宙斯之盾"/>
+<string name="desc" value="使用組隊加持減少一定時間內受到的傷害。 #c鬥氣量凝聚至200 以上# 時才能使用。\n[使用命令 : #c↓↓ + 攻擊鍵#]\n必要技能 : #c連環吸血 10等級以上#"/>
+<string name="h" value="吸收#time秒內受到傷害的 #t%"/>
+</imgdir>
+<imgdir name="21120009">
+<string name="name" value="(hidden)終極攻擊-雙重攻擊"/>
+<string name="desc" value="[等級上限：30]"/>
+</imgdir>
+<imgdir name="21120010">
+<string name="name" value="(hidden)終極攻擊-三重攻擊"/>
+<string name="desc" value="[等級上限：30]"/>
+</imgdir>
+<imgdir name="21121000">
+<string name="name" value="楓葉祝福"/>
+<string name="desc" value="在一定時間內將組隊成員的所有狀態屬性提升一定百分比。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內的所有狀態屬性 #x% 提升"/>
+</imgdir>
+<imgdir name="21121003">
+<string name="name" value="靈魂戰鬥"/>
+<string name="desc" value="接受冰河的氣一定時間內即使敵人攻擊也不會退縮。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內以#prop% 機率不會震退。"/>
+</imgdir>
+<imgdir name="21121008">
+<string name="name" value="楓葉淨化"/>
+<string name="desc" value="解除迷惑異常狀態。等級越高再次使用等待時間越短。"/>
+<string name="h" value="消耗MP #mpCon，再次使用等待時間#cooltime秒"/>
+</imgdir>
+<imgdir name="22000000">
+<string name="name" value="龍之魂"/>
+<string name="desc" value="透過和龍的的交流提升魔力。"/>
+<string name="h" value="提升魔力 #mad "/>
+</imgdir>
+<imgdir name="22001001">
+<string name="name" value="魔法飛彈"/>
+<string name="desc" value="消耗MP，連續攻擊敵人2次"/>
+<string name="h" value="消耗MP #mpCon，以#damage% 傷害攻擊2次 "/>
+</imgdir>
+<imgdir name="22101000">
+<string name="name" value="火圈"/>
+<string name="desc" value="發射火焰攻擊多個敵人"/>
+<string name="h" value="消耗MP #mpCon，最多可給 #mobCount位敵人#damage%傷害"/>
+</imgdir>
+<imgdir name="22101001">
+<string name="name" value="瞬間移動"/>
+<string name="desc" value="一定距離瞬間移動。同時按下上、下、左、右方向鍵，就能朝該方向移動。 "/>
+<string name="h" value="消耗MP #mpCon，移動距離 #range的瞬間移動 "/>
+</imgdir>
+<imgdir name="22111000">
+<string name="name" value="閃電球"/>
+<string name="desc" value="對一位敵人降下雷擊"/>
+<string name="h" value="消耗MP #mpCon，以#damage% 傷害最多攻擊#mobCount位 "/>
+</imgdir>
+<imgdir name="22111001">
+<string name="name" value="魔心防禦"/>
+<string name="desc" value="一定時間內用MP替代部分的傷害。 但是 MP為0的情況會直接消耗HP。"/>
+<string name="h" value="消耗MP #mpCon，用MP代替#time秒內受到的傷害的 #x%。"/>
+</imgdir>
+<imgdir name="22120002">
+<string name="name" value="咒語精通"/>
+<string name="desc" value="提升魔法熟練度和魔力。 "/>
+<string name="h" value="增加魔法熟練度#mastery%、魔力 #x "/>
+</imgdir>
+<imgdir name="22121000">
+<string name="name" value="雪嵐陣"/>
+<string name="desc" value="一定時間內聚集凍氣攻擊多隻怪物。凍氣凝聚的時間會依比例增加傷害。"/>
+<string name="h" value="消耗MP #mpCon，以#damage% 傷害最多攻擊#mobCount位敵人，以#prop%機率在 #time秒內結冰。"/>
+</imgdir>
+<imgdir name="22121001">
+<string name="name" value="自然力重置"/>
+<string name="desc" value="一定時間內減少自己使用的所有攻擊魔法的屬性。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內減少攻擊屬性 #x% "/>
+</imgdir>
+<imgdir name="22131000">
+<string name="name" value="魔光殺"/>
+<string name="desc" value="透過魔法陣生成的光之柱包圍一個敵人，給予傷害。"/>
+<string name="h" value="消耗MP #mpCon，以#damage% 傷害最多攻擊#mobCount位 "/>
+</imgdir>
+<imgdir name="22131001">
+<string name="name" value="守護之力"/>
+<string name="desc" value="20秒內產生防護膜可吸收組隊成員受到傷害的一定量。 [再次使用等待時間: 40秒]"/>
+<string name="h" value="消耗MP #mpCon，吸收#time秒內受到的傷害的 #x% 。"/>
+</imgdir>
+<imgdir name="22140000">
+<string name="name" value="魔力爆擊"/>
+<string name="desc" value="增加會心一擊攻擊機率。"/>
+<string name="h" value="會心一擊攻擊機率增加#prop%。 "/>
+</imgdir>
+<imgdir name="22141001">
+<string name="name" value="龍神閃"/>
+<string name="desc" value="魔龍推前方的敵人攻擊。"/>
+<string name="h" value="消耗MP #mpCon，以 #damage% 傷害最多攻擊#mobCount位敵人，以 #prop% 機率強弓。"/>
+</imgdir>
+<imgdir name="22141002">
+<string name="name" value="極速詠唱"/>
+<string name="desc" value="消耗MP，一定時間內讓魔法攻擊速度最多上升至 3階段。"/>
+<string name="h" value="消耗MP #mpCon， #time秒內魔法攻擊速度提升#y階段 "/>
+</imgdir>
+<imgdir name="22141003">
+<string name="name" value="緩速術"/>
+<string name="desc" value="使用緩速術加持。 緩速術加持狀態下攻擊時，會以一定機率減緩對象的移動速度。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內持續加持，攻擊時會以#prop% 機率在 #y秒內對象的移動速度 #x"/>
+</imgdir>
+<imgdir name="22150000">
+<string name="name" value="魔力激發"/>
+<string name="desc" value="消耗更多的MP，相對的所有攻擊魔法的傷害增加威力。"/>
+<string name="h" value="消耗 MP #x% 增加，攻擊魔法傷害 #y% 增加"/>
+</imgdir>
+<imgdir name="22151001">
+<string name="name" value="火焰殺"/>
+<string name="desc" value="一定時間內凝聚火焰攻擊多個怪物。對象使用昏迷效果，火焰凝聚時間依比例增加傷害。"/>
+<string name="h" value="消耗MP #mpCon，以#damage% 傷害最多攻擊#mobCount位敵人， 以#prop% 機率在 #time秒內昏迷。"/>
+</imgdir>
+<imgdir name="22151002">
+<string name="name" value="襲殺翼"/>
+<string name="desc" value="攻擊一個敵人，蓋上龍烙印。 之後自己的所有攻擊會集中於該集中對象。"/>
+<string name="h" value="消耗MP #mpCon，以#damage% 傷害最多攻擊#mobCount位 "/>
+</imgdir>
+<imgdir name="22151003">
+<string name="name" value="魔法抵抗．改"/>
+<string name="desc" value="一定時間內增加周圍組隊成員的魔法耐性。 "/>
+<string name="h" value="消耗MP #mpCon，#time秒內魔法耐性增加#x% "/>
+</imgdir>
+<imgdir name="22160000">
+<string name="name" value="龍神的護佑"/>
+<string name="desc" value="自己的MP維持在一定範圍內，魔龍的集中力變強魔力上升。 MP脫離範圍時，效果就會消失。"/>
+<string name="h" value="MP #x% 以上 #y% 以下時魔力增加#damage% 。"/>
+</imgdir>
+<imgdir name="22161001">
+<string name="name" value="大地震盪"/>
+<string name="desc" value="大地震動同時攻擊多個敵人。"/>
+<string name="h" value="消耗MP #mpCon，以 #damage% 傷害最多攻擊#mobCount位敵人"/>
+</imgdir>
+<imgdir name="22161002">
+<string name="name" value="鬼神詛咒"/>
+<string name="desc" value="產生魔法陣詛咒對象。被詛咒的敵人會一定時間內得到更多傷害。"/>
+<string name="h" value="消耗MP #mpCon，#damage% 傷害，#time秒內使用#x% 更多傷害。 "/>
+</imgdir>
+<imgdir name="22161003">
+<string name="name" value="聖療之光"/>
+<string name="desc" value="30秒內在自己周圍展開恢復的極光。 極光範圍內的組隊成員持續恢復 MP。 [再次使用等待時間: 1分鐘]"/>
+<string name="h" value="HP #hpCon，消耗MP #mpCon，#time秒內恢復力 #x%"/>
+</imgdir>
+<imgdir name="22170001">
+<string name="name" value="魔法激發"/>
+<string name="desc" value="提升魔法熟練度、魔力和會心一擊最小傷害。\n必要技能 : #c咒語精通10等級以上#"/>
+<string name="h" value="提升魔法熟練度#mastery%、魔力 #x、會心一擊最小傷害增加#criticaldamageMin% "/>
+</imgdir>
+<imgdir name="22171000">
+<string name="name" value="楓葉祝福"/>
+<string name="desc" value="在一定時間內將組隊成員的所有狀態屬性提升一定百分比。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內的所有狀態屬性 #x% 提升"/>
+</imgdir>
+<imgdir name="22171002">
+<string name="name" value="四連殺"/>
+<string name="desc" value="魔龍的分身連續攻擊對象4次。"/>
+<string name="h" value="消耗MP #mpCon，以 #damage% 傷害攻擊4次 "/>
+</imgdir>
+<imgdir name="22171003">
+<string name="name" value="火輪舞"/>
+<string name="desc" value="發出火輪形狀的火團，對最大6名敵人展開火屬性攻擊。"/>
+<string name="h" value="消耗MP #mpCon，以 #damage% 傷害最多攻擊#mobCount位敵人"/>
+</imgdir>
+<imgdir name="22171004">
+<string name="name" value="楓葉淨化"/>
+<string name="desc" value="解除迷惑異常狀態。等級越高再次使用等待時間越短。"/>
+<string name="h" value="消耗MP #mpCon，再次使用等待時間#cooltime秒"/>
+</imgdir>
+<imgdir name="22181000">
+<string name="name" value="龍神的祝福"/>
+<string name="desc" value="用歐尼斯的祝福增加自己的物理防禦力、魔法防禦力、魔力。"/>
+<string name="h" value="消耗MP #mpCon， #time秒內增加物理防禦力 #pdd、魔法防禦力 #mdd、魔力 #mad "/>
+</imgdir>
+<imgdir name="22181001">
+<string name="name" value="烈焰爆擊"/>
+<string name="desc" value="對對象吐出火焰，給予重傷，並在一定時間內昏迷。 對象周圍有其他敵人時會受到追加傷害，然而傷害減少。"/>
+<string name="h" value="消耗MP #mpCon，最大 #damage% 傷害，可攻擊#mobCount名，以 #prop% 機率在 #time秒內昏迷"/>
+</imgdir>
+<imgdir name="22181002">
+<string name="name" value="龍神之怒"/>
+<string name="desc" value="形成冰冷黑暗的的霧團，最多同時攻擊15隻敵人。使用追加會心一擊機率。"/>
+<string name="h" value="消耗MP #mpCon，最多給予15位敵人 #damage% 傷害，追加會心一擊機率 #cr%，再次使用等待時間#cooltime秒。"/>
+</imgdir>
+<imgdir name="22181003">
+<string name="name" value="靈魂之石"/>
+<string name="desc" value="施展可保護對象靈魂的加持。隨機選擇組隊成員加持， 靈魂石加持狀態下死亡，可在原地復活。 [再次使用等待時間: 6分鐘]"/>
+<string name="h" value="消耗MP #mpCon，在 #time秒內對於#y名使用靈魂石加持，死亡時可以#x%的 HP原地復活。"/>
+</imgdir>
+<imgdir name="30000022">
+<string name="name" value="會心一擊"/>
+<string name="desc" value="[等級上限 : 20]\n可用一定機率進行會心一擊攻擊"/>
+<string name="h1" value="50%的 機率"/>
+</imgdir>
+<imgdir name="30001068">
+<string name="name" value="機甲戰神衝鋒"/>
+<string name="desc" value="輸入兩次方向鍵，短距離也能迅速移動。\n[使用命令 : #c→→#]"/>
+<string name="h" value="消耗MP #mpCon，短距離移動"/>
+</imgdir>
+<imgdir name="35001001">
+<string name="name" value="火焰發射"/>
+<string name="desc" value="噴出火焰同時攻擊前方的多數敵人。 #c最多可連續使用8秒# 以上 。\n必要技能 : #c加格林射擊 10等級以上#"/>
+<string name="h" value="每次攻擊消耗MP #mpCon， #damage% 傷害，按下技能鍵最多可在 8秒內攻擊#mobCount位敵人。"/>
+</imgdir>
+<imgdir name="35001002">
+<string name="name" value="合金盔甲: 原型"/>
+<string name="desc" value="召喚合金盔甲&lt;原型&gt;後搭乘。最大 HP、最大 MP、攻擊力、防禦力大幅上升，下方跳躍許可距離增加。被擊時以100%機率發動格檔效果。\n按下技能鍵可搭乘，搭乘中再次按下技能鍵即可離開。"/>
+<string name="h" value="消耗MP #mpCon，搭乘時最大 HP #emhp、最大 MP #emmp、攻擊力 #epad、防禦力 #epdd 增加"/>
+</imgdir>
+<imgdir name="35001003">
+<string name="name" value="鑽孔衝刺"/>
+<string name="desc" value="將前方的敵人推到鑽孔石。\n必要技能 : #c合金盔甲: 原型1等級以上#"/>
+<string name="h" value="消耗MP #mpCon，最多用#damage% 傷害攻擊#mobCount位敵人"/>
+</imgdir>
+<imgdir name="35001004">
+<string name="name" value="加格林射擊"/>
+<string name="desc" value="用加格林箭集中攻擊前方的一位敵人。\n必要技能 : #c合金盔甲: 原型1等級以上#"/>
+<string name="h" value="MP #mpCon 消耗，用 #damage% 傷害攻擊#bulletCount次 "/>
+</imgdir>
+<imgdir name="35100000">
+<string name="name" value="機甲戰神精通"/>
+<string name="desc" value="永久增加物理攻擊力、武器熟練度和命中率。"/>
+<string name="h" value="物理攻擊力 #padX、熟練度#mastery%、命中率 #x 上升"/>
+</imgdir>
+<imgdir name="35100008">
+<string name="name" value="重裝武器精通"/>
+<string name="desc" value="大幅提升加格林射擊和火牢術發射的性能"/>
+<string name="h" value="加格林射擊 : 消耗MP #u，以 #w% 傷害攻擊6次，追加會心一擊機率增加#cr% \n火牢術發射: 消耗MP #v， #x% 傷害，5秒內每秒 #y% 傷害的 持續性(DOT)傷害追加，技能範圍增加"/>
+</imgdir>
+<imgdir name="35101003">
+<string name="name" value="自動錘"/>
+<string name="desc" value="合金盔甲的拳頭內建的原子力機關槍以最大輸出啟動，同時打擊地面。 給予前方的 敵人重傷害，一定時間內昏迷。"/>
+<string name="h" value="消耗MP #mpCon，以 #damage% 傷害最多攻擊#mobCount位敵人，以#prop% 機率在 #time秒內使用昏迷效果，無視對象的防禦力 #ignoreMobpdpR%"/>
+</imgdir>
+<imgdir name="35101004">
+<string name="name" value="火箭極速"/>
+<string name="desc" value="使用火箭的推動力跳躍至高處。 著地時會對一定範圍內的多數敵人造成傷害。跳躍和著地時會分別消耗 MP。"/>
+<string name="h" value="跳躍和著地時分別消耗MP #mpCon，著地時最多可給予 #mobCount位敵人#damage% 傷害"/>
+</imgdir>
+<imgdir name="35101005">
+<string name="name" value="開放通道 : GX-9"/>
+<string name="desc" value="安裝開放通道 &lt;GX-9&gt;。 通道可同時安裝2個，自己和組隊成員可在通道之間自由的移動。但是通道間的距離太遠時則無法運作。"/>
+<string name="h" value="消耗MP #mpCon，召喚持續#time秒的開放通道 "/>
+</imgdir>
+<imgdir name="35101006">
+<string name="name" value="機甲戰神極速"/>
+<string name="desc" value="消耗MP，一定時間內攻擊速度上升2階段。\n必要技能 : #c機甲戰神精通5等級以上#"/>
+<string name="h" value="消耗MP #mpCon，#time秒內提升攻擊速度 "/>
+</imgdir>
+<imgdir name="35101007">
+<string name="name" value="全備型盔甲 (Perfect Armor)"/>
+<string name="desc" value="合金盔甲上追加兩種新能力。\n使用技能時啟動部分效果，再次使用時關閉的 #c開關技能#\n必要技能 : #c合金盔甲: 原型10等級#"/>
+<string name="h" value="功能 1 : 搭乘合金盔甲時，以#prop% 機率防禦敵人的攻擊 (永久使用)\n功能 2 : 被擊時受到傷害的 #x%反射給敵人(技能啟動時使用)"/>
+</imgdir>
+<imgdir name="35101009">
+<string name="name" value="強化的火焰發射"/>
+<string name="desc" value="吐出火焰同時攻擊前方的多數敵人。 #c最多不可連續使用 8秒# 以上。\n必要技能 : #c加格林 Shot10等級以上#"/>
+</imgdir>
+<imgdir name="35101010">
+<string name="name" value="強化的加格林 Shot"/>
+<string name="desc" value="用加格林劍集中攻擊前方的一位敵人。\n必要技能 : #c合金盔甲: 原型1等級以上#"/>
+</imgdir>
+<imgdir name="35110014">
+<string name="name" value="金屬拳精通"/>
+<string name="desc" value="提升鑽孔衝刺、自動錘的傷害"/>
+<string name="h" value="鑽孔衝刺、自動錘的傷害增加#damR% "/>
+</imgdir>
+<imgdir name="35111001">
+<string name="name" value="賽特拉特"/>
+<string name="desc" value="超小型攻擊衛星&lt;賽特拉特&gt;。衛星透過遠距控制系統，自動支援打擊攻擊角色的敵人。最多召喚3個，再次使用技能時可解除召喚。"/>
+<string name="h" value="消耗MP #mpCon，#damage%召喚傷害的賽特拉特 #x個 "/>
+</imgdir>
+<imgdir name="35111002">
+<string name="name" value="磁場"/>
+<string name="desc" value="安裝3個的磁場線圈，產生可持續攻擊敵人的&lt;磁場&gt;。磁場線圈待持續時間結束就會自行爆炸。"/>
+<string name="h" value="消耗MP #mpCon， #y秒內產生磁場， 在範圍內給予 #mobCount位敵人#damage% 傷害和暈眩效果，持續時間經過時會以 #selfDestruction%的 傷害自行爆炸\n#c再次使用等待時間#cooltime秒#"/>
+</imgdir>
+<imgdir name="35111004">
+<string name="name" value="合金盔甲: 重機槍"/>
+<string name="desc" value="合金盔甲轉換為 &lt;重機槍&gt;， 瞬間放大火力。重機槍狀態下只能使用基本攻擊，所有攻擊使用會心一擊。\n[重機槍發射 : #c攻擊鍵#]"/>
+<string name="h" value="消耗MP #mpCon，#time秒內轉換， #damage% 傷害\n#c再次使用等待時間#cooltime秒#"/>
+</imgdir>
+<imgdir name="35111005">
+<string name="name" value="加速器 : EX-7"/>
+<string name="desc" value="召喚固定型加速器機器人 &lt;EX-7&gt;，增加地圖內的所有怪物的移動速度，防禦力變低。 EX-7待持續時間結束後會自行爆炸。"/>
+<string name="h" value="消耗MP #mpCon， #time秒內安裝加速器，持續時間內怪物的移動速度 #x 上升，防禦力 #y% 減少，持續時間經過時會 #selfDestruction%的傷害自行爆炸"/>
+</imgdir>
+<imgdir name="35111009">
+<string name="name" value="賽特拉特"/>
+<string name="desc" value="召喚超小型攻擊衛星&lt;賽特拉特&gt;。衛星透過遠距控制系統，自動攻擊合金盔甲攻擊的敵人。最多召喚3個， 再次使用技能時可解除召喚。"/>
+<string name="h" value="消耗MP #mpCon，以#damage% 傷害最多攻擊#mobCount位 의 새틀라이트 #x개 소환"/>
+</imgdir>
+<imgdir name="35111010">
+<string name="name" value="衛星"/>
+<string name="desc" value="超小型攻擊衛星&lt;賽特拉特&gt;。衛星透過遠距控制系統，自動攻擊合金盔甲攻擊的敵人。最多召喚3個， 再次使用技能時可解除召喚。"/>
+<string name="h" value="消耗MP #mpCon，召喚#damage% 傷害的衛星 #x個"/>
+</imgdir>
+<imgdir name="35111011">
+<string name="name" value="治療機器人 : H-LX"/>
+<string name="desc" value="召喚固定型治療機器人 &lt;H-LX&gt;。 H-LX透過內建的特殊感應器，自動恢復自己的附近組隊成員的HP。但是體力恢復的對象無法取得2秒的治療效果、還有H-LX待持續時間經過時後自行爆炸。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內召喚，倒臥在H-LX周圍時，會恢復MAX HP的 #hp%를，持續時間經過時會以#selfDestruction%的 傷害自行爆炸\n#c再次使用等待時間#cooltime秒#"/>
+</imgdir>
+<imgdir name="35111013">
+<string name="name" value="幸運骰子"/>
+<string name="desc" value="擲骰子試試手氣。根據骰子的結果，可在一段時間內取得隨機加持，然而結果為1時不會產生任何作用。"/>
+<string name="h" value="消耗MP #mpCon，骰子加持持續時間 #time秒\n#c再次使用等待時間#cooltime秒#"/>
+</imgdir>
+<imgdir name="35111015">
+<string name="name" value="火箭衝擊"/>
+<string name="desc" value="朝前方發射拳頭攻擊多位敵人。一定時間內讓對象昏迷。"/>
+<string name="h" value="消耗MP #mpCon，以#damage%的 傷害穿刺#mobCount位敵人，在#time秒內對對象使用昏迷效果"/>
+</imgdir>
+<imgdir name="35120000">
+<string name="name" value="合金盔甲終極"/>
+<string name="desc" value="合金盔甲的攻擊力、防禦力、最大 HP、最大 MP、武器熟練度上升。\n必要技能 : #c合金盔甲: 原型10等級# "/>
+<string name="h" value="攻擊力 #epad、防禦力 #epdd、最大 HP #emhp、最大 MP #emmp、武器熟練度#mastery 上升"/>
+</imgdir>
+<imgdir name="35120001">
+<string name="name" value="機器人精通"/>
+<string name="desc" value="所有召喚機器人的攻擊力自行爆炸傷害，召喚持續時間上升"/>
+<string name="h" value="機器人的攻擊力和自行爆炸傷害 #x% 上升，召喚持續時間 #y% 增加"/>
+</imgdir>
+<imgdir name="35121003">
+<string name="name" value="戰鬥機器 : 巨人錘 "/>
+<string name="desc" value="召喚巨型機器人 &lt;巨人錘&gt;，同時攻擊周圍的所有敵人。召喚巨人錘時會出現在一定時間出現啟動的計量器，連擊一般攻擊鍵補充計量器，傷害可增加威力最多到2倍。"/>
+<string name="h" value="MP #mpCon 消耗，最多給予 #mobCount位敵人#damage% 傷害\n#c再次使用等待時間#cooltime秒#"/>
+</imgdir>
+<imgdir name="35121005">
+<string name="name" value="合金盔甲: 導彈罐"/>
+<string name="desc" value="合金盔甲轉換為 &lt;導彈罐&gt;模式。 導彈罐狀態下持續消耗MP，一般攻擊時使用 追加會心一擊機率。還有在導彈罐狀態下使用重機槍時會增加傷害。\n按下技能鍵可搭乘。搭乘中按下技能可離開。\n[飛彈發射 : #c攻擊鍵#]\n[可使用技能 : #c雷射衝擊波、重機槍#]\n必要技能 : #c合金盔甲: 重機槍 10等級以上#"/>
+<string name="h" value="消耗MP #mpCon轉換為導彈罐模式， 每#v秒#u的 MP追加消耗， #damage% 傷害\n一般攻擊時追加會心一擊機率 #cr%，使用重機槍增加傷害 #z% "/>
+</imgdir>
+<imgdir name="35121006">
+<string name="name" value="終極賽特拉特"/>
+<string name="desc" value="永久增加賽特拉特的攻擊傷害。瞬間受到致命傷時，賽特拉特會代替吸收部分的傷害，將傷害降至最小。吸收傷害的賽特拉特會自動消失，一定時間內無法啟動安全效果。\n使用技能時啟動效果，再次使用時關閉的 #c開關技能#\n必要技能 : #c賽特拉特 10等級以上#"/>
+<string name="h" value="賽特拉特的攻擊傷害增加#damR% \n瞬間被擊傷害為最大 HP的 #x% 以上時發動，被擊傷害的 #y%由 賽特拉特吸收\n#c再發動等待時間#cooltime秒#"/>
+</imgdir>
+<imgdir name="35121007">
+<string name="name" value="楓葉祝福"/>
+<string name="desc" value="在一定時間內將組隊成員的所有狀態屬性提升一定百分比。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內的所有狀態屬性 #x% 提升"/>
+</imgdir>
+<imgdir name="35121008">
+<string name="name" value="楓葉淨化"/>
+<string name="desc" value="解除迷惑異常狀態。等級越高再次使用等待時間越短。"/>
+<string name="h" value="消耗MP #mpCon，再次使用等待時間#cooltime秒"/>
+</imgdir>
+<imgdir name="35121009">
+<string name="name" value="機器人工廠 : RM1"/>
+<string name="desc" value="安裝以一定週期召喚玩具機器人的機器人工廠 &lt;RM1&gt;。 召喚的玩具機器人在RM1周圍發現敵人時，或是經過一段時間會自行爆炸給予傷害，機器人工廠以及經過持續時間會自行爆炸。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內安裝機器人工廠。每#x秒召喚#y個#u% 傷害的玩具機器人，經過持續時間時會以 #selfDestruction%的 傷害自行爆炸\n#c再次使用等待時間#cooltime秒#"/>
+</imgdir>
+<imgdir name="35121010">
+<string name="name" value="擴音器 : AF-11"/>
+<string name="desc" value="組隊成員的傷害增加威力，召喚固定型擴音器機器人 &lt;AF-11&gt;。 AF-11經過持續時間後會自行爆炸。"/>
+<string name="h" value="消耗MP #mpCon， #time秒內召喚擴音器。組隊成員的傷害 #x%上升，持續時間經過後會以 #selfDestruction%的傷害自行爆炸\n#c再次使用等待時間#cooltime秒#"/>
+</imgdir>
+<imgdir name="35121012">
+<string name="name" value="雷射衝擊波"/>
+<string name="desc" value="朝前方發射雷射光攻擊多個敵人。導彈罐狀態時才能使用的專用技能。\n必要技能 : #c合金盔甲: 導彈罐 1等級以上#"/>
+<string name="h" value="消耗MP #mpCon，最多可以 #damage% 傷害攻擊#mobCount位敵人#attackCount次 "/>
+</imgdir>
+<imgdir name="35121013">
+<string name="name" value="合金盔甲: 重機槍"/>
+<string name="desc" value="合金盔甲轉換為 &lt;重機槍&gt; 模式，瞬間火力極大化。重機槍狀態下只能使用基本攻擊，所有攻擊使用會心一擊。被擊時 以100% 機率發動格檔效果。\n[重機槍發射 : #c攻擊鍵#]"/>
+<string name="h" value="MP #mpCon 消耗，#time秒內轉換 #damage% 傷害\n#c再次使用等待時間#cooltime秒#"/>
+</imgdir>
+<imgdir name="90000000">
+<string name="name" value="死亡"/>
+<string name="desc" value=""/>
+<string name="h1" value="死亡"/>
+</imgdir>
+<imgdir name="90001001">
+<string name="name" value="氣絕"/>
+<string name="desc" value=""/>
+<string name="h1" value="一殺"/>
+</imgdir>
+<imgdir name="90001002">
+<string name="name" value="緩速術"/>
+<string name="desc" value=""/>
+<string name="h1" value="緩速術"/>
+</imgdir>
+<imgdir name="90001003">
+<string name="name" value="毒"/>
+<string name="desc" value=""/>
+<string name="h1" value="毒"/>
+</imgdir>
+<imgdir name="90001004">
+<string name="name" value="暗黑"/>
+<string name="desc" value=""/>
+<string name="h1" value="暗黑"/>
+<string name="h2" value="암흑"/>
+</imgdir>
+<imgdir name="90001005">
+<string name="name" value="封印"/>
+<string name="desc" value=""/>
+<string name="h1" value="封印"/>
+</imgdir>
+<imgdir name="90001006">
+<string name="name" value="結冰"/>
+<string name="desc" value=""/>
+<string name="h1" value="結冰"/>
+<string name="h2" value="결빙"/>
+</imgdir>
+<imgdir name="3000">
+<string name="bookName" value="末日反抗軍的基本"/>
+</imgdir>
+<imgdir name="3200">
+<string name="bookName" value="煉獄巫師一轉"/>
+</imgdir>
+<imgdir name="3210">
+<string name="bookName" value="煉獄巫師二轉"/>
+</imgdir>
+<imgdir name="3211">
+<string name="bookName" value="煉獄巫師三轉"/>
+</imgdir>
+<imgdir name="3212">
+<string name="bookName" value="煉獄巫師四轉"/>
+</imgdir>
+<imgdir name="3300">
+<string name="bookName" value="狂豹獵人一轉"/>
+</imgdir>
+<imgdir name="3310">
+<string name="bookName" value="狂豹獵人 2轉"/>
+</imgdir>
+<imgdir name="3311">
+<string name="bookName" value="狂豹獵人 3轉"/>
+</imgdir>
+<imgdir name="3312">
+<string name="bookName" value="狂豹獵人 4轉"/>
+<string name="desc" value="解除迷惑異常狀態。等級越高再次使用等待時間越短。"/>
+</imgdir>
+<imgdir name="33121009">
+<string name="name" value="狂野帕爾坎"/>
+<string name="desc" value="以暴風雨般的快速發射弓箭。按住技能鍵可持續射箭。"/>
+<string name="h" value="MP #mpCon 消耗，每發 #damage% 傷害"/>
+</imgdir>
+<imgdir name="33121008">
+<string name="name" value="楓葉淨化"/>
+<string name="desc" value="解除迷惑異常狀態。等級越高再次使用等待時間越短。"/>
+<string name="h" value="消耗MP #mpCon，再次使用等待時間#cooltime秒"/>
+</imgdir>
+<imgdir name="32001000">
+<string name="name" value="三重之矛"/>
+<string name="desc" value="快速連續攻擊多個敵人3次。"/>
+<string name="h" value="消耗MP #mpCon，最多可以#damage% 傷害攻擊#mobCount位敵人 #attackCount次。 "/>
+</imgdir>
+<imgdir name="32001001">
+<string name="name" value="最終攻擊"/>
+<string name="desc" value="齒輪形狀的光向前飛出攻擊多個敵人。只能和矛系列技能連結使用，和高階矛技能一起使用時會給予更強大的傷害。"/>
+<string name="h" value="消耗MP #x， #y% 傷害最多攻擊6位敵人，無視對象的物理防禦力#ignoreMobpdpR%"/>
+</imgdir>
+<imgdir name="32001002">
+<string name="name" value="瞬間移動"/>
+<string name="desc" value="一定距離瞬間移動。同時按下上、下、左、右方向鍵，就能朝該方向移動。 "/>
+<string name="h" value="消耗MP #mpCon，移動距離 #range的瞬間移動 "/>
+</imgdir>
+<imgdir name="32001003">
+<string name="name" value="黑色繩索"/>
+<string name="desc" value="自己的體內釋放出擁有神秘力量的黑色繩索，提升組隊成員的傷害。再次按下技能鍵可解除繩索，不可和其他種類的繩索重覆使用。"/>
+<string name="h" value="消耗MP #mpCon，強化傷害 #x% "/>
+</imgdir>
+<imgdir name="32100006">
+<string name="name" value="長杖精通"/>
+<string name="desc" value="長杖系列武器的熟練度、魔力和會心一擊機率上升"/>
+<string name="h" value="長杖系列武器熟練度#mastery%，魔力增加#x ，會心一擊機率增加#cr% "/>
+</imgdir>
+<imgdir name="32101000">
+<string name="name" value="四重攻擊"/>
+<string name="desc" value="快速的連續4次攻擊多個敵人。\n必要技能 : #c三重之矛 20等級以上#"/>
+<string name="h" value="消耗MP #mpCon，以#damage% 傷害最多攻擊#mobCount位敵人#attackCount次 "/>
+</imgdir>
+<imgdir name="32101001">
+<string name="name" value="黑色鎖鏈"/>
+<string name="desc" value="魔法陣延伸出黑色的鎖鏈，將前方的多數敵人帶到自己面前。 拖過來的敵人受傷，在一定時間內呈現昏迷狀態。"/>
+<string name="h" value="消耗MP #mpCon，最多給予#mobCount位敵人#damage% 傷害， #time秒內昏迷"/>
+</imgdir>
+<imgdir name="32101002">
+<string name="name" value="藍色繩索"/>
+<string name="desc" value="自己的體內射出明亮藍光的繩索，吸收繩索領域內的組隊成員受到的傷害。再次按下技能鍵使用可解除繩索，不可和其他種類的繩索重覆使用。"/>
+<string name="h" value="消耗MP #mpCon，分配組隊成員受到傷害的 #x% ，分配的傷害中吸收#y% "/>
+</imgdir>
+<imgdir name="32101003">
+<string name="name" value="黃色繩索"/>
+<string name="desc" value="自己的體內射出明亮的黃光繩索，提升周圍的組隊成員的移動速度、攻擊速度。再次按下技能鍵使用可解除繩索，不可和其他種類的繩索重覆使用。"/>
+<string name="h" value="消耗MP #mpCon，移動速度 #x、攻擊速度 1階段 上升"/>
+</imgdir>
+<imgdir name="32101004">
+<string name="name" value="紅色吸血術"/>
+<string name="desc" value="一定時間內加持使用於恢復被敵人攻擊時傷害的部分HP。一次攻擊無法恢復角色最大 HP的 10%以上。"/>
+<string name="h" value="消耗MP #mpCon， #time秒內恢復敵人給予傷害的 #x%HP "/>
+</imgdir>
+<imgdir name="32101005">
+<string name="name" value="長杖極速"/>
+<string name="desc" value="消耗MP， 一定時間內讓長杖的攻擊速度上升2階段。\n必要技能 : #c長杖精通5等級以上#"/>
+<string name="h" value="消耗MP #mpCon，#time秒內提升攻擊速度 "/>
+</imgdir>
+<imgdir name="32110000">
+<string name="name" value="進階藍色繩索"/>
+<string name="desc" value="永久增加自己的狀態異常耐性和所有屬性耐性，藍色繩索的能力升級。追加使用藍色繩索時提升周圍組隊成員的防禦力。\n必要技能 : #c藍色繩索 20等級以上#"/>
+<string name="h" value="活性效果 : 消耗MP #mpCon，吸收分配傷害的 #y%、我軍的防禦力增加#z%。 \n被動效果 : 狀態異常耐性增加#asrR% ，所有屬性耐性增加#terR% 。"/>
+</imgdir>
+<imgdir name="32110001">
+<string name="name" value="戰鬥精通"/>
+<string name="desc" value="熟悉更先進的戰鬥技術，傷害和會心一擊最小傷害永久性的增加"/>
+<string name="h" value="傷害 #damR%，會心一擊最小傷害增加#criticaldamageMin% "/>
+</imgdir>
+<imgdir name="32111002">
+<string name="name" value="絕命攻擊"/>
+<string name="desc" value="連續攻擊多位敵人5次。\n必要技能 : #c四攻擊 20等級以上"/>
+<string name="h" value="消耗MP #mpCon，以#damage% 傷害最多攻擊#mobCount位敵人#attackCount次 "/>
+</imgdir>
+<imgdir name="32111003">
+<string name="name" value="黑暗閃電"/>
+<string name="desc" value="召喚兩朵暗黑雲，在兩朵雲之間產生磁場攻擊多位敵人。黑暗閃電使用追加會心一擊機率，技能等級上升，再次使用等待時間 減少。"/>
+<string name="h" value="消耗MP #mpCon ，以#damage% 傷害最多攻擊#mobCount位敵人，追加會心一擊機率 #cr%，再次使用等待時間#cooltime秒"/>
+</imgdir>
+<imgdir name="32111004">
+<string name="name" value="轉換"/>
+<string name="desc" value="消耗MP，在一定時間內快速的增加自己的 MaxHP。"/>
+<string name="h" value="消耗MP #mpCon，在 #time秒間增加MaxHP #x% 。"/>
+</imgdir>
+<imgdir name="32111005">
+<string name="name" value="超級體"/>
+<string name="desc" value="消耗MP，在 一定時間內快速的強化目前採用的繩索的效果。 在超級體狀態解除前不可轉換為其他繩索。\n必要技能 : 黑色繩索 10等級以上、藍色繩索 10等級以上、黃色繩索 10等級以上"/>
+<string name="h" value="消耗MP #mpCon，再次使用等待時間#cooltime秒\n- 黑色繩索 : 60秒內攻擊力增加#v% \n- 黃色繩索 : 60秒內增加移動速度 #w、攻擊速度 #x、 #y% 機率機率敵人的攻擊迴避\n- 藍色繩索 : #z秒內使用無敵效果 "/>
+</imgdir>
+<imgdir name="32111006">
+<string name="name" value="甦醒"/>
+<string name="desc" value="一定時間內除掉怪物時，以極低的機率召喚里波。 召喚的里波會在限制時間內攻擊敵人。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內除掉怪物時，以 #prop%的機率召喚\n-里波的傷害 : #damage%\n-里波的持續時間 : #x秒"/>
+</imgdir>
+<imgdir name="32111010">
+<string name="name" value="瞬間移動精通"/>
+<string name="desc" value="啟動技能時追加消耗MP，另外也可對瞬間移動地點的敵人造成傷害並使用昏迷效果。瞬間移動移動距離會永久性的增加。\n使用技能效果啟動，再次使用時關閉的\ #c開關技能#\n必要技能 : #c瞬間移動15等級以上#"/>
+<string name="h" value="追加 MP 消耗 #y，最多對#mobCount位敵人造成 #damage% 傷害，以#subProp% 機率在 #time秒內昏迷，永久增加瞬間移動移動距離 #x "/>
+</imgdir>
+<imgdir name="32111011">
+<string name="name" value="進階黑色鎖鍊"/>
+<string name="desc" value="用強化過的黑色鎖鍊將前方的多數敵人帶到自己面前。帶來的敵人會受傷，並一定時間內呈現昏迷狀態。\n必要技能 : #黑色鎖鍊 20等級以上#"/>
+<string name="h" value="消耗MP #mpCon，最多給予#mobCount位敵人#damage% 傷害，#time秒內昏迷。"/>
+</imgdir>
+<imgdir name="32120000">
+<string name="name" value="進階黑色繩索"/>
+<string name="desc" value="永久增加魔力，讓黑色繩索的功能升級。 追加使用黑色繩索時，會對周圍的敵人造成持續性的 傷害。但是敵人的HP在1以下時，無法進行基本攻擊力。\n必要技能 : #c黑色繩索 20等級以上#"/>
+<string name="h" value="活性效果 : 消耗MP #mpCon，黑色繩索狀態時傷害增加#x%，給予周圍敵人每 1秒 #damage%的持續傷害\n被動效果 : 永久增加魔力 #madX "/>
+</imgdir>
+<imgdir name="32120001">
+<string name="name" value="進階黃色繩索"/>
+<string name="desc" value="永久增加迴避機率，讓黃色繩索的功能升級。 追加使用黃色繩索時，迴避機率增加，減少周圍敵人的移動速度。\n必要技能 : #c黃色繩索 20等級以上#"/>
+<string name="h" value="活性效果 : 消耗MP #mpCon，移動速度 #x、攻擊速度增加1階段，以#z% 機率迴避敵人的 攻擊，敵人的 移動速度 #speed\n被動效果 : 以#er% 機率迴避敵人的攻擊。"/>
+</imgdir>
+<imgdir name="32120009">
+<string name="name" value="勁能"/>
+<string name="desc" value="透過身體活化永久增加自己的最大HP和防禦力。"/>
+<string name="h" value="永久性增加最大 HP #mhpR%、物理防禦力 #pddR%、魔法防禦力 #mddR% "/>
+</imgdir>
+<imgdir name="32121002">
+<string name="name" value="終極攻擊"/>
+<string name="desc" value="快速連續攻擊多個敵人6次。\n必要技能 : #c 絕命攻擊 20等級以上#"/>
+<string name="h" value="消耗MP #mpCon，以#damage% 傷害最多攻擊#mobCount位敵人#attackCount次"/>
+</imgdir>
+<imgdir name="32121003">
+<string name="name" value="颶風"/>
+<string name="desc" value="一定時間內以驚人的速度迴轉，引發旋風給予近距離的敵人傷害。在旋風狀態下使用無敵效果，隨著技能等級上升再次使用等待時間減少。"/>
+<string name="h" value="消耗MP #mpCon，#damage% 傷害，#time秒內持續，再次使用等待時間#cooltime秒"/>
+</imgdir>
+<imgdir name="32121004">
+<string name="name" value="黑暗世紀"/>
+<string name="desc" value="以黑暗之光最多可同時攻擊15位敵人，並在一定時間內昏迷。 另外學習黑暗閃電技能，可永久增加黑暗閃電的傷害。"/>
+<string name="h" value="活性效果 : 消耗MP #mpCon，最多給予#mobCount位敵人#damage% 傷害，以#prop% 機率在 #time秒內昏迷，再次使用等待時間#cooltime秒\n被動效果 : 黑暗閃電的傷害 #damR% 增加"/>
+</imgdir>
+<imgdir name="32121005">
+<string name="name" value="格檔"/>
+<string name="desc" value="一定時間內即使敵人攻擊也不會退縮。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內以#prop% 機率不會震退。"/>
+</imgdir>
+<imgdir name="32121006">
+<string name="name" value="魔法屏障"/>
+<string name="desc" value="以自己為中心產生魔法的防護膜，保護組隊成員。 防護膜內不會受到敵人的攻擊傷害。\n#c再次使用等待時間: 7分鐘#"/>
+<string name="h" value="MP #mpCon 消耗，持續時間#time秒"/>
+</imgdir>
+<imgdir name="32121007">
+<string name="name" value="楓葉祝福"/>
+<string name="desc" value="在一定時間內將組隊成員的所有狀態屬性提升一定百分比。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內的所有狀態屬性 #x% 提升"/>
+</imgdir>
+<imgdir name="32121008">
+<string name="name" value="楓葉淨化"/>
+<string name="desc" value="解除迷惑異常狀態。等級越高再次使用等待時間越短。"/>
+<string name="h" value="消耗MP #mpCon，再次使用等待時間#cooltime秒"/>
+</imgdir>
+<imgdir name="33001000">
+<string name="name" value="三重射"/>
+<string name="desc" value="以飛快的速度發射三支弓箭"/>
+<string name="h" value="消耗MP #mpCon，發射三次#damage% 傷害的弓箭 "/>
+</imgdir>
+<imgdir name="33001001">
+<string name="name" value="美洲豹騎乘"/>
+<string name="desc" value="召喚馴養良好的美洲豹後騎乘。騎乘時增加最大 HP、會心一擊機率、迴避、移動速度。"/>
+<string name="h" value="消耗MP #mpCon，騎乘時增加最大 HP #z%、會心一擊機率 #w%、迴避 #y、移動速度 #x "/>
+</imgdir>
+<imgdir name="33001002">
+<string name="name" value="雙重跳躍"/>
+<string name="desc" value="美洲豹跳躍中再跳躍一次可移動遠距離。"/>
+<string name="h" value="消耗MP #mpCon，一定距離跳躍"/>
+</imgdir>
+<imgdir name="33001003">
+<string name="name" value="快速之弩"/>
+<string name="desc" value="消耗MP，一定時間內弩的攻擊速度上升 2階段。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內弩的攻擊速度提升"/>
+</imgdir>
+<imgdir name="33100000">
+<string name="name" value="精準之弩"/>
+<string name="desc" value="提升弩系列武器的熟練度和命中率。 "/>
+<string name="h" value="弩系列武器的熟練度#mastery%、命中率#x 上升"/>
+</imgdir>
+<imgdir name="33100009">
+<string name="name" value="終極攻擊"/>
+<string name="desc" value="以一定機率使用攻擊技能後追加傷害。 但是一定要手持弩系列武器才能發動。\n必要技能 : #c精準之弩3等級以上#"/>
+<string name="h" value="以#prop% 機率發動 #damage% 傷害的終極攻擊"/>
+</imgdir>
+<imgdir name="33101001">
+<string name="name" value="炸彈之箭"/>
+<string name="desc" value="發射安裝炸彈的穿刺弓箭，攻擊多位敵人。攻擊時對象會一定機率昏迷。"/>
+<string name="h" value="消耗MP #mpCon，以 #damage% 傷害最多穿刺 6名，以 #prop% 機率在 #time秒內昏迷。"/>
+</imgdir>
+<imgdir name="33101002">
+<string name="name" value="美洲豹咆哮"/>
+<string name="desc" value="美洲豹的咆嘯傷害前方的多數敵人，並給予強弓。 強弓的敵人以100% 機率昏迷。"/>
+<string name="h" value="消耗MP #mpCon，最多給予#mobCount位敵人#damage% 傷害，強弓 #time秒內暈眩"/>
+</imgdir>
+<imgdir name="33101003">
+<string name="name" value="無形之箭"/>
+<string name="desc" value="一定時間內無需消耗弓箭就能射弩。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內無需弓箭消耗即可進行攻擊"/>
+</imgdir>
+<imgdir name="33101004">
+<string name="name" value="地雷"/>
+<string name="desc" value="移動時會以一定的間隔掉落地雷。地雷過了一段時間後就會爆炸對周圍敵人造成傷害。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內召喚#y% 傷害的地雷 "/>
+</imgdir>
+<imgdir name="33101005">
+<string name="name" value="吞食"/>
+<string name="desc" value="美洲豹會吞食一位前方的敵人。將吞食的敵人再次吐出來攻擊前方的多數敵人，或是消化後取得專用加持效果。 [再次使用等待時間: 30秒]"/>
+<string name="h" value="消耗MP #mpCon，吐出吞食的敵人時，會以 #x%傷害最多攻擊#y位敵人，消化時加持持續時間 #z秒"/>
+</imgdir>
+<imgdir name="33101006">
+<string name="name" value="吞食"/>
+<string name="desc" value="美洲豹會吞食一位前方的敵人。將吞食的敵人再次吐出來攻擊前方的多數敵人，或是消化後取得專用加持效果。 [再次使用等待時間: 30秒]"/>
+<string name="h" value="吞食消化替身技能"/>
+</imgdir>
+<imgdir name="33101007">
+<string name="name" value="吞食"/>
+<string name="desc" value="美洲豹會吞食一位前方的敵人。將吞食的敵人再次吐出來攻擊前方的多數敵人，或是消化後取得專用加持效果。 [再次使用等待時間: 30秒]"/>
+<string name="h" value="吞食攻擊替身技能"/>
+</imgdir>
+<imgdir name="33101008">
+<string name="name" value="地雷(hidden 自動爆炸)"/>
+<string name="desc" value="移動時會以一定的間隔掉落地雷。地雷過了一段時間後就會爆炸對周圍敵人造成傷害。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內召喚#y% 傷害的地雷 "/>
+</imgdir>
+<imgdir name="33110000">
+<string name="name" value="騎乘精通"/>
+<string name="desc" value="進一步提升美洲豹騎乘的能力。"/>
+<string name="h" value="騎乘美洲豹時移動速度 #x，美洲豹騎乘技能增加傷害 #damage%，被擊時以 #y%機率不會震退。"/>
+</imgdir>
+<imgdir name="33111001">
+<string name="name" value="瘋狂射擊"/>
+<string name="desc" value="以飛快的速度發射五發弓箭"/>
+<string name="h" value="消耗MP #mpCon，發射五次#damage% 傷害的弓箭 "/>
+</imgdir>
+<imgdir name="33111002">
+<string name="name" value="歧路"/>
+<string name="desc" value="美洲豹朝前方突進攻擊多位敵人。對象以一定機率昏迷。"/>
+<string name="h" value="消耗MP #mpCon，最多給予#mobCount位敵人#damage% 傷害，以#prop% 機率在 #time秒內昏迷"/>
+</imgdir>
+<imgdir name="33111003">
+<string name="name" value="瘋狂陷阱"/>
+<string name="desc" value="一定時間內召喚黑色的陷阱。陷阱可攻擊周圍敵人，怪物會優先攻擊陷阱。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內 HP #x，召喚#damage% 傷害的陷阱"/>
+</imgdir>
+<imgdir name="33111004">
+<string name="name" value="黑暗狙擊"/>
+<string name="desc" value="定時間內瞄準對象的眼睛射擊。 攻擊時以一定機率讓對象的視線受阻，讓命中率變低。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內啟動加持，以 #prop% 機率在 #y秒內，對象的命中率減少 #x%"/>
+</imgdir>
+<imgdir name="33111005">
+<string name="name" value="銀鷹召喚"/>
+<string name="desc" value="一定時間內召喚銀光之鞭。鞭會自動攻擊周圍的敵人，並一定機率昏迷。"/>
+<string name="h" value="消耗MP #mpCon，召喚銀鷹持續#time秒以#damage% 傷害攻擊敵人，有#prop% 機率昏迷"/>
+</imgdir>
+<imgdir name="33111006">
+<string name="name" value="爪攻擊"/>
+<string name="desc" value="用美洲豹的前腿連續攻擊前方的多數敵人，吸收部分的傷害的恢復HP。一次無法吸收角色的 最大HP的15%以上，怪物的最大HP以上。"/>
+<string name="h" value="消耗MP #mpCon，以#damage% 傷害最多朝著 #mobCount位敵人進行#attackCount次攻擊，吸收傷害的 #x%轉為HP"/>
+</imgdir>
+<imgdir name="33120000">
+<string name="name" value="弩術精通"/>
+<string name="desc" value="增加弩系列武器熟練度和物理攻擊力，會心一擊 最小傷害。\n必要技能 : #c精準之弩20等級以上#"/>
+<string name="h" value="弩系列武器的熟練度上升至#mastery%， 物理攻擊力 #x、會心一擊最小傷害增加#criticaldamageMin% "/>
+</imgdir>
+<imgdir name="33120010">
+<string name="name" value="狂暴天性"/>
+<string name="desc" value="攻擊時無視對象一定水準的物理 防禦力，可一定機率迴避敵人的攻擊。"/>
+<string name="h" value="攻擊時無視對象的物理防禦力 #ignoreMobpdpR% ，以#er% 機率迴避敵人的攻擊"/>
+</imgdir>
+<imgdir name="33121001">
+<string name="name" value="閃光箭雨"/>
+<string name="desc" value="召喚大齒輪形狀的火神箭攻擊多個敵人。"/>
+<string name="h" value="消耗MP #mpCon，最多用#damage% 傷害的弓箭朝著 #mobCount位敵人發射 #attackCount次，以#x%的傷害爆炸，再次使用等待時間#cooltime秒"/>
+</imgdir>
+<imgdir name="33121002">
+<string name="name" value="音爆"/>
+<string name="desc" value="美洲豹尖銳的咆嘯。咆嘯會引起強大的衝擊波，給予多個敵人傷害並昏迷。"/>
+<string name="h" value="消耗MP #mpCon，最多給予 #mobCount位敵人#damage% 傷害，以#prop% 機率在 #time秒內昏迷"/>
+</imgdir>
+<imgdir name="33121004">
+<string name="name" value="銳利之眼"/>
+<string name="desc" value="在一定時間內賦予全體組隊成員找出敵人的弱點造成致命傷的能力。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內會心一擊機率增加#x%、會心一擊最大傷害增加#criticaldamageMax% "/>
+</imgdir>
+<imgdir name="33121005">
+<string name="name" value="化學彈丸"/>
+<string name="desc" value="發射安裝瓦斯彈的穿刺型弓箭。被弓箭射中的怪物，變成受到刺激的狀態，獵殺時提供更多的經驗值。"/>
+<string name="h" value="消耗MP #mpCon，對象的防禦力，取得經驗值 #x% 上升"/>
+</imgdir>
+<imgdir name="33121006">
+<string name="name" value="狂獸附體"/>
+<string name="desc" value="一定時間內美洲豹的身體長出紅色的翅膀， 最大 HP、攻擊力、移動速度大幅提升。 [再次使用等待時間: 4分鐘]"/>
+<string name="h" value="消耗MP #mpCon，#time秒內最大 HP #x%、攻擊力 #y%、移動速度 #z 增加"/>
+</imgdir>
+<imgdir name="33121007">
+<string name="name" value="楓葉祝福"/>
+<string name="desc" value="在一定時間內將組隊成員的所有狀態屬性提升一定百分比。"/>
+<string name="h" value="消耗MP #mpCon，#time秒內的所有狀態屬性 #x% 提升"/>
+</imgdir>
+<imgdir name="30008000">
+<string name="name" value="還不錯的速度激發"/>
+<string name="desc" value="[道具潛在技能]\n一定時間內增加自己的移動速度和跳躍力。"/>
+<string name="h1" value="消耗MP 50在200秒內提升移動速度 20、跳躍力10 "/>
+</imgdir>
+<imgdir name="30008001">
+<string name="name" value="還不錯的時空門"/>
+<string name="desc" value="[道具潛在技能]\n可製造通往最近的村莊傳送點。在自己的門消失之前可多次進出，在傳送點上按下↑鍵#即可移動。"/>
+<string name="h1" value="MP 120，消耗魔法石 2個，120秒內傳送點持續"/>
+</imgdir>
+<imgdir name="30008002">
+<string name="name" value="還不錯的會心之眼"/>
+<string name="desc" value="[道具潛在技能]\n找尋敵人的弱點，賦予可以給予致命傷的能力。"/>
+<string name="h1" value="消耗MP80，持續時間240秒、10%的會心一擊的機率，最大傷害增加15%。"/>
+</imgdir>
+<imgdir name="30008003">
+<string name="name" value="還不錯的神聖之火"/>
+<string name="desc" value="[道具潛在技能]\n增加自己的最大 HP、最大 MP的量"/>
+<string name="h1" value="消耗MP80，240秒內最大HP、最大 MP增加40% "/>
+</imgdir>
+<imgdir name="30001000">
+<string name="name" value="水晶投擲"/>
+<string name="desc" value="[等級上限 : 3]\n丟擲礦山採集的水晶攻擊遠距離的敵人。 "/>
+<string name="h1" value="消耗MP 3 傷害 10"/>
+<string name="h2" value="消耗MP 5 傷害 25"/>
+<string name="h3" value="消耗MP7 傷害 40"/>
+</imgdir>
+<imgdir name="30001001">
+<string name="name" value="潛入"/>
+<string name="desc" value="[等級上限 : 3]\n在短暫的時間內為了避免危機隱藏身體且移動。\n#c再次使用等待時間: 1分鐘#"/>
+<string name="h1" value="消耗MP 5，在10秒內隱藏身體移動速度提升5 "/>
+<string name="h2" value="消耗MP10，在 20秒內隱藏身體移動速度提升10 "/>
+<string name="h3" value="消耗MP 15，在30秒內隱藏身體移動速度提升15"/>
+</imgdir>
+<imgdir name="30001003">
+<string name="name" value="神匠之魂"/>
+<string name="desc" value="[等級上限 : 1]\n借助神匠之魂，對無法裝備的道具也能使用卷軸。"/>
+</imgdir>
+<imgdir name="30001004">
+<string name="name" value="怪物騎乘"/>
+<string name="desc" value="[等級上限 : 1]\n可以騎乘被馴服的怪物移動。"/>
+</imgdir>
+<imgdir name="30001005">
+<string name="name" value="英雄共鳴"/>
+<string name="desc" value="[等級上限 : 1]\n增加周圍所有玩家的物理攻擊力和魔法攻擊力。\n#c再次使用等待時間: 2小時#"/>
+<string name="h1" value="消耗MP 30，40分鐘內物理攻擊力、魔法攻擊力提升4% "/>
+</imgdir>
+<imgdir name="30001006">
+<string name="name" value="測試"/>
+<string name="desc" value="測試"/>
+<string name="h1" value="測試"/>
+</imgdir>
+<imgdir name="30001007">
+<string name="name" value="強化合成"/>
+<string name="desc" value="[等級上限 : 3]\n利用煉金術可以製作物品。根據自身等級不同，能夠製作的物品也不同。"/>
+<string name="h1" value="可製作75 等級以下的道具 。"/>
+<string name="h2" value="可製作105 等級以下的道具。"/>
+<string name="h3" value="可製作135 等級以下的道具。"/>
+</imgdir>
+<imgdir name="30001009">
+<string name="name" value="竹竿天擊"/>
+<string name="desc" value="利用竹子發動攻擊。"/>
+<string name="h1" value="Boss怪物的體力減少30% "/>
+</imgdir>
+<imgdir name="30001010">
+<string name="name" value="金剛不壞"/>
+<string name="desc" value="一定時間內進入無敵狀態。"/>
+<string name="h1" value="30秒內無敵"/>
+</imgdir>
+<imgdir name="30001011">
+<string name="name" value="地火天爆"/>
+<string name="desc" value="一定時間內增加傷害"/>
+<string name="h1" value="30秒內傷害增加100% "/>
+</imgdir>
+<imgdir name="30001013">
+<string name="name" value="宇宙船"/>
+<string name="desc" value="[等級上限 : 2]\n乘坐宇宙船。乘坐過程中雙擊左右方向鍵中的一個，瞬間提升移動速度和彈跳力。#c有效期間 : 2009年 6月 8日 00時#"/>
+<string name="h1" value="消耗MP 10，物理、魔法防禦力增加10、移動速度 150、跳躍力120"/>
+<string name="h2" value="消耗MP 10，物理、魔法防禦力增加20、移動速度 170、跳躍力120"/>
+</imgdir>
+<imgdir name="30001014">
+<string name="name" value="宇宙衝鋒"/>
+<string name="desc" value="[等級上限 : 1]\n雙擊左右方向鍵中的一個，瞬間提升移動速度和彈跳力。#c有效期間 : 2009年 6月 8日 00時#"/>
+</imgdir>
+<imgdir name="30001015">
+<string name="name" value="宇宙光束"/>
+<string name="desc" value="[等級上限 : 1]\n可改變宇宙礦山裡的樹叢形態。 #c有效期間 : 2009年 6月 8日 00時#"/>
+</imgdir>
+<imgdir name="30001017">
+<string name="name" value="騎乘雪吉拉"/>
+<string name="desc" value="[等級上限 : 1]\n可騎雪吉拉移動。\n#c有效期間 : 2009年 9月 7日 00時#"/>
+<string name="h1" value="消耗MP 10，物理、魔法防禦力增加10、移動速度 120、跳躍力120"/>
+</imgdir>
+<imgdir name="30001018">
+<string name="name" value="騎乘雪吉拉"/>
+<string name="desc" value="[等級上限 : 1]\n可騎雪吉拉移動。"/>
+<string name="h1" value="消耗MP 10，物理、魔法防禦力增加10、移動速度 120、跳躍力120"/>
+</imgdir>
+<imgdir name="30001019">
+<string name="name" value="魔女掃把"/>
+<string name="desc" value="[等級上限 : 1]\n可騎掃把移動。"/>
+<string name="h1" value="消耗MP 10，物理、魔法防禦力增加10、移動速度 120、跳躍力120"/>
+</imgdir>
+<imgdir name="30001020">
+<string name="name" value="法老的憤怒攻擊"/>
+<string name="desc" value="[等級上限 : 1]\n用法老的憤怒攻擊。"/>
+<string name="h1" value="用一擊消除金字塔內的所有怪物"/>
+</imgdir>
+<imgdir name="30001025">
+<string name="name" value="突擊！ 木馬"/>
+<string name="desc" value="[等級上限 : 1]\n可騎乘木馬移動"/>
+<string name="h1" value="消耗MP 10，物理、魔法防禦力增加10、移動速度 120、跳躍力120"/>
+</imgdir>
+<imgdir name="30001026">
+<string name="name" value="飛翔"/>
+<string name="desc" value="[等級上限 : 1]\n使用龍族的神秘的力量可以飛上天空。但是墜落時受到的降落傷害相當大。\n發動時消耗MP 90，維持飛翔狀態時每秒消耗1 MP。"/>
+<string name="h1" value="消耗MP 90，使用飛翔技能。每1秒消耗1 MP "/>
+</imgdir>
+<imgdir name="30001027">
+<string name="name" value="黑鱷魚"/>
+<string name="desc" value="[等級上限 : 1]\n可騎乘黑鱷魚移動。"/>
+<string name="h1" value="消耗MP10，物理、魔法防禦力10增加、移動速度140、跳躍力120。"/>
+</imgdir>
+<imgdir name="30001028">
+<string name="name" value="街車 "/>
+<string name="desc" value="[等級上限 : 1]\n可騎乘街車移動。"/>
+<string name="h1" value="消耗MP10，物理、魔法防禦力10增加、移動速度140、跳躍力120。"/>
+</imgdir>
+<imgdir name="30001029">
+<string name="name" value="粉紅速克達"/>
+<string name="desc" value="[等級上限 : 1]\n可騎乘粉紅色摩托車移動。"/>
+<string name="h1" value="消耗MP10，物理、魔法防禦力10增加、移動速度140、跳躍力120。"/>
+</imgdir>
+<imgdir name="30001030">
+<string name="name" value="筋斗雲"/>
+<string name="desc" value="[等級上限 : 1]\n可搭乘筋斗雲移動。"/>
+<string name="h1" value="消耗MP10，物理、魔法防禦力10增加、移動速度140、跳躍力120。"/>
+</imgdir>
+<imgdir name="30001031">
+<string name="name" value="巴洛古"/>
+<string name="desc" value="[等級上限 : 1]\n可騎乘巴洛古移動。"/>
+<string name="h1" value="消耗MP10，物理、魔法防禦力10增加、移動速度140、跳躍力120。"/>
+</imgdir>
+<imgdir name="30001033">
+<string name="name" value="競賽用車"/>
+<string name="desc" value="[等級上限 : 1]\n可搭乘競賽用車移動。"/>
+<string name="h1" value="消耗MP10，物理、魔法防禦力10增加、移動速度140、跳躍力120。"/>
+</imgdir>
+<imgdir name="30001034">
+<string name="name" value="ZD虎"/>
+<string name="desc" value="[等級上限 : 1]\n可騎乘ZD虎移動。"/>
+<string name="h1" value="消耗MP10，物理、魔法防禦力10增加、移動速度140、跳躍力120。"/>
+</imgdir>
+<imgdir name="30001035">
+<string name="name" value="地獄巴洛古"/>
+<string name="desc" value="[等級上限 : 1]\n可騎乘地獄巴洛古移動。"/>
+<string name="h1" value="消耗MP10，物理、魔法防禦力10增加、移動速度140、跳躍力120。"/>
+</imgdir>
+<imgdir name="30001042">
+<string name="name" value="神鳥"/>
+<string name="desc" value="[等級上限 : 1]\n可騎乘神鳥移動。"/>
+<string name="h1" value="消耗MP10，物理、魔法防禦力10增加、移動速度140、跳躍力120。"/>
+</imgdir>
+<imgdir name="30001044">
+<string name="name" value="菇菇寶貝"/>
+<string name="desc" value="[等級上限 : 1]\n可騎乘菇菇寶貝移動。"/>
+<string name="h1" value="消耗MP10，物理、魔法防禦力10增加、移動速度140、跳躍力120。"/>
+</imgdir>
+<imgdir name="30001049">
+<string name="name" value="夢魘"/>
+<string name="desc" value="[等級上限 : 1]\n出現在地獄中的夢魘；可騎乘夢魘移動。"/>
+<string name="h1" value="消耗MP 10，物理、魔法防禦力增加10、移動速度 170、跳躍力120"/>
+</imgdir>
+<imgdir name="30001050">
+<string name="name" value="雪吉拉"/>
+<string name="desc" value="[等級上限 : 1]\n可騎雪吉拉移動。"/>
+<string name="h1" value="消耗MP 10，物理、魔法防禦力增加10、移動速度 170、跳躍力120"/>
+</imgdir>
+<imgdir name="30001051">
+<string name="name" value="鴕鳥"/>
+<string name="desc" value="[等級上限 : 1]\n跑得最快的鳥，可騎鴕鳥移動。"/>
+<string name="h1" value="消耗MP 10，物理、魔法防禦力增加10、移動速度 170、跳躍力120"/>
+</imgdir>
+<imgdir name="30001052">
+<string name="name" value="粉紅熊熱氣球"/>
+<string name="desc" value="[等級上限 : 1]\n可搭乘粉紅熊熱氣球移動。"/>
+<string name="h1" value="消耗MP 10，物理、魔法防禦力增加10、移動速度 170、跳躍力120"/>
+</imgdir>
+<imgdir name="30001053">
+<string name="name" value="鬥神機器人"/>
+<string name="desc" value="[等級上限 : 1]\n可騎鬥神機器人移動。"/>
+<string name="h1" value="消耗MP 10，物理、魔法防禦力增加10、移動速度 170、跳躍力120"/>
+</imgdir>
+<imgdir name="30001061">
+<string name="name" value="捕獲"/>
+<string name="desc" value="[等級上限 : 1]\n怪物的體力降至50%以下後，可捕捉怪物。\n美洲豹棲息地補獲的怪物可用來騎乘。\n#c再次使用等待時間: 10秒#"/>
+<string name="h1" value="消耗MP 10，補獲怪物。最多可捕獲五種 "/>
+</imgdir>
+<imgdir name="30001062">
+<string name="name" value="獵人的呼喚"/>
+<string name="desc" value="[等級上限 : 1]\n消耗MP招喚幫助自己的召喚獸。 在自己捕獲的怪物中隨機召喚。\n( 美洲豹除外)\n必要技能 : 捕獲 1等級以上\n#c再次使用等待時間: 10秒#"/>
+<string name="h1" value="MP 10 消耗，20秒內召喚捕獲的怪物。"/>
+</imgdir>
+<imgdir name="30001063">
+<string name="name" value="摩托車騎士"/>
+<string name="desc" value="[等級上限 : 1]\n可騎摩托車移動。"/>
+<string name="h1" value="消耗MP10，物理、魔法防禦力10增加、移動速度140、跳躍力120。"/>
+</imgdir>
+<imgdir name="30001064">
+<string name="name" value="力量套裝"/>
+<string name="desc" value="[等級上限 : 1]\n穿上力量套裝可移動。"/>
+<string name="h1" value="消耗MP 10，物理、魔法防禦力增加10、移動速度 140、跳躍力120"/>
+</imgdir>
+<imgdir name="30000002">
+<string name="name" value="效能"/>
+<string name="desc" value="[等級上限 : 3]\n為了解決不足的物資，學習有效使用藥水的方法。"/>
+<string name="h1" value="恢復量 110%"/>
+<string name="h2" value="恢復量 120%"/>
+<string name="h3" value="恢復量 130%"/>
+</imgdir>
+<imgdir name="30000012">
+<string name="name" value="精靈的祝福"/>
+<string name="desc" value="聯繫之角色等級每提高10級增加1點技能點數。"/>
+<string name="h" value="物理攻擊力 #x、魔法攻擊力 #y、命中率、迴避率 #z 上升。"/>
+</imgdir>
+<imgdir name="30001024">
+<string name="name" value="寵物達人"/>
+<string name="desc" value="[最高等級：1]可攜帶多隻寵物，最多攜帶3隻"/>
+</imgdir>
+<imgdir name="00001049">
+<string name="name" value="夢魘"/>
+<string name="desc" value="[等級上限 : 1]\n出現在地獄中的夢魘；可騎乘夢魘移動。"/>
+<string name="h1" value="消耗MP 10，物理、魔法防禦力增加10、移動速度 170、跳躍力120"/>
+</imgdir>
+<imgdir name="00001053">
+<string name="name" value="鬥神機器人"/>
+<string name="desc" value="[等級上限 : 1]\n可騎鬥神機器人移動。"/>
+<string name="h1" value="消耗MP 10，物理、魔法防禦力增加10、移動速度 170、跳躍力120"/>
+</imgdir>
+<imgdir name="00001050">
+<string name="name" value="雪吉拉"/>
+<string name="desc" value="[等級上限 : 1]\n可騎雪吉拉移動。"/>
+<string name="h1" value="消耗MP 10，物理、魔法防禦力增加10、移動速度 170、跳躍力120"/>
+</imgdir>
+<imgdir name="00001052">
+<string name="name" value="粉紅熊熱氣球"/>
+<string name="desc" value="[等級上限 : 1]\n可搭乘粉紅熊熱氣球移動。"/>
+<string name="h1" value="消耗MP 10，物理、魔法防禦力增加10、移動速度 170、跳躍力120"/>
+</imgdir>
+<imgdir name="00001051">
+<string name="name" value="鴕鳥"/>
+<string name="desc" value="[等級上限 : 1]\n跑得最快的鳥，可騎鴕鳥移動。"/>
+<string name="h1" value="消耗MP 10，物理、魔法防禦力增加10、移動速度 170、跳躍力120"/>
+</imgdir>
+<imgdir name="10001037">
+<string name="name" value="一角獸"/>
+<string name="desc" value="[等級上限  : 1]\n可搭乘一角獸移動。"/>
+<string name="h1" value="消耗MP 10，物理、魔法防禦力增加10、移動速度 140、跳躍力120"/>
+</imgdir>
+<imgdir name="20001037">
+<string name="name" value="一角獸"/>
+<string name="desc" value="[等級上限  : 1]\n可搭乘一角獸移動。"/>
+<string name="h1" value="消耗MP 10，物理、魔法防禦力增加10、移動速度 140、跳躍力120"/>
+</imgdir>
+<imgdir name="30001037">
+<string name="name" value="一角獸"/>
+<string name="desc" value="[等級上限  : 1]\n可搭乘一角獸移動。"/>
+<string name="h1" value="消耗MP 10，物理、魔法防禦力增加10、移動速度 140、跳躍力120"/>
+</imgdir>
+<imgdir name="20011037">
+<string name="name" value="一角獸"/>
+<string name="desc" value="[等級上限  : 1]\n可搭乘一角獸移動。"/>
+<string name="h1" value="消耗MP 10，物理、魔法防禦力增加10、移動速度 140、跳躍力120"/>
+</imgdir>
+<imgdir name="0001037">
+<string name="name" value="一角獸"/>
+<string name="desc" value="[等級上限  : 1]\n可搭乘一角獸移動。"/>
+<string name="h1" value="消耗MP 10，物理、魔法防禦力增加10、移動速度 140、跳躍力120"/>
+</imgdir>
+<imgdir name="10001096">
+<string name="name" value="兔子"/>
+<string name="desc" value="[等級上限  : 1]\n可搭乘兔子移動。"/>
+<string name="h1" value="消耗MP 10，物理、魔法防禦力增加10、移動速度 140、跳躍力120"/>
+</imgdir>
+<imgdir name="20001096">
+<string name="name" value="兔子"/>
+<string name="desc" value="[等級上限  : 1]\n可搭乘兔子移動。"/>
+<string name="h1" value="消耗MP 10，物理、魔法防禦力增加10、移動速度 140、跳躍力120"/>
+</imgdir>
+<imgdir name="30001096">
+<string name="name" value="兔子"/>
+<string name="desc" value="[等級上限  : 1]\n可搭乘兔子移動。"/>
+<string name="h1" value="消耗MP 10，物理、魔法防禦力增加10、移動速度 140、跳躍力120"/>
+</imgdir>
+<imgdir name="20011096">
+<string name="name" value="兔子"/>
+<string name="desc" value="[等級上限  : 1]\n可搭乘兔子移動。"/>
+<string name="h1" value="消耗MP 10，物理、魔法防禦力增加10、移動速度 140、跳躍力120"/>
+</imgdir>
+<imgdir name="0001096">
+<string name="name" value="兔子"/>
+<string name="desc" value="[等級上限  : 1]\n可搭乘兔子移動。"/>
+<string name="h1" value="消耗MP 10，物理、魔法防禦力增加10、移動速度 140、跳躍力120"/>
+</imgdir>
+<imgdir name="0001101">
+<string name="name" value="小小兔子"/>
+<string name="desc" value="[技能等級 : 1]\n 坐在一個小小兔子騎寵上去世界各地旅行。"/>
+<string name="h1" value="MP -10，物理、魔法防禦力+10，移動速度+40，跳躍力 +20。"/>
+</imgdir>
+<imgdir name="0001102">
+<string name="name" value="兔力車"/>
+<string name="desc" value="[技能等級 : 1]\n 坐在一個兔力車騎寵上去世界各地旅行。"/>
+<string name="h1" value="MP -10，物理、魔法防禦力+10，移動速度+40，跳躍力 +20。"/>
+</imgdir>
+<imgdir name="10001101">
+<string name="name" value="小小兔子"/>
+<string name="desc" value="[技能等級 : 1]\n 坐在一個小小兔子騎寵上去世界各地旅行。"/>
+<string name="h1" value="MP -10，物理、魔法防禦力+10，移動速度+40，跳躍力 +20。"/>
+</imgdir>
+<imgdir name="10001102">
+<string name="name" value="兔力車"/>
+<string name="desc" value="[技能等級 : 1]\n 坐在一個兔力車騎寵上去世界各地旅行。"/>
+<string name="h1" value="MP -10，物理、魔法防禦力+10，移動速度+40，跳躍力 +20。"/>
+</imgdir>
+<imgdir name="20001101">
+<string name="name" value="小小兔子"/>
+<string name="desc" value="[技能等級 : 1]\n 坐在一個小小兔子騎寵上去世界各地旅行。"/>
+<string name="h1" value="MP -10，物理、魔法防禦力+10，移動速度+40，跳躍力 +20。"/>
+</imgdir>
+<imgdir name="20001102">
+<string name="name" value="兔力車"/>
+<string name="desc" value="[技能等級 : 1]\n 坐在一個兔力車騎寵上去世界各地旅行。"/>
+<string name="h1" value="MP -10，物理、魔法防禦力+10，移動速度+40，跳躍力 +20。"/>
+</imgdir>
+<imgdir name="30001101">
+<string name="name" value="小小兔子"/>
+<string name="desc" value="[技能等級 : 1]\n 坐在一個小小兔子騎寵上去世界各地旅行。"/>
+<string name="h1" value="MP -10，物理、魔法防禦力+10，移動速度+40，跳躍力 +20。"/>
+</imgdir>
+<imgdir name="30001102">
+<string name="name" value="兔力車"/>
+<string name="desc" value="[技能等級 : 1]\n 坐在一個兔力車騎寵上去世界各地旅行。"/>
+<string name="h1" value="MP -10，物理、魔法防禦力+10，移動速度+40，跳躍力 +20。"/>
+</imgdir>
+</imgdir>

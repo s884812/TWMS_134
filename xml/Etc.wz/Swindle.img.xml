@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="Swindle.img">
+<imgdir name="0">
+<imgdir name="word">
+<string name="0" value="Cash買"/>
+<string name="1" value="Cash買"/>
+<string name="2" value="Cash賣"/>
+<string name="3" value="Cash賣"/>
+<string name="4" value="認証編號"/>
+<string name="5" value="忘記電話"/>
+<string name="6" value="禮物"/>
+<string name="7" value="060"/>
+</imgdir>
+<imgdir name="warn">
+<string name="0" value="[公告]請注意若是要送禮物，要求玩家打到電話號碼1588, 060要求輸入認證編號的詐騙行為！"/>
+<string name="1" value="[公告]請注意說是接受問券調查便提供道具，而要求玩家打到電話號碼1588, 060要求輸入認證編號的詐騙行為！"/>
+<string name="2" value="[公告]請注意說是幫忙儲值點數而詢問個人資料的詐騙行為！"/>
+</imgdir>
+</imgdir>
+<imgdir name="1">
+<imgdir name="word">
+<string name="0" value="隊員"/>
+<string name="1" value="隊伍"/>
+<string name="2" value="尋找隊伍"/>
+<string name="3" value="尋找隊員"/>
+<string name="4" value="尋找隊員"/>
+<string name="5" value="隊員"/>
+</imgdir>
+<imgdir name="warn">
+<string name="0" value="[公告]使用尋找隊伍(快捷鍵O)，可以快速簡便的找到適合您的隊伍！"/>
+<string name="1" value="[公告]您可在系統設定，決定是否要自動加入隊伍。"/>
+</imgdir>
+</imgdir>
+<imgdir name="2">
+<imgdir name="word">
+<string name="0" value="管理者"/>
+<string name="1" value="營運原則"/>
+<string name="2" value="營運政策"/>
+<string name="3" value="制裁"/>
+</imgdir>
+<imgdir name="warn">
+<string name="0" value="[公告]管理者不會向玩家要求資料或道具等。請注意自稱為管理者的詐欺行為。"/>
+<string name="1" value="[公告]自稱為管理者或違反營運政策的行為會予以制裁。"/>
+</imgdir>
+</imgdir>
+<imgdir name="3">
+<imgdir name="word">
+<string name="0" value="身分證字號"/>
+<string name="1" value="身分證字號"/>
+<string name="2" value="身分證字號"/>
+<string name="3" value="電話號碼"/>
+<string name="4" value="密碼"/>
+<string name="5" value="密碼"/>
+<string name="6" value="帳號"/>
+<string name="7" value="現金"/>
+</imgdir>
+<imgdir name="warn">
+<string name="0" value="[公告]身分證字號、電話號碼、帳戶號碼等可被他人盜用，請注意不要洩漏資料。"/>
+<string name="1" value="[公告]電話號碼、帳戶號碼等外洩時可被他人濫用，請注意詢問個人資料的詐欺行為。"/>
+<string name="2" value="[公告]洩漏身分證字號、電話號碼等他人的資料濫用的情況會被制裁。"/>
+</imgdir>
+</imgdir>
+<imgdir name="4">
+<imgdir name="word">
+<string name="0" value="即時通"/>
+<string name="1" value="即時通"/>
+<string name="2" value="遠距"/>
+<string name="3" value="遠距控制"/>
+</imgdir>
+<imgdir name="warn">
+<string name="0" value="[公告]使用他人的即時通進行電腦遠距控制的情況，電腦上會被安裝惡意 (駭客)程式，請特別留意。"/>
+<string name="1" value="[公告]使用即時通遠距控制他人的電腦，安裝惡意程式的情況會被制裁。"/>
+</imgdir>
+</imgdir>
+<imgdir name="5">
+<imgdir name="word">
+<string name="0" value="BUGS"/>
+<string name="1" value="駭客"/>
+<string name="2" value="道具交易"/>
+<string name="3" value="道具愛好者"/>
+</imgdir>
+<imgdir name="warn">
+<string name="0" value="[公告]銷售楓幣、道具、非法程式等，誘導現金交易的詐欺行為，請務必要特別留意。"/>
+<string name="1" value="[公告]現金交易發生的損失，無法透過獎勵或復原處理取回。"/>
+<string name="2" value="[公告]用現金買賣楓幣、道具、 ID、非法程式等的情況會受到制裁。"/>
+</imgdir>
+</imgdir>
+</imgdir>
